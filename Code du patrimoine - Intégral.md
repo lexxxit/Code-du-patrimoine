@@ -1,5 +1,5 @@
 # Code du patrimoine  
-Version Consolidée au 2004-08-07
+Version Consolidée au 2004-08-11
 
 # Partie législative
 
@@ -6031,12 +6031,16 @@ c) Par les rémunérations qu'il perçoit en contrepartie des opérations de fou
 
 ###### Article L524-2
 
-Il est institué une redevance d'archéologie préventive due par les personnes publiques ou privées projetant d'exécuter, sur
-un terrain d'une superficie égale ou supérieure à 3 000 m2, des travaux affectant le sous-sol qui sont soumis à une
-autorisation ou à une déclaration préalable en application du code de l'urbanisme ou donnent lieu à une étude d'impact en
-application du code de l'environnement ou, dans les cas des autres travaux d'affouillement, qui sont soumis à déclaration
-administrative préalable selon les modalités fixées par décret en Conseil d'Etat. En cas de réalisation fractionnée, la
-surface de terrain à retenir est celle du programme général des travaux.
+Il est institué une redevance d'archéologie préventive due par les personnes publiques ou privées projetant d'exécuter des
+travaux affectant le sous-sol et qui :
+
+a) Sont soumis à une autorisation ou à une déclaration préalable en application du code de l'urbanisme ;
+
+b) Ou donnent lieu à une étude d'impact en application du code de l'environnement ;
+
+c) Ou, dans les cas des autres travaux d'affouillement, sont soumis à déclaration administrative préalable selon les
+modalités fixées par décret en Conseil d'Etat. En cas de réalisation fractionnée, la surface de terrain à retenir est celle
+du programme général des travaux.
 
 **Liens relatifs à cet article**
 
@@ -6064,14 +6068,18 @@ surface de terrain à retenir est celle du programme général des travaux.
 	  - Code du patrimoine. - art. R524-11 (VD)
 	  - Code général des impôts, CGI. - art. 1647 (VD)
 
+	**Modifié par**:
+
+	  - Loi n°2004-804 du 9 août 2004 - art. 17 (V) JORF 11 août 2004
+
 
 ###### Article L524-3
 
 Sont exonérés de la redevance d'archéologie préventive les travaux relatifs aux logements à usage locatif construits ou
 améliorés avec le concours financier de l'Etat en application des 3° et 5° de l'article L. 351-2 et des articles L. 472-1 et
 L. 472-1-1 du code de la construction et de l'habitation, au prorata de la surface hors oeuvre nette effectivement destinée à
-cet usage, ainsi que les constructions de logements réalisées par une personne physique pour elle-même et les affouillements
-rendus nécessaires pour la réalisation de travaux agricoles ou forestiers.
+cet usage, les constructions de logements réalisées par une personne physique pour elle-même ainsi que les affouillements
+rendus nécessaires pour la réalisation de travaux agricoles, forestiers ou pour la prévention des risques naturels.
 
 **Liens relatifs à cet article**
 
@@ -6082,6 +6090,10 @@ rendus nécessaires pour la réalisation de travaux agricoles ou forestiers.
 	**Codifié par**:
 
 	  - Ordonnance 2004-178 2004-02-20 JORF 24 février 2004
+
+	**Modifié par**:
+
+	  - Loi n°2004-804 du 9 août 2004 - art. 17 (V) JORF 11 août 2004
 
 	**Cite**:
 
@@ -6098,11 +6110,12 @@ rendus nécessaires pour la réalisation de travaux agricoles ou forestiers.
 
 Le fait générateur de la redevance d'archéologie préventive est :
 
-a) Pour les travaux soumis à autorisation ou à déclaration préalable en application du code de l'urbanisme, la délivrance de
-cette autorisation ou la non-opposition aux travaux ;
+a) Pour les travaux soumis à autorisation ou à déclaration préalable en application du code de l'urbanisme, à l'exception des
+lotissements, la délivrance de cette autorisation ou la non-opposition aux travaux ;
 
-b) Pour les travaux autres que ceux mentionnés au a et donnant lieu à une étude d'impact, l'acte qui décide, éventuellement
-après enquête publique, la réalisation du projet et en détermine l'emprise ;
+b) Pour les travaux et aménagements autres que ceux mentionnés au a et donnant lieu à une étude d'impact, à l'exception des
+zones d'aménagement concerté, l'acte qui décide, éventuellement après enquête publique, la réalisation du projet et en
+détermine l'emprise ;
 
 c) Pour les autres travaux d'affouillement, le dépôt de la déclaration administrative préalable.
 
@@ -6130,39 +6143,23 @@ le dépôt de la demande de réalisation du diagnostic.
 
 	  - Ordonnance 2004-178 2004-02-20 JORF 24 février 2004
 
-
-###### Article L524-5
-
-Pour un lotissement ou une zone d'aménagement concerté, la personne publique ou privée qui réalise ou fait réaliser le projet
-d'aménagement est débitrice, pour l'ensemble du projet d'aménagement, de la redevance d'archéologie préventive. Elle
-bénéficie des exonérations prévues à l'article L. 524-3 pour les logements à usage locatif construits ou améliorés avec le
-concours de l'Etat.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Loi n°2001-44 2001-01-17 art. 9 par. I al. 7
-	  - Loi n°2001-44 du 17 janvier 2001 - art. 9 (Ab)
-
-	**Codifié par**:
-
-	  - Ordonnance 2004-178 2004-02-20 JORF 24 février 2004
-
-	**Abrogé par**:
+	**Modifié par**:
 
 	  - Loi n°2004-804 du 9 août 2004 - art. 17 (V) JORF 11 août 2004
-
-	**Cite**:
-
-	  - Code du patrimoine. - art. L524-3 (M)
 
 
 ###### Article L524-6
 
-La redevance d'archéologie préventive ne peut être perçue qu'une seule fois pour un même terrain d'assiette. Elle n'est pas
-due lorsque celui-ci a déjà fait l'objet d'une opération visant à la détection, à la conservation ou à la sauvegarde par
-l'étude scientifique du patrimoine archéologique, réalisée dans des conditions fixées par décret en Conseil d'Etat.
+La redevance d'archéologie préventive n'est pas due pour les travaux visés au I de l'article L. 524-7 lorsque le terrain
+d'assiette a donné lieu à la perception de la redevance d'archéologie préventive en application des dispositions issues de la
+loi n° 2003-707 du 1er août 2003 modifiant la loi n° 2001-44 du 17 janvier 2001 relative à l'archéologie préventive. 
+
+Elle n'est pas due lorsque l'emprise des constructions a déjà fait l'objet d'une opération visant à la détection, à la
+conservation ou à la sauvegarde par l'étude scientifique du patrimoine archéologique, réalisée dans des conditions fixées par
+décret en Conseil d'Etat. 
+
+En cas de demande volontaire de réalisation de diagnostic, le montant de la redevance d'archéologie préventive acquittée à ce
+titre est déduit de la redevance due pour la réalisation de l'aménagement.
 
 **Liens relatifs à cet article**
 
@@ -6171,36 +6168,59 @@ l'étude scientifique du patrimoine archéologique, réalisée dans des conditio
 	  - Loi n°2001-44 2001-01-17 art. 9 par. I al. 8
 	  - Loi n°2001-44 du 17 janvier 2001 - art. 9 (Ab)
 
+	**Cite**:
+
+	  - Loi n°2003-707 du 1 août 2003 (V)
+	  - Code du patrimoine - art. L524-7 (V)
+
 	**Codifié par**:
 
 	  - Ordonnance 2004-178 2004-02-20 JORF 24 février 2004
 
+	**Modifié par**:
+
+	  - Loi n°2004-804 du 9 août 2004 - art. 17 (V) JORF 11 août 2004
+
 
 ###### Article L524-7
 
-Le montant de la redevance d'archéologie préventive est égal à 0,32 Euros par mètre carré. Ce montant est indexé sur l'indice
-du coût de la construction.
+Le montant de la redevance d'archéologie préventive est calculé selon les modalités suivantes :
+
+I. - Lorsqu'elle est perçue sur les travaux visés au a de l'article L. 524-2, l'assiette de la redevance est constituée par
+la valeur de l'ensemble immobilier comprenant les terrains nécessaires à la construction, à la reconstruction ou à
+l'agrandissement et les bâtiments dont l'édification doit faire l'objet de l'autorisation de construire. Cette valeur est
+déterminée forfaitairement en appliquant à la surface de plancher développée hors oeuvre une valeur au mètre carré variable
+selon la catégorie d'immeubles. Cette valeur est déterminée conformément aux dispositions de l'article 1585 D du code général
+des impôts. Les constructions qui sont destinées à être affectées à un service public ou d'utilité publique sont assimilées,
+pour le calcul de l'assiette de la redevance, aux constructions visées au 4° du I de l'article 1585 D du même code. Il en est
+de même pour les espaces aménagés principalement pour le stationnement des véhicules, qui sont assujettis sur la base de la
+surface hors oeuvre brute lorsqu'il s'agit de constructions et de la surface au sol des travaux dans les autres cas.
+
+La redevance n'est pas due pour les travaux de construction créant moins de 1 000 mètres carrés de surface hors oeuvre nette
+ou, pour les parcs de stationnement visés à l'alinéa précédent, de surface.
+
+Le tarif de la redevance est de 0,3 % de la valeur de l'ensemble immobilier déterminée conformément à l'article 1585 D du
+code général des impôts.
+
+II. - Lorsqu'elle est perçue sur des travaux visés aux b et c de l'article L. 524-2, son montant est égal à 0,32 euro par
+mètre carré. Ce montant est indexé sur l'indice du coût de la construction.
 
 La surface prise en compte est selon le cas :
 
-a) Les surfaces incluses dans les périmètres composant la zone pour les zones d'aménagement concerté ;
+- la surface au sol des installations autorisées pour les aménagements et ouvrages soumis à autorisation administrative qui
+doivent être précédés d'une étude d'impact en application de l'article  L. 122-1 du code de l'environnement ;
 
-b) La surface du terrain d'assiette de l'opération faisant l'objet d'une autorisation ou d'une déclaration en application du
-code de l'urbanisme ;
+- la surface au sol des aménagements et ouvrages non soumis à autorisation administrative qui doivent être précédés d'une
+étude d'impact en application de l'article L. 122-1 du code de l'environnement sur la base du dossier transmis pour
+prescription de diagnostic éventuelle en application des articles L. 522-1 et suivants du présent code ;
 
-c) La surface au sol des installations autorisées pour les aménagements et ouvrages dispensés d'autorisation d'urbanisme et
-soumis à autorisation administrative qui doivent être précédés d'une étude d'impact en application de l'article L. 122-1 du
-code de l'environnement ;
+- la surface de la zone sur laquelle porte la demande de réalisation du diagnostic prévue au dernier alinéa de l'article L.
+524-4 ;
 
-d) La surface au sol des aménagements et ouvrages dispensés d'autorisation d'urbanisme et non soumis à autorisation
-administrative qui doivent être précédés d'une étude d'impact en application de l'article L. 122-1 du code de
-l'environnement, sur la base du dossier transmis pour prescription de diagnostic éventuelle en application des articles L.
-522-1 et suivants du présent code ;
+- la surface au sol des travaux soumis à déclaration administrative préalable visés à l'article L. 524-2 du présent code.
 
-e) La surface de la zone sur laquelle porte la demande de détection du patrimoine archéologique prévue au cinquième alinéa de
-l'article L. 524-4 ;
-
-f) L'emprise au sol de la construction, lorsque l'opération a pour objet la construction d'un bâtiment agricole.
+La redevance n'est pas due pour les travaux et aménagements réalisés sur des terrains d'une superficie inférieure à 3 000
+mètres carrés.
 
 **Liens relatifs à cet article**
 
@@ -6227,11 +6247,9 @@ f) L'emprise au sol de la construction, lorsque l'opération a pour objet la con
 
 	  - Ordonnance 2004-178 2004-02-20 JORF 24 février 2004
 
-	**Cite**:
+	**Modifié par**:
 
-	  - Code de l'environnement - art. L122-1 (M)
-	  - Code du patrimoine. - art. L522-1 (V)
-	  - Code du patrimoine. - art. L524-4 (M)
+	  - Loi n°2004-804 du 9 août 2004 - art. 17 (V) JORF 11 août 2004
 
 
 ###### Article L524-8
