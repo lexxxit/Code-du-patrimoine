@@ -1,5 +1,5 @@
 # Code du patrimoine  
-Version Consolidée au 2004-08-11
+Version Consolidée au 2004-12-10
 
 # Partie législative
 
@@ -301,7 +301,7 @@ nationaux ou en violation du règlement (CEE) n° 3911/92 du 9 décembre 1992, i
 
 Les dispositions de la présente section s'appliquent aux biens culturels qui constituent, en vertu des règles en vigueur dans
 un autre Etat membre, des trésors nationaux au sens de l'article 36 devenu l'article 30 du traité instituant la Communauté
-européenne, que cette qualification leur ait été donnée avant ou après leur sortie du territoire de cet Etat.
+européenne, que cette qualification leur ait été donnée avant ou après leur sortie illicite du territoire de cet Etat.
 
 Ces biens doivent en outre :
 
@@ -323,6 +323,10 @@ b) Ou des inventaires des institutions ecclésiastiques.
 	**Codifié par**:
 
 	  - Ordonnance 2004-178 2004-02-20 JORF 24 février 2004
+
+	**Modifié par**:
+
+	  - Loi n°2004-1343 du 9 décembre 2004 - art. 78 (V) JORF 10 décembre 2004
 
 	**Cité par**:
 
@@ -548,7 +552,7 @@ son détenteur.
 
 En tout état de cause, l'action se prescrit dans un délai de trente ans à compter de la date à laquelle le bien culturel est
 sorti illicitement du territoire de l'Etat membre requérant. Toutefois, l'action se prescrit dans un délai de soixante-quinze
-ans ou demeure imprescriptible, si la législation de l'Etat membre le prévoit, pour les biens inventoriés dans les
+ans, ou demeure imprescriptible si la législation de l'Etat membre requérant le prévoit, pour les biens inventoriés dans les
 collections publiques, ainsi que pour les biens figurant sur les inventaires des autorités ecclésiastiques, lorsque la loi de
 l'Etat membre requérant accorde à ces biens une protection spécifique.
 
@@ -561,6 +565,10 @@ l'Etat membre requérant accorde à ces biens une protection spécifique.
 	**Codifié par**:
 
 	  - Ordonnance 2004-178 2004-02-20 JORF 24 février 2004
+
+	**Modifié par**:
+
+	  - Loi n°2004-1343 du 9 décembre 2004 - art. 78 (V) JORF 10 décembre 2004
 
 
 ##### Section 2 : Biens culturels se trouvant sur le territoire d'un autre Etat membre de la Communauté européenne et sortis illicitement du territoire français
@@ -956,22 +964,23 @@ de sortie temporaire prévus au même article.
 ###### Article L114-2
 
 Les infractions relatives aux destructions, dégradations et détériorations du patrimoine sont sanctionnées par les
-dispositions des articles 322-1 et 322-2 du code pénal ci-après reproduits :
+dispositions des articles 322-1 et 322-2 du code pénal ci-après reproduits : 
 
-" Art. 322-1. - La destruction, la dégradation ou la détérioration d'un bien appartenant à autrui est punie de deux ans
-d'emprisonnement et de 30 000 Euros d'amende, sauf s'il n'en est résulté qu'un dommage léger.
+" Art. 322-1 - La destruction, la dégradation ou la détérioration d'un bien appartenant à autrui est punie de deux ans
+d'emprisonnement et de 30 000 euros d'amende, sauf s'il n'en est résulté qu'un dommage léger. 
 
 " Le fait de tracer des inscriptions, des signes ou des dessins, sans autorisation préalable, sur les façades, les véhicules,
-les voies publiques ou le mobilier urbain est puni de 3 750 Euros d'amende lorsqu'il n'en est résulté qu'un dommage léger. "
+les voies publiques ou le mobilier urbain est puni de 3 750 euros d'amende et d'une peine de travail d'intérêt général,
+lorsqu'il n'en est résulté qu'un dommage léger. " 
 
-" Art. 322-2. - L'infraction définie au premier alinéa de l'article 322-1 est punie de trois ans d'emprisonnement et de 45
-000 Euros d'amende et celle définie au deuxième alinéa du même article de 7 500 Euros d'amende, lorsque le bien détruit,
-dégradé ou détérioré est :
+" Art. 322-2 - L'infraction définie au premier alinéa de l'article 322-1 est punie de trois ans d'emprisonnement et de 45 000
+euros d'amende et celle définie au deuxième alinéa du même article de 7 500 euros d'amende et d'une peine de travail
+d'intérêt général, lorsque le bien détruit, dégradé ou détérioré est : 
 
 " 1° Destiné à l'utilité ou à la décoration publiques et appartient à une personne publique ou chargée d'une mission de
-service public ;
+service public ; 
 
-" 2° Un registre, une minute ou un acte original de l'autorité publique ;
+" 2° Un registre, une minute ou un acte original de l'autorité publique. 
 
 " 3° Un immeuble ou un objet mobilier classé ou inscrit, une découverte archéologique faite au cours de fouilles ou
 fortuitement, un terrain contenant des vestiges archéologiques ou un objet conservé ou déposé dans les musées de France ou
@@ -982,7 +991,12 @@ d'utilité publique ;
 publique, chargée d'un service public ou reconnue d'utilité publique.
 
 " Dans le cas prévu par le 3° du présent article, l'infraction est également constituée si son auteur est le propriétaire du
-bien détruit, dégradé ou détérioré. "
+bien détruit, dégradé ou détérioré.
+
+" Lorsque l'infraction définie au premier alinéa de l'article 322-1 est commise à raison de l'appartenance ou de la non-
+appartenance, vraie ou supposée, de la personne propriétaire ou utilisatrice de ce bien à une ethnie, une nation, une race ou
+une religion déterminée, les peines encourues sont également portées à trois ans d'emprisonnement et à 45 000 euros d'amende.
+"
 
 **Liens relatifs à cet article**
 
@@ -990,10 +1004,17 @@ bien détruit, dégradé ou détérioré. "
 
 	  - Ordonnance 2004-178 2004-02-20 JORF 24 février 2004
 
+	**Modifié par**:
+
+	  - Loi n°2004-1343 du 9 décembre 2004 - art. 78 (V) JORF 10 décembre 2004
+
+	**Liens**:
+
+	  - PILOTE_SUIVEUR: Code pénal - art. 322-1 (V)
+	  - PILOTE_SUIVEUR: Code pénal - art. 322-2 (V)
+
 	**Cite**:
 
-	  - Code pénal - art. 322-1 (M)
-	  - Code pénal - art. 322-2 (M)
 	  - Code du patrimoine
 
 	**Cité par**:
@@ -1603,19 +1624,19 @@ quelle que soit la nature de ce support.
 
 ###### Article L132-1
 
-Le dépôt légal consiste en la remise du document à l'organisme dépositaire ou par son envoi en franchise postale, en un
-nombre limité d'exemplaires.
+Le dépôt légal consiste en la remise du document à l'organisme dépositaire ou en son envoi en franchise postale, en un nombre
+limité d'exemplaires. 
 
-Un décret en Conseil d'Etat fixe :
+Un décret en Conseil d'Etat fixe : 
 
 a) Les conditions dans lesquelles il peut être satisfait à l'obligation de dépôt légal par d'autres moyens, notamment par
-l'enregistrement des émissions faisant l'objet d'une radiodiffusion sonore ou d'une télédiffusion ;
+l'enregistrement des émissions faisant l'objet d'une radiodiffusion sonore ou d'une télédiffusion ; 
 
 b) Les modalités d'application particulières à chaque catégorie de personnes mentionnées à l'article L. 132-2, ainsi que les
-conditions dans lesquelles certaines de ces personnes peuvent être exemptées de l'obligation de dépôt légal ;
+conditions dans lesquelles certaines de ces personnes peuvent être exemptées de l'obligation de dépôt légal ; 
 
 c) Les exceptions à l'obligation de dépôt pour les catégories de documents dont la collecte et la conservation ne présentent
-pas un intérêt suffisant au regard des objectifs définis à l'article L. 131-1 ;
+pas un intérêt suffisant au regard des objectifs définis à l'article L. 131-1 ; 
 
 d) Les modalités selon lesquelles une sélection des documents à déposer peut être faite lorsque les objectifs définis à
 l'article L. 131-1 peuvent être atteints sans que la collecte et la conservation de la totalité des documents soient
@@ -1631,6 +1652,10 @@ nécessaires.
 
 	  - Ordonnance 2004-178 2004-02-20 JORF 24 février 2004
 
+	**Modifié par**:
+
+	  - Loi n°2004-1343 du 9 décembre 2004 - art. 78 (V) JORF 10 décembre 2004
+
 	**Cité par**:
 
 	  - Code du patrimoine - art. L730-1 (V)
@@ -1642,8 +1667,8 @@ nécessaires.
 
 	**Cite**:
 
-	  - Code du patrimoine. - art. L131-1 (M)
-	  - Code du patrimoine. - art. L132-2 (M)
+	  - Code du patrimoine. - art. L131-1 (V)
+	  - Code du patrimoine. - art. L132-2 (V)
 
 
 ###### Article L132-2
@@ -2111,7 +2136,8 @@ fonctions à titre gratuit.
 ###### Article L143-7
 
 Les ressources de la "Fondation du patrimoine" comprennent les versements des fondateurs, les revenus de ses biens, les
-produits du placement de ses fonds, les cotisations, les subventions publiques, les dons et legs et, généralement, toutes
+produits du placement de ses fonds, les cotisations, les subventions publiques, les dons et legs, une fraction fixée par
+décret en Conseil d'Etat du produit des successions appréhendées par l'Etat à titre de déshérence et, généralement, toutes
 recettes provenant de son activité.
 
 Lorsqu'elle possède des parts ou actions de sociétés détenues ou contrôlées par les fondateurs, la "Fondation du patrimoine"
@@ -2128,6 +2154,10 @@ ne peut exercer les droits de vote attachés à ces actions.
 
 	  - Ordonnance 2004-178 2004-02-20 JORF 24 février 2004
 
+	**Modifié par**:
+
+	  - Loi n°2004-1343 du 9 décembre 2004 - art. 78 (V) JORF 10 décembre 2004
+
 	**Cité par**:
 
 	  - Décret n°2016-1487 du 3 novembre 2016 - art. 1
@@ -2136,16 +2166,16 @@ ne peut exercer les droits de vote attachés à ces actions.
 ###### Article L143-8
 
 Dans les conditions prévues par le code de l'expropriation pour cause d'utilité publique, peuvent être menées par l'Etat, sur
-demande ou avec l'accord de la "Fondation du patrimoine", au bénéfice et à la charge de celle-ci, la procédure
+demande ou avec l'accord de la " Fondation du patrimoine ", au bénéfice et à la charge de celle-ci, la procédure
 d'expropriation prévue par l'article L. 621-18 et par les dispositions du code de l'environnement reproduites à l'article L.
 630-1, ainsi que la procédure de préemption prévue par les articles L. 123-1 à L. 123-3.
 
-La "Fondation du patrimoine" gère les biens mentionnés au précédent alinéa aux fins et dans les conditions définies par un
+La " Fondation du patrimoine " gère les biens mentionnés au précédent alinéa aux fins et dans les conditions définies par un
 cahier des charges. Elle peut les céder de gré à gré à des personnes publiques ou privées dans les conditions prévues à
-l'article L. 621-21.
+l'article L. 621-21. 
 
-Les dispositions du premier alinéa de l'article L. 621-22 sont applicables à l'aliénation des immeubles classés acquis par la
-"Fondation du patrimoine" en application du présent article.
+Les dispositions de l'article L. 621-22 sont applicables à l'aliénation des immeubles classés acquis par la " Fondation du
+patrimoine " en application du présent article.
 
 **Liens relatifs à cet article**
 
@@ -2158,13 +2188,16 @@ Les dispositions du premier alinéa de l'article L. 621-22 sont applicables à l
 
 	  - Ordonnance 2004-178 2004-02-20 JORF 24 février 2004
 
+	**Modifié par**:
+
+	  - Loi n°2004-1343 du 9 décembre 2004 - art. 78 (V) JORF 10 décembre 2004
+
 	**Cite**:
 
-	  - Code du patrimoine L621-18, L630-1, L123-1 à L123-3, L621-21, L621-22
-	  - Code du patrimoine. - art. L621-18 (M)
-	  - Code du patrimoine. - art. L621-21 (M)
-	  - Code du patrimoine. - art. L621-22 (V)
-	  - Code du patrimoine. - art. L630-1 (M)
+	  - Code du patrimoine - art. L123-1 (V)
+	  - Code du patrimoine - art. L621-18 (V)
+	  - Code du patrimoine - art. L621-21 (V)
+	  - Code du patrimoine - art. L630-1 (V)
 
 
 ###### Article L143-9
@@ -3641,7 +3674,7 @@ de communication de documents d'archives.
 
 Les dispositions des articles L. 213-1 à L. 213-3, L. 213-6 et L. 213-7 sont affichées de façon très apparente dans les
 locaux ouverts au public de l'administration des archives et des services des collectivités territoriales qui détiennent des
-archives publiques en application du second alinéa de l'article L. 212-2.
+archives publiques.
 
 **Liens relatifs à cet article**
 
@@ -3654,10 +3687,13 @@ archives publiques en application du second alinéa de l'article L. 212-2.
 
 	  - Ordonnance 2004-178 2004-02-20 JORF 24 février 2004
 
+	**Modifié par**:
+
+	  - Loi n°2004-1343 du 9 décembre 2004 - art. 78 (V) JORF 10 décembre 2004
+
 	**Cite**:
 
-	  - Code du patrimoine L213-1 à L213-3, L213-6, L213-7, L212-2
-	  - Code du patrimoine. - art. L212-2 (V)
+	  - Code du patrimoine L213-1 à L213-3, L213-6, L213-7
 	  - Code du patrimoine. - art. L213-6 (V)
 
 	**Cité par**:
@@ -3700,7 +3736,7 @@ archives peuvent être soumises à la demande des propriétaires.
 Un décret en Conseil d'Etat détermine les conditions dans lesquelles sont délivrés les expéditions et extraits authentiques
 de documents d'archives.
 
-Ce décret fixe le tarif des droits d'expédition ou d'extrait authentique des pièces conservées dans les services d'archives
+Un décret fixe le tarif des droits d'expédition ou d'extrait authentique des pièces conservées dans les services d'archives
 de l'Etat, des départements et des communes.
 
 **Liens relatifs à cet article**
@@ -3713,6 +3749,10 @@ de l'Etat, des départements et des communes.
 	**Codifié par**:
 
 	  - Ordonnance 2004-178 2004-02-20 JORF 24 février 2004
+
+	**Modifié par**:
+
+	  - Loi n°2004-1343 du 9 décembre 2004 - art. 78 (V) JORF 10 décembre 2004
 
 	**Cité par**:
 
@@ -3959,7 +3999,7 @@ l'audience dont l'enregistrement est envisagé et du ministère public. Elle fix
 
 ###### Article L221-4
 
-Les enregistrements sont réalisés dans les conditions ne portant atteinte ni au bon déroulement des débats ni au libre
+Les enregistrements sont réalisés dans des conditions ne portant atteinte ni au bon déroulement des débats ni au libre
 exercice des droits de la défense. Ils sont réalisés à partir de points fixes.
 
 Lorsque les dispositions du premier alinéa ne sont pas respectées, le président de l'audience peut, dans l'exercice de son
@@ -3974,6 +4014,10 @@ pouvoir de police, s'opposer aux enregistrements ou les interrompre momentanéme
 	**Codifié par**:
 
 	  - Ordonnance 2004-178 2004-02-20 JORF 24 février 2004
+
+	**Modifié par**:
+
+	  - Loi n°2004-1343 du 9 décembre 2004 - art. 78 (V) JORF 10 décembre 2004
 
 	**Cité par**:
 
@@ -5816,8 +5860,8 @@ Le contrat passé entre la personne projetant d'exécuter les travaux et la pers
 fixe, notamment, le prix et les délais de réalisation de ces fouilles ainsi que les indemnités dues en cas de dépassement de
 ces délais.
 
-L'Etat autorise les fouilles après avoir contrôlé la conformité du contrat mentionné au deuxième alinéa avec les
-prescriptions de fouilles édictées en application de l'article L. 522-2.
+L'Etat autorise les fouilles après avoir contrôlé la conformité du contrat mentionné au premier alinéa avec les prescriptions
+de fouilles édictées en application de l'article L. 522-2.
 
 L'opérateur exécute les fouilles conformément aux décisions prises et aux prescriptions imposées par l'Etat et sous la
 surveillance de ses représentants, en application des dispositions du présent livre.
@@ -5832,6 +5876,10 @@ surveillance de ses représentants, en application des dispositions du présent 
 	**Codifié par**:
 
 	  - Ordonnance 2004-178 2004-02-20 JORF 24 février 2004
+
+	**Modifié par**:
+
+	  - Loi n°2004-1343 du 9 décembre 2004 - art. 78 (V) JORF 10 décembre 2004
 
 	**Cité par**:
 
@@ -6256,7 +6304,7 @@ mètres carrés.
 
 Au vu des éléments transmis par l'autorité compétente pour délivrer les autorisations ou recevoir les déclarations ou
 demandes mentionnées aux articles L. 524-2 et L. 524-4, le montant de la redevance d'archéologie préventive est liquidé et
-ordonnancé par le représentant de l'Etat dans le département ou, dans les cas prévus par l'article 255 A du livre des
+ordonnancé par le représentant de l'Etat dans le département ou, dans les cas prévus par l'article L. 255 A du livre des
 procédures fiscales, par le maire lorsqu'il est fait application du a de l'article L. 524-4 et par le représentant de l'Etat
 dans la région lorsqu'il est fait application des b ou c ou du cinquième alinéa de l'article L. 524-4.
 
@@ -6296,6 +6344,10 @@ titre de recettes au début de chacune des tranches prévues dans l'autorisation
 	**Codifié par**:
 
 	  - Ordonnance 2004-178 2004-02-20 JORF 24 février 2004
+
+	**Modifié par**:
+
+	  - Loi n°2004-1343 du 9 décembre 2004 - art. 78 (V) JORF 10 décembre 2004
 
 	**Cite**:
 
@@ -6879,28 +6931,32 @@ rétablis, à l'expiration des fouilles, dans le même état, à moins que l'aut
 des terrains parmi les monuments historiques ou leur acquisition.
 
 L'occupation temporaire pour exécution de fouilles donne lieu, pour le préjudice résultant de la privation momentanée de
-jouissance des terrains et éventuellement si les lieux ne peuvent être rétablis en leur état antérieur, pour le dommage causé
-à la surface du sol, à une indemnité dont le montant est fixé, à défaut d'accord amiable, conformément aux dispositions de la
-loi du 29 décembre 1892 relative aux dommages causés à la propriété privée par l'exécution des travaux publics.
+jouissance des terrains et, éventuellement, si les lieux ne peuvent être rétablis en leur état antérieur, pour le dommage
+causé à la surface du sol, à une indemnité dont le montant est fixé, à défaut d'accord amiable, conformément aux dispositions
+de la loi du 29 décembre 1892 relative aux dommages causés à la propriété privée par l'exécution des travaux publics.
 
 **Liens relatifs à cet article**
 
-	**Cite**:
-
-	  - Loi n°1892-12-29
-
 	**Anciens textes**:
 
-	  - Loi n°1941-09-27 art. 10
 	  - Loi n°41-4011 du 27 septembre 1941 - art. 10 (Ab)
+	  - Loi n°1941-09-27 art. 10
 
 	**Codifié par**:
 
 	  - Ordonnance 2004-178 2004-02-20 JORF 24 février 2004
 
+	**Modifié par**:
+
+	  - Loi n°2004-1343 du 9 décembre 2004 - art. 78 (V) JORF 10 décembre 2004
+
 	**Cité par**:
 
 	  - Code du patrimoine. - art. R531-6 (V)
+
+	**Cite**:
+
+	  - Loi n°1892-12-29
 
 
 ###### Article L531-11
@@ -7186,9 +7242,9 @@ Les modalités d'application du présent chapitre sont fixées par décret en Co
 
 ###### Article L532-1
 
-Constituent des biens culturels maritimes les gisements, épaves, vestiges ou généralement tout bien qui, présentant un
-intérêt préhistorique, archéologique ou historique, est situé dans le domaine public maritime ou au fond de la mer dans la
-zone contiguë.
+Constituent des biens culturels maritimes les gisements, épaves, vestiges ou généralement tout bien présentant un intérêt
+préhistorique, archéologique ou historique qui sont situés dans le domaine public maritime ou au fond de la mer dans la zone
+contiguë.
 
 **Liens relatifs à cet article**
 
@@ -7199,6 +7255,10 @@ zone contiguë.
 	**Codifié par**:
 
 	  - Ordonnance 2004-178 2004-02-20 JORF 24 février 2004
+
+	**Modifié par**:
+
+	  - Loi n°2004-1343 du 9 décembre 2004 - art. 78 (V) JORF 10 décembre 2004
 
 	**Cité par**:
 
@@ -8241,11 +8301,16 @@ un périmètre n'excédant pas 500 mètres. A titre exceptionnel, ce périmètre
 en Conseil d'Etat, pris après avis de la Commission supérieure des monuments historiques, déterminera les monuments auxquels
 s'applique cette extension et délimitera le périmètre de protection propre à chacun d'eux.
 
-Lors de l'élaboration ou de la révision d'un plan local d'urbanisme, le périmètre de 500 mètres mentionné au cinquième alinéa
+Lors de l'élaboration ou de la révision d'un plan local d'urbanisme, le périmètre de 500 mètres mentionné au premier alinéa
 peut, sur proposition de l'architecte des Bâtiments de France et après accord de la commune, être modifié de façon à désigner
 des ensembles d'immeubles et des espaces qui participent de l'environnement du monument pour en préserver le caractère ou
 contribuer à en améliorer la qualité. Le périmètre est soumis à enquête publique conjointement avec le plan local
 d'urbanisme. Il est annexé au plan local d'urbanisme dans les conditions prévues à l'article L. 126-1 du code de l'urbanisme.
+
+**Nota:**
+
+NOTA : Ordonnance n° 2005-1128, art. 38 : " Les dispositions des articles 4, 12, 16, 17, 18, 24, 25, 26, 28, 29, 32, 33, 34,
+35 et 36 entrent en vigueur à une date fixée par décret en Conseil d'Etat et au plus tard le 1er janvier 2007".
 
 **Liens relatifs à cet article**
 
@@ -8257,6 +8322,14 @@ d'urbanisme. Il est annexé au plan local d'urbanisme dans les conditions prévu
 	**Codifié par**:
 
 	  - Ordonnance 2004-178 2004-02-20 JORF 24 février 2004
+
+	**Modifié par**:
+
+	  - Loi n°2004-1343 du 9 décembre 2004 - art. 78 (V) JORF 10 décembre 2004
+
+	**Abrogé par**:
+
+	  - Ordonnance n°2005-1128 du 8 septembre 2005 - art. 4 () JORF 9 septembre 2005 en vigueur au plus tard le 1er janvier 2007
 
 	**Cite**:
 
@@ -8849,19 +8922,23 @@ dans les conditions prévues au cahier des charges annexé à l'acte de cession.
 par décret en Conseil d'Etat. En cas de cession à une personne privée, le principe et les conditions de la cession sont
 approuvés par décret en Conseil d'Etat, l'ancien propriétaire ayant été mis en mesure de présenter ses observations.
 
-Les dispositions du premier alinéa de l'article L. 621-22 sont applicables aux cessions faites à des personnes publiques, en
-vertu des dispositions du premier alinéa du présent article.
+Les dispositions de l'article L. 621-22 sont applicables aux cessions faites à des personnes publiques, en vertu des
+dispositions du premier alinéa du présent article.
 
 **Liens relatifs à cet article**
 
 	**Anciens textes**:
 
-	  - Loi n°1913-12-31 art. 9-2
 	  - Loi n°1913-12-31 du 31 décembre 1913 - art. 9-2 (Ab)
+	  - Loi n°1913-12-31 art. 9-2
 
 	**Codifié par**:
 
 	  - Ordonnance 2004-178 2004-02-20 JORF 24 février 2004
+
+	**Modifié par**:
+
+	  - Loi n°2004-1343 du 9 décembre 2004 - art. 78 (V) JORF 10 décembre 2004
 
 	**Cité par**:
 
@@ -9245,7 +9322,7 @@ par le préfet de Corse.
 
 ###### Article L621-32
 
-Lorsqu'elles ne concernent pas des travaux pour lesquels le permis de construire, le permis de démolir ou l'autorisation
+Lorsqu'elle ne concerne pas des travaux pour lesquels le permis de construire, le permis de démolir ou l'autorisation
 mentionnée à l'article L. 442-1 du code de l'urbanisme est nécessaire, la demande d'autorisation prévue à l'article L. 621-31
 est adressée à l'autorité administrative. Celle-ci statue après avoir recueilli l'avis de l'architecte des Bâtiments de
 France. Toutefois, si le ministre chargé de la culture a décidé d'évoquer le dossier, l'autorisation ne peut être délivrée
@@ -9273,6 +9350,10 @@ cas prévus aux 1er, 2e et 3e alinéas du présent article.
 	**Codifié par**:
 
 	  - Ordonnance 2004-178 2004-02-20 JORF 24 février 2004
+
+	**Modifié par**:
+
+	  - Loi n°2004-1343 du 9 décembre 2004 - art. 78 (V) JORF 10 décembre 2004
 
 	**Cité par**:
 
@@ -10201,229 +10282,150 @@ d'autorisation prévues à l'article L. 621-9.
 Les règles relatives à la protection des monuments naturels et des sites sont fixées par les articles L. 341-1 à L. 341-22 du
 code de l'environnement ci-après reproduits :
 
-" Section 1
+"Section 1
 
-" Inventaire et classement
+"Inventaire et classement
 
-" Art. L. 341-1. - Il est établi dans chaque département une liste des monuments naturels et des sites dont la conservation
-ou la préservation présente, au point de vue artistique, historique, scientifique, légendaire ou pittoresque, un intérêt
+"Art. L. 341-1. - Il est établi dans chaque département une liste des monuments naturels et des sites dont la conservation ou
+la préservation présente, au point de vue artistique, historique, scientifique, légendaire ou pittoresque, un intérêt
 général.
 
-" La commission départementale des sites, perspectives et paysages prend l'initiative des inscriptions qu'elle juge utiles et
+"La commission départementale des sites, perspectives et paysages prend l'initiative des inscriptions qu'elle juge utiles et
 donne son avis sur les propositions d'inscription qui lui sont soumises, après en avoir informé le conseil municipal de la
 commune intéressée et avoir obtenu son avis.
 
-" L'inscription sur la liste est prononcée par arrêté du ministre chargé des sites. Un décret en Conseil d'Etat fixe la
-procédure selon laquelle cette inscription est notifiée aux propriétaires ou fait l'objet d'une publicité. La publicité ne
-peut être substituée à la notification que dans les cas où celle-ci est rendue impossible du fait du nombre élevé de
-propriétaires d'un même site ou monument naturel, ou de l'impossibilité pour l'administration de connaître l'identité ou le
-domicile du propriétaire.
+L'inscription sur la liste est prononcée par arrêté du ministre chargé des sites et, en Corse, par délibération de
+l'Assemblée de Corse après avis du représentant de l'Etat. Un décret en Conseil d'Etat fixe la procédure selon laquelle cette
+inscription est notifiée aux propriétaires ou fait l'objet d'une publicité. La publicité ne peut être substituée à la
+notification que dans les cas où celle-ci est rendue impossible du fait du nombre élevé de propriétaires d'un même site ou
+monument naturel, ou de l'impossibilité pour l'administration de connaître l'identité ou le domicile du propriétaire.
 
-" L'inscription entraîne, sur les terrains compris dans les limites fixées par l'arrêté, l'obligation pour les intéressés de
+"L'inscription entraîne, sur les terrains compris dans les limites fixées par l'arrêté, l'obligation pour les intéressés de
 ne pas procéder à des travaux autres que ceux d'exploitation courante en ce qui concerne les fonds ruraux et d'entretien
-normal en ce qui concerne les constructions sans avoir avisé, quatre mois d'avance, l'administration de leur intention. "
+normal en ce qui concerne les constructions sans avoir avisé, quatre mois d'avance, l'administration de leur intention."
 
-" Art. L. 341-2. - Les monuments naturels et les sites inscrits ou non sur la liste dressée par la commission départementale
+"Art. L. 341-2. - Les monuments naturels et les sites inscrits ou non sur la liste dressée par la commission départementale
 peuvent être classés dans les conditions et selon les distinctions établies par la présente section.
 
-" La commission départementale des sites, perspectives et paysages prend l'initiative des classements qu'elle juge utiles et
+"La commission départementale des sites, perspectives et paysages prend l'initiative des classements qu'elle juge utiles et
 donne son avis sur les propositions de classement qui lui sont soumises.
 
-" Lorsque la Commission supérieure des sites, perspectives et paysages est saisie directement d'une demande de classement,
+"Lorsque la Commission supérieure des sites, perspectives et paysages est saisie directement d'une demande de classement,
 celle-ci est renvoyée à la commission départementale aux fins d'instruction et, le cas échéant, de proposition de classement.
 En cas d'urgence, le ministre chargé des sites fixe à la commission départementale un délai pour émettre son avis. Faute par
 elle de se prononcer dans ce délai, le ministre consulte la commission supérieure et donne à la demande la suite qu'elle
-comporte. "
+comporte."
 
-" Art. L. 341-3. - Lorsqu'un monument naturel ou un site appartenant en tout ou partie à des personnes autres que celles
+"Art. L. 341-3. - Lorsqu'un monument naturel ou un site appartenant en tout ou partie à des personnes autres que celles
 énumérées aux articles L. 341-4 et L. 341-5 fait l'objet d'un projet de classement, les intéressés sont invités à présenter
-leurs observations selon une procédure fixée par décret en Conseil d'Etat. "
+leurs observations selon une procédure fixée par décret en Conseil d'Etat."
 
-" Art. L. 341-4. - Le monument naturel ou le site compris dans le domaine public ou privé de l'Etat est classé par arrêté du
+"Art. L. 341-4. - Le monument naturel ou le site compris dans le domaine public ou privé de l'Etat est classé par arrêté du
 ministre chargé des sites, en cas d'accord avec le ministre dans les attributions duquel le monument naturel ou le site se
 trouve placé ainsi qu'avec le ministre chargé du domaine.
 
-" Il en est de même toutes les fois qu'il s'agit de classer un lac ou un cours d'eau susceptible de produire une puissance
+"Il en est de même toutes les fois qu'il s'agit de classer un lac ou un cours d'eau susceptible de produire une puissance
 permanente de 50 kilowatts d'énergie électrique.
 
-" Dans le cas contraire, le classement est prononcé par décret en Conseil d'Etat. "
+"Dans le cas contraire, le classement est prononcé par décret en Conseil d'Etat."
 
-" Art. L. 341-5. - Le monument naturel ou le site compris dans le domaine public ou privé d'un département ou d'une commune
-ou appartenant à un établissement public est classé par arrêté du ministre chargé des sites s'il y a consentement de la
-personne publique propriétaire.
+"Art. L. 341-5. - Le monument naturel ou le site compris dans le domaine public ou privé d'un département ou d'une commune ou
+appartenant à un établissement public est classé par arrêté du ministre chargé des sites s'il y a consentement de la personne
+publique propriétaire.
 
-" Dans le cas contraire, le classement est prononcé, après avis de la Commission supérieure des sites, perspectives et
-paysages, par décret en Conseil d'Etat. "
+"Dans le cas contraire, le classement est prononcé, après avis de la Commission supérieure des sites, perspectives et
+paysages, par décret en Conseil d'Etat."
 
-" Art. L. 341-6. - Le monument naturel ou le site appartenant à toute autre personne que celles énumérées aux articles L.
+"Art. L. 341-6. - Le monument naturel ou le site appartenant à toute autre personne que celles énumérées aux articles L.
 341-4 et L. 341-5 est classé par arrêté du ministre chargé des sites, après avis de la commission départementale des sites,
 perspectives et paysages, s'il y a consentement du propriétaire. L'arrêté détermine les conditions du classement.
 
-" A défaut du consentement du propriétaire, le classement est prononcé, après avis de la commission supérieure, par décret en
+"A défaut du consentement du propriétaire, le classement est prononcé, après avis de la commission supérieure, par décret en
 Conseil d'Etat. Le classement peut donner droit à indemnité au profit du propriétaire s'il entraîne une modification à l'état
 ou à l'utilisation des lieux déterminant un préjudice direct, matériel et certain.
 
-" La demande d'indemnité doit être produite dans le délai de six mois à dater de la mise en demeure faite au propriétaire de
+"La demande d'indemnité doit être produite dans le délai de six mois à dater de la mise en demeure faite au propriétaire de
 modifier l'état ou l'utilisation des lieux en application des prescriptions particulières de la décision de classement. A
 défaut d'accord amiable, l'indemnité est fixée par le juge de l'expropriation.
 
-" Si le Gouvernement entend ne pas donner suite au classement d'office dans les conditions ainsi fixées, il peut, à tout
+"Si le Gouvernement entend ne pas donner suite au classement d'office dans les conditions ainsi fixées, il peut, à tout
 moment de la procédure et au plus tard dans le délai de trois mois à compter de la notification de la décision judiciaire,
 abroger le décret de classement.
 
-" Le classement d'un lac ou d'un cours d'eau pouvant produire une énergie électrique permanente d'au moins 50 kilowatts ne
+"Le classement d'un lac ou d'un cours d'eau pouvant produire une énergie électrique permanente d'au moins 50 kilowatts ne
 peut être prononcé qu'après avis des ministres intéressés. Cet avis doit être formulé dans le délai de trois mois, à
 l'expiration duquel il peut être passé outre.
 
-" En cas d'accord avec les ministres intéressés, le classement peut être prononcé par arrêté du ministre chargé des sites.
-Dans le cas contraire, il est prononcé par décret en Conseil d'Etat. "
+"En cas d'accord avec les ministres intéressés, le classement peut être prononcé par arrêté du ministre chargé des sites.
+Dans le cas contraire, il est prononcé par décret en Conseil d'Etat."
 
-" Art. L. 341-7. - A compter du jour où l'administration chargée des sites notifie au propriétaire d'un monument naturel ou
+"Art. L. 341-7. - A compter du jour où l'administration chargée des sites notifie au propriétaire d'un monument naturel ou
 d'un site son intention d'en poursuivre le classement, aucune modification ne peut être apportée à l'état des lieux ou à leur
 aspect pendant un délai de douze mois, sauf autorisation spéciale et sous réserve de l'exploitation courante des fonds ruraux
 et de l'entretien normal des constructions.
 
-" Lorsque l'identité ou le domicile du propriétaire sont inconnus, la notification est valablement faite au maire, qui en
-assure l'affichage, et, le cas échéant, à l'occupant des lieux. "
+"Lorsque l'identité ou le domicile du propriétaire sont inconnus, la notification est valablement faite au maire, qui en
+assure l'affichage, et, le cas échéant, à l'occupant des lieux."
 
-" Art. L. 341-8. - Tout arrêté ou décret prononçant un classement est publié, par les soins de l'administration chargée des
+"Art. L. 341-8. - Tout arrêté ou décret prononçant un classement est publié, par les soins de l'administration chargée des
 sites, au bureau des hypothèques de la situation de l'immeuble classé.
 
-" Cette publication, qui ne donne lieu à aucune perception au profit du Trésor, est faite dans les formes et de la manière
-prescrites par les lois et règlements concernant la publicité foncière. "
+"Cette publication, qui ne donne lieu à aucune perception au profit du Trésor, est faite dans les formes et de la manière
+prescrites par les lois et règlements concernant la publicité foncière."
 
-" Art. L. 341-9. - Les effets du classement suivent le monument naturel ou le site classé, en quelques mains qu'il passe.
+"Art. L. 341-9. - Les effets du classement suivent le monument naturel ou le site classé, en quelques mains qu'il passe.
 
-" Quiconque aliène un monument naturel ou un site classé est tenu de faire connaître à l'acquéreur l'existence de ce
+"Quiconque aliène un monument naturel ou un site classé est tenu de faire connaître à l'acquéreur l'existence de ce
 classement.
 
-" Toute aliénation d'un monument naturel ou d'un site classé doit, dans les quinze jours de sa date, être notifiée au
-ministre chargé des sites par celui qui l'a consentie. "
+"Toute aliénation d'un monument naturel ou d'un site classé doit, dans les quinze jours de sa date, être notifiée au ministre
+chargé des sites par celui qui l'a consentie."
 
-" Art. L. 341-10. - Les monuments naturels ou les sites classés ne peuvent ni être détruits ni être modifiés dans leur état
-ou leur aspect sauf autorisation spéciale. "
+"Art. L. 341-10. - Les monuments naturels ou les sites classés ne peuvent ni être détruits ni être modifiés dans leur état ou
+leur aspect sauf autorisation spéciale."
 
-" Art. L. 341-11. - Sur le territoire d'un site classé au titre du présent chapitre, il est fait obligation d'enfouissement
+"Art. L. 341-11. - Sur le territoire d'un site classé au titre du présent chapitre, il est fait obligation d'enfouissement
 des réseaux électriques ou téléphoniques ou, pour les lignes électriques d'une tension inférieure à 19 000 volts,
 d'utilisation de techniques de réseaux torsadés en façade d'habitation, lors de la création de lignes électriques nouvelles
 ou de réseaux téléphoniques nouveaux.
 
-" Lorsque des nécessités techniques impératives ou des contraintes topographiques rendent l'enfouissement impossible, ou bien
+"Lorsque des nécessités techniques impératives ou des contraintes topographiques rendent l'enfouissement impossible, ou bien
 lorsque les impacts de cet enfouissement sont jugés supérieurs à ceux d'une pose de ligne aérienne, il peut être dérogé à
 titre exceptionnel à cette interdiction par arrêté conjoint du ministre chargé de l'énergie ou des télécommunications et du
-ministre chargé de l'environnement. "
+ministre chargé de l'environnement."
 
-" Art. L. 341-12. - A compter du jour où l'administration chargée des sites notifie au propriétaire d'un monument naturel ou
+"Art. L. 341-12. - A compter du jour où l'administration chargée des sites notifie au propriétaire d'un monument naturel ou
 d'un site non classé son intention d'en poursuivre l'expropriation, tous les effets du classement s'appliquent de plein droit
 à ce monument naturel ou à ce site. Ils cessent de s'appliquer si la déclaration d'utilité publique n'intervient pas dans les
 douze mois de cette notification. Lorsque l'utilité publique a été déclarée, l'immeuble peut être classé sans autre formalité
-par arrêté du ministre chargé des sites. "
+par arrêté du ministre chargé des sites."
 
-" Art. L. 341-13. - Le déclassement total ou partiel d'un monument ou d'un site classé est prononcé, après avis des
+"Art. L. 341-13. - Le déclassement total ou partiel d'un monument ou d'un site classé est prononcé, après avis des
 commissions départementale ou supérieure, par décret en Conseil d'Etat. Le déclassement est notifié aux intéressés et publié
 au bureau des hypothèques de la situation des biens, dans les mêmes conditions que le classement.
 
-" Le décret de déclassement détermine, sur avis conforme du Conseil d'Etat, s'il y a lieu ou non à la restitution de
-l'indemnité prévue à l'article L. 341-6. "
+"Le décret de déclassement détermine, sur avis conforme du Conseil d'Etat, s'il y a lieu ou non à la restitution de
+l'indemnité prévue à l'article L. 341-6."
 
-" Art. L. 341-14. - Aucun monument naturel ou site classé ou proposé pour le classement ne peut être compris dans une enquête
+"Art. L. 341-14. - Aucun monument naturel ou site classé ou proposé pour le classement ne peut être compris dans une enquête
 aux fins d'expropriation pour cause d'utilité publique qu'après que le ministre chargé des sites a été appelé à présenter ses
 observations.
 
-" Nul ne peut acquérir par prescription, sur un monument naturel ou sur un site classé, de droit de nature à modifier son
+"Nul ne peut acquérir par prescription, sur un monument naturel ou sur un site classé, de droit de nature à modifier son
 caractère ou à changer l'aspect des lieux.
 
-" Aucune servitude ne peut être établie par convention sur un monument naturel ou un site classé qu'avec l'agrément du
-ministre chargé des sites. "
-
-" Art. L. 341-15. - La liste des sites et monuments naturels classés est tenue à jour. Dans le courant du premier trimestre
-de chaque année est publiée au Journal officiel la nomenclature des monuments naturels et des sites classés ou protégés au
-cours de l'année précédente. "
-
-" Section 2
-
-" Organismes
-
-" Art. L. 341-16. - Une commission des sites, perspectives et paysages siège dans chaque département.
-
-" Cette commission, présidée par le préfet, est composée de représentants de l'Etat, de représentants élus des collectivités
-territoriales et de personnalités qualifiées en matière de protection des sites, du cadre de vie et des sciences de la
-nature. "
-
-" Art. L. 341-17. - Une commission supérieure des sites, perspectives et paysages est placée auprès du ministre chargé des
-sites.
-
-" Cette commission, présidée par le ministre chargé des sites, est composée de représentants des ministres concernés, de
-députés et de sénateurs désignés par chacune des assemblées, de personnalités qualifiées en matière de protection des sites,
-du cadre de vie et des sciences de la nature désignées par le ministre chargé des sites. "
-
-" Art. L. 341-18. - Un décret en Conseil d'Etat fixe les conditions d'application du présent chapitre, notamment la
-composition, le mode de désignation et les modalités de fonctionnement des commissions prévues aux articles L. 341-16 et L.
-341-17. "
-
-" Section 3
-
-" Dispositions pénales
-
-" Art. L. 341-19. - I. - Est puni d'une amende de 9 000 Euros :
-
-" 1° Le fait de procéder à des travaux sur un monument naturel ou un site inscrit sans en aviser l'administration dans les
-conditions prévues à l'article L. 341-1, alinéa 4 ;
-
-" 2° Le fait d'aliéner un monument naturel ou un site classé sans faire connaître à l'acquéreur l'existence du classement ou
-sans notifier cette aliénation à l'administration dans les conditions prévues à l'article L. 341-9 ;
-
-" 3° Le fait d'établir une servitude sur un monument naturel ou un site classé sans l'agrément de l'administration dans les
-conditions prévues à l'article L. 341-14.
-
-" II. - Est puni des peines prévues à l'article L. 480-4 du code de l'urbanisme :
-
-" 1° Le fait d'apporter des modifications sur un monument naturel ou un site en instance de classement en violation des
-dispositions de l'article L. 341-7 ;
-
-" 2° Le fait de détruire ou de modifier dans son état ou son aspect un monument naturel ou un site classé sans l'autorisation
-prévue à l'article L. 341-10 ;
-
-" 3° Le fait de ne pas se conformer aux prescriptions fixées par un décret de création d'une zone de protection pris en
-application de l'article 19 de la loi du 2 mai 1930 ayant pour objet de réorganiser la protection des monuments naturels et
-des sites de caractère artistique, historique, scientifique, légendaire ou pittoresque et continuant à produire ses effets en
-application de l'article L. 642-6 du code du patrimoine.
-
-" III. - Les dispositions des articles L. 480-1, L. 480-2, L. 480-3 et L. 480-5 à L. 480-9 du code de l'urbanisme sont
-applicables aux infractions à l'alinéa 4 de l'article L. 341-1 du présent code et aux dispositions visées au précédent
-alinéa, sous la seule réserve des conditions suivantes :
-
-" 1° Les infractions sont constatées en outre par les fonctionnaires et les agents commissionnés à cet effet par le ministre
-chargé des sites et par les fonctionnaires et agents commissionnés et assermentés pour constater les infractions en matière
-forestière, de chasse et de pêche ;
-
-" 2° Pour l'application de l'article L. 480-5 du code de l'urbanisme, le tribunal statue soit sur la mise en conformité des
-lieux avec les prescriptions formulées par le ministre chargé des sites, soit sur leur rétablissement dans leur état
-antérieur ;
-
-" 3° Le droit de visite prévu à l'article L. 460-1 du code de l'urbanisme est ouvert aux représentants du ministre chargé des
-sites ; l'article L. 480-12 du même code est applicable. "
-
-" Art. L. 341-20. - Le fait de détruire, mutiler ou dégrader un monument naturel ou un site inscrit ou classé est puni des
-peines prévues à l'article 322-2 du code pénal, sans préjudice de tous dommages-intérêts. "
-
-" Art. L. 341-21. - Les agents chargés de constater les infractions mentionnées aux articles L. 341-19 et L. 341-20 peuvent
-procéder à la saisie de l'objet de l'infraction ainsi que des instruments et véhicules ayant servi à commettre l'infraction.
-
-" Les frais de transport, d'entretien et de garde des objets saisis sont supportés par le prévenu.
-
-" Le jugement de condamnation peut prononcer la confiscation de l'objet de l'infraction ainsi que des instruments et
-véhicules ayant servi à commettre l'infraction. "
-
-" Art. L. 341-22. - Les dispositions du présent chapitre sont applicables aux monuments naturels et aux sites régulièrement
-classés avant le 2 mai 1930 conformément aux dispositions de la loi du 21 avril 1906 organisant la protection des sites et
-monuments naturels de caractère artistique. "
+"Aucune servitude ne peut être établie par convention sur un monument naturel ou un site classé qu'avec l'agrément du
+ministre chargé des sites."
 
 **Liens relatifs à cet article**
 
 	**Codifié par**:
 
 	  - Ordonnance 2004-178 2004-02-20 JORF 24 février 2004
+
+	**Modifié par**:
+
+	  - Loi n°2004-1343 du 9 décembre 2004 - art. 78 (V) JORF 10 décembre 2004
 
 	**Cite**:
 
@@ -10457,17 +10459,17 @@ monuments naturels de caractère artistique. "
 Les règles relatives aux secteurs sauvegardés sont fixées aux articles L. 313-1 à L. 313-3 et L. 313-11 à L. 313-15 du code
 de l'urbanisme, ci-après reproduits :
 
-" Art. L. 313-1. - Des secteurs dits "secteurs sauvegardés", lorsque ceux-ci présentent un caractère historique, esthétique
-ou de nature à justifier la conservation, la restauration et la mise en valeur de tout ou partie d'un ensemble d'immeubles
-bâtis ou non, peuvent être créés et délimités :
+"Art. L. 313-1 - Des secteurs dits "secteurs sauvegardés", lorsque ceux-ci présentent un caractère historique, esthétique ou
+de nature à justifier la conservation, la restauration et la mise en valeur de tout ou partie d'un ensemble d'immeubles bâtis
+ou non, peuvent être créés et délimités :
 
-" a) Par décision de l'autorité administrative sur avis favorable ou sur proposition de la ou des communes intéressées ;
+"a) Par décision de l'autorité administrative sur avis favorable ou sur proposition de la ou des communes intéressées ;
 
-" b) Par décret en Conseil d'Etat, en cas d'avis défavorable de la ou d'une des communes intéressées.
+"b) Par décret en Conseil d'Etat, en cas d'avis défavorable de la ou d'une des communes intéressées.
 
-" L'acte qui crée le secteur sauvegardé met en révision le plan local d'urbanisme.
+"L'acte qui crée le secteur sauvegardé met en révision le plan local d'urbanisme.
 
-" Dans les secteurs sauvegardés, il est établi un plan de sauvegarde et de mise en valeur auquel est applicable le régime
+"Dans les secteurs sauvegardés, il est établi un plan de sauvegarde et de mise en valeur auquel est applicable le régime
 juridique des plans locaux d'urbanisme, à l'exception du deuxième alinéa de l'article L. 123-1, des articles L. 123-6 à L.
 123-16 et des deuxième, troisième et quatrième alinéas de l'article L. 130-1. Le plan de sauvegarde et de mise en valeur est
 approuvé par décret en Conseil d'Etat, après avis de la Commission nationale des secteurs sauvegardés et enquête publique. En
@@ -10475,30 +10477,30 @@ cas d'avis favorable du conseil municipal, de la commission locale du secteur sa
 commission d'enquête, le plan de sauvegarde et de mise en valeur peut être approuvé par arrêté des ministres compétents,
 après avis de la commission nationale.
 
-" Le plan comporte notamment l'indication des immeubles ou parties d'immeubles dont la démolition, l'enlèvement ou
+"Le plan comporte notamment l'indication des immeubles ou parties d'immeubles dont la démolition, l'enlèvement ou
 l'altération sont interdits et dont la modification est soumise à des conditions spéciales, ainsi que l'indication des
 immeubles ou parties d'immeubles dont la démolition ou la modification pourra être imposée par l'autorité administrative à
 l'occasion d'opérations d'aménagement publiques ou privées.
 
-" La révision des plans de sauvegarde et de mise en valeur a lieu dans les formes prévues pour leur établissement.
+"La révision des plans de sauvegarde et de mise en valeur a lieu dans les formes prévues pour leur établissement.
 
-" A condition qu'il ne soit pas porté atteinte à son économie générale, le plan de sauvegarde et de mise en valeur peut être
+"A condition qu'il ne soit pas porté atteinte à son économie générale, le plan de sauvegarde et de mise en valeur peut être
 modifié par l'autorité administrative, à la demande ou, après consultation du conseil municipal, après avis de la Commission
-nationale des secteurs sauvegardés et enquête publique. "
+nationale des secteurs sauvegardés et enquête publique."
 
-" Art. L. 313-2. - A compter de la décision administrative ou du décret en Conseil d'Etat délimitant un secteur sauvegardé,
+"Art. L. 313-2 - A compter de la décision administrative ou du décret en Conseil d'Etat délimitant un secteur sauvegardé,
 tout travail ayant pour effet de modifier l'état des immeubles est soumis soit à autorisation dans les conditions et formes
 prévues pour le permis de construire, soit à autorisation spéciale pour les travaux qui ne ressortissent pas au permis de
 construire. Cette autorisation ne peut être délivrée que si les travaux sont compatibles avec le plan de sauvegarde et de
 mise en valeur.
 
-" Pendant la période comprise entre la délimitation du secteur sauvegardé et l'intervention de l'acte rendant public un plan
+"Pendant la période comprise entre la délimitation du secteur sauvegardé et l'intervention de l'acte rendant public un plan
 de sauvegarde et de mise en valeur, les travaux de la nature de ceux qui sont indiqués ci-dessus peuvent faire l'objet d'un
 sursis à statuer dans les conditions et délai prévus à l'article L. 111-8.
 
-" L'autorisation énonce les prescriptions auxquelles le propriétaire doit se conformer.
+"L'autorisation énonce les prescriptions auxquelles le propriétaire doit se conformer.
 
-" En cas de désaccord entre, d'une part, l'architecte des Bâtiments de France et, d'autre part, soit le maire ou l'autorité
+"En cas de désaccord entre, d'une part, l'architecte des Bâtiments de France et, d'autre part, soit le maire ou l'autorité
 compétente pour délivrer l'autorisation, soit le pétitionnaire, sur la compatibilité des travaux avec le plan de sauvegarde
 et de mise en valeur ou sur les prescriptions imposées au propriétaire, le représentant de l'Etat dans la région émet, après
 consultation de la section de la commission régionale du patrimoine et des sites, un avis qui se substitue à celui de
@@ -10506,42 +10508,42 @@ l'architecte des Bâtiments de France. Le recours du pétitionnaire s'exerce à 
 Les délais de saisine du préfet de région et ceux impartis à la section et au préfet pour statuer sont fixés par décret en
 Conseil d'Etat.
 
-" Le ministre chargé de la culture peut évoquer tout dossier dont l'architecte des Bâtiments de France ou le représentant de
+"Le ministre chargé de la culture peut évoquer tout dossier dont l'architecte des Bâtiments de France ou le représentant de
 l'Etat dans la région est saisi en application du présent article. L'autorisation ne peut alors être délivrée qu'avec son
 accord.
 
-" Art. L. 313-2-1. - Les immeubles situés dans le périmètre d'un secteur sauvegardé dont le plan de sauvegarde et de mise en
+"Art. L. 313-2-1 - Les immeubles situés dans le périmètre d'un secteur sauvegardé dont le plan de sauvegarde et de mise en
 valeur a été approuvé ne sont pas soumis aux servitudes d'utilité publique instituées en application du 3° de l'article L.
-621-1, des articles L. 621-32 et L. 621-33 du code du patrimoine et de l'article L. 341-1 du code de l'environnement.
+621-1, des articles L. 621-31 et L. 621-32 du code du patrimoine et de l'article L. 341-1 du code de l'environnement.
 
-" Art. L. 313-3. - Les opérations de conservation, de restauration et de mise en valeur des secteurs sauvegardés peuvent être
+"Art. L. 313-3 - Les opérations de conservation, de restauration et de mise en valeur des secteurs sauvegardés peuvent être
 menées soit à l'initiative des collectivités publiques, soit à l'initiative d'un ou plusieurs propriétaires, groupés ou non
 en association syndicale. Dans ce dernier cas, ce ou ces propriétaires y sont spécialement autorisés dans les conditions
 fixées par un décret en Conseil d'Etat qui précise notamment les engagements exigés d'eux quant à la nature et à l'importance
-des travaux. "
+des travaux."
 
-" Art. L. 313-11. - En cas d'infraction aux dispositions du présent chapitre, les articles L. 480-2 à L. 480-9 sont
+"Art. L. 313-11 - En cas d'infraction aux dispositions du présent chapitre, les articles L. 480-2 à L. 480-9 sont
 applicables.
 
-" Art. L. 313-12. - Les infractions aux dispositions du présent chapitre sont constatées, d'une part, par les personnes
-visées à l'article L. 480-1 (alinéa premier), et, d'autre part, par les fonctionnaires et les agents commissionnés à cet
-effet par le ministre chargé des monuments historiques et des sites, et assermentés.
+"Art. L. 313-12 - Les infractions aux dispositions du présent chapitre sont constatées, d'une part, par les personnes visées
+à l'article L. 480-1 (alinéa premier), et, d'autre part, par les fonctionnaires et les agents commissionnés à cet effet par
+le ministre chargé des monuments historiques et des sites, et assermentés.
 
-" Les procès-verbaux dressés par ces personnes font foi jusqu'à preuve du contraire.
+"Les procès-verbaux dressés par ces personnes font foi jusqu'à preuve du contraire.
 
-" Art. L. 313-14. - Les dispositions du présent chapitre, des articles 3 et 12 de la loi n° 48-1360 du 1er septembre 1948
+"Art. L. 313-14 - Les dispositions du présent chapitre, des articles 3 et 12 de la loi n° 48-1360 du 1er septembre 1948
 modifiée, des articles L. 145-6, L. 145-7, L. 145-18, L. 145-28, L. 145-29 et L. 145-30 du code de commerce sont applicables
 aux collectivités publiques, qu'elles soient propriétaires ou locataires des immeubles situés dans les secteurs et périmètres
 visés aux articles L. 313-3 et L. 313-4.
 
-" Art. L. 313-15. - Un décret en Conseil d'Etat fixe les conditions d'application du présent chapitre et, notamment, les
+"Art. L. 313-15 - Un décret en Conseil d'Etat fixe les conditions d'application du présent chapitre et, notamment, les
 conditions dans lesquelles s'appliquent les dispositions législatives du code du patrimoine relatives aux monuments
 historiques et les dispositions législatives du code de l'environnement relatives aux sites, dans le cas où des immeubles
 relevant de l'une ou l'autre de ces législations sont compris dans les secteurs sauvegardés.
 
-" Ce règlement fixe les conditions particulières d'élaboration, d'application anticipée des dispositions en cours
+"Ce règlement fixe les conditions particulières d'élaboration, d'application anticipée des dispositions en cours
 d'élaboration d'un plan de sauvegarde et de mise en valeur après mise en révision et de modification du plan de sauvegarde et
-de mise en valeur. "
+de mise en valeur."
 
 **Liens relatifs à cet article**
 
@@ -10555,7 +10557,7 @@ de mise en valeur. "
 	  - Code de commerce. - art. L145-30 (V)
 	  - Code de commerce. - art. L145-6 (M)
 	  - Code de commerce. - art. L145-7 (V)
-	  - Code de l'urbanisme L313-1 à L313-3, L313-11 à L313-15, L621-32, L621-33
+	  - Code de l'urbanisme L313-1 à L313-3, L313-11 à L313-15, L621-31, L621-32
 	  - Code de l'environnement - art. L341-1 (M)
 	  - Code du patrimoine L123-1, L123-6 à L123-16, L130-1, L111-8, L621-1, L480-2 à L480-9, L480-1, L313-3, L313-4
 	  - Code du patrimoine. - art. L123-1 (V)
@@ -10564,6 +10566,10 @@ de mise en valeur. "
 	**Codifié par**:
 
 	  - Ordonnance 2004-178 2004-02-20 JORF 24 février 2004
+
+	**Modifié par**:
+
+	  - Loi n°2004-1343 du 9 décembre 2004 - art. 78 (V) JORF 10 décembre 2004
 
 	**Cité par**:
 
@@ -11012,7 +11018,7 @@ objet applicables localement.
 ###### Article L730-1
 
 Les articles L. 112-1 à L. 112-25, L. 114-2 à L. 114-5, L. 123-1 à L. 123-3, L. 131-1, L. 131-2, L. 132-1 à L. 132-4, L.
-133-1, L. 143-1 à L. 143-14, L. 211-1 à L. 211-6, L. 212-1 à L. 212-14, L. 212-30 à L. 212-37, L. 213-1 à L. 213-8, L. 214-1
+133-1, L. 143-1 à L. 143-14, L. 211-1 à L. 211-6, L. 212-1 à L. 212-28, L. 212-30 à L. 212-37, L. 213-1 à L. 213-8, L. 214-1
 à L. 214-5, L. 221-1 à L. 221-5, L. 222-1 à L. 222-3, L. 310-1 à L. 310-6, L. 320-1 à L. 320-4, L. 410-1 à L. 410-4, L.
 430-1, L. 430-2, L. 441-1, L. 441-2, L. 442-1 à L. 442-11, L. 451-1 à L. 451-10, L. 452-1 à L. 452-4, L. 510-1, L. 521-1, L.
 522-1 à L. 522-8, L. 523-1 à L. 523-14, L. 524-1 à L. 524-16, L. 531-1 à L. 531-19, L. 532-1 à L. 532-14, L. 541-1, L. 541-2,
@@ -11025,9 +11031,13 @@ L. 542-1 à L. 542-3, L. 544-1 à L. 544-13, L. 611-1, L. 612-2, L. 621-1 à L. 
 
 	  - Ordonnance 2004-178 2004-02-20 JORF 24 février 2004
 
+	**Modifié par**:
+
+	  - Loi n°2004-1343 du 9 décembre 2004 - art. 78 (V) JORF 10 décembre 2004
+
 	**Cite**:
 
-	  - Code du patrimoine L112-1 à L112-25, L114-2 à L114-5, L123-1 à L123-3, L131-1, L131-2, L132-1 à L132-4, L133-1, L143-1 à L143-14, L211-1 à L211-6, L212-1 à L212-14, L212-30 à L212-37, L213-1 à L213-8, L214-1 à L214-5, L221-1 à L221-5, L222-1 à L222-3
+	  - Code du patrimoine L112-1 à L112-25, L114-2 à L114-5, L123-1 à L123-3, L131-1, L131-2, L132-1 à L132-4, L133-1, L143-1 à L143-14, L211-1 à L211-6, L212-1 à L212-28, L212-30 à L212-37, L213-1 à L213-8, L214-1 à L214-5, L221-1 à L221-5, L222-1 à L222-3
 	  - Code du patrimoine. - art. L131-1 (M)
 	  - Code du patrimoine. - art. L131-2 (M)
 	  - Code du patrimoine. - art. L133-1 (M)
@@ -11315,9 +11325,9 @@ et Futuna.
 
 ###### Article L760-2
 
-Les articles L. 211-1 à L. 211-6, L. 212-1 à L. 212-5, L. 212-15 à L. 212-33, L. 212-37, L. 213-1 à L. 213-8 et L. 214-1 à L.
-214-5 sont applicables dans les îles Wallis et Futuna aux archives relevant des services et établissements publics de l'Etat
-et des personnes morales chargées de la gestion d'un service public relevant de la compétence de l'Etat.
+Les articles L. 211-1 à L. 211-6, L. 212-1 à L. 212-5, L. 213-1 à L. 213-8 et L. 214-1 à L. 214-5 sont applicables dans les
+îles Wallis et Futuna aux archives relevant des services et établissements publics de l'Etat et des personnes morales
+chargées de la gestion d'un service public relevant de la compétence de l'Etat.
 
 **Liens relatifs à cet article**
 
@@ -11325,15 +11335,15 @@ et des personnes morales chargées de la gestion d'un service public relevant de
 
 	  - Ordonnance 2004-178 2004-02-20 JORF 24 février 2004
 
-	**Cite**:
+	**Modifié par**:
 
-	  - Code du patrimoine L211-1 à L211-6, L212-1 à L212-5, L212-15 à L212-33, L212-37, L213-1 à L213-8, L214-1 à L214-5
-	  - Code du patrimoine. - art. L212-37 (V)
+	  - Loi n°2004-1343 du 9 décembre 2004 - art. 78 (V) JORF 10 décembre 2004
 
 
 ###### Article L760-3
 
-Les articles L. 212-30, L. 221-1 à L. 221-5, L. 222-1 et L. 222-3 sont applicables dans les îles Wallis et Futuna.
+Les articles L. 212-15 à L. 212-33, L. 212-37, L. 221-1 à L. 221-5, L. 222-1 et L. 222-3 sont applicables dans les îles
+Wallis et Futuna.
 
 **Liens relatifs à cet article**
 
@@ -11341,12 +11351,17 @@ Les articles L. 212-30, L. 221-1 à L. 221-5, L. 222-1 et L. 222-3 sont applicab
 
 	  - Ordonnance 2004-178 2004-02-20 JORF 24 février 2004
 
+	**Modifié par**:
+
+	  - Loi n°2004-1343 du 9 décembre 2004 - art. 78 (V) JORF 10 décembre 2004
+
 	**Cite**:
 
-	  - Code du patrimoine L212-30, L221-1 à L221-5, L222-1, L222-3
-	  - Code du patrimoine. - art. L212-30 (M)
-	  - Code du patrimoine. - art. L222-1 (V)
-	  - Code du patrimoine. - art. L222-3 (V)
+	  - Code du patrimoine - art. L212-15 (V)
+	  - Code du patrimoine - art. L212-37 (V)
+	  - Code du patrimoine - art. L221-1 (V)
+	  - Code du patrimoine - art. L222-1 (V)
+	  - Code du patrimoine - art. L222-3 (V)
 
 
 ###### Article L760-4
