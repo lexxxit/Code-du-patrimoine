@@ -1,5 +1,5 @@
 # Code du patrimoine  
-Version Consolidée au 2004-02-24
+Version Consolidée au 2004-08-07
 
 # Partie législative
 
@@ -2553,21 +2553,16 @@ l'autorité qui les a produits ou reçus et l'administration des archives.
 
 ###### Article L212-4
 
-Lorsque les documents mentionnés à l'article L. 211-4 comportent des informations nominatives collectées dans le cadre de
+Lorsque les documents visés à l'article L. 211-4 comportent des données à caractère personnel collectées dans le cadre de
 traitements automatisés régis par la loi n° 78-17 du 6 janvier 1978 relative à l'informatique, aux fichiers et aux libertés,
-ces informations font l'objet, à l'expiration de la durée prévue à l'article 28 de ladite loi, d'un tri pour déterminer les
-informations destinées à être conservées et celles, dépourvues d'intérêt scientifique, statistique ou historique, destinées à
-être détruites.
+ces données font l'objet, à l'expiration de la durée prévue au 5° de l'article 6 de ladite loi, d'un tri pour déterminer les
+données destinées à être conservées et celles, dépourvues d'intérêt scientifique, statistique ou historique, destinées à être
+détruites.
 
-Les catégories d'informations destinées à la destruction ainsi que les conditions de leur destruction sont fixées par accord
+Les catégories de données destinées à la destruction ainsi que les conditions de leur destruction sont fixées par accord
 entre l'autorité qui les a produites ou reçues et l'administration des archives.
 
 **Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - Loi n°78-17 du 6 janvier 1978 - art. 28 (M)
-	  - Code du patrimoine. - art. L211-4 (V)
 
 	**Anciens textes**:
 
@@ -2696,6 +2691,10 @@ entre l'autorité qui les a produites ou reçues et l'administration des archive
 	**Codifié par**:
 
 	  - Ordonnance 2004-178 2004-02-20 JORF 24 février 2004
+
+	**Modifié par**:
+
+	  - Loi n°2004-801 du 6 août 2004 - art. 18
 
 
 ###### Article L212-5
