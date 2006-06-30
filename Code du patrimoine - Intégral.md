@@ -1,5 +1,5 @@
 # Code du patrimoine  
-Version Consolidée au 2006-01-01
+Version Consolidée au 2006-07-01
 
 # Partie législative
 
@@ -8255,23 +8255,33 @@ Sa composition et son mode de fonctionnement sont précisés par décret en Cons
 Les règles relatives au conseil des sites de Corse sont fixées à l'article L. 4421-4 du code général des collectivités
 territoriales ci-après reproduit : 
 
-" Art. L. 4421-4. - Le conseil des sites de Corse exerce en Corse les attributions dévolues à la commission régionale du
+" Art. L. 4421-4.-Le conseil des sites de Corse exerce en Corse les attributions dévolues à la commission régionale du
 patrimoine et des sites prévue à l'article L. 612-1 du code du patrimoine, à la commission spécialisée des unités
 touristiques nouvelles prévue par l'article 7 de la loi n° 85-30 du 9 janvier 1985 relative au développement et à la
 protection de la montagne et à la commission départementale compétente en matière de nature, de paysages et de sites,
 perspectives et paysages prévue par l'article L. 341-16 du code de l'environnement. 
 
-" La composition du conseil des sites de Corse, qui comprend des membres nommés pour moitié par le représentant de l'Etat et
+La composition du conseil des sites de Corse, qui comprend des membres nommés pour moitié par le représentant de l'Etat et
 pour moitié par le président du conseil exécutif, est fixée par décret en Conseil d'Etat. 
 
-" Le conseil est coprésidé par le représentant de l'Etat et le président du conseil exécutif de Corse lorsqu'il siège en
+Le conseil est coprésidé par le représentant de l'Etat et le président du conseil exécutif de Corse lorsqu'il siège en
 formation de commission régionale du patrimoine et des sites. "
 
 **Liens relatifs à cet article**
 
-	**Codifié par**:
+	**Cite**:
 
-	  - Ordonnance 2004-178 2004-02-20 JORF 24 février 2004
+	  - Loi n°85-30 du 9 janvier 1985 - art. 7
+	  - Code de l'environnement - art. L341-16
+	  - Code du patrimoine - art. L612-1 (V)
+
+	**Modifié par**:
+
+	  - Ordonnance n°2004-637 du 1 juillet 2004 - art. 28
+
+	**Abrogé par**:
+
+	  - Loi n°2016-925 du 7 juillet 2016 - art. 74
 
 	**Liens**:
 
@@ -9892,9 +9902,6 @@ obligatoires pour les collectivités territoriales.
 A défaut pour une collectivité territoriale de prendre les mesures reconnues nécessaires par l'autorité administrative, il
 peut y être pourvu d'office, après une mise en demeure restée sans effet, par décision de la même autorité.
 
-En raison des charges par eux supportées pour l'exécution de ces mesures, les collectivités territoriales pourront être
-autorisées à établir un droit de visite dont le montant sera fixé par l'autorité administrative.
-
 **Liens relatifs à cet article**
 
 	**Anciens textes**:
@@ -9914,6 +9921,10 @@ autorisées à établir un droit de visite dont le montant sera fixé par l'auto
 	  - Code général des collectivités territoriales - art. L2321-2 (VD)
 	  - Code général des collectivités territoriales - art. L3664-1 (VD)
 	  - Code général des collectivités territoriales - art. L5217-12-1 (VD)
+
+	**Modifié par**:
+
+	  - Ordonnance 2006-460 2006-07-01 art. 7 II JORF 22 avril 2006 en vigueur le 1er juillet 2006
 
 
 ###### Article L622-10
