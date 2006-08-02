@@ -1,5 +1,5 @@
 # Code du patrimoine  
-Version Consolidée au 2006-07-16
+Version Consolidée au 2006-08-03
 
 # Partie législative
 
@@ -1546,14 +1546,17 @@ Les conditions d'application des articles L. 123-1 et L. 123-2 sont fixées par 
 
 ###### Article L131-1
 
-Le dépôt légal est organisé en vue de permettre :
+Le dépôt légal est organisé en vue de permettre : 
 
-a) La collecte et la conservation des documents mentionnés à l'article L. 131-2 ;
+a) La collecte et la conservation des documents mentionnés à l'article L. 131-2 ; 
 
-b) La constitution et la diffusion de bibliographies nationales ;
+b) La constitution et la diffusion de bibliographies nationales ; 
 
 c) La consultation des documents mentionnés à l'article L. 131-2, sous réserve des secrets protégés par la loi, dans les
-conditions conformes à la législation sur la propriété intellectuelle et compatibles avec leur conservation.
+conditions conformes à la législation sur la propriété intellectuelle et compatibles avec leur conservation. 
+
+Les organismes dépositaires doivent se conformer à la législation sur la propriété intellectuelle sous réserve des
+dispositions particulières prévues par le présent titre.
 
 **Liens relatifs à cet article**
 
@@ -1581,9 +1584,13 @@ conditions conformes à la législation sur la propriété intellectuelle et com
 
 	  - Ordonnance 2004-178 2004-02-20 JORF 24 février 2004
 
+	**Modifié par**:
+
+	  - Loi n°2006-961 du 1 août 2006 - art. 40 () JORF 3 août 2006
+
 	**Cite**:
 
-	  - Code du patrimoine. - art. L131-2 (M)
+	  - Code du patrimoine. - art. L131-2 (V)
 
 
 ###### Article L131-2
@@ -1592,9 +1599,11 @@ Les documents imprimés, graphiques, photographiques, sonores, audiovisuels, mul
 de production, d'édition ou de diffusion, font l'objet d'un dépôt obligatoire, dénommé dépôt légal, dès lors qu'ils sont mis
 à la disposition d'un public.
 
-Les progiciels, les bases de données, les systèmes experts et les autres produits de l'intelligence artificielle sont soumis
-à l'obligation de dépôt légal dès lors qu'ils sont mis à la disposition du public par la diffusion d'un support matériel,
-quelle que soit la nature de ce support.
+Les logiciels et les bases de données sont soumis à l'obligation de dépôt légal dès lors qu'ils sont mis à disposition d'un
+public par la diffusion d'un support matériel, quelle que soit la nature de ce support.
+
+Sont également soumis au dépôt légal les signes, signaux, écrits, images, sons ou messages de toute nature faisant l'objet
+d'une communication au public par voie électronique.
 
 **Liens relatifs à cet article**
 
@@ -1622,6 +1631,10 @@ quelle que soit la nature de ce support.
 	**Codifié par**:
 
 	  - Ordonnance 2004-178 2004-02-20 JORF 24 février 2004
+
+	**Modifié par**:
+
+	  - Loi n°2006-961 du 1 août 2006 - art. 39 () JORF 3 août 2006
 
 
 #### Chapitre 2 : Modalités et organisation du dépôt légal.
@@ -1683,8 +1696,7 @@ a) Celles qui éditent ou importent des documents imprimés, graphiques ou photo
 
 b) Celles qui impriment les documents mentionnés au a ci-dessus ;
 
-c) Celles qui éditent ou, en l'absence d'éditeur, celles qui produisent et celles qui importent des progiciels, des bases de
-données, des systèmes experts ou autres produits de l'intelligence artificielle ;
+c) Celles qui éditent, produisent ou importent des logiciels ou des bases de données ;
 
 d) Celles qui éditent ou, en l'absence d'éditeur, celles qui produisent ou qui commandent et celles qui importent des
 phonogrammes ;
@@ -1693,17 +1705,18 @@ e) Celles qui produisent des documents cinématographiques et, en ce qui concern
 celles qui les distribuent, ainsi que celles qui éditent et importent des documents cinématographiques fixés sur un support
 autre que photochimique ;
 
-f) Les sociétés nationales de programme, la société mentionnée à l'article 45 de la loi n° 86-1067 du 30 septembre 1986
-relative à la liberté de communication, les personnes titulaires d'une autorisation ou d'une concession relative à un service
-de radiodiffusion sonore ou de télédiffusion, les personnes qui ont passé convention en application de l'article 34-1 de la
-loi n° 86-1067 du 30 septembre 1986 relative à la liberté de communication ainsi que le groupement européen d'intérêt
-économique responsable de la chaîne culturelle européenne issue du traité signé le 2 octobre 1990 ;
+f) Les services de radio et de télévision au sens de la loi n° 86-1067 du 30 septembre 1986 relative à la liberté de
+communication ;
 
 g) Les personnes qui éditent ou, en l'absence d'éditeur, celles qui produisent ou qui commandent et celles qui importent des
-vidéogrammes autres que ceux qui sont mentionnés au  e ci-dessus et que ceux qui sont télédiffusés sans faire l'objet par
+vidéogrammes autres que ceux qui sont mentionnés au e ci-dessus et que ceux qui sont télédiffusés sans faire l'objet par
 ailleurs d'une exploitation commerciale ;
 
-h) Celles qui éditent ou, en l'absence d'éditeur, celles qui produisent et celles qui importent des documents multimédias.
+h) Celles qui éditent ou, en l'absence d'éditeur, celles qui produisent et celles qui importent des documents multimédias ;
+
+i) Celles qui éditent ou produisent en vue de la communication au public par voie électronique, au sens du deuxième alinéa de
+l'article 2 de la loi n° 86-1067 du 30 septembre 1986 précitée, des signes, signaux, écrits, images, sons ou messages de
+toute nature.
 
 Sont réputés importateurs au sens du présent article ceux qui introduisent sur le territoire national des documents édités ou
 produits hors de ce territoire.
@@ -1712,8 +1725,7 @@ produits hors de ce territoire.
 
 	**Cite**:
 
-	  - Loi n°86-1067 du 30 septembre 1986 - art. 34-1 (M)
-	  - Loi n°86-1067 du 30 septembre 1986 - art. 45 (M)
+	  - Loi n°86-1067 du 30 septembre 1986 - art. 2 (M)
 	  - Code du patrimoine. - art. L131-2 (M)
 
 	**Anciens textes**:
@@ -1725,12 +1737,52 @@ produits hors de ce territoire.
 
 	  - Ordonnance 2004-178 2004-02-20 JORF 24 février 2004
 
+	**Modifié par**:
+
+	  - Loi n°2006-961 du 1 août 2006 - art. 41 () JORF 3 août 2006
+
 	**Cité par**:
 
 	  - Code du patrimoine. - art. L132-1 (V)
 	  - Code du patrimoine. - art. L132-2-1 (V)
 	  - Code du patrimoine. - art. L133-1 (V)
 	  - Code du patrimoine. - art. R132-3 (V)
+
+
+###### Article L132-2-1
+
+Les organismes dépositaires mentionnés à l'article L. 132-3 procèdent, conformément aux objectifs définis à l'article L.
+131-1, auprès des personnes mentionnées au i de l'article L. 132-2, à la collecte des signes, signaux, écrits, images, sons
+ou messages de toute nature mis à la disposition du public ou de catégories de public. 
+
+Ces organismes informent les personnes mentionnées au i de l'article L. 132-2 des procédures de collecte qu'ils mettent en
+œuvre pour permettre l'accomplissement des obligations relatives au dépôt légal. Ils peuvent procéder eux-mêmes à cette
+collecte selon des procédures automatiques ou en déterminer les modalités en accord avec ces personnes. La mise en œuvre d'un
+code ou d'une restriction d'accès par ces personnes ne peut faire obstacle à la collecte par les organismes dépositaires
+précités. 
+
+Les organismes chargés de la gestion des noms de domaine et le Conseil supérieur de l'audiovisuel sont autorisés à
+communiquer aux organismes dépositaires les données d'identification fournies par les personnes mentionnées au i de l'article
+L. 132-2. 
+
+Les conditions de sélection et de consultation des informations collectées sont fixées par décret en Conseil d'Etat pris
+après avis de la Commission nationale de l'informatique et des libertés.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance 2004-178 2004-02-20 JORF 24 février 2004
+
+	**Créé par**:
+
+	  - Loi n°2006-961 du 1 août 2006 - art. 41 () JORF 3 août 2006
+
+	**Cite**:
+
+	  - Code du patrimoine. - art. L131-1 (V)
+	  - Code du patrimoine. - art. L132-2 (V)
+	  - Code du patrimoine. - art. L132-3 (V)
 
 
 ###### Article L132-3
@@ -1766,9 +1818,13 @@ le respect des objectifs définis à l'article L. 131-1.
 
 ###### Article L132-4
 
-La consultation des documents déposés, prévue à l'article L. 131-1, se fait dans le double respect des principes définis par
-le code de la propriété intellectuelle et de ceux inhérents au droit, pour le chercheur, d'accéder à titre individuel, dans
-le cadre de ses recherches et dans l'enceinte de l'organisme dépositaire, aux documents conservés.
+L'auteur ne peut interdire aux organismes dépositaires, pour l'application du présent titre :
+
+1° La consultation de l'œuvre sur place par des chercheurs dûment accrédités par chaque organisme dépositaire sur des postes
+individuels de consultation dont l'usage est exclusivement réservé à ces chercheurs ;
+
+2° La reproduction d'une œuvre, sur tout support et par tout procédé, lorsque cette reproduction est nécessaire à la
+collecte, à la conservation et à la consultation sur place dans les conditions prévues au 1°.
 
 **Liens relatifs à cet article**
 
@@ -1780,15 +1836,61 @@ le cadre de ses recherches et dans l'enceinte de l'organisme dépositaire, aux d
 
 	  - Ordonnance 2004-178 2004-02-20 JORF 24 février 2004
 
+	**Modifié par**:
+
+	  - Loi n°2006-961 du 1 août 2006 - art. 42 () JORF 3 août 2006
+
 	**Cité par**:
 
 	  - Code de la propriété intellectuelle - art. L331-39 (MMN)
 	  - Code du patrimoine. - art. L132-5 (V)
 	  - Code du patrimoine. - art. L132-6 (V)
 
+
+###### Article L132-5
+
+L'artiste-interprète, le producteur de phonogrammes ou de vidéogrammes ou l'entreprise de communication audiovisuelle ne peut
+interdire la reproduction et la communication au public des documents mentionnés à l'article L. 131-2 dans les conditions
+prévues à l'article L. 132-4.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance 2004-178 2004-02-20 JORF 24 février 2004
+
+	**Créé par**:
+
+	  - Loi n°2006-961 du 1 août 2006 - art. 42 () JORF 3 août 2006
+
+	**Cité par**:
+
+	  - Code de la propriété intellectuelle - art. L331-39 (MMN)
+
 	**Cite**:
 
-	  - Code du patrimoine. - art. L131-1 (M)
+	  - Code du patrimoine. - art. L131-2 (V)
+	  - Code du patrimoine. - art. L132-4 (V)
+
+
+###### Article L132-6
+
+Le producteur d'une base de données ne peut interdire l'extraction et la réutilisation par mise à disposition de la totalité
+ou d'une partie de la base dans les conditions prévues à l'article L. 132-4.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance 2004-178 2004-02-20 JORF 24 février 2004
+
+	**Créé par**:
+
+	  - Loi n°2006-961 du 1 août 2006 - art. 42 () JORF 3 août 2006
+
+	**Cite**:
+
+	  - Code du patrimoine. - art. L132-4 (V)
 
 
 #### Chapitre 3 : Dispositions pénales.
@@ -11449,7 +11551,7 @@ objet applicables localement.
 
 ###### Article L730-1
 
-Les articles L. 112-1 à L. 112-25, L. 114-2 à L. 114-5, L. 123-1 à L. 123-3, L. 131-1, L. 131-2, L. 132-1 à L. 132-4, L.
+Les articles L. 112-1 à L. 112-25, L. 114-2 à L. 114-5, L. 123-1 à L. 123-3, L. 131-1, L. 131-2, L. 132-1 à L. 132-6, L.
 133-1, L. 143-1 à L. 143-14, L. 211-1 à L. 211-6, L. 212-1 à L. 212-28, L. 212-30 à L. 212-37, L. 213-1 à L. 213-8, L. 214-1
 à L. 214-5, L. 221-1 à L. 221-5, L. 222-1 à L. 222-3, L. 310-1 à L. 310-6, L. 320-1 à L. 320-4, L. 410-1 à L. 410-4, L.
 430-1, L. 430-2, L. 441-1, L. 441-2, L. 442-1 à L. 442-11, L. 451-1 à L. 451-10, L. 452-1 à L. 452-4, L. 510-1, L. 521-1, L.
@@ -11465,25 +11567,7 @@ L. 542-1 à L. 542-3, L. 544-1 à L. 544-13, L. 611-1, L. 612-2, L. 621-1 à L. 
 
 	**Modifié par**:
 
-	  - Loi n°2004-1343 du 9 décembre 2004 - art. 78 (V) JORF 10 décembre 2004
-
-	**Cite**:
-
-	  - Code du patrimoine L112-1 à L112-25, L114-2 à L114-5, L123-1 à L123-3, L131-1, L131-2, L132-1 à L132-4, L133-1, L143-1 à L143-14, L211-1 à L211-6, L212-1 à L212-28, L212-30 à L212-37, L213-1 à L213-8, L214-1 à L214-5, L221-1 à L221-5, L222-1 à L222-3
-	  - Code du patrimoine. - art. L131-1 (M)
-	  - Code du patrimoine. - art. L131-2 (M)
-	  - Code du patrimoine. - art. L133-1 (M)
-	  - Code du patrimoine. - art. L430-1 (V)
-	  - Code du patrimoine. - art. L430-2 (V)
-	  - Code du patrimoine. - art. L441-1 (V)
-	  - Code du patrimoine. - art. L441-2 (V)
-	  - Code du patrimoine. - art. L510-1 (V)
-	  - Code du patrimoine. - art. L521-1 (V)
-	  - Code du patrimoine. - art. L541-1 (V)
-	  - Code du patrimoine. - art. L541-2 (V)
-	  - Code du patrimoine. - art. L611-1 (M)
-	  - Code du patrimoine. - art. L612-2 (V)
-	  - Code du patrimoine. - art. L630-1 (M)
+	  - Loi n°2006-961 du 1 août 2006 - art. 51 () JORF 3 août 2006
 
 
 ###### Article L730-2
@@ -11557,7 +11641,7 @@ localement.
 
 ###### Article L740-1
 
-Les articles L. 123-1 à L. 123-3, L. 131-1, L. 131-2, L. 132-1 à L. 132-4 et L. 133-1 sont applicables en Nouvelle-Calédonie.
+Les articles L. 123-1 à L. 123-3, L. 131-1, L. 131-2, L. 132-1 à L. 132-6 et L. 133-1 sont applicables en Nouvelle-Calédonie.
 
 **Liens relatifs à cet article**
 
@@ -11565,16 +11649,20 @@ Les articles L. 123-1 à L. 123-3, L. 131-1, L. 131-2, L. 132-1 à L. 132-4 et L
 
 	  - Ordonnance 2004-178 2004-02-20 JORF 24 février 2004
 
-	**Cité par**:
+	**Modifié par**:
 
-	  - Code du patrimoine - art. L740-4 (V)
+	  - Loi n°2006-961 du 1 août 2006 - art. 51 () JORF 3 août 2006
 
 	**Cite**:
 
-	  - Code du patrimoine L123-1 à L123-3, L131-1, L131-2, L132-1 à L132-4, L133-1
-	  - Code du patrimoine. - art. L131-1 (M)
-	  - Code du patrimoine. - art. L131-2 (M)
-	  - Code du patrimoine. - art. L133-1 (M)
+	  - Code du patrimoine - art. L123-1 (V)
+	  - Code du patrimoine - art. L131-1 (V)
+	  - Code du patrimoine - art. L132-1 (V)
+	  - Code du patrimoine - art. L133-1 (V)
+
+	**Cité par**:
+
+	  - Code du patrimoine - art. L740-4 (V)
 
 
 ###### Article L740-2
@@ -11734,7 +11822,7 @@ applicables localement.
 
 ###### Article L760-1
 
-Les articles L. 123-1 à L. 123-3, L. 131-1, L. 131-2, L. 132-1 à L. 132-4 et L. 133-1 sont applicables dans les îles Wallis
+Les articles L. 123-1 à L. 123-3, L. 131-1, L. 131-2, L. 132-1 à L. 132-6 et L. 133-1 sont applicables dans les îles Wallis
 et Futuna.
 
 **Liens relatifs à cet article**
@@ -11743,16 +11831,20 @@ et Futuna.
 
 	  - Ordonnance 2004-178 2004-02-20 JORF 24 février 2004
 
-	**Cité par**:
+	**Modifié par**:
 
-	  - Code du patrimoine - art. L760-5 (V)
+	  - Loi n°2006-961 du 1 août 2006 - art. 51 () JORF 3 août 2006
 
 	**Cite**:
 
-	  - Code du patrimoine L123-1 à L123-3, L131-1, L131-2, L132-1 à L132-4, L133-1
-	  - Code du patrimoine. - art. L131-1 (M)
-	  - Code du patrimoine. - art. L131-2 (M)
-	  - Code du patrimoine. - art. L133-1 (M)
+	  - Code du patrimoine - art. L123-1 (V)
+	  - Code du patrimoine - art. L131-1 (V)
+	  - Code du patrimoine - art. L132-1 (V)
+	  - Code du patrimoine - art. L133-1 (V)
+
+	**Cité par**:
+
+	  - Code du patrimoine - art. L760-5 (V)
 
 
 ###### Article L760-2
@@ -11852,7 +11944,7 @@ objet applicables localement.
 
 ###### Article L770-1
 
-Les articles L. 131-1, L. 131-2, L. 132-1 à L. 132-4, L. 133-1, L. 211-1 à L. 211-6, L. 212-1 à L. 212-5, L. 212-15 à L.
+Les articles L. 131-1, L. 131-2, L. 132-1 à L. 132-6, L. 133-1, L. 211-1 à L. 211-6, L. 212-1 à L. 212-5, L. 212-15 à L.
 212-28, L. 212-31 à L. 212-33, L. 212-37, L. 213-1 à L. 213-8, L. 214-1 à L. 214-5, L. 510-1, L. 532-1 à L. 532-14 et L.
 544-5 à L. 544-11 sont applicables au territoire des Terres australes et antarctiques françaises.
 
@@ -11862,19 +11954,14 @@ Les articles L. 131-1, L. 131-2, L. 132-1 à L. 132-4, L. 133-1, L. 211-1 à L. 
 
 	  - Ordonnance 2004-178 2004-02-20 JORF 24 février 2004
 
+	**Modifié par**:
+
+	  - Loi n°2006-961 du 1 août 2006 - art. 51 () JORF 3 août 2006
+
 	**Cité par**:
 
 	  - Code du patrimoine - art. L770-3 (V)
 	  - Code du patrimoine. - art. L770-2 (Ab)
-
-	**Cite**:
-
-	  - Code du patrimoine L131-1, L131-2, L132-1 à L132-4, L133-1, L211-1 à L211-6, L212-1 à L212-5, L212-15 à L212-28, L212-31 à L212-33, L212-37, L213-1 à L213-8, L214-1 à L214-5, L510-1, L532-1 à L532-14, L544-5 à L544-11
-	  - Code du patrimoine. - art. L131-1 (M)
-	  - Code du patrimoine. - art. L131-2 (M)
-	  - Code du patrimoine. - art. L133-1 (M)
-	  - Code du patrimoine. - art. L212-37 (V)
-	  - Code du patrimoine. - art. L510-1 (V)
 
 
 ###### Article L770-2
