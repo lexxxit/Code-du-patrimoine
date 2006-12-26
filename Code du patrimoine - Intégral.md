@@ -1,5 +1,5 @@
 # Code du patrimoine  
-Version Consolidée au 2006-08-03
+Version Consolidée au 2006-12-27
 
 # Partie législative
 
@@ -1952,8 +1952,12 @@ en réduire le montant. L'astreinte est recouvrée par le comptable du Trésor c
 
 Le Centre des monuments nationaux est un établissement public national à caractère administratif.
 
-Il a pour mission de présenter au public les monuments nationaux ainsi que leurs collections, dont il a la garde, d'en
-développer la fréquentation et d'en favoriser la connaissance.
+Il a pour mission d'entretenir, conserver et restaurer les monuments nationaux ainsi que leurs collections, dont il a la
+garde, d'en favoriser la connaissance, de les présenter au public et d'en développer la fréquentation lorsque celle-ci est
+compatible avec leur conservation et leur utilisation.
+
+Par dérogation à l'article L. 621-29-2, il peut également se voir confier la maîtrise d'ouvrage des travaux de restauration
+sur d'autres monuments historiques appartenant à l'Etat et affectés au ministère chargé de la culture.
 
 Il est administré par un conseil d'administration et dirigé par un président nommé par décret. Le conseil d'administration
 est composé de représentants de l'Etat, notamment de membres du Conseil d'Etat et de la Cour des comptes, de personnalités
@@ -1962,7 +1966,8 @@ qualifiées, parmi lesquelles figurent des élus locaux et de représentants él
 Les ressources de l'établissement comprennent notamment les dotations de toute personne publique ou privée, le produit des
 droits d'entrée et de visites-conférences dans les monuments nationaux, les recettes perçues à l'occasion des expositions et
 des manifestations artistiques et culturelles, le produit des droits de prises de vues et de tournages, les redevances pour
-service rendu, les dons et legs et toute autre recette provenant de l'exercice de ses activités.
+service rendu, le produit des taxes affectées par l'Etat, les dons et legs et toute autre recette provenant de l'exercice de
+ses activités.
 
 Un décret en Conseil d'Etat détermine les conditions d'application du présent article.
 
@@ -1982,6 +1987,14 @@ Un décret en Conseil d'Etat détermine les conditions d'application du présent
 	**Codifié par**:
 
 	  - Ordonnance 2004-178 2004-02-20 JORF 24 février 2004
+
+	**Modifié par**:
+
+	  - Loi n°2006-1666 du 21 décembre 2006 - art. 48 (V) JORF 27 décembre 2006
+
+	**Cite**:
+
+	  - Code du patrimoine. - art. L621-29-2 (VD)
 
 	**Anciens textes**:
 
@@ -2090,30 +2103,26 @@ fondations reconnues d'utilité publique, sous réserve des dispositions du pré
 ###### Article L143-2
 
 La "Fondation du patrimoine" a pour but de promouvoir la connaissance, la conservation et la mise en valeur du patrimoine
-national.
+national. 
 
-Elle s'attache à l'identification, à la préservation et à la mise en valeur du patrimoine non protégé.
+Elle s'attache à l'identification, à la préservation et à la mise en valeur du patrimoine non protégé. 
 
 Elle contribue à la sauvegarde des monuments, édifices, ensembles mobiliers ou éléments remarquables des espaces naturels ou
 paysagers menacés de dégradation, de disparition ou de dispersion. Elle concourt ainsi à l'emploi, à l'insertion, à la
 formation et à la transmission des savoir-faire dans les secteurs de la restauration et de la valorisation du patrimoine et
-des sites.
+des sites. 
 
 Elle apporte son concours à des personnes publiques ou privées, notamment par subvention, pour l'acquisition, l'entretien, la
 gestion et la présentation au public de ces biens, qu'ils aient ou non fait l'objet de mesures de protection prévues par le
-présent code.
+présent code, ainsi que pour la conservation de biens dans les conditions prévues à l'article L. 143-2-1. 
 
 Elle peut également acquérir les biens mentionnés au troisième alinéa lorsque cette acquisition est nécessaire aux actions de
-sauvegarde qu'elle met en place.
+sauvegarde qu'elle met en place. 
 
 Elle peut attribuer un label au patrimoine non protégé et aux sites. Ce label peut être pris en compte pour l'octroi de
 l'agrément prévu au 1° ter du II de l'article 156 du code général des impôts.
 
 **Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - CGI 156
 
 	**Anciens textes**:
 
@@ -2122,6 +2131,10 @@ l'agrément prévu au 1° ter du II de l'article 156 du code général des impô
 	**Codifié par**:
 
 	  - Ordonnance 2004-178 2004-02-20 JORF 24 février 2004
+
+	**Modifié par**:
+
+	  - Loi n°2006-1666 du 21 décembre 2006 - art. 10 (V) JORF 27 décembre 2006
 
 	**Cité par**:
 
@@ -2137,6 +2150,71 @@ l'agrément prévu au 1° ter du II de l'article 156 du code général des impô
 	**Liens**:
 
 	  - PILOTE_SUIVEUR: Code de l'environnement - art. L300-3 (VD)
+
+
+###### Article L143-2-1
+
+I. - La "Fondation du patrimoine" conclut avec les propriétaires privés d'immeubles bâtis classés monuments historiques,
+inscrits à l'inventaire supplémentaire ou ayant reçu le label prévu à l'article L. 143-2, une convention en vue de la
+réalisation de travaux de conservation de la totalité ou d'une fraction des parties protégées de ces immeubles. Ces
+conventions sont, dès leur signature, rendues publiques.
+
+Un décret précise les modalités d'application du présent I.
+
+II.  - Les conventions prévoient la nature et l'estimation du coût des travaux.
+
+III. -  Les conventions afférentes aux immeubles bâtis classés monuments historiques, inscrits à l'inventaire supplémentaire,
+prévoient en outre que le propriétaire s'engage à respecter les conditions suivantes :
+
+a) Conserver l'immeuble pendant au moins dix ans à compter de la date d'achèvement des travaux. Lorsque l'immeuble est détenu
+par une société, les porteurs de parts doivent également s'engager à conserver la totalité de leurs titres pendant la même
+durée ;
+
+b) Ouvrir au public, dans des conditions fixées par décret, les parties protégées qui ont fait l'objet de ces travaux,
+pendant au moins dix ans à compter de la date d'achèvement des travaux.
+
+IV. - La "Fondation du patrimoine" reçoit, en vue de subventionner la réalisation des travaux prévus par les conventions
+mentionnées aux I, II et III, les dons versés directement par les donateurs et les dons versés à des associations ou
+fondations qui lui ont été irrévocablement affectés dans les conditions fixées à l'article L. 143-9. Au moins 95 % des dons
+ou affectations reçus doivent servir à subventionner les travaux.
+
+Ces dons peuvent être, au jour de leur versement, prioritairement affectés par le donateur à l'une des conventions rendues
+publiques.
+
+La "Fondation du patrimoine" délivre, pour le bénéfice de la réduction d'impôt sur le revenu mentionnée au 2 bis de l'article
+200 du code général des impôts, l'attestation prévue au 5 du même article.
+
+V. - En cas de non-respect des engagements prévus au III ou en cas d'utilisation de la subvention pour un objet autre que
+celui pour lequel elle a été versée, le propriétaire est tenu de reverser à la "Fondation du patrimoine" le montant de la
+subvention, réduit d'un abattement de 10 % pour chaque année, au-delà de la cinquième, au cours de laquelle les engagements
+ont été respectés. Toutefois, en cas de transmission à titre gratuit, le ou les héritiers, légataires ou donataires peuvent
+demander collectivement la reprise de ces engagements pour la période restant à courir à la date de la transmission.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - CGI 200
+	  - Code du patrimoine. - art. L143-9 (V)
+
+	**Codifié par**:
+
+	  - Ordonnance 2004-178 2004-02-20 JORF 24 février 2004
+
+	**Créé par**:
+
+	  - Loi n°2006-1666 du 21 décembre 2006 - art. 10 (V) JORF 27 décembre 2006
+
+	**Cité par**:
+
+	  - Décret n°2008-195 du 27 février 2008 - art. 1 (V)
+	  - Décret n°2008-195 du 27 février 2008 - art. 2 (V)
+	  - Code du patrimoine - art. L143-15 (V)
+	  - Code du patrimoine - art. L143-7 (V)
+	  - Code du patrimoine. - art. Annexe 5-1 à l'article R. 143-1 (V)
+	  - Code du patrimoine. - art. L143-2 (VD)
+	  - Code général des impôts, CGI. - art. 200 (V)
+	  - Code général des impôts, CGI. - art. 238 bis (V)
 
 
 ###### Article L143-3
@@ -2228,7 +2306,9 @@ c) De personnalités qualifiées désignées par l'Etat ;
 
 d) De représentants des collectivités territoriales ;
 
-e) De représentants élus des membres adhérents de la "Fondation du patrimoine".
+e) De représentants élus des membres adhérents de la "Fondation du patrimoine" ;
+
+f) D'un représentant des associations de propriétaires de monuments protégés.
 
 Les représentants des fondateurs doivent disposer ensemble de la majorité absolue des voix au conseil d'administration.
 
@@ -2246,16 +2326,20 @@ fonctions à titre gratuit.
 
 	  - Ordonnance 2004-178 2004-02-20 JORF 24 février 2004
 
+	**Modifié par**:
+
+	  - Loi n°2006-1666 du 21 décembre 2006 - art. 10 (V) JORF 27 décembre 2006
+
 
 ###### Article L143-7
 
-Les ressources de la "Fondation du patrimoine" comprennent les versements des fondateurs, les revenus de ses biens, les
-produits du placement de ses fonds, les cotisations, les subventions publiques, les dons et legs, une fraction fixée par
-décret en Conseil d'Etat du produit des successions appréhendées par l'Etat à titre de déshérence et, généralement, toutes
-recettes provenant de son activité.
+Les ressources de la " Fondation du patrimoine " comprennent les versements des fondateurs, les revenus de ses biens, les
+produits du placement de ses fonds, les cotisations, les subventions publiques, les dons et legs sous réserve des
+dispositions de l'article L. 143-2-1, une fraction fixée par décret en Conseil d'Etat du produit des successions appréhendées
+par l'Etat à titre de déshérence et, généralement, toutes recettes provenant de son activité. 
 
-Lorsqu'elle possède des parts ou actions de sociétés détenues ou contrôlées par les fondateurs, la "Fondation du patrimoine"
-ne peut exercer les droits de vote attachés à ces actions.
+Lorsqu'elle possède des parts ou actions de sociétés détenues ou contrôlées par les fondateurs, la " Fondation du patrimoine
+" ne peut exercer les droits de vote attachés à ces actions.
 
 **Liens relatifs à cet article**
 
@@ -2270,11 +2354,15 @@ ne peut exercer les droits de vote attachés à ces actions.
 
 	**Modifié par**:
 
-	  - Loi n°2004-1343 du 9 décembre 2004 - art. 78 (V) JORF 10 décembre 2004
+	  - Loi n°2006-1666 du 21 décembre 2006 - art. 10 (V) JORF 27 décembre 2006
 
 	**Cité par**:
 
 	  - Décret n°2016-1487 du 3 novembre 2016 - art. 1
+
+	**Cite**:
+
+	  - Code du patrimoine - art. L143-2-1 (V)
 
 
 ###### Article L143-8
@@ -2426,6 +2514,34 @@ Le fait d'enfreindre les dispositions du présent article est puni d'une amende 
 	**Codifié par**:
 
 	  - Ordonnance 2004-178 2004-02-20 JORF 24 février 2004
+
+
+###### Article L143-15
+
+Lorsqu'elles subventionnent des travaux mentionnés au 2 bis de l'article 200 du code général des impôts ou au f du 1 de
+l'article 238 bis du même code, les fondations ou associations reconnues d'utilité publique visées à ces articles concluent
+avec les propriétaires des monuments concernés des conventions qui, rendues publiques dès leur signature, doivent respecter
+les conditions prévues aux II à V de l'article L. 143-2-1 du présent code, sous réserve de remplacer les mots : " la
+Fondation du patrimoine " par les mots : " la fondation ou l'association ".
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance 2004-178 2004-02-20 JORF 24 février 2004
+
+	**Créé par**:
+
+	  - Loi n°2006-1666 du 21 décembre 2006 - art. 10 (V) JORF 27 décembre 2006
+
+	**Cité par**:
+
+	  - Décret n°2008-195 du 27 février 2008 - art. 1 (V)
+
+	**Cite**:
+
+	  - Code général des impôts, CGI. - art. 200 (V)
+	  - Code du patrimoine - art. L143-2-1 (V)
 
 
 ## LIVRE II : ARCHIVES
@@ -9487,6 +9603,38 @@ administrative par celui qui l'a consentie.
 	**Cité par**:
 
 	  - Code du patrimoine - art. L642-1 (V)
+
+
+###### Article L621-29-8
+
+Par dérogation à l'article L. 581-2 du code de l'environnement, dans le cadre de l'instruction des demandes d'autorisation de
+travaux sur les immeubles classés ou des demandes d'accord de travaux sur les immeubles inscrits, l'autorité administrative
+chargée des monuments historiques peut autoriser l'installation de bâches d'échafaudage comportant un espace dédié à
+l'affichage. 
+
+Les recettes perçues par le propriétaire du monument pour cet affichage sont affectées par le maître d'ouvrage au financement
+des travaux. 
+
+Les modalités d'application du présent article sont fixées par décret en Conseil d'Etat.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°2006-1666 du 21 décembre 2006 - art. 103 () JORF 27 décembre 2006
+
+	**Cité par**:
+
+	  - Décret n°2007-645 du 30 avril 2007 - art. 1 (Ab)
+	  - Code du patrimoine. - art. R621-86 (V)
+
+	**Abrogé par**:
+
+	  - Ordonnance n°2017-651 du 27 avril 2017 - art. 4
+
+	**Cite**:
+
+	  - Code de l'environnement - art. L581-2
 
 
 ##### Section 3 : Dispositions relatives aux immeubles ni classés ni inscrits soumis à la législation sur les monuments historiques.
