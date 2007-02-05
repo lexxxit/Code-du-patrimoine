@@ -1,5 +1,5 @@
 # Code du patrimoine  
-Version Consolidée au 2007-01-01
+Version Consolidée au 2007-02-06
 
 # Partie législative
 
@@ -3057,24 +3057,24 @@ archives privées.
 
 ###### Article L212-9
 
-Par dérogation à l'article 41 de la loi n° 84-16 du 11 janvier 1984 portant dispositions statutaires relatives à la fonction
-publique de l'Etat, des personnels scientifiques et de documentation de l'Etat peuvent être mis à disposition du département
-pour exercer leurs fonctions dans les services départementaux d'archives.
+Par dérogation au II de l'article 42 de la loi n° 84-16 du 11 janvier 1984 portant dispositions statutaires relatives à la
+fonction publique de l'Etat, la mise à disposition des personnels scientifiques et de documentation de l'Etat auprès des
+départements pour exercer leurs fonctions dans les services départementaux d'archives n'est pas soumise à l'obligation de
+remboursement.
 
 **Liens relatifs à cet article**
 
 	**Anciens textes**:
 
-	  - Loi n°83-663 1983-07-22 art. 66
 	  - Loi n°83-663 du 22 juillet 1983 - art. 66 (Ab)
-
-	**Cite**:
-
-	  - Loi n°84-16 1984-01-11 art. 41
 
 	**Codifié par**:
 
 	  - Ordonnance 2004-178 2004-02-20 JORF 24 février 2004
+
+	**Modifié par**:
+
+	  - Loi n°2007-148 du 2 février 2007 - art. 11 () JORF 6 février 2007
 
 	**Cité par**:
 
@@ -9470,32 +9470,6 @@ l'ordonnance au 1er octobre 2007.
 	  - Code du patrimoine. - art. L720-1 (V)
 
 
-##### Section 2 : Inscription sur l'inventaire supplémentaire des monuments historiques.
-
-###### Article L621-29
-
-L'autorité administrative est autorisée à subventionner dans la limite de 40 % de la dépense effective les travaux
-d'entretien et de réparation que nécessite la conservation des immeubles ou parties d'immeubles inscrits à l'inventaire
-supplémentaire des monuments historiques. Les travaux s'exécutent sous le contrôle du service des monuments historiques.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Loi n°1913-12-31 du 31 décembre 1913 - art. 2 (V)
-	  - Loi n°1913-12-31 art. 2 al. 9
-
-	**Codifié par**:
-
-	  - Ordonnance 2004-178 2004-02-20 JORF 24 février 2004
-
-	**Cité par**:
-
-	  - Code du domaine de l'Etat - art. R27 (Ab)
-	  - Code du patrimoine - art. L730-1 (V)
-	  - Code du patrimoine. - art. R621-72 (V)
-
-
 ##### Section 3 : Dispositions communes aux immeubles classés et aux immeubles inscrits.
 
 ###### Article L621-29-1
@@ -9642,140 +9616,6 @@ Les modalités d'application du présent article sont fixées par décret en Con
 	**Cite**:
 
 	  - Code de l'environnement - art. L581-2
-
-
-##### Section 3 : Dispositions relatives aux immeubles ni classés ni inscrits soumis à la législation sur les monuments historiques.
-
-###### Article L621-30
-
-Aucune construction neuve ne peut être adossée à un immeuble classé au titre des monuments historiques sans une autorisation
-spéciale de l'autorité administrative.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Loi n°1913-12-31 du 31 décembre 1913 - art. 12 (Ab)
-	  - Loi n°1913-12-31 art. 12 al. 1
-
-	**Codifié par**:
-
-	  - Ordonnance 2004-178 2004-02-20 JORF 24 février 2004
-
-	**Cité par**:
-
-	  - Décret n°2007-487 du 30 mars 2007 - art. 48 (Ab)
-	  - Décret n°2007-487 du 30 mars 2007 - art. 95 (Ab)
-	  - Loi n°2016-925 du 7 juillet 2016 - art. 119 (V)
-	  - Loi n°2016-925 du 7 juillet 2016 - art. 100
-	  - Loi n°2016-925 du 7 juillet 2016 - art. 112 (V)
-	  - Décret n°2017-456 du 29 mars 2017 - art. 13
-	  - Décret n°2017-456 du 29 mars 2017 - art. 15
-	  - Décret n°2017-456 du 29 mars 2017 - art. 7
-	  - Décret n°2017-456 du 29 mars 2017 - art. 8
-	  - Code de l'environnement - art. L581-8 (V)
-	  - Code de l'environnement - art. R581-16 (V)
-	  - Code de l'urbanisme - art. (V)
-	  - Code de l'urbanisme - art. L111-17 (VD)
-	  - Code de l'urbanisme - art. L111-6-2 (VT)
-	  - Code de l'urbanisme - art. L152-5 (V)
-	  - Code de l'urbanisme - art. L313-2-1 (Ab)
-	  - Code de l'urbanisme - art. L421-6 (V)
-	  - Code de l'urbanisme - art. L425-4 (MMN)
-	  - Code de l'urbanisme - art. L430-4 (Ab)
-	  - Code de l'urbanisme - art. L480-13 (V)
-	  - Code de l'urbanisme - art. R*111-42 (VT)
-	  - Code de l'urbanisme - art. R*421-12 (V)
-	  - Code de l'urbanisme - art. R*421-17-1 (V)
-	  - Code de l'urbanisme - art. R*421-28 (V)
-	  - Code de l'urbanisme - art. R*423-68 (V)
-	  - Code de l'urbanisme - art. R*425-1 (M)
-	  - Code de l'urbanisme - art. R*425-16 (M)
-	  - Code de l'urbanisme - art. R111-33 (V)
-	  - Code de l'urbanisme - art. R132-2 (V)
-	  - Code de la construction et de l'habitation. - art. D511-13-1 (V)
-	  - Code de la construction et de l'habitation. - art. R*111-18-10 (V)
-	  - Code de la construction et de l'habitation. - art. R111-19-10 (V)
-	  - Code de la construction et de l'habitation. - art. R511-2 (V)
-	  - Code de la santé publique - art. R1331-4 (V)
-	  - Code du patrimoine - art. L621-31 (V)
-	  - Code du patrimoine - art. L642-7 (Ab)
-	  - Code du patrimoine - art. L720-1 (VD)
-	  - Code du patrimoine - art. R612-1 (V)
-	  - Code du patrimoine - art. R621-92 (V)
-	  - Code du patrimoine - art. R621-96-3 (V)
-	  - Code du patrimoine. - art. L611-1 (M)
-	  - Code du patrimoine. - art. L621-34 (Ab)
-	  - Code du patrimoine. - art. L624-2 (V)
-
-
-###### Article L621-32
-
-Lorsqu'elle ne concerne pas des travaux pour lesquels le permis de construire, le permis de démolir ou l'autorisation
-mentionnée à l'article L. 442-1 du code de l'urbanisme est nécessaire, la demande d'autorisation prévue à l'article L. 621-31
-est adressée à l'autorité administrative. Celle-ci statue après avoir recueilli l'avis de l'architecte des Bâtiments de
-France. Toutefois, si le ministre chargé de la culture a décidé d'évoquer le dossier, l'autorisation ne peut être délivrée
-qu'avec son accord exprès.
-
-Si l'autorité administrative n'a pas notifié sa réponse aux intéressés dans le délai de quarante jours à dater du dépôt de
-leur demande ou si cette réponse ne leur donne pas satisfaction, ils peuvent former un recours hiérarchique, dans les deux
-mois suivant la notification de la réponse du préfet ou l'expiration du délai de quarante jours imparti au préfet pour
-procéder à ladite notification.
-
-L'autorité administrative statue. Si sa décision n'a pas été notifiée aux intéressés dans un délai fixé par voie
-réglementaire à partir de la réception de leur demande, cette demande est considérée comme rejetée.
-
-Les auteurs de la demande sont tenus de se conformer aux prescriptions qui leur sont imposées pour la protection de
-l'immeuble classé ou inscrit par l'autorité administrative dans le cas prévu au 2e alinéa de l'article L. 621-31 et dans les
-cas prévus aux 1er, 2e et 3e alinéas du présent article.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Loi n°1913-12-31 du 31 décembre 1913 - art. 13 ter (V)
-	  - Loi n°1913-12-31 art. 13 ter
-
-	**Codifié par**:
-
-	  - Ordonnance 2004-178 2004-02-20 JORF 24 février 2004
-
-	**Modifié par**:
-
-	  - Loi n°2004-1343 du 9 décembre 2004 - art. 78 (V) JORF 10 décembre 2004
-
-	**Cité par**:
-
-	  - Décret n°2007-487 du 30 mars 2007 - art. 52 (Ab)
-	  - Décret n°2007-487 du 30 mars 2007 - art. 95 (Ab)
-	  - Décret n°2014-450 du 2 mai 2014 - art. 10 (VT)
-	  - Décret n°2014-1299 du 23 octobre 2014 - art. (V)
-	  - Décret n°2015-1461 du 10 novembre 2015 - art. (V)
-	  - Loi n°2016-925 du 7 juillet 2016 - art. 112 (V)
-	  - Décret n°2017-81 du 26 janvier 2017 - art. 1
-	  - Décret n°2017-82 du 26 janvier 2017 - art. 2
-	  - Décret n°2017-456 du 29 mars 2017 - art. 18
-	  - Code de l'environnement - art. D181-15-2 (V)
-	  - Code de l'environnement - art. L181-2 (VD)
-	  - Code de l'environnement - art. L341-10 (VD)
-	  - Code de l'environnement - art. R181-32 (VD)
-	  - Code de l'urbanisme - art. L313-2-1 (Ab)
-	  - Code de l'urbanisme - art. R*425-1 (V)
-	  - Code du patrimoine - art. L624-3 (V)
-	  - Code du patrimoine - art. L641-1 (VD)
-	  - Code du patrimoine - art. R612-3 (Ab)
-	  - Code du patrimoine - art. R621-62-1 (Ab)
-	  - Code du patrimoine - art. R621-96 (V)
-	  - Code du patrimoine - art. R621-96-12 (Ab)
-	  - Code du patrimoine - art. R621-96-18 (Ab)
-	  - Code du patrimoine - art. R621-96-9 (M)
-	  - Code du patrimoine. - art. L612-1 (VD)
-	  - Code du patrimoine. - art. L621-31 (M)
-	  - Code du patrimoine. - art. L642-5 (V)
-
-	**Cite**:
-
-	  - Code de l'urbanisme - art. L442-1 (M)
 
 
 ##### Section 4 : Dispositions relatives aux immeubles adossés aux immeubles classés et aux immeubles situés dans le champ de visibilité des immeubles classés ou inscrits
@@ -10528,60 +10368,6 @@ consentie.
 	**Cité par**:
 
 	  - Code du patrimoine - art. L642-1 (VD)
-
-
-##### Section 2 : Inscription sur l'inventaire supplémentaire des monuments historiques.
-
-###### Article L622-20
-
-Les objets mobiliers, soit meubles proprement dits, soit immeubles par destination, appartenant à l'Etat, aux collectivités
-territoriales et aux établissements publics ou aux associations cultuelles et qui, sans justifier une demande de classement
-immédiat, présentent, au point de vue de l'histoire, de l'art, de la science ou de la technique, un intérêt suffisant pour en
-rendre désirable la préservation, peuvent, à toute époque, être inscrits sur un inventaire supplémentaire à la liste des
-objets mobiliers classés au titre des monuments historiques.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Loi n°1913-12-31 art. 24 bis, al. 1
-	  - Loi n°1913-12-31 du 31 décembre 1913 - art. 24 bis (V)
-
-	**Codifié par**:
-
-	  - Ordonnance 2004-178 2004-02-20 JORF 24 février 2004
-
-	**Cité par**:
-
-	  - Code du patrimoine - art. L642-1 (VD)
-
-
-###### Article L622-21
-
-Cette inscription est prononcée par décision de l'autorité administrative.
-
-Elle est notifiée aux propriétaires, aux gestionnaires, aux détenteurs, aux affectataires et aux dépositaires et entraîne
-pour eux l'obligation, sauf en cas de péril, de ne procéder à aucun transfert de l'objet d'un lieu dans un autre sans avoir
-informé, un mois à l'avance, l'administration de leur intention et l'obligation de ne procéder à aucune cession à titre
-gratuit ou onéreux, modification, réparation ou restauration de l'objet, sans avoir informé, deux mois à l'avance,
-l'administration de leur intention.
-
-Un décret en Conseil d'Etat détermine les conditions d'application du présent article.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Loi n°1913-12-31 art. 24 bis, al. 2 à 4
-	  - Loi n°1913-12-31 du 31 décembre 1913 - art. 24 bis (V)
-
-	**Codifié par**:
-
-	  - Ordonnance 2004-178 2004-02-20 JORF 24 février 2004
-
-	**Cité par**:
-
-	  - Code du patrimoine - art. L624-1 (V)
 
 
 ##### Section 3 : Dispositions communes aux objets classés et aux objets inscrits.
