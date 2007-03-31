@@ -1,5 +1,5 @@
 # Code du patrimoine  
-Version Consolidée au 2007-02-06
+Version Consolidée au 2007-04-01
 
 # Partie législative
 
@@ -9620,6 +9620,171 @@ Les modalités d'application du présent article sont fixées par décret en Con
 
 ##### Section 4 : Dispositions relatives aux immeubles adossés aux immeubles classés et aux immeubles situés dans le champ de visibilité des immeubles classés ou inscrits
 
+###### Article L621-30
+
+Lorsque les constructions ou travaux destinés à la création ou à la modification d'un immeuble adossé à un immeuble classé
+sont soumis à permis de construire ou à permis de démolir, celui-ci ne peut être délivré sans l'accord de l'autorité
+administrative chargée des monuments historiques.
+
+Les travaux sur un immeuble adossé à un immeuble classé non soumis à permis de construire ou permis de démolir mais qui sont
+de nature à affecter la bonne conservation de l'immeuble classé ne peuvent être réalisés sans autorisation de l'autorité
+administrative chargée des monuments historiques.
+
+**Nota:**
+
+Ordonnance n° 2005-1128, art. 38 : " Les dispositions des articles 4,12,16,17,18,24,25,26,28,29,32,33,34,35 et 36 entrent en
+vigueur à une date fixée par décret en Conseil d'Etat et au plus tard le 1er janvier 2007. "
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Loi n°1913-12-31 du 31 décembre 1913 - art. 12 (Ab)
+	  - Loi n°1913-12-31 art. 12 al. 1
+
+	**Codifié par**:
+
+	  - Ordonnance 2004-178 2004-02-20 JORF 24 février 2004
+
+	**Modifié par**:
+
+	  - Ordonnance n°2005-1128 du 8 septembre 2005 - art. 16 () en vigueur le 1er octobre 2007
+
+	**Cité par**:
+
+	  - Décret n°2007-487 du 30 mars 2007 - art. 48 (Ab)
+	  - Décret n°2007-487 du 30 mars 2007 - art. 95 (Ab)
+	  - Loi n°2016-925 du 7 juillet 2016 - art. 119 (V)
+	  - Loi n°2016-925 du 7 juillet 2016 - art. 100
+	  - Loi n°2016-925 du 7 juillet 2016 - art. 112 (V)
+	  - Décret n°2017-456 du 29 mars 2017 - art. 13
+	  - Décret n°2017-456 du 29 mars 2017 - art. 15
+	  - Décret n°2017-456 du 29 mars 2017 - art. 7
+	  - Décret n°2017-456 du 29 mars 2017 - art. 8
+	  - Code de l'environnement - art. L581-8 (V)
+	  - Code de l'environnement - art. R581-16 (V)
+	  - Code de l'urbanisme - art. (V)
+	  - Code de l'urbanisme - art. L111-17 (VD)
+	  - Code de l'urbanisme - art. L111-6-2 (VT)
+	  - Code de l'urbanisme - art. L152-5 (V)
+	  - Code de l'urbanisme - art. L313-2-1 (Ab)
+	  - Code de l'urbanisme - art. L421-6 (V)
+	  - Code de l'urbanisme - art. L425-4 (MMN)
+	  - Code de l'urbanisme - art. L430-4 (Ab)
+	  - Code de l'urbanisme - art. L480-13 (V)
+	  - Code de l'urbanisme - art. R*111-42 (VT)
+	  - Code de l'urbanisme - art. R*421-12 (V)
+	  - Code de l'urbanisme - art. R*421-17-1 (V)
+	  - Code de l'urbanisme - art. R*421-28 (V)
+	  - Code de l'urbanisme - art. R*423-68 (V)
+	  - Code de l'urbanisme - art. R*425-1 (M)
+	  - Code de l'urbanisme - art. R*425-16 (M)
+	  - Code de l'urbanisme - art. R111-33 (V)
+	  - Code de l'urbanisme - art. R132-2 (V)
+	  - Code de la construction et de l'habitation. - art. D511-13-1 (V)
+	  - Code de la construction et de l'habitation. - art. R*111-18-10 (V)
+	  - Code de la construction et de l'habitation. - art. R111-19-10 (V)
+	  - Code de la construction et de l'habitation. - art. R511-2 (V)
+	  - Code de la santé publique - art. R1331-4 (V)
+	  - Code du patrimoine - art. L621-31 (V)
+	  - Code du patrimoine - art. L642-7 (Ab)
+	  - Code du patrimoine - art. L720-1 (VD)
+	  - Code du patrimoine - art. R612-1 (V)
+	  - Code du patrimoine - art. R621-92 (V)
+	  - Code du patrimoine - art. R621-96-3 (V)
+	  - Code du patrimoine. - art. L611-1 (M)
+	  - Code du patrimoine. - art. L621-34 (Ab)
+	  - Code du patrimoine. - art. L624-2 (V)
+
+
+###### Article L621-30-1
+
+Est considéré, pour l'application du présent titre, comme étant situé dans le champ de visibilité d'un immeuble classé ou
+inscrit tout autre immeuble, nu ou bâti, visible du premier ou visible en même temps que lui et situé dans un périmètre de
+500 mètres.
+
+Lorsqu'un immeuble non protégé au titre des monuments historiques fait l'objet d'une procédure d'inscription ou de classement
+ou d'une instance de classement, l'architecte des Bâtiments de France peut proposer, en fonction de la nature de l'immeuble
+et de son environnement, un périmètre de protection adapté. La distance de 500 mètres peut être dépassée avec l'accord de la
+commune ou des communes intéressées. Ce périmètre est créé par l'autorité administrative après enquête publique.
+
+Le périmètre prévu au premier alinéa peut être modifié par l'autorité administrative, sur proposition de l'architecte des
+Bâtiments de France après accord de la commune ou des communes intéressées et enquête publique, de façon à désigner des
+ensembles d'immeubles bâtis ou non qui participent de l'environnement du monument pour en préserver le caractère ou
+contribuer à en améliorer la qualité.
+
+En cas de désaccord de la commune ou des communes intéressées, la décision est prise par décret en Conseil d'Etat après avis
+de la Commission nationale des monuments historiques.
+
+Lorsque la modification du périmètre est réalisée à l'occasion de l'élaboration, de la modification ou de la révision d'un
+plan local d'urbanisme ou d'une carte communale, elle est soumise à enquête publique par le maire ou le président de
+l'établissement public de coopération intercommunale compétent, en même temps que le plan local d'urbanisme ou la carte
+communale. L'approbation du plan ou de la carte emporte modification du périmètre.
+
+Le tracé du périmètre prévu par le présent article est annexé au plan local d'urbanisme dans les conditions prévues à
+l'article L. 126-1 du code de l'urbanisme.
+
+Les enquêtes publiques conduites pour l'application du présent article sont menées dans les conditions prévues par les
+articles L. 123-1 et suivants du code de l'environnement.
+
+**Nota:**
+
+Ces dispositions s'appliquent aux projets, plans, programmes ou autres documents de planification pour lesquels l'arrêté
+d'ouverture et d'organisation de l'enquête publique est publié à compter du premier jour du sixième mois après la publication
+du décret en Conseil d'Etat prévu à l'article L. 123-19 du code de l'environnement.
+
+**Liens relatifs à cet article**
+
+	**Cité par**:
+
+	  - Décret n°99-78 du 5 février 1999 - art. 1 (Ab)
+	  - Décret n°2007-487 du 30 mars 2007 - art. 50 (Ab)
+	  - Code de l'environnement - art. R581-16 (VD)
+	  - Code de l'urbanisme - art. L128-1 (VT)
+	  - Code de l'urbanisme - art. L151-29 (VD)
+	  - Code de l'urbanisme - art. L313-2-1 (V)
+	  - Code de l'urbanisme - art. L421-6 (V)
+	  - Code de l'urbanisme - art. R*111-42 (V)
+	  - Code de l'urbanisme - art. R*123-15 (VT)
+	  - Code de l'urbanisme - art. R*421-12 (VD)
+	  - Code de l'urbanisme - art. R*421-28 (VD)
+	  - Code de l'urbanisme - art. R*423-67 (V)
+	  - Code de l'urbanisme - art. R*423-68 (M)
+	  - Code de l'urbanisme - art. R*425-1 (M)
+	  - Code de l'urbanisme - art. R*431-14 (M)
+	  - Code de la construction et de l'habitation. - art. D511-13-1 (M)
+	  - Code du patrimoine. - art. L611-1 (V)
+	  - Code du patrimoine. - art. L621-31 (V)
+	  - Code du patrimoine. - art. L642-5 (V)
+	  - Code du patrimoine. - art. L642-7 (V)
+	  - Code du patrimoine. - art. R612-1 (M)
+	  - Code du patrimoine. - art. R621-94 (M)
+	  - Code minier (nouveau) - art. L161-1 (V)
+	  - Code minier - art. 79 (VT)
+
+	**Codifié par**:
+
+	  - Ordonnance 2004-178 2004-02-20 JORF 24 février 2004
+
+	**Créé par**:
+
+	  - Ordonnance n°2005-1128 du 8 septembre 2005 - art. 4 () JORF 9 septembre 2005 en vigueur le 1er avril 2007
+
+	**Modifié par**:
+
+	  - Loi n°2010-788 du 12 juillet 2010 - art. 240
+
+	**Cite**:
+
+	  - Code de l'urbanisme - art. L126-1 (M)
+	  - Code de l'environnement - art. L123-1 (M)
+
+	**Anciens textes**:
+
+	  - Code du patrimoine. - art. L621-2 (Ab)
+	  - Code du patrimoine. - art. L621-2 (M)
+
+
 ###### Article L621-31
 
 Lorsqu'un immeuble est situé dans le champ de visibilité d'un édifice classé au titre des monuments historiques ou inscrit,
@@ -10338,6 +10503,88 @@ par destination, régulièrement classés au titre des monuments historiques ava
 
 
 ##### Section 2 : Inscription des objets mobiliers.
+
+###### Article L622-20
+
+Les objets mobiliers, soit meubles proprement dits, soit immeubles par destination qui, sans justifier une demande de
+classement immédiat, présentent, au point de vue de l'histoire, de l'art, de la science ou de la technique, un intérêt
+suffisant pour en rendre désirable la préservation, peuvent, à toute époque, être inscrits au titre des monuments
+historiques. Les objets mobiliers appartenant à une personne privée ne peuvent être inscrits qu'avec son consentement.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Loi n°1913-12-31 art. 24 bis, al. 1
+	  - Loi n°1913-12-31 du 31 décembre 1913 - art. 24 bis (V)
+
+	**Codifié par**:
+
+	  - Ordonnance 2004-178 2004-02-20 JORF 24 février 2004
+
+	**Modifié par**:
+
+	  - Ordonnance n°2005-1128 du 8 septembre 2005 - art. 24 () JORF 9 septembre 2005 en vigueur le 1er avril 2007
+
+	**Cité par**:
+
+	  - Code du patrimoine - art. L642-1 (VD)
+
+
+###### Article L622-21
+
+Cette inscription est prononcée par décision de l'autorité administrative, qui est notifiée au propriétaire, au détenteur, à
+l'affectataire domanial et au dépositaire de l'objet.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Loi n°1913-12-31 art. 24 bis, al. 2 à 4
+	  - Loi n°1913-12-31 du 31 décembre 1913 - art. 24 bis (V)
+
+	**Codifié par**:
+
+	  - Ordonnance 2004-178 2004-02-20 JORF 24 février 2004
+
+	**Modifié par**:
+
+	  - Ordonnance n°2005-1128 du 8 septembre 2005 - art. 25 () JORF 9 septembre 2005 en vigueur le 1er avril 2007
+
+	**Cité par**:
+
+	  - Code du patrimoine - art. L624-1 (V)
+
+
+###### Article L622-22
+
+Le propriétaire, le détenteur, l'affectataire domanial ou le dépositaire d'un objet mobilier inscrit au titre des monuments
+historiques qui a l'intention de modifier, réparer ou restaurer cet objet est tenu d'en faire préalablement la déclaration à
+l'autorité administrative dans des conditions et délai fixés par décret en Conseil d'Etat. 
+
+Les professionnels habilités à assurer la maîtrise d'œuvre des travaux de réparation ou de restauration des orgues inscrits
+ou des parties non protégées des orgues partiellement protégés sont déterminés dans les conditions prévues à l'article L.
+622-7.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance 2004-178 2004-02-20 JORF 24 février 2004
+
+	**Créé par**:
+
+	  - Ordonnance n°2005-1128 du 8 septembre 2005 - art. 26 () JORF 9 septembre 2005 en vigueur le 1er avril 2007
+
+	**Cite**:
+
+	  - Code du patrimoine - art. L622-7 (V)
+
+	**Cité par**:
+
+	  - Code du patrimoine - art. L641-2 (VD)
+	  - Code du patrimoine - art. L642-2 (VD)
+
 
 ###### Article L622-23
 
