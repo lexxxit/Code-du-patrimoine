@@ -1,5 +1,5 @@
 # Code du patrimoine  
-Version Consolidée au 2007-04-01
+Version Consolidée au 2007-10-01
 
 # Partie législative
 
@@ -8756,14 +8756,13 @@ l'autorité administrative, soit à la demande du propriétaire.
 ###### Article L621-9
 
 L'immeuble classé au titre des monuments historiques ne peut être détruit ou déplacé, même en partie, ni être l'objet d'un
-travail de restauration, de réparation ou de modification quelconque, si l'autorité administrative compétente n'y a donné son
-consentement.
+travail de restauration, de réparation ou de modification quelconque, sans autorisation de l'autorité administrative.
 
-Les travaux autorisés en application du premier alinéa s'exécutent sous la surveillance de l'autorité administrative.
+Les travaux autorisés en application du premier alinéa s'exécutent sous le contrôle scientifique et technique des services de
+l'Etat chargés des monuments historiques.
 
-**Nota:**
-
-NOTA : La présente version de cet article est en vigueur jusqu'au 1er janvier 2008.
+Un décret en Conseil d'Etat précise les catégories de professionnels auxquels le propriétaire ou l'affectataire d'un immeuble
+classé au titre des monuments historiques est tenu de confier la maîtrise d'œuvre des travaux.
 
 **Liens relatifs à cet article**
 
@@ -8810,6 +8809,10 @@ NOTA : La présente version de cet article est en vigueur jusqu'au 1er janvier 2
 	  - Code du patrimoine. - art. R621-18 (V)
 	  - Code du patrimoine. - art. R621-22 (V)
 	  - Code du patrimoine. - art. R621-44 (V)
+
+	**Modifié par**:
+
+	  - Ordonnance n°2005-1128 du 8 septembre 2005 - art. 7 ()en vigueur le 1er octobre 2007
 
 
 ###### Article L621-10
@@ -9369,20 +9372,27 @@ procéder à aucune modification de l'immeuble ou partie de l'immeuble inscrit, 
 l'autorité administrative de leur intention et indiqué les travaux qu'ils se proposent de réaliser.
 
 Lorsque les constructions ou les travaux envisagés sur les immeubles inscrits au titre des monuments historiques sont soumis
-à permis de construire ou à permis de démolir, celui-ci ne peut être délivré sans l'accord de l'autorité administrative
-chargée des monuments historiques (1).
+à permis de construire, à permis de démolir, à permis d'aménager ou à déclaration préalable, la décision accordant le permis
+ou la décision de non-opposition ne peut intervenir sans l'accord de l'autorité administrative chargée des monuments
+historiques.
 
 Les autres travaux envisagés sur les immeubles inscrits au titre des monuments historiques ne peuvent être entrepris sans la
 déclaration prévue au premier alinéa. L'autorité administrative ne peut s'opposer à ces travaux qu'en engageant la procédure
-de classement au titre des monuments historiques prévue par le présent titre (1).
+de classement au titre des monuments historiques prévue par le présent titre.
 
 Les travaux sur les immeubles inscrits sont exécutés sous le contrôle scientifique et technique des services de l'Etat
-chargés des monuments historiques (1).
+chargés des monuments historiques.
 
 **Nota:**
 
-NOTA : Ordonnance n° 2005-1128, art. 38 : "Les dispositions des articles 4, 12, 16, 17, 18, 24, 25, 26, 28, 29, 32, 33, 34,
-35 et 36 entrent en vigueur à une date fixée par décret en Conseil d'Etat et au plus tard le 1er janvier 2007."
+L'article 41 de l'ordonnance n° 2005-1527 énonce : " La présente ordonnance entrera en vigueur à des dates fixées par décret
+en Conseil d'Etat et au plus tard le 1er juillet 2007. " 
+
+Le décret n° 2007-18 du 5 janvier 2007, en son article 26 fixe cette date au 1er juillet 2007, sous les réserves énoncées
+dans ce même article 26. 
+
+En dernier lieu, l'article 72 de la loi n° 2007-209 du 19 février 2007 reporte la date limite d'entrée en vigueur de
+l'ordonnance au 1er octobre 2007.
 
 **Liens relatifs à cet article**
 
@@ -9397,9 +9407,7 @@ NOTA : Ordonnance n° 2005-1128, art. 38 : "Les dispositions des articles 4, 12,
 
 	**Modifié par**:
 
-	  - Ordonnance 2005-1128 2005-09-08 art. 11 I, III, art. 12 JORF 9 septembre 2005 en vigueur le 1er janvier 2007
-	  - Ordonnance n°2005-1128 du 8 septembre 2005 - art. 11 () JORF 9 septembre 2005 en vigueur le 1er janvier 2007
-	  - Ordonnance n°2005-1128 du 8 septembre 2005 - art. 12 () JORF 9 septembre 2005 en vigueur le 1er janvier 2007
+	  - Ordonnance n°2005-1527 du 8 décembre 2005 - art. 38 () JORF 9 décembre 2005 en vigueur le 1er octobre 2007
 
 	**Cité par**:
 
@@ -9482,6 +9490,43 @@ qui lui appartient ou lui est affecté.
 	**Créé par**:
 
 	  - Ordonnance n°2005-1128 du 8 septembre 2005 - art. 15 () JORF 9 septembre 2005
+
+	**Abrogé par**:
+
+	  - Ordonnance n°2017-651 du 27 avril 2017 - art. 4
+
+
+###### Article L621-29-2
+
+Le maître d'ouvrage des travaux sur l'immeuble classé ou inscrit est le propriétaire ou l'affectataire domanial si les
+conditions de la remise en dotation le prévoient.
+
+Les services de l'Etat chargés des monuments historiques peuvent apporter une assistance gratuite au propriétaire ou à
+l'affectataire domanial d'un immeuble classé ou inscrit qui ne dispose pas, du fait de l'insuffisance de ses ressources ou de
+la complexité du projet de travaux, des moyens nécessaires à l'exercice de la maîtrise d'ouvrage de l'opération. Un décret en
+Conseil d'Etat précise les conditions d'accès à cette assistance, ainsi que le contenu et les modalités des missions de
+maîtrise d'ouvrage exercées à ce titre par les services de l'Etat.
+
+Une assistance de l'Etat en matière de maîtrise d'ouvrage peut également être apportée lorsqu'aucune des deux conditions
+mentionnées à l'alinéa précédent n'est remplie, dès lors que le propriétaire ou l'affectataire domanial établit la carence de
+l'offre privée et des autres collectivités publiques. Dans ce cas, la prestation est rémunérée par application d'un barème,
+établi en fonction des coûts réels, fixé par décret en Conseil d'Etat.
+
+Une convention signée avec le propriétaire ou l'affectataire domanial définit les modalités particulières de l'assistance à
+la maîtrise d'ouvrage assurée par les services de l'Etat.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Ordonnance n°2005-1128 du 8 septembre 2005 - art. 15 () en vigueur le 1er octobre 2007
+
+	**Cité par**:
+
+	  - Décret n°2009-748 du 22 juin 2009 - art. 1 (Ab)
+	  - Décret n°2009-748 du 22 juin 2009 - art. 3 (Ab)
+	  - Code du patrimoine. - art. L141-1 (V)
+	  - Code du patrimoine. - art. R621-70 (V)
 
 	**Abrogé par**:
 
@@ -9623,17 +9668,13 @@ Les modalités d'application du présent article sont fixées par décret en Con
 ###### Article L621-30
 
 Lorsque les constructions ou travaux destinés à la création ou à la modification d'un immeuble adossé à un immeuble classé
-sont soumis à permis de construire ou à permis de démolir, celui-ci ne peut être délivré sans l'accord de l'autorité
-administrative chargée des monuments historiques.
+sont soumis à permis de construire, à permis de démolir, à permis d'aménager ou à déclaration préalable, la décision
+accordant le permis ou la décision de non-opposition ne peut intervenir sans l'accord de l'autorité administrative chargée
+des monuments historiques.
 
-Les travaux sur un immeuble adossé à un immeuble classé non soumis à permis de construire ou permis de démolir mais qui sont
-de nature à affecter la bonne conservation de l'immeuble classé ne peuvent être réalisés sans autorisation de l'autorité
-administrative chargée des monuments historiques.
-
-**Nota:**
-
-Ordonnance n° 2005-1128, art. 38 : " Les dispositions des articles 4,12,16,17,18,24,25,26,28,29,32,33,34,35 et 36 entrent en
-vigueur à une date fixée par décret en Conseil d'Etat et au plus tard le 1er janvier 2007. "
+Les travaux sur un immeuble adossé à un immeuble classé non soumis à permis de construire, permis de démolir, permis
+d'aménager ou déclaration préalable mais qui sont de nature à affecter la bonne conservation de l'immeuble classé ne peuvent
+être réalisés sans autorisation de l'autorité administrative chargée des monuments historiques.
 
 **Liens relatifs à cet article**
 
@@ -9648,7 +9689,7 @@ vigueur à une date fixée par décret en Conseil d'Etat et au plus tard le 1er 
 
 	**Modifié par**:
 
-	  - Ordonnance n°2005-1128 du 8 septembre 2005 - art. 16 () en vigueur le 1er octobre 2007
+	  - Ordonnance n°2005-1527 du 8 décembre 2005 - art. 38 () JORF 9 décembre 2005 en vigueur le 1er octobre 2007
 
 	**Cité par**:
 
@@ -9797,34 +9838,42 @@ ou inscrit ne comportant pas d'édifice, si le périmètre de protection de ce p
 conditions fixées aux deuxième ou troisième alinéas de l'article L. 621-30-1.
 
 Si cet immeuble est classé au titre des monuments historiques, l'autorisation est celle prévue au premier alinéa de l'article
-L. 621-9. Si l'immeuble n'est pas classé, le permis de construire ou le permis de démolir tient lieu de l'autorisation si
-l'architecte des Bâtiments de France a donné son accord.
+L. 621-9. Si l'immeuble n'est pas classé, le permis de construire, le permis de démolir, le permis d'aménager ou l'absence
+d'opposition à déclaration préalable tient lieu de l'autorisation si l'architecte des Bâtiments de France a donné son accord.
 
-Les travaux soumis à permis de construire ou permis de démolir et portant sur des immeubles inscrits ou des immeubles adossés
-à des immeubles classés ne sont soumis qu'à l'accord de l'autorité administrative prévu respectivement aux articles L. 621-27
-et L. 621-30.
+Les travaux soumis à permis de construire, permis de démolir, permis d'aménager ou déclaration préalable et portant sur des
+immeubles inscrits ou des immeubles adossés à des immeubles classés ne sont soumis qu'à l'accord de l'autorité administrative
+prévu respectivement aux articles L. 621-27 et L. 621-30.
 
-En cas de désaccord soit du maire ou de l'autorité administrative compétente pour délivrer l'autorisation, le permis de
-construire ou le permis de démolir, soit du pétitionnaire avec l'avis émis par l'architecte des Bâtiments de France, le
-représentant de l'Etat dans la région émet, après consultation de la section de la commission régionale du patrimoine et des
-sites, un avis qui se substitue à celui de l'architecte des Bâtiments de France. Le recours du pétitionnaire s'exerce à
-l'occasion du refus d'autorisation de travaux. Si le représentant de l'Etat infirme l'avis de l'architecte des Bâtiments de
-France, le maire ou l'autorité administrative compétente est fondé à délivrer l'autorisation, le permis de construire ou le
-permis de démolir initialement refusé. Les délais de saisine du préfet de région et ceux impartis à la section de la
-commission régionale du patrimoine et des sites, au préfet ou au maire, ou à l'autorité administrative compétente pour
-statuer sont fixés par décret en Conseil d'Etat.
+En cas de désaccord soit du maire ou de l'autorité administrative compétente pour délivrer le permis de construire, le permis
+d'aménager ou le permis de démolir ou ne pas s'opposer à la déclaration préalable, soit du pétitionnaire avec l'avis émis par
+l'architecte des Bâtiments de France, le représentant de l'Etat dans la région émet, après consultation de la section de la
+commission régionale du patrimoine et des sites, un avis qui se substitue à celui de l'architecte des Bâtiments de France. Le
+recours du pétitionnaire s'exerce à l'occasion du refus d'autorisation de travaux. Si le représentant de l'Etat infirme
+l'avis de l'architecte des Bâtiments de France, le maire ou l'autorité administrative compétente est fondé à délivrer le
+permis de construire, le permis de démolir ou le permis d'aménager initialement refusé ou ne pas s'opposer à la déclaration
+préalable. Les délais de saisine du préfet de région et ceux impartis à la section de la commission régionale du patrimoine
+et des sites, au préfet ou au maire, ou à l'autorité administrative compétente pour statuer sont fixés par décret en Conseil
+d'Etat.
 
 Le ministre chargé de la culture peut évoquer tout dossier dont l'architecte des Bâtiments de France ou le représentant de
-l'Etat dans la région est saisi en application du présent article. L'autorisation, le permis de construire ou le permis de
-démolir ne peut dès lors être délivré qu'avec son accord.
+l'Etat dans la région est saisi en application du présent article. La décision de non-opposition à la déclaration préalable
+ou la décision accordant le permis de construire, le permis d'aménager ou le permis de démolir ne peut dès lors intervenir
+qu'avec son accord.
 
 Dans la collectivité territoriale de Corse, les compétences dévolues au préfet de région par le présent article sont exercées
 par le préfet de Corse.
 
 **Nota:**
 
-NOTA : Ordonnance n° 2005-1128, art. 38 : "Les dispositions des articles 4, 12, 16, 17, 18, 24, 25, 26, 28, 29, 32, 33, 34,
-35 et 36 entrent en vigueur à une date fixée par décret en Conseil d'Etat et au plus tard le 1er janvier 2007".
+L'article 41 de l'ordonnance n° 2005-1527 énonce : " La présente ordonnance entrera en vigueur à des dates fixées par décret
+en Conseil d'Etat et au plus tard le 1er juillet 2007. " 
+
+Le décret n° 2007-18 du 5 janvier 2007, en son article 26 fixe cette date au 1er juillet 2007, sous les réserves énoncées
+dans ce même article 26. 
+
+En dernier lieu, l'article 72 de la loi n° 2007-209 du 19 février 2007 reporte la date limite d'entrée en vigueur de
+l'ordonnance au 1er octobre 2007.
 
 **Liens relatifs à cet article**
 
@@ -9868,14 +9917,86 @@ NOTA : Ordonnance n° 2005-1128, art. 38 : "Les dispositions des articles 4, 12,
 
 	**Modifié par**:
 
-	  - Ordonnance n°2005-1128 du 8 septembre 2005 - art. 15 () JORF septembre 2005 en vigueur le 1er janvier 2007
-	  - Ordonnance n°2005-1128 du 8 septembre 2005 - art. 16 () JORF septembre 2005 en vigueur le 1er janvier 2007
+	  - Ordonnance n°2005-1527 du 8 décembre 2005 - art. 38 () JORF 9 décembre 2005 en vigueur le 1er octobre 2007
 
 	**Cite**:
 
 	  - Code du patrimoine. - art. L621-27 (M)
 	  - Code du patrimoine. - art. L621-30-1 (V)
 	  - Code du patrimoine. - art. L621-9 (AbD)
+
+
+###### Article L621-32
+
+Lorsqu'elle ne concerne pas des travaux pour lesquels le permis de construire, le permis de démolir ou l'autorisation
+mentionnée à l'article L. 442-1 du code de l'urbanisme est nécessaire, la demande d'autorisation prévue à l'article L. 621-31
+est adressée à l'autorité administrative. Celle-ci statue après avoir recueilli l'avis de l'architecte des Bâtiments de
+France. Toutefois, si le ministre chargé de la culture a décidé d'évoquer le dossier, l'autorisation ne peut être délivrée
+qu'avec son accord exprès.
+
+Si l'autorité administrative n'a pas notifié sa réponse aux intéressés dans le délai de quarante jours à dater du dépôt de
+leur demande ou si cette réponse ne leur donne pas satisfaction, ils peuvent former un recours hiérarchique, dans les deux
+mois suivant la notification de la réponse du préfet ou l'expiration du délai de quarante jours imparti au préfet pour
+procéder à ladite notification.
+
+L'autorité administrative statue. Si sa décision n'a pas été notifiée aux intéressés dans un délai fixé par voie
+réglementaire à partir de la réception de leur demande, cette demande est considérée comme rejetée.
+
+Les auteurs de la demande sont tenus de se conformer aux prescriptions qui leur sont imposées pour la protection de
+l'immeuble classé ou inscrit par l'autorité administrative dans le cas prévu au 2e alinéa de l'article L. 621-31 et dans les
+cas prévus aux 1er, 2e et 3e alinéas du présent article.
+
+**Nota:**
+
+
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Loi n°1913-12-31 du 31 décembre 1913 - art. 13 ter (V)
+	  - Loi n°1913-12-31 art. 13 ter
+
+	**Codifié par**:
+
+	  - Ordonnance 2004-178 2004-02-20 JORF 24 février 2004
+
+	**Modifié par**:
+
+	  - Ordonnance n°2005-1128 du 8 septembre 2005 - art. 16 () JORF 9 septembre 2005 en vigueur le 1er octobre 2007
+
+	**Cité par**:
+
+	  - Décret n°2007-487 du 30 mars 2007 - art. 52 (Ab)
+	  - Décret n°2007-487 du 30 mars 2007 - art. 95 (Ab)
+	  - Décret n°2014-450 du 2 mai 2014 - art. 10 (VT)
+	  - Décret n°2014-1299 du 23 octobre 2014 - art. (V)
+	  - Décret n°2015-1461 du 10 novembre 2015 - art. (V)
+	  - Loi n°2016-925 du 7 juillet 2016 - art. 112 (V)
+	  - Décret n°2017-81 du 26 janvier 2017 - art. 1
+	  - Décret n°2017-82 du 26 janvier 2017 - art. 2
+	  - Décret n°2017-456 du 29 mars 2017 - art. 18
+	  - Code de l'environnement - art. D181-15-2 (V)
+	  - Code de l'environnement - art. L181-2 (VD)
+	  - Code de l'environnement - art. L341-10 (VD)
+	  - Code de l'environnement - art. R181-32 (VD)
+	  - Code de l'urbanisme - art. L313-2-1 (Ab)
+	  - Code de l'urbanisme - art. R*425-1 (V)
+	  - Code du patrimoine - art. L624-3 (V)
+	  - Code du patrimoine - art. L641-1 (VD)
+	  - Code du patrimoine - art. R612-3 (Ab)
+	  - Code du patrimoine - art. R621-62-1 (Ab)
+	  - Code du patrimoine - art. R621-96 (V)
+	  - Code du patrimoine - art. R621-96-12 (Ab)
+	  - Code du patrimoine - art. R621-96-18 (Ab)
+	  - Code du patrimoine - art. R621-96-9 (M)
+	  - Code du patrimoine. - art. L612-1 (VD)
+	  - Code du patrimoine. - art. L621-31 (M)
+	  - Code du patrimoine. - art. L642-5 (V)
+
+	**Cite**:
+
+	  - Code de l'urbanisme - art. L442-1 (M)
 
 
 ##### Section 5 : Dispositions diverses.
@@ -9905,55 +10026,6 @@ solidairement.
 	**Cité par**:
 
 	  - Code du patrimoine - art. R621-97 (V)
-
-
-###### Article L621-34
-
-Les règles relatives à l'instruction du permis de démolir portant sur les immeubles inscrits, adossés ou situés dans le champ
-de visibilité d'un immeuble classé ou inscrit mentionnés aux articles L. 621-25, L. 621-30 et L. 621-31 du présent code sont
-régies par les dispositions des articles L. 430-4 et L. 430-8 du code de l'urbanisme.
-
-**Nota:**
-
-NOTA : Ordonnance n° 2005-1128, art. 38 : "Les dispositions des articles 4, 12, 16, 17, 18, 24, 25, 26, 28, 29, 32, 33, 34,
-35 et 36 entrent en vigueur à une date fixée par décret en Conseil d'Etat et au plus tard le 1er janvier 2007".
-
-NOTA : L'article 41 de l'ordonnance n° 2005-1527 énonce : "La présente ordonnance entrera en vigueur à des dates fixées par
-décret en Conseil d'Etat et au plus tard le 1er juillet 2007."
-
-Le décret n° 2007-18 du 5 janvier 2007, en son article 26 fixe cette date au 1er juillet 2007, sous les réserves énoncées
-dans ce même article 26.
-
-En dernier lieu, l'article 72 de la loi n° 2007-209 du 19 février 2007 reporte la date limite d'entrée en vigueur de
-l'ordonnance au 1er octobre 2007.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Ordonnance 2004-178 2004-02-20 JORF 24 février 2004
-
-	**Modifié par**:
-
-	  - Ordonnance n°2005-1128 du 8 septembre 2005 - art. 15 () JORF 9 septembre 2005 en vigueur le 1er janvier 2007
-	  - Ordonnance n°2005-1128 du 8 septembre 2005 - art. 18 () JORF 9 septembre 2005 en vigueur le 1er janvier 2007
-
-	**Abrogé par**:
-
-	  - Ordonnance n°2005-1527 du 8 décembre 2005 - art. 38 () JORF 9 décembre 2005 en vigueur le 1er octobre 2007
-
-	**Cite**:
-
-	  - Code de l'urbanisme - art. L430-4 (Ab)
-	  - Code de l'urbanisme - art. L430-8 (M)
-	  - Code du patrimoine. - art. L621-25 (M)
-	  - Code du patrimoine. - art. L621-30 (M)
-	  - Code du patrimoine. - art. L621-31 (M)
-
-	**Cité par**:
-
-	  - Code du patrimoine - art. L624-7 (V)
-	  - Code du patrimoine. - art. L720-1 (V)
 
 
 #### Chapitre 2 : Objets mobiliers
@@ -10135,11 +10207,12 @@ administrative soit d'office, soit à la demande du propriétaire. Il est notifi
 ###### Article L622-7
 
 Les objets classés au titre des monuments historiques ne peuvent être modifiés, réparés ou restaurés sans l'autorisation de
-l'autorité administrative compétente ni hors sa surveillance.
+l'autorité administrative compétente.
 
-**Nota:**
-
-
+Les travaux autorisés s'exécutent sous le contrôle scientifique et technique des services de l'Etat chargés des monuments
+historiques. Un décret en Conseil d'Etat précise les catégories de professionnels auxquels le propriétaire ou l'affectataire
+d'un objet mobilier classé au titre des monuments historiques ou d'un orgue classé est tenu de confier la maîtrise d'œuvre
+des travaux.
 
 **Liens relatifs à cet article**
 
@@ -10170,6 +10243,10 @@ l'autorité administrative compétente ni hors sa surveillance.
 	  - Code du patrimoine. - art. R622-11 (V)
 	  - Code du patrimoine. - art. R622-22 (V)
 	  - Code général des impôts, CGI. - art. 199 duovicies (V)
+
+	**Modifié par**:
+
+	  - Ordonnance n°2005-1128 du 8 septembre 2005 - art. 21 () JORF 9 septembre 2005 en vigueur le 1er octobre 2007
 
 
 ###### Article L622-8
@@ -10639,6 +10716,41 @@ lui appartient ou qui lui est affecté.
 	  - Code du patrimoine - art. L642-2 (VD)
 
 
+###### Article L622-25
+
+Le maître d'ouvrage des travaux sur l'objet mobilier classé ou inscrit est le propriétaire ou l'affectataire domanial si les
+conditions de la remise en dotation le prévoient.
+
+Les services de l'Etat chargés des monuments historiques peuvent apporter une assistance gratuite au propriétaire ou à
+l'affectataire domanial d'un objet mobilier classé ou inscrit qui ne dispose pas, du fait de l'insuffisance de ses ressources
+ou de la complexité du projet de travaux, des moyens nécessaires à l'exercice de la maîtrise d'ouvrage de l'opération. Un
+décret en Conseil d'Etat précise les conditions ouvrant la possibilité de cette assistance, ainsi que le contenu et les
+modalités des missions de maîtrise d'ouvrage exercées à ce titre par les services de l'Etat.
+
+Une assistance de l'Etat en matière de maîtrise d'ouvrage peut également être apportée lorsqu'aucune des conditions
+mentionnées à l'alinéa précédent n'est remplie, dès lors que le propriétaire ou l'affectataire domanial établit la carence de
+l'offre privée et des autres collectivités publiques. Dans ce cas, la prestation est rémunérée par application d'un barème,
+établi en fonction des coûts réels, fixé par décret en Conseil d'Etat.
+
+Une convention signée avec le propriétaire ou l'affectataire domanial définit les modalités particulières de l'assistance à
+la maîtrise d'ouvrage assurée par les services de l'Etat.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance 2004-178 2004-02-20 JORF 24 février 2004
+
+	**Créé par**:
+
+	  - Ordonnance n°2005-1128 du 8 septembre 2005 - art. 27 () JORF 9 septembre 2005 en vigueur le 1er octobre 2007
+
+	**Cité par**:
+
+	  - Décret n°2009-748 du 22 juin 2009 - art. 1 (Ab)
+	  - Code du patrimoine. - art. R622-45 (V)
+
+
 ###### Article L622-26
 
 En cas de mutation d'un objet mobilier classé ou inscrit, le propriétaire ou l'affectataire domanial transmet les études et
@@ -10658,6 +10770,62 @@ propriétaire ou au nouvel affectataire domanial.
 	**Abrogé par**:
 
 	  - Ordonnance n°2017-651 du 27 avril 2017 - art. 6
+
+
+###### Article L622-27
+
+Lorsque les travaux d'entretien, de réparation et de mise en sécurité des objets mobiliers classés ou inscrits, les études
+préalables et les travaux de restauration de ces objets mobiliers ainsi que l'assistance à maîtrise d'ouvrage font l'objet,
+dans les conditions prévues par les lois et règlements, d'aides de la part des collectivités publiques, un échéancier prévoit
+le versement au propriétaire d'un acompte avant le début de chaque tranche de travaux.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance n°2004-178 du 20 février 2004
+
+	**Créé par**:
+
+	  - Ordonnance n°2005-1128 du 8 septembre 2005 - art. 27 () JORF 9 septembre 2005 en vigueur le 1er octobre 2007
+
+	**Abrogé par**:
+
+	  - Ordonnance n°2017-651 du 27 avril 2017 - art. 6
+
+
+###### Article L622-28
+
+Le propriétaire, le détenteur, l'affectataire domanial ou le dépositaire d'un objet mobilier classé ou inscrit au titre des
+monuments historiques qui a l'intention de déplacer cet objet d'un lieu dans un autre est tenu d'en faire préalablement la
+déclaration à l'autorité administrative dans un délai fixé par décret en Conseil d'Etat.
+
+Le déplacement des objets mobiliers classés ou inscrits appartenant à l'Etat, aux collectivités territoriales ou à leurs
+établissements publics a lieu sous le contrôle scientifique et technique des services de l'Etat chargés des monuments
+historiques. Le déplacement des objets mobiliers classés ou inscrits appartenant à des propriétaires privés peut avoir lieu,
+à la demande de ceux-ci, avec l'assistance technique des services de l'Etat chargés des monuments historiques.
+
+Les modalités d'application du présent article, notamment le contenu et la procédure d'instruction de la déclaration
+préalable, les conditions d'exercice du contrôle scientifique et technique ainsi que le bénéfice de l'assistance technique
+des services de l'Etat chargés des monuments historiques, sont déterminées par décret en Conseil d'Etat.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance 2004-178 2004-02-20 JORF 24 février 2004
+
+	**Créé par**:
+
+	  - Ordonnance n°2005-1128 du 8 septembre 2005 - art. 27 () JORF 9 septembre 2005 en vigueur le 1er octobre 2007
+
+	**Abrogé par**:
+
+	  - Ordonnance n°2017-651 du 27 avril 2017 - art. 6
+
+	**Cité par**:
+
+	  - Code du patrimoine - art. L642-1 (V)
 
 
 ###### Article L622-29
