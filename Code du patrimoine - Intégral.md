@@ -1,5 +1,5 @@
 # Code du patrimoine  
-Version Consolidée au 2007-12-29
+Version Consolidée au 2008-01-01
 
 # Partie législative
 
@@ -9465,6 +9465,35 @@ l'ordonnance au 1er octobre 2007.
 
 	  - Code du patrimoine - art. L624-7 (V)
 	  - Code du patrimoine. - art. L720-1 (V)
+
+
+###### Article L621-29
+
+L'autorité administrative est autorisée à subventionner dans la limite de 40 % de la dépense effective les travaux
+d'entretien et de réparation que nécessite la conservation des immeubles ou parties d'immeubles inscrits au titre des
+monuments historiques.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Loi n°1913-12-31 du 31 décembre 1913 - art. 2 (V)
+	  - Loi n°1913-12-31 art. 2 al. 9
+
+	**Codifié par**:
+
+	  - Ordonnance 2004-178 2004-02-20 JORF 24 février 2004
+
+	**Modifié par**:
+
+	  - Ordonnance n°2005-1128 du 8 septembre 2005 - art. 11 () JORF 9 septembre 2005
+	  - Ordonnance n°2005-1128 du 8 septembre 2005 - art. 14 () JORF 9 septembre 2005
+
+	**Cité par**:
+
+	  - Code du domaine de l'Etat - art. R27 (Ab)
+	  - Code du patrimoine - art. L730-1 (V)
+	  - Code du patrimoine. - art. R621-72 (V)
 
 
 ##### Section 3 : Dispositions communes aux immeubles classés et aux immeubles inscrits.
