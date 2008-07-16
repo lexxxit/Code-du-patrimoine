@@ -1,5 +1,5 @@
 # Code du patrimoine  
-Version Consolidée au 2008-01-01
+Version Consolidée au 2008-07-17
 
 # Partie législative
 
@@ -970,28 +970,16 @@ dispositions des articles 322-1 et 322-2 du code pénal ci-après reproduits :
 d'emprisonnement et de 30 000 euros d'amende, sauf s'il n'en est résulté qu'un dommage léger. 
 
 " Le fait de tracer des inscriptions, des signes ou des dessins, sans autorisation préalable, sur les façades, les véhicules,
-les voies publiques ou le mobilier urbain est puni de 3 750 euros d'amende et d'une peine de travail d'intérêt général,
+les voies publiques ou le mobilier urbain est puni de 3 750 euros d'amende et d'une peine de travail d'intérêt général
 lorsqu'il n'en est résulté qu'un dommage léger. " 
 
 " Art. 322-2 - L'infraction définie au premier alinéa de l'article 322-1 est punie de trois ans d'emprisonnement et de 45 000
 euros d'amende et celle définie au deuxième alinéa du même article de 7 500 euros d'amende et d'une peine de travail
 d'intérêt général, lorsque le bien détruit, dégradé ou détérioré est : 
 
-" 1° Destiné à l'utilité ou à la décoration publiques et appartient à une personne publique ou chargée d'une mission de
-service public ; 
+" 1° (Abrogé) ; 
 
 " 2° Un registre, une minute ou un acte original de l'autorité publique. 
-
-" 3° Un immeuble ou un objet mobilier classé ou inscrit, une découverte archéologique faite au cours de fouilles ou
-fortuitement, un terrain contenant des vestiges archéologiques ou un objet conservé ou déposé dans les musées de France ou
-dans les musées, bibliothèques ou archives appartenant à une personne publique, chargée d'un service public ou reconnue
-d'utilité publique ;
-
-" 4° Un objet présenté lors d'une exposition à caractère historique, culturel ou scientifique, organisée par une personne
-publique, chargée d'un service public ou reconnue d'utilité publique.
-
-" Dans le cas prévu par le 3° du présent article, l'infraction est également constituée si son auteur est le propriétaire du
-bien détruit, dégradé ou détérioré.
 
 " Lorsque l'infraction définie au premier alinéa de l'article 322-1 est commise à raison de l'appartenance ou de la non-
 appartenance, vraie ou supposée, de la personne propriétaire ou utilisatrice de ce bien à une ethnie, une nation, une race ou
@@ -1000,22 +988,9 @@ une religion déterminée, les peines encourues sont également portées à troi
 
 **Liens relatifs à cet article**
 
-	**Codifié par**:
-
-	  - Ordonnance 2004-178 2004-02-20 JORF 24 février 2004
-
 	**Modifié par**:
 
-	  - Loi n°2004-1343 du 9 décembre 2004 - art. 78 (V) JORF 10 décembre 2004
-
-	**Liens**:
-
-	  - PILOTE_SUIVEUR: Code pénal - art. 322-1 (V)
-	  - PILOTE_SUIVEUR: Code pénal - art. 322-2 (V)
-
-	**Cite**:
-
-	  - Code du patrimoine
+	  - Loi n°2008-696  du 15 juillet 2008 - art. 34
 
 	**Cité par**:
 
@@ -1024,31 +999,34 @@ une religion déterminée, les peines encourues sont également portées à troi
 
 ###### Article L114-3
 
-En cas de nécessité, les accès des lieux ou établissements désignés aux 3° et 4° de l'article 322-2 du code pénal peuvent
-être fermés et la sortie des usagers et visiteurs contrôlée jusqu'à l'arrivée d'un officier de police judiciaire.
+En cas de nécessité, les accès des lieux ou établissements désignés à l'article 322-3-1 du code pénal peuvent être fermés et
+la sortie des usagers et visiteurs contrôlée jusqu'à l'arrivée d'un officier de police judiciaire.
 
 **Liens relatifs à cet article**
 
 	**Anciens textes**:
 
-	  - Loi n°80-532 du 15 juillet 1980 - art. 5 (M)
 	  - Loi n°80-532 du 15 juillet 1980 - art. 5 (Ab)
 
-	**Codifié par**:
+	**Modifié par**:
 
-	  - Ordonnance 2004-178 2004-02-20 JORF 24 février 2004
+	  - Loi n°2008-696  du 15 juillet 2008 - art. 34
+
+	**Cite**:
+
+	  - Code pénal - art. 322-3-1
 
 
 ###### Article L114-4
 
 Sans préjudice de l'application des articles 16, 20 et 21 du code de procédure pénale, peuvent être habilités à procéder à
-toutes constatations pour l'application des 3° et 4° de l'article 322-2 du code pénal et des textes ayant pour objet la
-protection des collections publiques :
+toutes constatations pour l'application de l'article 322-3-1 du code pénal et des textes ayant pour objet la protection des
+collections publiques : 
 
-a) Les fonctionnaires et agents chargés de la conservation ou de la surveillance des objets ou documents mentionnés aux 3° et
-4° de l'article 322-2 du code pénal ;
+a) Les fonctionnaires et agents chargés de la conservation ou de la surveillance des objets ou documents mentionnés à
+l'article 322-3-1 du code pénal ; 
 
-b) Les gardiens d'immeubles ou d'objets mobiliers classés ou inscrits quel qu'en soit le propriétaire.
+b) Les gardiens d'immeubles ou d'objets mobiliers classés ou inscrits quel qu'en soit le propriétaire. 
 
 Ces fonctionnaires, agents et gardiens doivent être spécialement assermentés et commissionnés aux fins mentionnées aux
 alinéas précédents dans des conditions fixées par décret en Conseil d'Etat.
@@ -1065,12 +1043,18 @@ alinéas précédents dans des conditions fixées par décret en Conseil d'Etat.
 
 	**Anciens textes**:
 
-	  - Loi n°80-532 du 15 juillet 1980 - art. 3 (M)
 	  - Loi n°80-532 du 15 juillet 1980 - art. 3 (Ab)
 
-	**Codifié par**:
+	**Modifié par**:
 
-	  - Ordonnance 2004-178 2004-02-20 JORF 24 février 2004
+	  - Loi n°2008-696  du 15 juillet 2008 - art. 34
+
+	**Cite**:
+
+	  - Code pénal - art. 322-3-1
+	  - Code de procédure pénale - art. 16
+	  - Code de procédure pénale - art. 20
+	  - Code de procédure pénale - art. 21
 
 
 ###### Article L114-5
@@ -1097,25 +1081,25 @@ lieu, à peine de nullité, dans les quatre jours qui suivent le jour de la cons
 ###### Article L114-6
 
 Les dispositions relatives à l'exercice des droits reconnus à la partie civile par une association du patrimoine culturel
-agréée sont prévues par l'article 2-21 du code de procédure pénale reproduit ci-après :
+agréée sont prévues par l'article 2-21 du code de procédure pénale reproduit ci-après : 
 
-"Art. 2-21. - Toute association agréée, déclarée depuis au moins trois ans et ayant pour but l'étude et la protection du
-patrimoine archéologique, peut exercer les droits reconnus à la partie civile en ce qui concerne les faits réprimés par les
-3° et 4° de l'article 322-2 du code pénal et portant un préjudice direct ou indirect aux intérêts collectifs qu'elle a pour
-objet de défendre.
+" Art. 2-21. - Toute association agréée déclarée depuis au moins trois ans, ayant pour but l'étude et la protection du
+patrimoine archéologique, peut exercer les droits reconnus à la partie civile en ce qui concerne les faits réprimés par
+l'article 322-3-1 du code pénal et portant un préjudice direct ou indirect aux intérêts collectifs qu'elle a pour objet de
+défendre. 
 
-"Un décret en Conseil d'Etat fixe les modalités de l'agrément des associations mentionnées à l'alinéa précédent."
+Un décret en Conseil d'Etat fixe les conditions dans lesquelles les associations mentionnées à l'alinéa précédent peuvent
+être agréées. "
 
 **Liens relatifs à cet article**
 
-	**Codifié par**:
+	**Modifié par**:
 
-	  - Ordonnance 2004-178 2004-02-20 JORF 24 février 2004
+	  - Loi n°2008-696  du 15 juillet 2008 - art. 34
 
 	**Cite**:
 
-	  - Code pénal - art. 322-2 (M)
-	  - CODE DE PROCEDURE PENALE - art. 2-21 (M)
+	  - Code pénal - art. 322-3-1 (V)
 
 
 ### TITRE II : ACQUISITION DE BIENS CULTURELS
@@ -2541,20 +2525,20 @@ Fondation du patrimoine " par les mots : " la fondation ou l'association ".
 
 ###### Article L211-1
 
-Les archives sont l'ensemble des documents, quels que soient leur date, leur forme et leur support matériel, produits ou
-reçus par toute personne physique ou morale et par tout service ou organisme public ou privé dans l'exercice de leur
-activité.
+Les archives sont l'ensemble des documents, quels que soient leur date, leur lieu de conservation, leur forme et leur
+support, produits ou reçus par toute personne physique ou morale et par tout service ou organisme public ou privé dans
+l'exercice de leur activité.
 
 **Liens relatifs à cet article**
 
 	**Anciens textes**:
 
-	  - Loi n°79-18 1979-01-03 art. 1er alinéa 1
 	  - Loi n°79-18 du 3 janvier 1979 - art. 1 (Ab)
 
-	**Codifié par**:
+	**Modifié par**:
 
-	  - Ordonnance 2004-178 2004-02-20 JORF 24 février 2004
+	  - Loi n°2008-696  du 15 juillet 2008 - art. 1
+	  - Loi n°2008-696  du 15 juillet 2008 - art. 2
 
 	**Cité par**:
 
@@ -2584,6 +2568,23 @@ des droits des personnes physiques ou morales, publiques ou privées, que pour l
 	  - Ordonnance 2004-178 2004-02-20 JORF 24 février 2004
 
 
+###### Article L211-2-1
+
+Le Conseil supérieur des archives, placé auprès du ministre chargé de la culture, est consulté sur la politique mise en œuvre
+en matière d'archives publiques et privées. 
+
+Il est composé, outre son président, d'un député et d'un sénateur, de membres de droit représentant en particulier l'Etat et
+les collectivités territoriales, de personnalités qualifiées et de représentants élus du personnel. 
+
+La composition, les modes de désignation des membres et les modalités de fonctionnement de ce conseil sont fixés par arrêté.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°2008-696  du 15 juillet 2008 - art. 3
+
+
 ###### Article L211-3
 
 Tout fonctionnaire ou agent chargé de la collecte ou de la conservation d'archives en application des dispositions du présent
@@ -2607,17 +2608,22 @@ public.
 
 ###### Article L211-4
 
-Les archives publiques sont :
+Les archives publiques sont : 
 
-a) Les documents qui procèdent de l'activité de l'Etat, des collectivités territoriales, des établissements et entreprises
-publics ;
+a) Les documents qui procèdent de l'activité de l'Etat, des collectivités territoriales, des établissements publics et des
+autres personnes morales de droit public ou des personnes de droit privé chargées de la gestion d'un service public, dans le
+cadre de leur mission de service public. Les actes et documents des assemblées parlementaires sont régis par l'ordonnance n°
+58-1100 du 17 novembre 1958 relative au fonctionnement des assemblées parlementaires ; 
 
-b) Les documents qui procèdent de l'activité des organismes de droit privé chargés de la gestion des services publics ou
-d'une mission de service public ;
+b) (Supprimé) ; 
 
 c) Les minutes et répertoires des officiers publics ou ministériels.
 
 **Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Ordonnance n°58-1100 du 17 novembre 1958
 
 	**Cité par**:
 
@@ -2633,12 +2639,11 @@ c) Les minutes et répertoires des officiers publics ou ministériels.
 
 	**Anciens textes**:
 
-	  - Loi n°79-18 1979-01-03 art. 3 alinéas 1 à 4
 	  - Loi n°79-18 du 3 janvier 1979 - art. 3 (Ab)
 
-	**Codifié par**:
+	**Modifié par**:
 
-	  - Ordonnance 2004-178 2004-02-20 JORF 24 février 2004
+	  - Loi n°2008-696  du 15 juillet 2008 - art. 4
 
 
 ###### Article L211-5
@@ -2687,13 +2692,20 @@ Les modalités d'application du présent chapitre sont fixées par décret en Co
 
 ###### Article L212-1
 
-Les archives publiques, quel qu'en soit le possesseur, sont imprescriptibles.
+Les archives publiques sont imprescriptibles. 
+
+Nul ne peut détenir sans droit ni titre des archives publiques. 
+
+Le propriétaire du document, l'administration des archives ou tout service public d'archives compétent peut engager une
+action en revendication d'archives publiques, une action en nullité de tout acte intervenu en méconnaissance du deuxième
+alinéa ou une action en restitution. 
+
+Les modalités d'application des dispositions qui précèdent sont fixées par décret en Conseil d'Etat.
 
 **Liens relatifs à cet article**
 
 	**Anciens textes**:
 
-	  - Loi n°79-18 1979-01-03 art. 3 alinéa 5
 	  - Loi n°79-18 du 3 janvier 1979 - art. 3 (Ab)
 
 	**Cité par**:
@@ -2713,30 +2725,29 @@ Les archives publiques, quel qu'en soit le possesseur, sont imprescriptibles.
 	  - Code du patrimoine. - art. R*212-39 (V)
 	  - Code du patrimoine. - art. R212-7 (V)
 
-	**Codifié par**:
+	**Modifié par**:
 
-	  - Ordonnance 2004-178 2004-02-20 JORF 24 février 2004
+	  - Loi n°2008-696  du 15 juillet 2008 - art. 5
 
 
 ###### Article L212-2
 
-Les conditions de la conservation des archives publiques sont déterminées par décret en Conseil d'Etat.
+A l'expiration de leur période d'utilisation courante, les archives publiques autres que celles mentionnées à l'article L.
+212-3 font l'objet d'une sélection pour séparer les documents à conserver des documents dépourvus d'utilité administrative ou
+d'intérêt historique ou scientifique, destinés à l'élimination. 
 
-Ce décret détermine les cas où l'administration des archives laisse le soin de la conservation des documents d'archives
-produits ou reçus par certaines administrations ou certains organismes aux services compétents de ces administrations ou
-organismes. Il fixe les conditions de la coopération entre l'administration des archives et ces administrations ou
-organismes.
+La liste des documents ou catégories de documents destinés à l'élimination ainsi que les conditions de leur élimination sont
+fixées par accord entre l'autorité qui les a produits ou reçus et l'administration des archives.
 
 **Liens relatifs à cet article**
 
 	**Anciens textes**:
 
-	  - Loi n°79-18 1979-01-03 art. 3 alinéas 6 et 7
 	  - Loi n°79-18 du 3 janvier 1979 - art. 3 (Ab)
 
-	**Codifié par**:
+	**Modifié par**:
 
-	  - Ordonnance 2004-178 2004-02-20 JORF 24 février 2004
+	  - Loi n°2008-696  du 15 juillet 2008 - art. 5
 
 	**Cité par**:
 
@@ -2757,18 +2768,28 @@ organismes.
 	  - Code du patrimoine. - art. L212-27 (V)
 	  - Code du patrimoine. - art. L213-5 (M)
 
+	**Cite**:
+
+	  - Code du patrimoine - art. L212-3
+
 
 ###### Article L212-3
 
-A l'expiration de leur période d'utilisation courante par les services, établissements et organismes qui les ont produits ou
-reçus, les documents mentionnés à l'article L. 211-4 et autres que ceux mentionnés à l'article L. 212-4 font l'objet d'un tri
-pour séparer les documents à conserver et les documents dépourvus d'intérêt administratif et historique, destinés à
-l'élimination.
+Lorsque les archives publiques comportent des données à caractère personnel collectées dans le cadre de traitements régis par
+la loi n° 78-17 du 6 janvier 1978 relative à l'informatique, aux fichiers et aux libertés, ces données font l'objet, à
+l'expiration de la durée prévue au 5° de l'article 6 de ladite loi, d'une sélection pour déterminer les données destinées à
+être conservées et celles, dépourvues d'utilité administrative ou d'intérêt scientifique, statistique ou historique,
+destinées à être éliminées. 
 
-La liste des documents destinés à l'élimination ainsi que les conditions de leur élimination sont fixées en accord entre
-l'autorité qui les a produits ou reçus et l'administration des archives.
+Les catégories de données destinées à l'élimination ainsi que les conditions de cette élimination sont fixées par accord
+entre l'autorité qui a produit ou reçu ces données et l'administration des archives.
 
 **Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Loi n°78-17 du 6 janvier 1978 - art. 6
+	  - Loi n°78-17 du 6 janvier 1978 (V)
 
 	**Cité par**:
 
@@ -2795,24 +2816,41 @@ l'autorité qui les a produits ou reçus et l'administration des archives.
 
 	**Anciens textes**:
 
-	  - Loi n°79-18 du 3 janvier 1979 - art. 4 (M)
 	  - Loi n°79-18 du 3 janvier 1979 - art. 4 (Ab)
 
-	**Codifié par**:
+	**Modifié par**:
 
-	  - Ordonnance 2004-178 2004-02-20 JORF 24 février 2004
+	  - Loi n°2008-696  du 15 juillet 2008 - art. 5
 
 
 ###### Article L212-4
 
-Lorsque les documents visés à l'article L. 211-4 comportent des données à caractère personnel collectées dans le cadre de
-traitements automatisés régis par la loi n° 78-17 du 6 janvier 1978 relative à l'informatique, aux fichiers et aux libertés,
-ces données font l'objet, à l'expiration de la durée prévue au 5° de l'article 6 de ladite loi, d'un tri pour déterminer les
-données destinées à être conservées et celles, dépourvues d'intérêt scientifique, statistique ou historique, destinées à être
-détruites.
+I. ― Les archives publiques qui, à l'issue de la sélection prévue aux articles L. 212-2 et L. 212-3, sont destinées à être
+conservées sont versées dans un service public d'archives dans des conditions fixées par décret en Conseil d'Etat. Ce décret
+détermine les cas où, par dérogation aux dispositions qui précèdent, l'administration des archives laisse le soin de la
+conservation des documents d'archives produits ou reçus par certaines administrations ou certains organismes aux services
+compétents de ces administrations ou organismes lorsqu'ils présentent des conditions satisfaisantes de conservation, de
+sécurité, de communication et d'accès des documents. Il fixe les conditions de la coopération entre l'administration des
+archives et ces administrations ou organismes. 
 
-Les catégories de données destinées à la destruction ainsi que les conditions de leur destruction sont fixées par accord
-entre l'autorité qui les a produites ou reçues et l'administration des archives.
+Les dispositions qui précèdent ne sont pas applicables aux archives des collectivités territoriales et des groupements de
+collectivités territoriales. 
+
+II. ― La conservation des documents d'archives publiques procédant de l'activité des personnes visées à l'article L. 211-4
+qui n'ont pas encore fait l'objet de la sélection prévue aux articles L. 212-2 et L. 212-3 est assurée par ces personnes sous
+le contrôle scientifique et technique de l'administration des archives. Lesdites personnes peuvent, après en avoir fait la
+déclaration à l'administration des archives, déposer tout ou partie de ces documents auprès de personnes physiques ou morales
+agréées à cet effet par ladite administration. Le dépôt fait l'objet d'un contrat qui prévoit les conditions de sécurité et
+de conservation des documents déposés ainsi que les modalités de leur communication et de leur accès, du contrôle de ces
+documents par l'administration des archives et de leur restitution au déposant à l'issue du contrat. Un décret en Conseil
+d'Etat fixe les modalités de la déclaration préalable ainsi que les conditions d'octroi et de retrait de l'agrément des
+dépositaires, et précise le contenu des clauses devant figurer dans les contrats de dépôt. 
+
+Les données de santé à caractère personnel sont déposées dans les conditions prévues à l'article L. 1111-8 du code de la
+santé publique.
+
+III. ― Le II s'applique au dépôt des archives publiques qui ne sont pas soumises à l'obligation de versement dans un service
+public d'archives.
 
 **Liens relatifs à cet article**
 
@@ -2940,20 +2978,22 @@ entre l'autorité qui les a produites ou reçues et l'administration des archive
 	  - Code du patrimoine. - art. R212-31 (V)
 	  - Code du patrimoine. - art. R213-8 (V)
 
-	**Codifié par**:
-
-	  - Ordonnance 2004-178 2004-02-20 JORF 24 février 2004
-
 	**Modifié par**:
 
-	  - Loi n°2004-801 du 6 août 2004 - art. 18
+	  - Loi n°2008-696  du 15 juillet 2008 - art. 5
+
+	**Cite**:
+
+	  - Code de la santé publique - art. L1111-8
+	  - Code du patrimoine - art. L211-4
+	  - Code du patrimoine - art. L212-2
+	  - Code du patrimoine - art. L212-3
 
 
 ###### Article L212-5
 
 Lorsqu'il est mis fin à l'existence d'un ministère, service, établissement ou organisme détenteur d'archives publiques,
-celles-ci doivent être, à défaut d'une affectation différente déterminée par l'acte de suppression, versées à
-l'administration des archives.
+celles-ci sont, à défaut d'affectation déterminée par l'acte de suppression, versées à un service public d'archives.
 
 **Liens relatifs à cet article**
 
@@ -2961,9 +3001,9 @@ l'administration des archives.
 
 	  - Loi n°79-18 du 3 janvier 1979 - art. 5 (Ab)
 
-	**Codifié par**:
+	**Modifié par**:
 
-	  - Ordonnance 2004-178 2004-02-20 JORF 24 février 2004
+	  - Loi n°2008-696  du 15 juillet 2008 - art. 5
 
 
 ##### Sous-section 2 : Archives des collectivités territoriales
@@ -2997,6 +3037,22 @@ de la collectivité territoriale de Corse.
 
 	  - Code général des collectivités territoriales - art. L1421-1 (M)
 	  - Code général des collectivités territoriales - art. L1421-3 (M)
+
+
+###### Article L212-6-1
+
+Les groupements de collectivités territoriales sont propriétaires de leurs archives et sont responsables de leur conservation
+et de leur mise en valeur. Ils peuvent également confier la conservation de leurs archives, par convention, au service
+d'archives de l'une des communes membres du groupement ou les déposer au service départemental d'archives compétent.
+
+Le dépôt au service départemental d'archives est prescrit d'office par le préfet, après une mise en demeure restée sans
+effet, lorsqu'il est établi que la conservation des archives du groupement n'est pas convenablement assurée.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°2008-696  du 15 juillet 2008 - art. 6
 
 
 ###### Article L212-7
@@ -3049,7 +3105,12 @@ archives privées.
 Par dérogation au II de l'article 42 de la loi n° 84-16 du 11 janvier 1984 portant dispositions statutaires relatives à la
 fonction publique de l'Etat, la mise à disposition des personnels scientifiques et de documentation de l'Etat auprès des
 départements pour exercer leurs fonctions dans les services départementaux d'archives n'est pas soumise à l'obligation de
-remboursement.
+remboursement. 
+
+Les directeurs des services départementaux d'archives sont choisis parmi les conservateurs ou les conservateurs généraux du
+patrimoine de l'Etat. 
+
+Un décret en Conseil d'Etat fixe les modalités d'application du présent article.
 
 **Liens relatifs à cet article**
 
@@ -3057,13 +3118,13 @@ remboursement.
 
 	  - Loi n°83-663 du 22 juillet 1983 - art. 66 (Ab)
 
-	**Codifié par**:
+	**Cite**:
 
-	  - Ordonnance 2004-178 2004-02-20 JORF 24 février 2004
+	  - Loi n°84-16 du 11 janvier 1984 - art. 42
 
 	**Modifié par**:
 
-	  - Loi n°2007-148 du 2 février 2007 - art. 11 () JORF 6 février 2007
+	  - Loi n°2008-696  du 15 juillet 2008 - art. 7
 
 	**Cité par**:
 
@@ -3073,24 +3134,30 @@ remboursement.
 
 ###### Article L212-10
 
-La conservation et la mise en valeur des archives appartenant aux collectivités territoriales, ainsi que de celles gérées par
-les services départementaux d'archives en application des articles L. 212-6 et L. 212-8 sont assurées conformément à la
-législation applicable en la matière sous le contrôle scientifique et technique de l'Etat.
+La conservation et la mise en valeur des archives appartenant aux collectivités territoriales et aux groupements de
+collectivités territoriales, ainsi que de celles gérées par les services départementaux d'archives en application des
+articles L. 212-6 et L. 212-8 sont assurées conformément à la législation applicable en la matière sous le contrôle
+scientifique et technique de l'Etat. 
 
 Un décret en Conseil d'Etat fixe les conditions d'application du présent article, et notamment les conditions dans lesquelles
 les conservateurs d'archives, appartenant au personnel scientifique de l'Etat, mis à disposition du président du conseil
 général ou régional ou, en Corse, du président du conseil exécutif, peuvent assurer le contrôle scientifique et technique
 prévu à l'alinéa précédent.
 
+**Nota:**
+
+
+
 **Liens relatifs à cet article**
 
-	**Codifié par**:
+	**Modifié par**:
 
-	  - Ordonnance 2004-178 2004-02-20 JORF 24 février 2004
+	  - Loi n°2008-696  du 15 juillet 2008 - art. 8
 
-	**Anciens textes**:
+	**Cite**:
 
-	  - Code général des collectivités territoriales - art. L1421-6 (M)
+	  - Code du patrimoine - art. L212-6
+	  - Code du patrimoine - art. L212-8
 
 	**Cité par**:
 
@@ -3104,13 +3171,15 @@ prévu à l'alinéa précédent.
 Les documents de l'état civil ayant plus de cent cinquante ans de date, les plans et registres cadastraux ayant cessé d'être
 en service depuis au moins trente ans et les autres documents d'archives ayant plus de cent ans de date, conservés dans les
 archives des communes de moins de 2 000 habitants, sont obligatoirement déposés aux archives du département, sauf dérogation
-accordée par le préfet sur la demande du maire.
+accordée par le préfet sur la demande du maire. Dans ce cas, les documents peuvent être conservés soit par les communes
+elles-mêmes, soit par le groupement de collectivités territoriales dont elles sont membres, soit, par convention, par la
+commune désignée par ce groupement pour gérer les archives de celui-ci.
 
 **Liens relatifs à cet article**
 
-	**Codifié par**:
+	**Modifié par**:
 
-	  - Ordonnance 2004-178 2004-02-20 JORF 24 février 2004
+	  - Loi n°2008-696  du 15 juillet 2008 - art. 9
 
 	**Cité par**:
 
@@ -3130,24 +3199,22 @@ accordée par le préfet sur la demande du maire.
 	  - Code du patrimoine. - art. R212-62 (V)
 	  - Code général des collectivités territoriales - art. L1421-2 (V)
 
-	**Anciens textes**:
-
-	  - Code général des collectivités territoriales - art. L1421-7 (M)
-
 
 ###### Article L212-12
 
 Les documents mentionnés à l'article L. 212-11, conservés dans les archives des communes de 2 000 habitants ou plus, peuvent
-être déposés par le maire, après délibération du conseil municipal, aux archives du département.
+être déposés par le maire, après délibération du conseil municipal, aux archives du groupement de collectivités territoriales
+dont elles sont membres, par convention, aux archives de la commune désignée par ce groupement pour gérer les archives de
+celui-ci ou aux archives du département. 
 
-Ce dépôt est prescrit d'office par le préfet, après une mise en demeure restée sans effet, lorsqu'il est établi que la
-conservation des archives d'une commune n'est pas convenablement assurée.
+Le dépôt au service départemental d'archives est prescrit d'office par le préfet, après une mise en demeure restée sans
+effet, lorsqu'il est établi que la conservation des archives d'une commune n'est pas convenablement assurée.
 
 **Liens relatifs à cet article**
 
-	**Codifié par**:
+	**Modifié par**:
 
-	  - Ordonnance 2004-178 2004-02-20 JORF 24 février 2004
+	  - Loi n°2008-696  du 15 juillet 2008 - art. 9
 
 	**Cité par**:
 
@@ -3158,10 +3225,6 @@ conservation des archives d'une commune n'est pas convenablement assurée.
 	  - Décret n°2017-890 du 6 mai 2017 - art. 57
 	  - Code du patrimoine - art. R212-60 (Ab)
 	  - Code du patrimoine. - art. L212-11 (M)
-
-	**Anciens textes**:
-
-	  - Code général des collectivités territoriales - art. L1421-8 (M)
 
 
 ###### Article L212-13
@@ -3211,6 +3274,12 @@ l'autorisation du conseil municipal.
 
 	  - Code du patrimoine - art. L212-11 (V)
 
+
+##### Sous-section 2 : Archives des collectivités territoriales et des groupements de collectivités territoriales
+
+##### Paragraphe 1 : Dispositions générales.
+
+##### Paragraphe 2 : Dépôt des archives communales.
 
 ##### Section 2 : Archives privées
 
@@ -3366,8 +3435,15 @@ accrédités à cette fin dans des conditions fixées par décret en Conseil d'E
 
 ###### Article L212-23
 
-Le propriétaire d'archives classées qui projette de les aliéner est tenu de notifier son intention à l'administration des
-archives.
+Le propriétaire d'archives classées qui projette de les aliéner est tenu d'en faire préalablement la déclaration à
+l'administration des archives dans un délai fixé par décret en Conseil d'Etat. Il en est de même pour le propriétaire, le
+détenteur ou le dépositaire d'archives classées qui projette de les déplacer d'un lieu dans un autre. 
+
+Toute aliénation doit être notifiée à l'administration des archives par celui qui l'a consentie, dans les quinze jours
+suivant la date de son accomplissement. Cette notification précise le nom et l'adresse du nouvel acquéreur. 
+
+Il en est de même pour toute transmission d'archives classées par voie de succession, de partage, de donation ou de legs. La
+notification est faite par l'héritier, le copartageant, le donataire ou le légataire.
 
 **Liens relatifs à cet article**
 
@@ -3375,9 +3451,9 @@ archives.
 
 	  - Loi n°79-18 du 3 janvier 1979 - art. 17 (Ab)
 
-	**Codifié par**:
+	**Modifié par**:
 
-	  - Ordonnance 2004-178 2004-02-20 JORF 24 février 2004
+	  - Loi n°2008-696  du 15 juillet 2008 - art. 10
 
 	**Cité par**:
 
@@ -3412,16 +3488,18 @@ classement.
 Sauf autorisation de l'administration des archives, les archives classées ne peuvent être soumises à aucune opération
 susceptible de les modifier ou de les altérer.
 
+Tous travaux engagés sur des archives classées s'exécutent avec l'autorisation de l'administration des archives et sous son
+contrôle scientifique et technique.
+
 **Liens relatifs à cet article**
 
 	**Anciens textes**:
 
-	  - Loi n°79-18 1979-01-03 art. 16 al. 1
 	  - Loi n°79-18 du 3 janvier 1979 - art. 16 (Ab)
 
-	**Codifié par**:
+	**Modifié par**:
 
-	  - Ordonnance 2004-178 2004-02-20 JORF 24 février 2004
+	  - Loi n°2008-696  du 15 juillet 2008 - art. 11
 
 	**Cité par**:
 
@@ -3448,10 +3526,10 @@ des Archives de France. La décision de déclassement est prise dans les mêmes 
 
 ###### Article L212-27
 
-Toute destruction d'archives classées ou en instance de classement est interdite.
+Toute destruction d'archives classées ou en instance de classement est interdite. 
 
 Toutefois, lorsqu'il apparaît, lors de l'inventaire initial du fonds, que certains documents sont dépourvus d'intérêt
-historique, il peut être procédé à leur élimination dans les conditions prévues au deuxième alinéa de l'article L. 212-3, en
+historique, il peut être procédé à leur élimination dans les conditions prévues au deuxième alinéa de l'article L. 212-2, en
 accord entre le propriétaire du fonds et l'administration des archives.
 
 **Liens relatifs à cet article**
@@ -3460,9 +3538,13 @@ accord entre le propriétaire du fonds et l'administration des archives.
 
 	  - Loi n°79-18 du 3 janvier 1979 - art. 15 (Ab)
 
-	**Codifié par**:
+	**Modifié par**:
 
-	  - Ordonnance 2004-178 2004-02-20 JORF 24 février 2004
+	  - Loi n°2008-696  du 15 juillet 2008 - art. 12
+
+	**Cite**:
+
+	  - Code du patrimoine - art. L212-2
 
 	**Cité par**:
 
@@ -3494,9 +3576,16 @@ prévue à l'article L. 111-7.
 ###### Article L212-29
 
 L'Etat peut subordonner la délivrance du certificat prévu à l'article L. 111-2 à la reproduction totale ou partielle, à ses
-frais, des archives privées non classées qui font l'objet, en application du même article, de la demande de certificat.
+frais, des archives privées non classées qui font l'objet, en application du même article, de la demande de certificat. Il
+peut exercer ce droit pour son compte ou à la demande et pour le compte d'une collectivité territoriale, d'un établissement
+public ou d'une fondation reconnue d'utilité publique. Le demandeur et bénéficiaire de la reproduction en assume alors les
+frais. 
 
-Les opérations de reproduction ne peuvent excéder une durée de six mois à compter de ladite demande.
+Les opérations de reproduction ne peuvent excéder une durée de six mois à compter de ladite demande. 
+
+Les reproductions auxquelles il a été ainsi procédé sont communicables à toute personne qui en fait la demande, sauf si le
+propriétaire en a stipulé autrement avant l'exportation. Cette information est donnée au propriétaire lors de la demande de
+reproduction.
 
 **Liens relatifs à cet article**
 
@@ -3504,14 +3593,18 @@ Les opérations de reproduction ne peuvent excéder une durée de six mois à co
 
 	  - Loi n°79-18 du 3 janvier 1979 - art. 24 (Ab)
 
-	**Codifié par**:
+	**Modifié par**:
 
-	  - Ordonnance 2004-178 2004-02-20 JORF 24 février 2004
+	  - Loi n°2008-696  du 15 juillet 2008 - art. 13
 
 	**Cité par**:
 
 	  - Décret n°2014-1305 du 23 octobre 2014 - art. (V)
 	  - Code du patrimoine. - art. R111-6 (V)
+
+	**Cite**:
+
+	  - Code du patrimoine - art. L111-2
 
 
 ##### Sous-section 3 : Droit de préemption.
@@ -3554,18 +3647,21 @@ l'ordre professionnel ou l'autorité compétente dont il relève. "
 Tout officier public ou ministériel chargé de procéder à la vente publique d'archives privées ayant ou non fait l'objet d'une
 décision de classement au titre des archives historiques ou toute société habilitée à organiser une telle vente, doit en
 donner avis à l'administration des archives au moins quinze jours à l'avance et accompagne cet avis de toutes indications
-utiles sur ces documents. Cet avis précise l'heure et le lieu de la vente. L'envoi d'un catalogue avec mention du but de cet
-envoi tiendra lieu d'avis.
+utiles sur ces documents. Cet avis précise l'heure et le lieu de la vente.L'envoi d'un catalogue avec mention du but de cet
+envoi tiendra lieu d'avis. 
 
 En cas de vente judiciaire, si le délai fixé à l'alinéa précédent ne peut être observé, l'officier public ou ministériel,
 aussitôt qu'il est désigné pour procéder à la vente, fait parvenir à l'administration des archives les indications ci-dessus
-énoncées.
+énoncées. 
+
+La société habilitée à procéder à la vente de gré à gré de documents d'archives privées dans les conditions prévues au
+dernier alinéa de l'article L. 321-9 du code de commerce notifie sans délai la transaction à l'administration des archives,
+avec toutes indications utiles concernant lesdits documents.
 
 **Liens relatifs à cet article**
 
 	**Anciens textes**:
 
-	  - Loi n°79-18 1979-01-03 art. 19
 	  - Loi n°79-18 du 3 janvier 1979 - art. 19 (Ab)
 
 	**Cité par**:
@@ -3576,21 +3672,30 @@ aussitôt qu'il est désigné pour procéder à la vente, fait parvenir à l'adm
 	  - Code du patrimoine. - art. L214-7 (V)
 	  - Code du patrimoine. - art. R212-92 (V)
 
-	**Codifié par**:
+	**Modifié par**:
 
-	  - Ordonnance 2004-178 2004-02-20 JORF 24 février 2004
+	  - Loi n°2008-696  du 15 juillet 2008 - art. 14
+
+	**Cite**:
+
+	  - Code de commerce - art. L321-9
 
 
 ###### Article L212-32
 
 S'il l'estime nécessaire à la protection du patrimoine d'archives, l'Etat exerce, sur tout document d'archives privées mis en
-vente publique, un droit de préemption par l'effet duquel il se trouve subrogé à l'adjudicataire.
+vente publique ou vendu de gré à gré dans les conditions prévues au dernier alinéa de l'article L. 321-9 du code de commerce,
+un droit de préemption par l'effet duquel il se trouve subrogé à l'adjudicataire ou à l'acheteur. 
+
+La déclaration par l'administration des archives qu'elle envisage d'user de son droit de préemption est faite, à l'issue de
+la vente, entre les mains de l'officier public ou ministériel dirigeant les adjudications ou de la société habilitée à
+organiser la vente publique ou la vente de gré à gré. La décision de l'autorité administrative doit, à peine de nullité,
+intervenir dans un délai de quinze jours à compter de la vente publique ou de la notification de la transaction de gré à gré.
 
 **Liens relatifs à cet article**
 
 	**Anciens textes**:
 
-	  - Loi n°79-18 1979-01-03 art. 20 al. 1
 	  - Loi n°79-18 du 3 janvier 1979 - art. 20 (Ab)
 
 	**Cité par**:
@@ -3601,16 +3706,20 @@ vente publique, un droit de préemption par l'effet duquel il se trouve subrogé
 	  - Code du patrimoine. - art. R212-91 (V)
 	  - Code du patrimoine. - art. R212-93 (V)
 
-	**Codifié par**:
+	**Modifié par**:
 
-	  - Ordonnance 2004-178 2004-02-20 JORF 24 février 2004
+	  - Loi n°2008-696  du 15 juillet 2008 - art. 15
+
+	**Cite**:
+
+	  - Code de commerce - art. L321-9
 
 
 ###### Article L212-33
 
 L'Etat exerce également le droit de préemption prévu à l'article L. 212-32 à la demande et pour le compte des collectivités
-territoriales et des fondations reconnues d'utilité publique. Le même droit est exercé par la Bibliothèque nationale de
-France pour son propre compte.
+territoriales, de la Nouvelle-Calédonie et des fondations reconnues d'utilité publique. Le même droit est exercé par la
+Bibliothèque nationale de France pour son propre compte. 
 
 En cas de demandes concurrentes, l'autorité administrative détermine le bénéficiaire.
 
@@ -3618,12 +3727,11 @@ En cas de demandes concurrentes, l'autorité administrative détermine le béné
 
 	**Anciens textes**:
 
-	  - Loi n°79-18 1979-01-03 art. 20 al. 2, al. 3
 	  - Loi n°79-18 du 3 janvier 1979 - art. 20 (Ab)
 
-	**Codifié par**:
+	**Modifié par**:
 
-	  - Ordonnance 2004-178 2004-02-20 JORF 24 février 2004
+	  - Loi n°2008-696  du 15 juillet 2008 - art. 16
 
 	**Cité par**:
 
@@ -3727,15 +3835,11 @@ décret en Conseil d'Etat.
 
 ###### Article L213-1
 
-Les documents dont la communication était libre avant leur dépôt aux archives publiques continueront d'être communiqués sans
-restriction d'aucune sorte à toute personne qui en fera la demande.
+Les archives publiques sont, sous réserve des dispositions de l'article L. 213-2, communicables de plein droit.
 
-Les documents mentionnés à l'article 1er de la loi n° 78-753 du 17 juillet 1978 portant diverses mesures d'amélioration des
-relations entre l'administration et le public et diverses dispositions d'ordre administratif, social et fiscal demeurent
-communicables dans les conditions fixées par cette loi.
-
-Tous les autres documents d'archives publiques pourront être librement consultés à l'expiration d'un délai de trente ans ou
-des délais spéciaux prévus à l'article L. 213-2.
+L'accès à ces archives s'exerce dans les conditions définies pour les documents administratifs à l'article 4 de la loi n°
+78-753 du 17 juillet 1978 portant diverses mesures d'amélioration des relations entre l'administration et le public et
+diverses dispositions d'ordre administratif, social et fiscal.
 
 **Liens relatifs à cet article**
 
@@ -3759,34 +3863,83 @@ des délais spéciaux prévus à l'article L. 213-2.
 	  - Code du patrimoine. - art. L213-7 (V)
 	  - Code du patrimoine. - art. R212-18 (V)
 
+	**Cite**:
+
+	  - Loi n°78-753 du 17 juillet 1978 - art. 4
+
 	**Anciens textes**:
 
 	  - Loi n°79-18 du 3 janvier 1979 - art. 6 (Ab)
 
-	**Codifié par**:
+	**Modifié par**:
 
-	  - Ordonnance 2004-178 2004-02-20 JORF 24 février 2004
+	  - Loi n°2008-696  du 15 juillet 2008 - art. 17
 
 
 ###### Article L213-2
 
-Le délai au-delà duquel les documents d'archives publiques peuvent être librement consultés est porté à :
+Par dérogation aux dispositions de l'article L. 213-1 : 
 
-a) Cent cinquante ans à compter de la date de naissance pour les documents comportant des renseignements individuels de
-caractère médical ;
+I.-Les archives publiques sont communicables de plein droit à l'expiration d'un délai de : 
 
-b) Cent vingt ans à compter de la date de naissance pour les dossiers de personnel ;
+1° Vingt-cinq ans à compter de la date du document ou du document le plus récent inclus dans le dossier : 
 
-c) Cent ans à compter de la date de l'acte ou de la clôture du dossier pour les documents relatifs aux affaires portées
-devant les juridictions, y compris les décisions de grâce, pour les minutes et répertoires des notaires ainsi que pour les
-registres de l'état civil et de l'enregistrement ;
+a) Pour les documents dont la communication porte atteinte au secret des délibérations du Gouvernement et des autorités
+responsables relevant du pouvoir exécutif, à la conduite des relations extérieures, à la monnaie et au crédit public, au
+secret en matière commerciale et industrielle, à la recherche par les services compétents des infractions fiscales et
+douanières ou au secret en matière de statistiques sauf lorsque sont en cause des données collectées au moyen de
+questionnaires ayant trait aux faits et comportements d'ordre privé mentionnées aux 4° et 5° ; 
 
-d) Cent ans à compter de la date de recensement ou de l'enquête, pour les documents contenant des renseignements individuels
-ayant trait à la vie personnelle et familiale et, d'une manière générale, aux faits et comportements d'ordre privé, collectés
-dans le cadre des enquêtes statistiques des services publics ;
+b) Pour les documents mentionnés au dernier alinéa de l'article 1er de la loi n° 78-753 du 17 juillet 1978 précitée, à
+l'exception des actes et documents produits ou reçus par les assemblées parlementaires ; 
 
-e) Soixante ans à compter de la date de l'acte pour les documents qui contiennent des informations mettant en cause la vie
-privée ou intéressant la sûreté de l'Etat ou la défense nationale et dont la liste est fixée par décret en Conseil d'Etat.
+c) Pour les documents élaborés dans le cadre d'un contrat de prestation de services exécuté pour le compte d'une ou de
+plusieurs personnes déterminées, sauf si ces documents entrent, du fait de leur contenu, dans le champ d'application des 3°
+ou 4° du présent I ; 
+
+2° Vingt-cinq ans à compter de la date du décès de l'intéressé, pour les documents dont la communication porte atteinte au
+secret médical. Si la date du décès n'est pas connue, le délai est de cent vingt ans à compter de la date de naissance de la
+personne en cause ; 
+
+3° Cinquante ans à compter de la date du document ou du document le plus récent inclus dans le dossier, pour les documents
+dont la communication porte atteinte au secret de la défense nationale, aux intérêts fondamentaux de l'Etat dans la conduite
+de la politique extérieure, à la sûreté de l'Etat, à la sécurité publique ou à la protection de la vie privée, à l'exception
+des documents mentionnés aux 4° et 5°. Le même délai s'applique aux documents qui portent une appréciation ou un jugement de
+valeur sur une personne physique, nommément désignée ou facilement identifiable, ou qui font apparaître le comportement d'une
+personne dans des conditions susceptibles de lui porter préjudice. 
+
+Le même délai s'applique aux documents relatifs à la construction, à l'équipement et au fonctionnement des ouvrages,
+bâtiments ou parties de bâtiment utilisés pour la détention des personnes ou recevant habituellement des personnes détenues.
+Ce délai est décompté depuis la fin de l'affectation à ces usages des ouvrages, bâtiments ou parties de bâtiment en cause ; 
+
+4° Soixante-quinze ans à compter de la date du document ou du document le plus récent inclus dans le dossier, ou un délai de
+vingt-cinq ans à compter de la date du décès de l'intéressé si ce dernier délai est plus bref : 
+
+a) Pour les documents dont la communication porte atteinte au secret en matière de statistiques lorsque sont en cause des
+données collectées au moyen de questionnaires ayant trait aux faits et comportements d'ordre privé ; 
+
+b) Pour les documents relatifs aux enquêtes réalisées par les services de la police judiciaire ; 
+
+c) Pour les documents relatifs aux affaires portées devant les juridictions, sous réserve des dispositions particulières
+relatives aux jugements, et à l'exécution des décisions de justice ; 
+
+d) Pour les minutes et répertoires des officiers publics ou ministériels ; 
+
+e) Pour les registres de naissance et de mariage de l'état civil, à compter de leur clôture ; 
+
+5° Cent ans à compter de la date du document ou du document le plus récent inclus dans le dossier, ou un délai de vingt-cinq
+ans à compter de la date du décès de l'intéressé si ce dernier délai est plus bref, pour les documents mentionnés au 4° qui
+se rapportent à une personne mineure. 
+
+Les mêmes délais s'appliquent aux documents couverts ou ayant été couverts par le secret de la défense nationale dont la
+communication est de nature à porter atteinte à la sécurité de personnes nommément désignées ou facilement identifiables. Il
+en est de même pour les documents relatifs aux enquêtes réalisées par les services de la police judiciaire, aux affaires
+portées devant les juridictions, sous réserve des dispositions particulières relatives aux jugements, et à l'exécution des
+décisions de justice dont la communication porte atteinte à l'intimité de la vie sexuelle des personnes. 
+
+II.-Ne peuvent être consultées les archives publiques dont la communication est susceptible d'entraîner la diffusion
+d'informations permettant de concevoir, fabriquer, utiliser ou localiser des armes nucléaires, biologiques, chimiques ou
+toutes autres armes ayant des effets directs ou indirects de destruction d'un niveau analogue.
 
 **Liens relatifs à cet article**
 
@@ -3815,27 +3968,32 @@ privée ou intéressant la sûreté de l'Etat ou la défense nationale et dont l
 	  - Code du patrimoine. - art. L730-3 (V)
 	  - Livre des procédures fiscales - art. R135 D-1 (V)
 
+	**Cite**:
+
+	  - Loi n°78-753 du 17 juillet 1978 - art. 1
+
 	**Anciens textes**:
 
 	  - Loi n°79-18 du 3 janvier 1979 - art. 7 (Ab)
 
-	**Codifié par**:
+	**Modifié par**:
 
-	  - Ordonnance 2004-178 2004-02-20 JORF 24 février 2004
+	  - Loi n°2008-696  du 15 juillet 2008 - art. 17
 
 
 ###### Article L213-3
 
-Sous réserve, en ce qui concerne les minutes des notaires, des dispositions de l'article 23 de la loi du 25 ventôse an XI,
-l'administration des archives peut autoriser la consultation des documents d'archives publiques avant l'expiration des délais
-prévus au troisième alinéa de l'article L. 213-1 et à l'article L. 213-2.
+I. ― L'autorisation de consultation de documents d'archives publiques avant l'expiration des délais fixés au I de l'article
+L. 213-2 peut être accordée aux personnes qui en font la demande dans la mesure où l'intérêt qui s'attache à la consultation
+de ces documents ne conduit pas à porter une atteinte excessive aux intérêts que la loi a entendu protéger. Sous réserve, en
+ce qui concerne les minutes et répertoires des notaires, des dispositions de l'article 23 de la loi du 25 ventôse an XI
+contenant organisation du notariat, l'autorisation est accordée par l'administration des archives aux personnes qui en font
+la demande après accord de l'autorité dont émanent les documents. 
 
-Cette consultation n'est assortie d'aucune restriction, sauf disposition expresse de la décision administrative portant
-autorisation.
+Le temps de réponse à une demande de consultation ne peut excéder deux mois à compter de l'enregistrement de la demande. 
 
-Par dérogation aux dispositions du premier alinéa du présent article, aucune autorisation ne peut être accordée aux fins de
-permettre la communication, avant l'expiration du délai légal de cent ans, des renseignements mentionnés au d de l'article L.
-213-2.
+II. ― L'administration des archives peut également, après accord de l'autorité dont émanent les documents, décider
+l'ouverture anticipée de fonds ou parties de fonds d'archives publiques.
 
 **Liens relatifs à cet article**
 
@@ -3876,12 +4034,51 @@ permettre la communication, avant l'expiration du délai légal de cent ans, des
 
 	  - Loi n°79-18 du 3 janvier 1979 - art. 8 (Ab)
 
-	**Codifié par**:
+	**Modifié par**:
 
-	  - Ordonnance 2004-178 2004-02-20 JORF 24 février 2004
+	  - Loi n°2008-696  du 15 juillet 2008 - art. 17
+
+	**Cite**:
+
+	  - Code du patrimoine - art. L213-2
 
 
 ###### Article L213-4
+
+Le versement des documents d'archives publiques émanant du Président de la République, du Premier ministre et des autres
+membres du Gouvernement peut être assorti de la signature entre la partie versante et l'administration des archives d'un
+protocole relatif aux conditions de traitement, de conservation, de valorisation ou de communication du fonds versé, pendant
+la durée des délais prévus à l'article L. 213-2. Les stipulations de ce protocole peuvent également s'appliquer aux documents
+d'archives publiques émanant des collaborateurs personnels de l'autorité signataire. 
+
+Pour l'application de l'article L. 213-3, l'accord de la partie versante requis pour autoriser la consultation ou l'ouverture
+anticipée du fonds est donné par le signataire du protocole. 
+
+Le protocole cesse de plein droit d'avoir effet en cas de décès du signataire et, en tout état de cause, à la date
+d'expiration des délais prévus à l'article L. 213-2. 
+
+Les documents d'archives publiques versés antérieurement à la publication de la loi n° 2008-696 du 15 juillet 2008 relative
+aux archives demeurent régis par les protocoles alors signés. Toutefois, les clauses de ces protocoles relatives au
+mandataire désigné par l'autorité signataire cessent d'être applicables vingt-cinq ans après le décès du signataire.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Loi n°79-18 du 3 janvier 1979 - art. 26 (Ab)
+
+	**Cite**:
+
+	  - Loi n°2008-696  du 15 juillet 2008
+	  - Code du patrimoine - art. L213-2
+	  - Code du patrimoine - art. L213-3
+
+	**Modifié par**:
+
+	  - Loi n°2008-696  du 15 juillet 2008 - art. 17
+
+
+###### Article L213-5
 
 Toute administration détentrice d'archives publiques ou privées est tenue de motiver tout refus qu'elle oppose à une demande
 de communication de documents d'archives.
@@ -3890,38 +4087,11 @@ de communication de documents d'archives.
 
 	**Anciens textes**:
 
-	  - Loi n°79-18 du 3 janvier 1979 - art. 26 (Ab)
-
-	**Codifié par**:
-
-	  - Ordonnance 2004-178 2004-02-20 JORF 24 février 2004
-
-
-###### Article L213-5
-
-Les dispositions des articles L. 213-1 à L. 213-3, L. 213-6 et L. 213-7 sont affichées de façon très apparente dans les
-locaux ouverts au public de l'administration des archives et des services des collectivités territoriales qui détiennent des
-archives publiques.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Loi n°79-18 1979-01-03 art. 27 en ce qui concerne les services des collectivités locales
 	  - Loi n°79-18 du 3 janvier 1979 - art. 27 (V)
-
-	**Codifié par**:
-
-	  - Ordonnance 2004-178 2004-02-20 JORF 24 février 2004
 
 	**Modifié par**:
 
-	  - Loi n°2004-1343 du 9 décembre 2004 - art. 78 (V) JORF 10 décembre 2004
-
-	**Cite**:
-
-	  - Code du patrimoine L213-1 à L213-3, L213-6, L213-7
-	  - Code du patrimoine. - art. L213-6 (V)
+	  - Loi n°2008-696  du 15 juillet 2008 - art. 17
 
 	**Cité par**:
 
@@ -3930,24 +4100,19 @@ archives publiques.
 
 ###### Article L213-6
 
-Lorsque l'Etat et les collectivités territoriales reçoivent des archives privées à titre de don, de legs, de cession, de
-dépôt révocable ou de dation au sens de l'article 1131 et du I de l'article 1716 bis du code général des impôts, les
-administrations dépositaires sont tenues de respecter les conditions auxquelles la conservation et la communication de ces
-archives peuvent être soumises à la demande des propriétaires.
+Les services publics d'archives qui reçoivent des archives privées à titre de don, de legs, de cession ou de dépôt sont tenus
+de respecter les stipulations du donateur, de l'auteur du legs, du cédant ou du déposant quant à la conservation et à la
+communication de ces archives.
 
 **Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - CGI 1716 bis, 1131
 
 	**Anciens textes**:
 
 	  - Loi n°79-18 du 3 janvier 1979 - art. 10 (Ab)
 
-	**Codifié par**:
+	**Modifié par**:
 
-	  - Ordonnance 2004-178 2004-02-20 JORF 24 février 2004
+	  - Loi n°2008-696  du 15 juillet 2008 - art. 17
 
 	**Cité par**:
 
@@ -3960,26 +4125,25 @@ archives peuvent être soumises à la demande des propriétaires.
 
 ###### Article L213-7
 
-Un décret en Conseil d'Etat détermine les conditions dans lesquelles sont délivrés les expéditions et extraits authentiques
-de documents d'archives.
-
-Un décret fixe le tarif des droits d'expédition ou d'extrait authentique des pièces conservées dans les services d'archives
-de l'Etat, des départements et des communes.
+Les dispositions des articles L. 213-1 à L. 213-3, L. 213-5, L. 213-6 et L. 213-8 sont affichées de façon apparente dans les
+locaux ouverts au public des services publics d'archives.
 
 **Liens relatifs à cet article**
 
 	**Anciens textes**:
 
-	  - Loi n°79-18 1979-01-03 art. 25 al. 1 à 3
 	  - Loi n°79-18 du 3 janvier 1979 - art. 25 (V)
-
-	**Codifié par**:
-
-	  - Ordonnance 2004-178 2004-02-20 JORF 24 février 2004
 
 	**Modifié par**:
 
-	  - Loi n°2004-1343 du 9 décembre 2004 - art. 78 (V) JORF 10 décembre 2004
+	  - Loi n°2008-696  du 15 juillet 2008 - art. 17
+
+	**Cite**:
+
+	  - Code du patrimoine - art. L213-1
+	  - Code du patrimoine - art. L213-3
+	  - Code du patrimoine - art. L213-6
+	  - Code du patrimoine - art. L213-8
 
 	**Cité par**:
 
@@ -3988,13 +4152,23 @@ de l'Etat, des départements et des communes.
 
 ###### Article L213-8
 
-Les modalités d'application du présent chapitre sont fixées par décret en Conseil d'Etat.
+Un décret en Conseil d'Etat détermine les conditions dans lesquelles sont délivrés les expéditions et extraits authentiques
+de documents d'archives. 
+
+Il précise notamment les conditions dans lesquelles donnent lieu à rémunération : 
+
+a) L'expédition ou l'extrait authentique des pièces conservées dans les services publics d'archives ; 
+
+b) La certification authentique des copies des plans conservés dans ces mêmes services, exécutées à la même échelle que les
+originaux à la diligence des intéressés ; 
+
+c) La certification authentique des photocopies et de toutes reproductions et fixations des documents conservés dans ces
+mêmes services.
 
 **Liens relatifs à cet article**
 
 	**Anciens textes**:
 
-	  - Loi n°79-18 1979-01-03 art. 32 en ce qui concerne le chapitre III
 	  - Loi n°79-18 du 3 janvier 1979 - art. 32 (Ab)
 
 	**Cité par**:
@@ -4004,28 +4178,33 @@ Les modalités d'application du présent chapitre sont fixées par décret en Co
 	  - Code du patrimoine. - art. L213-7 (V)
 	  - Code du patrimoine. - art. R213-8 (V)
 
-	**Codifié par**:
+	**Modifié par**:
 
-	  - Ordonnance 2004-178 2004-02-20 JORF 24 février 2004
+	  - Loi n°2008-696  du 15 juillet 2008 - art. 17
 
 
 #### Chapitre 4 : Dispositions pénales.
 
 ###### Article L214-1
 
-Le fait, pour toute personne, d'enfreindre les prescriptions de l'article L. 211-3 est passible des peines prévues aux
-articles 226-13 et 226-31 du code pénal.
+Toute infraction aux dispositions de l'article L. 211-3 est passible des peines prévues aux articles 226-13 et 226-31 du code
+pénal.
 
 **Liens relatifs à cet article**
 
 	**Anciens textes**:
 
-	  - Loi n°79-18 1979-01-03 art. 29 en ce qui concerne l'article L211-3 (personnes physiques)
 	  - Loi n°79-18 du 3 janvier 1979 - art. 29 (Ab)
 
-	**Codifié par**:
+	**Modifié par**:
 
-	  - Ordonnance 2004-178 2004-02-20 JORF 24 février 2004
+	  - Loi n°2008-696  du 15 juillet 2008 - art. 19
+
+	**Cite**:
+
+	  - Code pénal - art. 226-13
+	  - Code pénal - art. 226-31
+	  - Code du patrimoine - art. L211-3
 
 	**Cité par**:
 
@@ -4036,40 +4215,61 @@ articles 226-13 et 226-31 du code pénal.
 
 ###### Article L214-2
 
-Sans préjudice de l'application des articles 314-1 et 432-15 du code pénal, le fait, pour tout fonctionnaire ou agent chargé
-de la collecte ou de la conservation d'archives, de violer les conditions de conservation ou de communication prévues à
-l'article L. 213-6 est puni d'une peine d'emprisonnement d'un an et d'une amende de 15 000 euros ou de l'une de ces deux
-peines.
+Sans préjudice de l'application des articles 314-1 et 432-15 du code pénal, la violation, par un fonctionnaire ou un agent
+chargé de la collecte ou de la conservation d'archives, des conditions de conservation ou de communication des archives
+privées mentionnées à l'article L. 213-6 est punie d'une peine d'un an d'emprisonnement et de 15 000 € d'amende.
 
 **Liens relatifs à cet article**
 
 	**Anciens textes**:
 
-	  - Loi n°79-18 1979-01-03 art. 29 en ce qui concerne l'article L226-13 (personnes morales)
 	  - Loi n°79-18 du 3 janvier 1979 - art. 29 (Ab)
 
-	**Codifié par**:
+	**Modifié par**:
 
-	  - Ordonnance 2004-178 2004-02-20 JORF 24 février 2004
+	  - Loi n°2008-696  du 15 juillet 2008 - art. 19
+
+	**Cite**:
+
+	  - Code pénal - art. 314-1
+	  - Code pénal - art. 432-15
+	  - Code du patrimoine - art. L213-6
 
 
 ###### Article L214-3
 
-Sans préjudice de l'application des articles 322-2 et 432-15 du code pénal, le fait, pour toute personne, lors de la
-cessation de ses fonctions, de détourner, même sans intention frauduleuse, des archives publiques dont elle est détentrice à
-raison de ces fonctions, est puni d'une peine d'emprisonnement d'un an et d'une amende de 3 750 euros ou de l'une de ces deux
-peines.
+Sans préjudice de l'application des articles 322-2, 432-15, 432-16 et 433-4 du code pénal, le fait, pour une personne
+détentrice d'archives publiques en raison de ses fonctions, de détourner ou soustraire tout ou partie de ces archives ou de
+les détruire sans accord préalable de l'administration des archives est puni d'une peine de trois ans d'emprisonnement et de
+45 000 € d'amende. 
+
+Est puni des mêmes peines le fait, pour une personne détentrice d'archives publiques en raison de ses fonctions, d'avoir
+laissé détruire, détourner ou soustraire tout ou partie de ces archives sans accord préalable de l'administration des
+archives. 
+
+Lorsque les faits prévus aux premier et deuxième alinéas sont commis par négligence dans les conditions et selon les
+distinctions prévues à l'article 121-3 du code pénal, les peines sont d'un an d'emprisonnement et de 15 000 € d'amende. 
+
+La tentative des délits prévus au premier alinéa et le fait, pour la personne visée au deuxième alinéa, d'avoir laissé
+commettre une telle tentative sont punis des mêmes peines.
 
 **Liens relatifs à cet article**
 
 	**Anciens textes**:
 
-	  - Loi n°79-18 du 3 janvier 1979 - art. 28 (M)
 	  - Loi n°79-18 du 3 janvier 1979 - art. 28 (Ab)
 
-	**Codifié par**:
+	**Modifié par**:
 
-	  - Ordonnance 2004-178 2004-02-20 JORF 24 février 2004
+	  - Loi n°2008-696  du 15 juillet 2008 - art. 19
+
+	**Cite**:
+
+	  - Code pénal - art. 121-3
+	  - Code pénal - art. 322-2
+	  - Code pénal - art. 432-15
+	  - Code pénal - art. 432-16
+	  - Code pénal - art. 433-4
 
 	**Cité par**:
 
@@ -4079,54 +4279,171 @@ peines.
 
 ###### Article L214-4
 
-Est punie d'une amende de 4 500 euros, pouvant être portée jusqu'au double de la valeur des archives aliénées ou détruites :
+Les personnes physiques coupables des infractions prévues par l'article L. 214-3 encourent également les peines
+complémentaires suivantes : 
 
-a) La destruction d'archives privées classées par leur propriétaire en infraction aux dispositions de l'article L. 212-27 ;
+1° L'interdiction des droits civils, civiques et de famille, suivant les modalités prévues par l'article 131-26 du code
+pénal ; 
 
-b) L'aliénation d'archives privées classées par leur propriétaire en infraction aux dispositions de l'article L. 212-23 ;
+2° L'interdiction, suivant les modalités prévues par l'article 131-27 du même code, d'exercer une fonction publique ou
+d'exercer l'activité professionnelle ou sociale dans l'exercice ou à l'occasion de l'exercice de laquelle l'infraction a été
+commise ; 
 
-c) La vente d'archives privées en infraction aux dispositions de l'article L. 212-31.
+3° La confiscation, suivant les modalités prévues par l'article 131-21 du même code, des sommes ou objets irrégulièrement
+reçus par l'auteur de l'infraction, à l'exception des objets susceptibles de restitution.
 
 **Liens relatifs à cet article**
 
 	**Anciens textes**:
 
-	  - Loi n°79-18 du 3 janvier 1979 - art. 30 (M)
 	  - Loi n°79-18 du 3 janvier 1979 - art. 30 (Ab)
 
-	**Codifié par**:
+	**Modifié par**:
 
-	  - Ordonnance 2004-178 2004-02-20 JORF 24 février 2004
+	  - Loi n°2008-696  du 15 juillet 2008 - art. 19
+
+	**Cite**:
+
+	  - Code pénal - art. 131-21
+	  - Code pénal - art. 131-26
+	  - Code pénal - art. 131-27
+	  - Code du patrimoine - art. L214-3
 
 
 ###### Article L214-5
 
-Est punie d'une amende de 3 750 euros :
-
-a) L'aliénation d'archives classées sans information de l'acquéreur de l'existence du classement dans les conditions prévues
-à l'article L. 212-24 ;
-
-b) La réalisation, sans l'autorisation administrative prévue à l'article L. 212-25, de toute opération susceptible de
-modifier ou d'altérer des archives classées ;
-
-c) Le refus de présentation d'archives classées aux agents mentionnés à l'article L. 212-22.
+Le fait, pour une personne détentrice sans droit ni titre d'archives publiques, de ne pas les restituer sans délai à
+l'autorité compétente qui lui en fait la demande est puni d'une peine d'un an d'emprisonnement et de 15 000 € d'amende.
 
 **Liens relatifs à cet article**
 
 	**Anciens textes**:
 
-	  - Loi n°79-18 du 3 janvier 1979 - art. 31 (M)
 	  - Loi n°79-18 du 3 janvier 1979 - art. 31 (Ab)
 
-	**Codifié par**:
+	**Modifié par**:
 
-	  - Ordonnance 2004-178 2004-02-20 JORF 24 février 2004
+	  - Loi n°2008-696  du 15 juillet 2008 - art. 19
+
+
+###### Article L214-6
+
+Est punie d'une peine de trois ans d'emprisonnement et de 45 000 € d'amende la destruction par leur propriétaire d'archives
+privées classées, en infraction aux dispositions de l'article L. 212-27.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°2008-696  du 15 juillet 2008 - art. 19
 
 	**Cite**:
 
-	  - Code du patrimoine. - art. L212-22 (V)
-	  - Code du patrimoine. - art. L212-24 (V)
-	  - Code du patrimoine. - art. L212-25 (V)
+	  - Code du patrimoine - art. L212-27
+
+
+###### Article L214-7
+
+Sont punies d'une amende de 45 000 €, pouvant être portée jusqu'au double de la valeur des archives aliénées : 
+
+1° L'aliénation d'archives privées classées par leur propriétaire en infraction aux dispositions de l'article L. 212-23 ; 
+
+2° La vente d'archives privées en infraction aux dispositions de l'article L. 212-31.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°2008-696  du 15 juillet 2008 - art. 19
+
+	**Cite**:
+
+	  - Code du patrimoine - art. L212-23
+	  - Code du patrimoine - art. L212-31
+
+
+###### Article L214-8
+
+Sont punis d'une amende de 30 000 € : 
+
+1° L'aliénation d'archives classées sans information de l'acquéreur de l'existence du classement dans les conditions prévues
+à l'article L. 212-24 ; 
+
+2° La réalisation, sans l'autorisation administrative prévue à l'article L. 212-25, de toute opération susceptible de
+modifier ou d'altérer des archives classées ; 
+
+3° Le refus de présentation d'archives classées ou en instance de classement aux agents mentionnés à l'article L. 212-22 ; 
+
+4° Le déplacement d'archives classées d'un lieu dans un autre en infraction aux dispositions du premier alinéa de l'article
+L. 212-23 ; 
+
+5° L'absence de notification d'une transmission d'archives classées par voie de succession, de partage, de donation ou de
+legs, en infraction aux dispositions du dernier alinéa de l'article L. 212-23.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°2008-696  du 15 juillet 2008 - art. 19
+
+	**Cite**:
+
+	  - Code du patrimoine - art. L212-22
+	  - Code du patrimoine - art. L212-23
+	  - Code du patrimoine - art. L212-24
+	  - Code du patrimoine - art. L212-25
+
+
+###### Article L214-9
+
+Les personnes morales déclarées responsables pénalement des infractions prévues à l'article L. 214-3 encourent les peines
+mentionnées aux 2°, 8° et 9° de l'article 131-39 du code pénal.
+
+L'interdiction mentionnée au 2° du même article 131-39 porte sur l'activité dans l'exercice ou à l'occasion de l'exercice de
+laquelle l'infraction a été commise.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°2008-696  du 15 juillet 2008 - art. 19
+
+	**Cite**:
+
+	  - Code pénal - art. 131-39
+	  - Code du patrimoine - art. L214-3
+
+
+###### Article L214-10
+
+Toute personne ayant commis des faits susceptibles d'entraîner sa condamnation sur le fondement des articles 432-15 et 433-4
+du code pénal peut faire l'objet d'une interdiction d'accès aux locaux où sont consultés des documents d'archives publiques.
+Cette mesure est prononcée par l'autorité administrative, pour une durée maximale de cinq ans, dans des conditions fixées par
+décret en Conseil d'Etat.
+
+**Liens relatifs à cet article**
+
+	**Cité par**:
+
+	  - Décret n°79-1037 du 3 décembre 1979 - art. 21-1 (Ab)
+	  - Décret n°79-1037 du 3 décembre 1979 - art. 21-2 (Ab)
+	  - Décret n°2009-1123 du 17 septembre 2009 - art. 1 (Ab)
+	  - Décret n°2009-1123 du 17 septembre 2009 - art. 10 (Ab)
+	  - Code du patrimoine. - art. L730-1 (M)
+	  - Code du patrimoine. - art. L770-1 (V)
+	  - Code du patrimoine. - art. R*212-38 (V)
+	  - Code du patrimoine. - art. R*212-48 (V)
+	  - Code du patrimoine. - art. R212-33 (V)
+	  - Code du patrimoine. - art. R212-34 (V)
+
+	**Créé par**:
+
+	  - Loi n°2008-696  du 15 juillet 2008 - art. 19
+
+	**Cite**:
+
+	  - Code pénal - art. 432-15
+	  - Code pénal - art. 433-4
 
 
 ### TITRE II : ARCHIVES AUDIOVISUELLES DE LA JUSTICE
@@ -4271,15 +4588,14 @@ président des audiences, qui signale, le cas échéant, tout incident survenu l
 
 ###### Article L222-1
 
-Pendant les vingt ans qui suivent la clôture du procès, la consultation intégrale ou partielle de l'enregistrement
-audiovisuel ou sonore, à des fins historiques ou scientifiques, peut être autorisée par l'autorité administrative.
+L'enregistrement audiovisuel ou sonore est communicable à des fins historiques ou scientifiques dès que l'instance a pris fin
+par une décision devenue définitive. 
 
-A l'expiration de ce délai, la consultation est libre. La reproduction ou la diffusion, intégrale ou partielle, de
-l'enregistrement audiovisuel ou sonore est subordonnée à une autorisation accordée, après que toute personne justifiant d'un
-intérêt pour agir a été mise en mesure de faire valoir ses droits, par le président du tribunal de grande instance de Paris
-ou par le juge qu'il délègue à cet effet. Toutefois, la reproduction ou la diffusion, intégrale ou partielle, de
-l'enregistrement des audiences d'un procès pour crime contre l'humanité peut être autorisée dès que ce procès a pris fin par
-une décision devenue définitive.
+La reproduction ou la diffusion, intégrale ou partielle, de l'enregistrement audiovisuel ou sonore est subordonnée à une
+autorisation accordée, après que toute personne justifiant d'un intérêt pour agir a été mise en mesure de faire valoir ses
+droits, par le président du tribunal de grande instance de Paris ou par le juge qu'il délègue à cet effet. Toutefois, la
+reproduction ou la diffusion, intégrale ou partielle, de l'enregistrement des audiences d'un procès pour crime contre
+l'humanité peut être autorisée dès que ce procès a pris fin par une décision devenue définitive.
 
 Après cinquante ans, la reproduction et la diffusion des enregistrements audiovisuels ou sonores sont libres.
 
@@ -4289,9 +4605,9 @@ Après cinquante ans, la reproduction et la diffusion des enregistrements audiov
 
 	  - Loi n°85-699 du 11 juillet 1985 - art. 8 (Ab)
 
-	**Codifié par**:
+	**Modifié par**:
 
-	  - Ordonnance 2004-178 2004-02-20 JORF 24 février 2004
+	  - Loi n°2008-696  du 15 juillet 2008 - art. 18
 
 	**Cité par**:
 
@@ -12024,7 +12340,7 @@ objet applicables localement.
 
 Les articles L. 112-1 à L. 112-25, L. 114-2 à L. 114-5, L. 123-1 à L. 123-3, L. 131-1, L. 131-2, L. 132-1 à L. 132-6, L.
 133-1, L. 143-1 à L. 143-14, L. 211-1 à L. 211-6, L. 212-1 à L. 212-28, L. 212-30 à L. 212-37, L. 213-1 à L. 213-8, L. 214-1
-à L. 214-5, L. 221-1 à L. 221-5, L. 222-1 à L. 222-3, L. 310-1 à L. 310-6, L. 320-1 à L. 320-4, L. 410-1 à L. 410-4, L.
+à L. 214-10, L. 221-1 à L. 221-5, L. 222-1 à L. 222-3, L. 310-1 à L. 310-6, L. 320-1 à L. 320-4, L. 410-1 à L. 410-4, L.
 430-1, L. 430-2, L. 441-1, L. 441-2, L. 442-1 à L. 442-11, L. 451-1 à L. 451-10, L. 452-1 à L. 452-4, L. 510-1, L. 521-1, L.
 522-1 à L. 522-8, L. 523-1 à L. 523-14, L. 524-1 à L. 524-16, L. 531-1 à L. 531-19, L. 532-1 à L. 532-14, L. 541-1, L. 541-2,
 L. 542-1 à L. 542-3, L. 544-1 à L. 544-13, L. 611-1, L. 612-2, L. 621-1 à L. 621-9, L. 621-11 à L. 621-27, L. 621-29 à L.
@@ -12032,47 +12348,46 @@ L. 542-1 à L. 542-3, L. 544-1 à L. 544-13, L. 611-1, L. 612-2, L. 621-1 à L. 
 
 **Liens relatifs à cet article**
 
-	**Codifié par**:
-
-	  - Ordonnance 2004-178 2004-02-20 JORF 24 février 2004
-
 	**Modifié par**:
 
-	  - Loi n°2006-961 du 1 août 2006 - art. 51 () JORF 3 août 2006
-
-
-###### Article L730-2
-
-Pour son application à Mayotte, à l'article L. 213-6, les mots :
-
-"ou de dation au sens des articles 1131 et 1716 bis du code général des impôts" sont supprimés.
-
-**Liens relatifs à cet article**
+	  - Loi n°2008-696  du 15 juillet 2008 - art. 20
 
 	**Cite**:
 
-	  - CGI 1131, 1716 bis
-	  - Code du patrimoine - art. L213-6
-
-	**Codifié par**:
-
-	  - Ordonnance 2004-178 2004-02-20 JORF 24 février 2004
-
-	**Abrogé par**:
-
-	  - Loi n°2008-696  du 15 juillet 2008 - art. 21
+	  - Code du patrimoine - art. L131-1
+	  - Code du patrimoine - art. L131-2
+	  - Code du patrimoine - art. L133-1
+	  - Code du patrimoine - art. L214-10
+	  - Code du patrimoine - art. L430-1
+	  - Code du patrimoine - art. L430-2
+	  - Code du patrimoine - art. L441-1
+	  - Code du patrimoine - art. L441-2
+	  - Code du patrimoine - art. L510-1
+	  - Code du patrimoine - art. L521-1
+	  - Code du patrimoine - art. L541-1
+	  - Code du patrimoine - art. L541-2
+	  - Code du patrimoine - art. L611-1
+	  - Code du patrimoine - art. L612-2
+	  - Code du patrimoine - art. L630-1
 
 
 ###### Article L730-3
 
-Pour son application à Mayotte, au c de l'article L. 211-4, après les mots : "officiers publics ou ministériels", et au c de
-l'article L. 213-2 ainsi qu'à l'article L. 213-3, après le mot : "notaires", sont insérés les mots : "et des cadis".
+Pour son application à Mayotte, dans le c de l'article L. 211-4 et dans le d du 4° du I de l'article L. 213-2, après les
+mots : " officiers publics ou ministériels ", sont insérés les mots : " et des cadis ". Dans la deuxième phrase du I de
+l'article L. 213-3, après le mot : " notaires ", il est procédé à la même insertion.
 
 **Liens relatifs à cet article**
 
-	**Codifié par**:
+	**Modifié par**:
 
-	  - Ordonnance 2004-178 2004-02-20 JORF 24 février 2004
+	  - Loi n°2008-696  du 15 juillet 2008 - art. 22
+
+	**Cite**:
+
+	  - Code du patrimoine - art. L211-4
+	  - Code du patrimoine - art. L213-2
+	  - Code du patrimoine - art. L213-3
 
 
 ###### Article L730-4
@@ -12320,19 +12635,22 @@ et Futuna.
 
 ###### Article L760-2
 
-Les articles L. 211-1 à L. 211-6, L. 212-1 à L. 212-5, L. 213-1 à L. 213-8 et L. 214-1 à L. 214-5 sont applicables dans les
+Les articles L. 211-1 à L. 211-6, L. 212-1 à L. 212-5, L. 213-1 à L. 213-8 et L. 214-1 à L. 214-10 sont applicables dans les
 îles Wallis et Futuna aux archives relevant des services et établissements publics de l'Etat et des personnes morales
 chargées de la gestion d'un service public relevant de la compétence de l'Etat.
 
 **Liens relatifs à cet article**
 
-	**Codifié par**:
-
-	  - Ordonnance 2004-178 2004-02-20 JORF 24 février 2004
-
 	**Modifié par**:
 
-	  - Loi n°2004-1343 du 9 décembre 2004 - art. 78 (V) JORF 10 décembre 2004
+	  - Loi n°2008-696  du 15 juillet 2008 - art. 20
+
+	**Cite**:
+
+	  - Code du patrimoine - art. L211-1 (V)
+	  - Code du patrimoine - art. L212-1 (V)
+	  - Code du patrimoine - art. L213-1 (V)
+	  - Code du patrimoine - art. L214-1 (V)
 
 
 ###### Article L760-3
@@ -12416,45 +12734,37 @@ objet applicables localement.
 ###### Article L770-1
 
 Les articles L. 131-1, L. 131-2, L. 132-1 à L. 132-6, L. 133-1, L. 211-1 à L. 211-6, L. 212-1 à L. 212-5, L. 212-15 à L.
-212-28, L. 212-31 à L. 212-33, L. 212-37, L. 213-1 à L. 213-8, L. 214-1 à L. 214-5, L. 510-1, L. 532-1 à L. 532-14 et L.
-544-5 à L. 544-11 sont applicables au territoire des Terres australes et antarctiques françaises.
+212-28, L. 212-31 à L. 212-33, L. 212-37, L. 213-1 à L. 213-8, L. 214-1 à L. 214-10
+, L. 510-1, L. 532-1 à L. 532-14 et L. 544-5 à L. 544-11 sont applicables au territoire des Terres australes et antarctiques
+françaises.
 
 **Liens relatifs à cet article**
 
-	**Codifié par**:
-
-	  - Ordonnance 2004-178 2004-02-20 JORF 24 février 2004
-
 	**Modifié par**:
 
-	  - Loi n°2006-961 du 1 août 2006 - art. 51 () JORF 3 août 2006
+	  - Loi n°2008-696  du 15 juillet 2008 - art. 20
+
+	**Cite**:
+
+	  - Code du patrimoine - art. L131-1 (V)
+	  - Code du patrimoine - art. L132-1 (V)
+	  - Code du patrimoine - art. L133-1 (V)
+	  - Code du patrimoine - art. L211-1 (V)
+	  - Code du patrimoine - art. L212-1 (V)
+	  - Code du patrimoine - art. L212-15 (V)
+	  - Code du patrimoine - art. L212-31 (V)
+	  - Code du patrimoine - art. L212-37 (V)
+	  - Code du patrimoine - art. L213-1 (V)
+	  - Code du patrimoine - art. L214-1 (V)
+	  - Code du patrimoine - art. L214-10
+	  - Code du patrimoine - art. L510-1 (V)
+	  - Code du patrimoine - art. L532-1 (V)
+	  - Code du patrimoine - art. L544-5 (V)
 
 	**Cité par**:
 
 	  - Code du patrimoine - art. L770-3 (V)
 	  - Code du patrimoine. - art. L770-2 (Ab)
-
-
-###### Article L770-2
-
-Pour l'application de l'article L. 770-1 au territoire des Terres australes et antarctiques françaises, à l'article L. 213-6,
-les mots : "ou de dation au sens des articles 1131 et 1716 bis du code général des impôts" sont supprimés.
-
-**Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - CGI 1131, 1716 bis
-	  - Code du patrimoine - art. L213-6
-	  - Code du patrimoine - art. L770-1
-
-	**Codifié par**:
-
-	  - Ordonnance 2004-178 2004-02-20 JORF 24 février 2004
-
-	**Abrogé par**:
-
-	  - Loi n°2008-696  du 15 juillet 2008 - art. 23 (V)
 
 
 ###### Article L770-3
