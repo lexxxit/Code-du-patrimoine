@@ -1,5 +1,5 @@
 # Code du patrimoine  
-Version Consolidée au 2008-07-17
+Version Consolidée au 2008-07-30
 
 # Partie législative
 
@@ -3006,7 +3006,7 @@ celles-ci sont, à défaut d'affectation déterminée par l'acte de suppression,
 	  - Loi n°2008-696  du 15 juillet 2008 - art. 5
 
 
-##### Sous-section 2 : Archives des collectivités territoriales
+##### Sous-section 2 : Archives des collectivités territoriales et des groupements de collectivités territoriales
 
 ##### Paragraphe 1 : Dispositions générales.
 
@@ -3274,12 +3274,6 @@ l'autorisation du conseil municipal.
 
 	  - Code du patrimoine - art. L212-11 (V)
 
-
-##### Sous-section 2 : Archives des collectivités territoriales et des groupements de collectivités territoriales
-
-##### Paragraphe 1 : Dispositions générales.
-
-##### Paragraphe 2 : Dépôt des archives communales.
 
 ##### Section 2 : Archives privées
 
@@ -6775,31 +6769,32 @@ titre est déduit de la redevance due pour la réalisation de l'aménagement.
 
 ###### Article L524-7
 
-Le montant de la redevance d'archéologie préventive est calculé selon les modalités suivantes :
+Le montant de la redevance d'archéologie préventive est calculé selon les modalités suivantes : 
 
-I. - Lorsqu'elle est perçue sur les travaux visés au a de l'article L. 524-2, l'assiette de la redevance est constituée par
-la valeur de l'ensemble immobilier comprenant les terrains nécessaires à la construction, à la reconstruction ou à
+I.-Lorsqu'elle est perçue sur les travaux visés au a de l'article L. 524-2, l'assiette de la redevance est constituée par la
+valeur de l'ensemble immobilier comprenant les terrains nécessaires à la construction, à la reconstruction ou à
 l'agrandissement et les bâtiments dont l'édification doit faire l'objet de l'autorisation de construire. Cette valeur est
 déterminée forfaitairement en appliquant à la surface de plancher développée hors oeuvre une valeur au mètre carré variable
 selon la catégorie d'immeubles. Cette valeur est déterminée conformément aux dispositions de l'article 1585 D du code général
-des impôts. Les constructions qui sont destinées à être affectées à un service public ou d'utilité publique sont assimilées,
-pour le calcul de l'assiette de la redevance, aux constructions visées au 4° du I de l'article 1585 D du même code. Il en est
-de même pour les espaces aménagés principalement pour le stationnement des véhicules, qui sont assujettis sur la base de la
-surface hors oeuvre brute lorsqu'il s'agit de constructions et de la surface au sol des travaux dans les autres cas.
+des impôts. Les constructions, y compris celles réalisées dans le cadre des contrats énumérés à l'article 1048 ter du même
+code, qui sont destinées à être affectées à un service public ou d'utilité publique sont assimilées, pour le calcul de
+l'assiette de la redevance, aux constructions visées au 4° du I de l'article 1585 D du même code. Il en est de même pour les
+espaces aménagés principalement pour le stationnement des véhicules, qui sont assujettis sur la base de la surface hors
+oeuvre brute lorsqu'il s'agit de constructions et de la surface au sol des travaux dans les autres cas. 
 
 La redevance n'est pas due pour les travaux de construction créant moins de 1 000 mètres carrés de surface hors oeuvre nette
-ou, pour les parcs de stationnement visés à l'alinéa précédent, de surface.
+ou, pour les parcs de stationnement visés à l'alinéa précédent, de surface. 
 
-Le tarif de la redevance est de 0,3 % de la valeur de l'ensemble immobilier déterminée conformément à l'article 1585 D du
-code général des impôts.
+Le tarif de la redevance est de 0, 3 % de la valeur de l'ensemble immobilier déterminée conformément à l'article 1585 D du
+code général des impôts. 
 
-II. - Lorsqu'elle est perçue sur des travaux visés aux b et c de l'article L. 524-2, son montant est égal à 0,32 euro par
-mètre carré. Ce montant est indexé sur l'indice du coût de la construction.
+II.-Lorsqu'elle est perçue sur des travaux visés aux b et c de l'article L. 524-2, son montant est égal à 0, 32 euro par
+mètre carré. Ce montant est indexé sur l'indice du coût de la construction. 
 
 La surface prise en compte est selon le cas :
 
 - la surface au sol des installations autorisées pour les aménagements et ouvrages soumis à autorisation administrative qui
-doivent être précédés d'une étude d'impact en application de l'article  L. 122-1 du code de l'environnement ;
+doivent être précédés d'une étude d'impact en application de l'article L. 122-1 du code de l'environnement ;
 
 - la surface au sol des aménagements et ouvrages non soumis à autorisation administrative qui doivent être précédés d'une
 étude d'impact en application de l'article L. 122-1 du code de l'environnement sur la base du dossier transmis pour
@@ -6808,7 +6803,7 @@ prescription de diagnostic éventuelle en application des articles L. 522-1 et s
 - la surface de la zone sur laquelle porte la demande de réalisation du diagnostic prévue au dernier alinéa de l'article L.
 524-4 ;
 
-- la surface au sol des travaux soumis à déclaration administrative préalable visés à l'article L. 524-2 du présent code.
+- la surface au sol des travaux soumis à déclaration administrative préalable visés à l'article L. 524-2 du présent code. 
 
 La redevance n'est pas due pour les travaux et aménagements réalisés sur des terrains d'une superficie inférieure à 3 000
 mètres carrés.
@@ -6817,7 +6812,6 @@ mètres carrés.
 
 	**Anciens textes**:
 
-	  - Loi n°2001-44 2001-01-17 art. 9 par. II
 	  - Loi n°2001-44 du 17 janvier 2001 - art. 9 (Ab)
 
 	**Cité par**:
@@ -6834,13 +6828,18 @@ mètres carrés.
 	  - Code du patrimoine - art. L524-6 (V)
 	  - Code du patrimoine. - art. R524-10 (V)
 
-	**Codifié par**:
-
-	  - Ordonnance 2004-178 2004-02-20 JORF 24 février 2004
-
 	**Modifié par**:
 
-	  - Loi n°2004-804 du 9 août 2004 - art. 17 (V) JORF 11 août 2004
+	  - Loi n°2008-735 du 28 juillet 2008 - art. 41
+
+	**Cite**:
+
+	  - Code général des impôts, CGI. - art. 1048 ter
+	  - Code général des impôts, CGI. - art. 1585 D
+	  - Code de l'environnement - art. L122-1
+	  - Code du patrimoine - art. L522-1
+	  - Code du patrimoine - art. L524-2
+	  - Code du patrimoine - art. L524-4
 
 
 ###### Article L524-8
