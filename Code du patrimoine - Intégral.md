@@ -1,5 +1,5 @@
 # Code du patrimoine  
-Version Consolidée au 2008-07-30
+Version Consolidée au 2009-02-19
 
 # Partie législative
 
@@ -5905,21 +5905,21 @@ préventive et assure les missions de contrôle et d'évaluation de ces opérati
 ###### Article L522-2
 
 Les prescriptions de l'Etat concernant les diagnostics et les opérations de fouilles d'archéologie préventive sont motivées.
-Les prescriptions de diagnostic sont délivrées dans un délai d'un mois à compter de la réception du dossier. Ce délai est
-porté à deux mois lorsque les aménagements, ouvrages ou travaux projetés sont soumis à une étude d'impact en application du
-code de l'environnement. Les prescriptions de fouilles sont délivrées dans un délai de trois mois à compter de la réception
-du rapport de diagnostic. En l'absence de prescriptions dans les délais, l'Etat est réputé avoir renoncé à édicter celles-ci.
+Les prescriptions de diagnostic sont délivrées dans un délai   de vingt et un jours à compter de la réception du dossier. Ce
+délai est porté à deux mois lorsque les aménagements, ouvrages ou travaux projetés sont soumis à une étude d'impact en
+application du code de l'environnement. Les prescriptions de fouilles sont délivrées dans un délai de trois mois à compter de
+la réception du rapport de diagnostic. En l'absence de prescriptions dans les délais, l'Etat est réputé avoir renoncé à
+édicter celles-ci.
 
 **Liens relatifs à cet article**
 
 	**Anciens textes**:
 
-	  - Loi n°2001-44 2001-01-17 art. 2 al. 2
 	  - Loi n°2001-44 du 17 janvier 2001 - art. 2 (V)
 
-	**Codifié par**:
+	**Modifié par**:
 
-	  - Ordonnance 2004-178 2004-02-20 JORF 24 février 2004
+	  - Loi n°2009-179 du 17 février 2009 - art. 8
 
 	**Cité par**:
 
@@ -6205,6 +6205,11 @@ Les emplois permanents de l'établissement public sont pourvus par des agents co
 l'établissement public est régi par le décret en Conseil d'Etat pris en application de l'article 7 de la loi n° 84-16 du 11
 janvier 1984 portant dispositions statutaires relatives à la fonction publique de l'Etat et par un décret particulier.
 
+Pour une durée  de cinq ans, lorsque les contrats sont conclus pour une activité définie dans le  cadre d'une opération de
+fouilles d'archéologie préventive, leur terme est fixé  à l'achèvement de l'activité pour la réalisation de laquelle ils ont
+été  conclus. Un décret en Conseil d'Etat précise les activités pour lesquelles ces  types de contrats peuvent être conclus
+et les règles qui leur sont applicables,  notamment en fin de contrat. 
+
 Les biens, droits et obligations de l'association dénommée "Association pour les fouilles archéologiques nationales" sont
 dévolus à l'établissement public dans des conditions fixées par décret.
 
@@ -6212,20 +6217,19 @@ dévolus à l'établissement public dans des conditions fixées par décret.
 
 	**Cite**:
 
-	  - Loi n°84-16 1984-01-11 art. 7
+	  - Loi n°84-16 du 11 janvier 1984 - art. 7
 
 	**Anciens textes**:
 
-	  - Loi n°2001-44 2001-01-17 art. 4-1 al. 4
 	  - Loi n°2001-44 du 17 janvier 2001 - art. 4-1 (Ab)
 
 	**Cité par**:
 
 	  - Décret n°2002-90 du 16 janvier 2002 - art. 3 (Ab)
 
-	**Codifié par**:
+	**Modifié par**:
 
-	  - Ordonnance 2004-178 2004-02-20 JORF 24 février 2004
+	  - Loi n°2009-179 du 17 février 2009 - art. 9
 
 
 ###### Article L523-4
@@ -6321,16 +6325,22 @@ territoriale ou le groupement de collectivités territoriales dont dépend le se
 d'établir le diagnostic d'archéologie préventive, définit les délais de réalisation des diagnostics et les conditions d'accès
 aux terrains et de fourniture des matériels, équipements et moyens nécessaires à la réalisation des diagnostics. Les délais
 courent à compter de la mise à disposition des terrains dans des conditions permettant de se livrer aux opérations
-archéologiques. Sous réserve des dispositions du troisième alinéa applicables en cas d'un dépassement de délai imputable à
-l'opérateur, la convention détermine les conséquences pour les parties du dépassement des délais.
+archéologiques. Sous réserve des dispositions des troisième et quatrième alinéas applicables en cas d'un dépassement de délai
+imputable à l'opérateur, la convention détermine les conséquences pour les parties du dépassement des délais. 
 
 Faute d'un accord entre les parties sur les délais de réalisation des diagnostics, ces délais sont fixés, à la demande de la
-partie la plus diligente, par l'Etat.
+partie la plus diligente, par l'Etat. 
+
+Lorsque, du fait de l'opérateur et sous réserve des dispositions prévues par le contrat mentionné au premier alinéa, les
+travaux nécessaires à la réalisation du diagnostic ne sont pas engagés dans un délai de quatre mois suivant la conclusion de
+la convention mentionnée au premier alinéa, la prescription est réputée caduque. 
 
 Lorsque, du fait de l'opérateur, le diagnostic n'est pas achevé dans le délai fixé par la convention, la prescription de
-diagnostic est réputée caduque à l'expiration d'un délai fixé par voie réglementaire. Dans ce cas, les dispositions des
-articles L. 531-14 à L. 531-16 sont applicables aux découvertes faites sur le terrain d'assiette de l'opération. Les mesures
-utiles à leur conservation ou à leur sauvegarde sont prescrites conformément aux dispositions du présent titre.
+diagnostic est réputée caduque à l'expiration d'un délai fixé par voie réglementaire. 
+
+Dans ces cas, les dispositions des articles L. 531-14 à L. 531-16 sont applicables aux découvertes faites sur le terrain
+d'assiette de l'opération. Les mesures utiles à leur conservation ou à leur sauvegarde sont prescrites conformément aux
+dispositions du présent titre. 
 
 Les conclusions du diagnostic sont transmises à la personne projetant d'exécuter les travaux et au propriétaire du terrain.
 
@@ -6340,9 +6350,9 @@ Les conclusions du diagnostic sont transmises à la personne projetant d'exécut
 
 	  - Loi n°2001-44 du 17 janvier 2001 - art. 4-5 (Ab)
 
-	**Codifié par**:
+	**Modifié par**:
 
-	  - Ordonnance 2004-178 2004-02-20 JORF 24 février 2004
+	  - Loi n°2009-179 du 17 février 2009 - art. 8
 
 	**Cité par**:
 
@@ -6351,7 +6361,7 @@ Les conclusions du diagnostic sont transmises à la personne projetant d'exécut
 
 	**Cite**:
 
-	  - Code du patrimoine L531-14 à L531-16
+	  - Code du patrimoine - art. L531-14
 
 
 ###### Article L523-8
@@ -6401,22 +6411,26 @@ L'Etat autorise les fouilles après avoir contrôlé la conformité du contrat m
 de fouilles édictées en application de l'article L. 522-2.
 
 L'opérateur exécute les fouilles conformément aux décisions prises et aux prescriptions imposées par l'Etat et sous la
-surveillance de ses représentants, en application des dispositions du présent livre.
+surveillance de ses représentants, en application des dispositions du présent livre. 
+
+Lorsque, du fait de l'opérateur et sous réserve des dispositions prévues par le contrat mentionné au premier alinéa, les
+travaux nécessaires aux opérations archéologiques ne sont pas engagés dans un délai de six mois suivant la délivrance de
+l'autorisation mentionnée au deuxième alinéa, l'Etat en prononce le retrait. Ce retrait vaut renonciation à la mise en œuvre
+des prescriptions édictées en application de l'article L. 522-2. 
+
+Lorsque, du fait de l'opérateur, les travaux de terrain nécessaires aux opérations archéologiques ne sont pas achevés dans un
+délai de douze mois à compter de la délivrance de l'autorisation mentionnée au deuxième alinéa, délai prorogeable une fois
+pour une période de dix-huit mois par décision motivée de l'autorité administrative prise après avis de la commission
+interrégionale de la recherche archéologique, l'Etat en prononce le retrait. Les prescriptions édictées en application de
+l'article L. 522-2 sont réputées caduques. Les articles L. 531-14 à L. 531-16 sont applicables aux découvertes faites sur le
+terrain d'assiette de l'opération. Les mesures utiles à leur conservation ou à leur sauvegarde sont prescrites conformément
+au présent titre.
 
 **Liens relatifs à cet article**
 
 	**Anciens textes**:
 
-	  - Loi n°2001-44 2001-01-17 art. 5 al. 2 à 4
 	  - Loi n°2001-44 du 17 janvier 2001 - art. 5 (Ab)
-
-	**Codifié par**:
-
-	  - Ordonnance 2004-178 2004-02-20 JORF 24 février 2004
-
-	**Modifié par**:
-
-	  - Loi n°2004-1343 du 9 décembre 2004 - art. 78 (V) JORF 10 décembre 2004
 
 	**Cité par**:
 
@@ -6428,9 +6442,14 @@ surveillance de ses représentants, en application des dispositions du présent 
 	  - Code du patrimoine. - art. L524-10 (Ab)
 	  - Code du patrimoine. - art. R621-62 (V)
 
+	**Modifié par**:
+
+	  - Loi n°2009-179 du 17 février 2009 - art. 8
+
 	**Cite**:
 
-	  - Code du patrimoine. - art. L522-2 (V)
+	  - Code du patrimoine - art. L522-2
+	  - Code du patrimoine - art. L531-14
 
 
 ###### Article L523-10
@@ -6438,22 +6457,32 @@ surveillance de ses représentants, en application des dispositions du présent 
 Lorsque aucun autre opérateur ne s'est porté candidat ou ne remplit les conditions pour réaliser les fouilles,
 l'établissement public mentionné à l'article L. 523-1 est tenu d'y procéder à la demande de la personne projetant d'exécuter
 les travaux. En cas de désaccord entre les parties sur les conditions de réalisation ou sur le financement des fouilles, le
-différend est réglé selon une procédure d'arbitrage organisée par décret en Conseil d'Etat.
+différend est réglé selon une procédure d'arbitrage organisée par décret en Conseil d'Etat. 
+
+Lorsque l'établissement public n'a pas engagé les travaux nécessaires aux opérations archéologiques dans un délai de six mois
+suivant la délivrance de l'autorisation visée au deuxième alinéa de l'article L. 523-9, ou qu'il ne les a pas achevés dans un
+délai de dix-huit mois, prorogeable une fois par décision motivée de l'autorité administrative, à compter de la délivrance de
+cette même autorisation, les prescriptions édictées en application de l'article L. 522-2 sont réputées caduques. 
+
+Les articles L. 531-14 à L. 531-16 sont applicables aux découvertes faites sur le terrain d'assiette de l'opération. Les
+mesures utiles à leur conservation ou à leur sauvegarde sont prescrites conformément au présent titre.
 
 **Liens relatifs à cet article**
 
 	**Anciens textes**:
 
-	  - Loi n°2001-44 2001-01-17 art. 5 al. 5
 	  - Loi n°2001-44 du 17 janvier 2001 - art. 5 (Ab)
 
-	**Codifié par**:
+	**Modifié par**:
 
-	  - Ordonnance 2004-178 2004-02-20 JORF 24 février 2004
+	  - Loi n°2009-179 du 17 février 2009 - art. 8
 
 	**Cite**:
 
-	  - Code du patrimoine. - art. L523-1 (V)
+	  - Code du patrimoine - art. L522-2
+	  - Code du patrimoine - art. L523-1
+	  - Code du patrimoine - art. L523-9
+	  - Code du patrimoine - art. L531-14
 
 
 ###### Article L523-11
@@ -6785,11 +6814,11 @@ oeuvre brute lorsqu'il s'agit de constructions et de la surface au sol des trava
 La redevance n'est pas due pour les travaux de construction créant moins de 1 000 mètres carrés de surface hors oeuvre nette
 ou, pour les parcs de stationnement visés à l'alinéa précédent, de surface. 
 
-Le tarif de la redevance est de 0, 3 % de la valeur de l'ensemble immobilier déterminée conformément à l'article 1585 D du
+Le tarif de la redevance est de   0,4 % de la valeur de l'ensemble immobilier déterminée conformément à l'article 1585 D du
 code général des impôts. 
 
-II.-Lorsqu'elle est perçue sur des travaux visés aux b et c de l'article L. 524-2, son montant est égal à 0, 32 euro par
-mètre carré. Ce montant est indexé sur l'indice du coût de la construction. 
+II.-Lorsqu'elle est perçue sur des travaux visés aux b et c de l'article L. 524-2, son montant est égal à 0,50 € par mètre
+carré. Ce montant est indexé sur l'indice du coût de la construction. 
 
 La surface prise en compte est selon le cas :
 
@@ -6830,7 +6859,7 @@ mètres carrés.
 
 	**Modifié par**:
 
-	  - Loi n°2008-735 du 28 juillet 2008 - art. 41
+	  - Loi n°2009-179 du 17 février 2009 - art. 8
 
 	**Cite**:
 
