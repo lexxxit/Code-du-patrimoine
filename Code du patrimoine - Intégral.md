@@ -1,5 +1,5 @@
 # Code du patrimoine  
-Version Consolidée au 2009-05-01
+Version Consolidée au 2009-05-14
 
 # Partie législative
 
@@ -5234,24 +5234,20 @@ Le fait, pour le fondateur ou le dirigeant, de droit ou de fait, d'une instituti
 de France", d'utiliser ou de laisser utiliser cette appellation dans l'intérêt de cette institution est puni d'une amende de
 15 000 euros.
 
-Les personnes morales peuvent être déclarées responsables pénalement du délit prévu à l'alinéa précédent dans les conditions
-prévues aux articles 121-2 et 131-38 du code pénal.
-
 **Liens relatifs à cet article**
 
 	**Anciens textes**:
 
-	  - Loi n°2002-5 du 4 janvier 2002 - art. 17, v. init.
 	  - Loi n°2002-5 du 4 janvier 2002 - art. 17 (Ab)
 
-	**Codifié par**:
+	**Modifié par**:
 
-	  - Ordonnance 2004-178 2004-02-20 JORF 24 février 2004
+	  - Loi n°2009-526 du 12 mai 2009 - art. 125
 
 	**Cite**:
 
-	  - Code pénal - art. 121-2 (M)
-	  - Code pénal - art. 131-38 (M)
+	  - Code pénal - art. 121-2
+	  - Code pénal - art. 131-38
 
 
 ##### Section 3 : Dispositions générales liées à l'appellation "musée de France"
@@ -6230,18 +6226,22 @@ dévolus à l'établissement public dans des conditions fixées par décret.
 
 Les services archéologiques qui dépendent d'une collectivité territoriale ou d'un groupement de collectivités territoriales
 établissent, sur décision de l'organe délibérant de la collectivité ou du groupement, dans les mêmes conditions que
-l'établissement public, les diagnostics d'archéologie préventive relatifs à :
+l'établissement public, les diagnostics d'archéologie préventive relatifs à : 
 
 a) Soit une opération d'aménagement ou de travaux réalisée sur le territoire de la collectivité territoriale ou du groupement
-de collectivités territoriales ;
+de collectivités territoriales ; 
 
 b) Soit, pendant une durée minimale de trois ans, l'ensemble des opérations d'aménagement ou de travaux réalisées sur le
-territoire de la collectivité territoriale ou du groupement de collectivités territoriales.
+territoire de la collectivité territoriale ou du groupement de collectivités territoriales. 
 
 Lorsque son organe délibérant en a ainsi décidé, une collectivité territoriale ou un groupement de collectivités
 territoriales, doté d'un service archéologique, est compétent pour se livrer aux opérations mentionnées au présent article
 sur son territoire alors même que ce dernier serait inclus dans le ressort d'une autre collectivité territoriale également
-dotée d'un service archéologique.
+dotée d'un service archéologique. 
+
+En application des articles L. 2122-22, L. 3211-2 ou L. 4221-5 du code général des collectivités territoriales, les décisions
+relatives à l'exécution des diagnostics d'archéologie préventive peuvent être déléguées par l'organe délibérant de la
+collectivité ou de son groupement à l'organe exécutif.
 
 **Liens relatifs à cet article**
 
@@ -6261,9 +6261,9 @@ dotée d'un service archéologique.
 	  - Code général des collectivités territoriales - art. L3211-2 (V)
 	  - Code général des collectivités territoriales - art. L4221-5 (V)
 
-	**Codifié par**:
+	**Modifié par**:
 
-	  - Ordonnance 2004-178 2004-02-20 JORF 24 février 2004
+	  - Loi n°2009-526 du 12 mai 2009 - art. 100
 
 
 ###### Article L523-5
