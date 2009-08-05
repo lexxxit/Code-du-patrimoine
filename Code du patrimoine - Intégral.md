@@ -1,5 +1,5 @@
 # Code du patrimoine  
-Version Consolidée au 2009-07-26
+Version Consolidée au 2009-08-06
 
 # Partie législative
 
@@ -12077,29 +12077,19 @@ enquête publique.
 
 Les travaux de construction, de démolition, de déboisement, de transformation et de modification de l'aspect des immeubles
 compris dans le périmètre de la zone de protection instituée en vertu de l'article L. 642-2 sont soumis à autorisation
-spéciale, accordée par l'autorité administrative compétente en matière de permis de construire après avis conforme de
-l'architecte des Bâtiments de France. Le permis de construire et les autres autorisations d'utilisation du sol prévues par le
-code de l'urbanisme en tiennent lieu sous réserve de cet avis conforme, s'ils sont revêtus du visa de l'architecte des
-Bâtiments de France.
+spéciale, accordée par l'autorité administrative compétente en matière de permis de construire après avis de l'architecte des
+Bâtiments de France. Le permis de construire et les autres autorisations d'utilisation du sol prévues par le code de
+l'urbanisme en tiennent lieu sous réserve de cet avis, s'ils sont revêtus du visa de l'architecte des Bâtiments de France. 
 
-En cas de désaccord soit du maire ou de l'autorité administrative compétente pour délivrer le permis de construire, soit du
-pétitionnaire, avec l'avis émis par l'architecte des Bâtiments de France, le représentant de l'Etat dans la région émet,
-après avis de la section de la commission régionale du patrimoine et des sites, un avis qui se substitue à celui de
-l'architecte des Bâtiments de France. Le recours du pétitionnaire s'exerce à l'occasion du refus d'autorisation de travaux.
-Les délais de saisine du préfet de région et ceux impartis à la section de la commission régionale du patrimoine et des sites
-et au préfet de région pour statuer sont fixés par décret en Conseil d'Etat.
+Le ministre compétent peut évoquer tout dossier dont l'architecte des Bâtiments de France est saisi en application du présent
+article. 
 
-Le ministre compétent peut évoquer tout dossier dont l'architecte des Bâtiments de France ou le représentant de l'Etat dans
-la région est saisi en application du présent article.
-
-Dans la collectivité territoriale de Corse, les compétences dévolues au préfet de région par le présent article sont exercées
-par le préfet de Corse.
+Si le ministre compétent a décidé d'évoquer le dossier, l'autorisation ne peut intervenir qu'après son accord.
 
 **Liens relatifs à cet article**
 
 	**Anciens textes**:
 
-	  - Loi n°83-8 1983-01-07 art. 71 al. 1 à 3
 	  - Loi n°83-8 du 7 janvier 1983 - art. 71 (Ab)
 
 	**Cité par**:
@@ -12122,9 +12112,9 @@ par le préfet de Corse.
 	  - Code du patrimoine. - art. L642-2 (V)
 	  - Code du patrimoine. - art. L642-4 (V)
 
-	**Codifié par**:
+	**Modifié par**:
 
-	  - Ordonnance 2004-178 2004-02-20 JORF 24 février 2004
+	  - Loi n°2009-967 du 3 août 2009 - art. 9
 
 
 ###### Article L642-4
