@@ -1,5 +1,5 @@
 # Code du patrimoine  
-Version Consolidée au 2009-08-06
+Version Consolidée au 2010-01-01
 
 # Partie législative
 
@@ -6805,7 +6805,7 @@ oeuvre brute lorsqu'il s'agit de constructions et de la surface au sol des trava
 La redevance n'est pas due pour les travaux de construction créant moins de 1 000 mètres carrés de surface hors oeuvre nette
 ou, pour les parcs de stationnement visés à l'alinéa précédent, de surface. 
 
-Le tarif de la redevance est de   0,4 % de la valeur de l'ensemble immobilier déterminée conformément à l'article 1585 D du
+Le tarif de la redevance est de   0,5 % de la valeur de l'ensemble immobilier déterminée conformément à l'article 1585 D du
 code général des impôts. 
 
 II.-Lorsqu'elle est perçue sur des travaux visés aux b et c de l'article L. 524-2, son montant est égal à 0,50 € par mètre
