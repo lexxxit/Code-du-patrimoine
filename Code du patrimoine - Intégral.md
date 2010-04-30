@@ -1,5 +1,5 @@
 # Code du patrimoine  
-Version Consolidée au 2010-01-01
+Version Consolidée au 2010-05-01
 
 # Partie législative
 
@@ -1881,37 +1881,28 @@ ou d'une partie de la base dans les conditions prévues à l'article L. 132-4.
 Le fait, pour toute personne mentionnée à l'article L. 132-2, de se soustraire volontairement à l'obligation de dépôt légal
 est puni d'une amende de 75 000 euros. La juridiction répressive peut, après avoir déclaré le prévenu coupable, ajourner le
 prononcé de la peine en lui enjoignant, sous astreinte le cas échéant, de se conformer, dans un délai fixé, aux prescriptions
-qu'elle détermine et qui ont pour objet de faire cesser l'agissement illicite et d'en réparer les conséquences.
+qu'elle détermine et qui ont pour objet de faire cesser l'agissement illicite et d'en réparer les conséquences. 
 
 Dans le cas où la juridiction répressive assortit l'ajournement d'une astreinte, elle doit prévoir le taux et la date à
 compter de laquelle cette astreinte commencera à courir. L'ajournement, qui ne peut intervenir qu'une seule fois, peut être
-décidé même si le prévenu ne comparaît pas en personne.
+décidé même si le prévenu ne comparaît pas en personne. 
 
-Le juge peut ordonner l'exécution provisoire de la décision d'injonction.
+Le juge peut ordonner l'exécution provisoire de la décision d'injonction. 
 
 A l'audience de renvoi, qui doit intervenir au plus tard dans le délai d'un an à compter de la décision d'ajournement, la
 juridiction statue sur la peine et liquide l'astreinte s'il y a lieu. Elle peut, le cas échéant, supprimer cette dernière ou
-en réduire le montant. L'astreinte est recouvrée par le comptable du Trésor comme une amende pénale. Elle ne peut donner lieu
-à contrainte judiciaire.
+en réduire le montant. L'astreinte est recouvrée par le comptable public compétent comme une amende pénale. Elle ne peut
+donner lieu à contrainte judiciaire.
 
 **Liens relatifs à cet article**
 
 	**Anciens textes**:
 
-	  - Loi n°92-546 1992-06-20 art. 7
 	  - Loi n°92-546 du 20 juin 1992 - art. 7 (Ab)
-
-	**Codifié par**:
-
-	  - Ordonnance 2004-178 2004-02-20 JORF 24 février 2004
-
-	**Liens**:
-
-	  - SPEC_APPLI: Loi n°2004-204 2004-03-09 art. 207 : champ d'application
 
 	**Modifié par**:
 
-	  - Loi n°2004-204 du 9 mars 2004 - art. 198 (V) JORF 10 mars 2004 en vigueur le 1er janvier 2005
+	  - Ordonnance n°2010-420  du 27 avril 2010 - art. 113
 
 	**Cité par**:
 
@@ -1922,7 +1913,7 @@ en réduire le montant. L'astreinte est recouvrée par le comptable du Trésor c
 
 	**Cite**:
 
-	  - Code du patrimoine. - art. L132-2 (M)
+	  - Code du patrimoine. - art. L132-2 (V)
 
 
 ### TITRE IV : INSTITUTIONS RELATIVES AU PATRIMOINE CULTUREL
@@ -6884,16 +6875,15 @@ L'émission du titre de recettes est prescrite à la fin de la quatrième année
 générateur. Toutefois, lorsque l'autorisation administrative est accordée pour une durée supérieure à quatre ans, l'émission
 du titre de recettes est prescrite à la fin de l'année qui suit l'année d'expiration de l'autorisation administrative.
 
-La redevance d'archéologie préventive est payée en un versement unique au comptable du Trésor compétent désigné par décision
-de l'autorité administrative. Toutefois, lorsque la redevance est afférente à une opération autre que celles mentionnées au a
-de l'article L. 524-4 faisant l'objet de réalisation par tranches de travaux, le service liquidateur fractionne l'émission du
+La redevance d'archéologie préventive est payée en un versement unique au comptable public compétent désigné par décision de
+l'autorité administrative. Toutefois, lorsque la redevance est afférente à une opération autre que celles mentionnées au a de
+l'article L. 524-4 faisant l'objet de réalisation par tranches de travaux, le service liquidateur fractionne l'émission du
 titre de recettes au début de chacune des tranches prévues dans l'autorisation administrative.
 
 **Liens relatifs à cet article**
 
 	**Anciens textes**:
 
-	  - Loi n°2001-44 2001-01-17 art. 9 par. III al. 1 à 4
 	  - Loi n°2001-44 du 17 janvier 2001 - art. 9 (Ab)
 
 	**Cité par**:
@@ -6903,20 +6893,16 @@ titre de recettes au début de chacune des tranches prévues dans l'autorisation
 	  - Décret n°2002-90 du 16 janvier 2002 - art. 9 (Ab)
 	  - Code du patrimoine - art. R524-8 (V)
 
-	**Codifié par**:
-
-	  - Ordonnance 2004-178 2004-02-20 JORF 24 février 2004
-
 	**Modifié par**:
 
-	  - Loi n°2004-1343 du 9 décembre 2004 - art. 78 (V) JORF 10 décembre 2004
+	  - Ordonnance n°2010-420  du 27 avril 2010 - art. 113
 
 	**Cite**:
 
-	  - Livre des procédures fiscales - art. L255 A (M)
-	  - Livre des procédures fiscales - art. L55 (M)
-	  - Code du patrimoine. - art. L524-2 (M)
-	  - Code du patrimoine. - art. L524-4 (M)
+	  - Livre des procédures fiscales - art. L255 A
+	  - Livre des procédures fiscales - art. L55
+	  - Code du patrimoine - art. L524-2
+	  - Code du patrimoine - art. L524-4
 
 
 ###### Article L524-9
@@ -6958,38 +6944,41 @@ l'article 1730 du code général des impôts. Une lettre de rappel est adressée
 ###### Article L524-10
 
 Le titre de recettes établi par l'ordonnateur comporte les décomptes de liquidation et de répartition du produit de la
-redevance et indique l'identité des tiers tenus solidairement au paiement de la redevance.
+redevance et indique l'identité des tiers tenus solidairement au paiement de la redevance. 
 
-Le recouvrement de la redevance est assuré par les comptables du Trésor dans les conditions fixées au titre IV du livre des
-procédures fiscales. Il est garanti par le privilège prévu au I de l'article 1929 du code général des impôts. Sont tenus
-solidairement au paiement de la redevance les établissements de crédit ou sociétés de caution mutuelle qui sont garants de
-l'achèvement de l'opération d'aménagement ou de travaux ainsi que les aménageurs successifs, dont l'identité est précisée
+Le recouvrement de la redevance est assuré par les comptables publics compétents dans les conditions fixées au titre IV du
+livre des procédures fiscales. Il est garanti par le privilège prévu au I de l'article 1929 du code général des impôts. Sont
+tenus solidairement au paiement de la redevance les établissements de crédit ou sociétés de caution mutuelle qui sont garants
+de l'achèvement de l'opération d'aménagement ou de travaux ainsi que les aménageurs successifs, dont l'identité est précisée
 dans le contrat prévu à l'article L. 523-9.
 
 **Liens relatifs à cet article**
 
-	**Cite**:
-
-	  - CGI 1929
-	  - Code du patrimoine. - art. L523-9 (M)
-
 	**Anciens textes**:
 
-	  - Loi n°2001-44 2001-01-17 art. 9 par. III al. 8, al. 9
 	  - Loi n°2001-44 du 17 janvier 2001 - art. 9 (Ab)
 
 	**Cité par**:
 
 	  - Décret n°2002-89 du 16 janvier 2002 - art. 29 (Ab)
 
-	**Codifié par**:
+	**Modifié par**:
 
-	  - Ordonnance 2004-178 2004-02-20 JORF 24 février 2004
+	  - Ordonnance n°2010-420  du 27 avril 2010 - art. 113
+
+	**Abrogé par**:
+
+	  - Loi n°2011-1978 du 28 décembre 2011 - art. 79 (V)
+
+	**Cite**:
+
+	  - Code général des impôts, CGI. - art. 1929
+	  - Code du patrimoine - art. L523-9
 
 
 ###### Article L524-11
 
-Après encaissement de la redevance, le comptable du Trésor en reverse le produit à l'établissement public mentionné à
+Après encaissement de la redevance, le comptable public compétent en reverse le produit à l'établissement public mentionné à
 l'article L. 523-1 ou, dans le cas mentionné au b de l'article L. 523-4, à la collectivité territoriale ou au groupement de
 collectivités territoriales après déduction des frais d'assiette et de recouvrement et après prélèvement du pourcentage du
 produit de la redevance alimentant le Fonds national pour l'archéologie préventive prévu à l'article L. 524-14. Le
@@ -7009,21 +6998,20 @@ collectivité territoriale ou le groupement de collectivités territoriales qui 
 
 	**Anciens textes**:
 
-	  - Loi n°2001-44 2001-01-17 art. 9 par. IV al. 1 à 3
 	  - Loi n°2001-44 du 17 janvier 2001 - art. 9 (Ab)
 
-	**Codifié par**:
+	**Modifié par**:
 
-	  - Ordonnance 2004-178 2004-02-20 JORF 24 février 2004
+	  - Ordonnance n°2010-420  du 27 avril 2010 - art. 113
+
+	**Cite**:
+
+	  - Code du patrimoine - art. L523-1
+	  - Code du patrimoine - art. L523-4
 
 	**Cité par**:
 
 	  - Code du patrimoine - art. L524-14 (M)
-
-	**Cite**:
-
-	  - Code du patrimoine. - art. L523-1 (V)
-	  - Code du patrimoine. - art. L523-4 (V)
 
 
 ###### Article L524-12
