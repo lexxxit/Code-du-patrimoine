@@ -1,5 +1,5 @@
 # Code du patrimoine  
-Version Consolidée au 2010-05-08
+Version Consolidée au 2010-05-20
 
 # Partie législative
 
@@ -1100,6 +1100,66 @@ Un décret en Conseil d'Etat fixe les conditions dans lesquelles les association
 	**Cite**:
 
 	  - Code pénal - art. 322-3-1 (V)
+
+
+#### Chapitre 5 : Commission scientifique nationale des collections.
+
+###### Article L115-1
+
+La commission scientifique nationale des collections a pour mission de conseiller les personnes publiques ou les personnes
+privées gestionnaires de fonds régionaux d'art contemporain, dans l'exercice de leurs compétences en matière de déclassement
+ou de cession de biens culturels appartenant à leurs collections, à l'exception des archives et des fonds de conservation des
+bibliothèques. 
+
+A cet effet, la commission : 
+
+1° Définit des recommandations en matière de déclassement des biens appartenant aux collections visées aux 2° et 3°, et de
+cession des biens visés au 4° ; elle peut également être consultée, par les autorités compétentes pour procéder à de tels
+déclassements ou cessions, sur toute question qui s'y rapporte ; 
+
+2° Donne son avis conforme sur les décisions de déclassement de biens appartenant aux collections des musées de France et
+d'œuvres ou objets inscrits sur l'inventaire du Fonds national d'art contemporain et confiés à la garde du Centre national
+des arts plastiques ; 
+
+3° Donne son avis sur les décisions de déclassement de biens culturels appartenant aux autres collections qui relèvent du
+domaine public ; 
+
+4° Peut être saisie pour avis par les personnes privées gestionnaires de fonds régionaux d'art contemporain, lorsque les
+collections n'appartiennent pas au domaine public, sur les décisions de cession portant sur les biens qui les constituent.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°2010-501 du 18 mai 2010 - art. 2
+
+	**Cité par**:
+
+	  - Décret n°2011-160 du 8 février 2011 - art. 1 (Ab)
+	  - Décret n°2011-160 du 8 février 2011 - art. 3 (Ab)
+	  - Loi n°2016-925 du 7 juillet 2016 - art. 95 (V)
+	  - Code du patrimoine. - art. L451-5 (V)
+	  - Code du patrimoine. - art. R115-1 (V)
+	  - Code du patrimoine. - art. R115-4 (V)
+
+
+###### Article L115-2
+
+La commission scientifique nationale des collections comprend un député et un sénateur nommés par leur assemblée respective,
+des représentants de l'Etat et des collectivités territoriales, des professionnels de la conservation des biens concernés et
+des personnalités qualifiées. 
+
+Un décret en Conseil d'Etat précise sa composition et fixe ses modalités de fonctionnement.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°2010-501 du 18 mai 2010 - art. 2
+
+	**Anciens textes**:
+
+	  - Décret n°2011-160 du 8 février 2011 - art. 1 (Ab)
 
 
 ### TITRE II : ACQUISITION DE BIENS CULTURELS
@@ -5485,21 +5545,24 @@ personne morale propriétaire des collections.
 ###### Article L451-5
 
 Les biens constituant les collections des musées de France appartenant à une personne publique font partie de leur domaine
-public et sont, à ce titre, inaliénables.
+public et sont, à ce titre, inaliénables. 
 
-Toute décision de déclassement d'un de ces biens ne peut être prise qu'après avis conforme d'une commission scientifique dont
-la composition et les modalités de fonctionnement sont fixées par décret.
+Toute décision de déclassement d'un de ces biens ne peut être prise qu'après avis conforme de la commission scientifique
+nationale des collections mentionnée à l'article L. 115-1.
 
 **Liens relatifs à cet article**
 
 	**Anciens textes**:
 
-	  - Loi n°2002-5 2002-01-04 art. 11 al. 1 et al. 2 du paragraphe II
 	  - Loi n°2002-5 du 4 janvier 2002 - art. 11 (Ab)
 
-	**Codifié par**:
+	**Modifié par**:
 
-	  - Ordonnance 2004-178 2004-02-20 JORF 24 février 2004
+	  - Loi n°2010-501 du 18 mai 2010 - art. 3
+
+	**Cite**:
+
+	  - Code du patrimoine - art. L115-1
 
 
 ###### Article L451-6
