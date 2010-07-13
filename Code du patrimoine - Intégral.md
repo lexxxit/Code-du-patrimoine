@@ -1,5 +1,5 @@
 # Code du patrimoine  
-Version Consolidée au 2010-05-20
+Version Consolidée au 2010-07-14
 
 # Partie législative
 
@@ -8759,7 +8759,7 @@ Un décret en Conseil d'Etat détermine la composition et les modalités de fonc
 ###### Article L612-1
 
 La commission régionale du patrimoine et des sites, placée auprès du représentant de l'Etat dans la région, est compétente
-notamment dans le cas prévu à l'article L. 642-2.
+notamment dans le cas prévu à l'article  L. 642-3.
 
 Elle comprend des personnalités titulaires d'un mandat électif national ou local, des représentants de l'Etat et des
 personnalités qualifiées.
@@ -8767,7 +8767,7 @@ personnalités qualifiées.
 Sa composition, ses attributions et son mode de fonctionnement sont précisés par décret en Conseil d'Etat.
 
 Une section de la commission régionale du patrimoine et des sites est instituée pour l'examen des recours prévus par les
-articles L. 621-31, L. 641-1 et L. 642-3.
+articles   L. 621-31 et L. 641-1.
 
 Elle est présidée par le préfet de région ou son représentant. Elle comprend en outre des représentants de l'Etat, des
 personnes titulaires d'un mandat électif et des personnalités qualifiées nommés par arrêté du préfet de région.
@@ -8782,7 +8782,6 @@ Un décret en Conseil d'Etat détermine les conditions de désignation de ses me
 
 	**Anciens textes**:
 
-	  - Loi n°97-179 du 28 février 1997 - art. 1 (M)
 	  - Loi n°97-179 du 28 février 1997 - art. 1 (Ab)
 
 	**Cité par**:
@@ -8795,18 +8794,18 @@ Un décret en Conseil d'Etat détermine les conditions de désignation de ses me
 	  - Code du patrimoine - art. R612-2 (V)
 	  - Code du patrimoine - art. R612-3 (Ab)
 	  - Code du patrimoine - art. R720-11 (Ab)
+	  - Code du patrimoine. - art. L642-2 (M)
 	  - Code général des collectivités territoriales - art. L4421-4 (M)
 	  - Code général des collectivités territoriales - art. L4433-27 (VD)
 
-	**Codifié par**:
+	**Modifié par**:
 
-	  - Ordonnance 2004-178 2004-02-20 JORF 24 février 2004
+	  - Loi n°2010-788 du 12 juillet 2010 - art. 28
 
 	**Cite**:
 
-	  - Code du patrimoine. - art. L621-31 (M)
-	  - Code du patrimoine. - art. L641-1 (M)
-	  - Code du patrimoine. - art. L642-2 (M)
+	  - Code du patrimoine - art. L621-31
+	  - Code du patrimoine - art. L641-1
 
 
 ###### Article L612-2
@@ -10169,8 +10168,8 @@ communale. L'approbation du plan ou de la carte emporte modification du périmè
 Le tracé du périmètre prévu par le présent article est annexé au plan local d'urbanisme dans les conditions prévues à
 l'article L. 126-1 du code de l'urbanisme.
 
-Les enquêtes publiques conduites pour l'application du présent article sont menées dans les conditions prévues par les
-articles L. 123-1 et suivants du code de l'environnement.
+Les enquêtes publiques conduites pour l'application du présent article sont  réalisées conformément au chapitre III du titre
+II du livre Ier du code de l'environnement   du code de l'environnement.
 
 **Nota:**
 
@@ -10207,27 +10206,22 @@ du décret en Conseil d'Etat prévu à l'article L. 123-19 du code de l'environn
 	  - Code minier (nouveau) - art. L161-1 (V)
 	  - Code minier - art. 79 (VT)
 
-	**Codifié par**:
-
-	  - Ordonnance 2004-178 2004-02-20 JORF 24 février 2004
-
-	**Créé par**:
-
-	  - Ordonnance n°2005-1128 du 8 septembre 2005 - art. 4 () JORF 9 septembre 2005 en vigueur le 1er avril 2007
-
 	**Modifié par**:
 
 	  - Loi n°2010-788 du 12 juillet 2010 - art. 240
 
+	**Abrogé par**:
+
+	  - Loi n°2012-387 du 22 mars 2012 - art. 106
+
 	**Cite**:
 
-	  - Code de l'urbanisme - art. L126-1 (M)
-	  - Code de l'environnement - art. L123-1 (M)
+	  - Code de l'urbanisme - art. L126-1
+	  - Code de l'environnement - art. L123-1
 
 	**Anciens textes**:
 
 	  - Code du patrimoine. - art. L621-2 (Ab)
-	  - Code du patrimoine. - art. L621-2 (M)
 
 
 ###### Article L621-31
@@ -10235,56 +10229,43 @@ du décret en Conseil d'Etat prévu à l'article L. 123-19 du code de l'environn
 Lorsqu'un immeuble est situé dans le champ de visibilité d'un édifice classé au titre des monuments historiques ou inscrit,
 il ne peut faire l'objet, tant de la part des propriétaires privés que des collectivités et établissements publics, d'aucune
 construction nouvelle, d'aucune démolition, d'aucun déboisement, d'aucune transformation ou modification de nature à en
-affecter l'aspect, sans une autorisation préalable.
+affecter l'aspect, sans une autorisation préalable. 
 
 La même autorisation est nécessaire lorsque l'immeuble est situé dans le champ de visibilité d'un parc ou d'un jardin classé
 ou inscrit ne comportant pas d'édifice, si le périmètre de protection de ce parc ou de ce jardin a été délimité dans les
-conditions fixées aux deuxième ou troisième alinéas de l'article L. 621-30-1.
+conditions fixées aux deuxième ou troisième alinéas de l'article L. 621-30-1. 
 
 Si cet immeuble est classé au titre des monuments historiques, l'autorisation est celle prévue au premier alinéa de l'article
 L. 621-9. Si l'immeuble n'est pas classé, le permis de construire, le permis de démolir, le permis d'aménager ou l'absence
-d'opposition à déclaration préalable tient lieu de l'autorisation si l'architecte des Bâtiments de France a donné son accord.
+d'opposition à déclaration préalable tient lieu de l'autorisation si l'architecte des Bâtiments de France a donné son
+accord. 
 
 Les travaux soumis à permis de construire, permis de démolir, permis d'aménager ou déclaration préalable et portant sur des
 immeubles inscrits ou des immeubles adossés à des immeubles classés ne sont soumis qu'à l'accord de l'autorité administrative
-prévu respectivement aux articles L. 621-27 et L. 621-30.
+prévu respectivement aux articles L. 621-27 et L. 621-30. 
 
 En cas de désaccord soit du maire ou de l'autorité administrative compétente pour délivrer le permis de construire, le permis
-d'aménager ou le permis de démolir ou ne pas s'opposer à la déclaration préalable, soit du pétitionnaire avec l'avis émis par
-l'architecte des Bâtiments de France, le représentant de l'Etat dans la région émet, après consultation de la section de la
-commission régionale du patrimoine et des sites, un avis qui se substitue à celui de l'architecte des Bâtiments de France. Le
-recours du pétitionnaire s'exerce à l'occasion du refus d'autorisation de travaux. Si le représentant de l'Etat infirme
-l'avis de l'architecte des Bâtiments de France, le maire ou l'autorité administrative compétente est fondé à délivrer le
-permis de construire, le permis de démolir ou le permis d'aménager initialement refusé ou ne pas s'opposer à la déclaration
-préalable. Les délais de saisine du préfet de région et ceux impartis à la section de la commission régionale du patrimoine
-et des sites, au préfet ou au maire, ou à l'autorité administrative compétente pour statuer sont fixés par décret en Conseil
-d'Etat.
+d'aménager ou le permis de démolir ou pour ne pas s'opposer à la déclaration préalable, soit du pétitionnaire avec l'avis
+émis par l'architecte des Bâtiments de France, le représentant de l'Etat dans la région émet, après consultation de la
+section de la commission régionale du patrimoine et des sites, un avis qui se substitue à celui de l'architecte des Bâtiments
+de France. Le recours du pétitionnaire s'exerce à l'occasion du refus d'autorisation ou de l'opposition à la déclaration
+préalable. Si le représentant de l'Etat exprime son désaccord à l'encontre de l'avis de l'architecte des Bâtiments de France,
+le maire ou l'autorité administrative compétente peut délivrer le permis de construire, le permis de démolir ou le permis
+d'aménager initialement refusé ou ne pas s'opposer à la déclaration préalable. En l'absence de décision expresse du
+représentant de l'Etat dans la région dans le délai de deux mois à compter de sa saisine par le maire, l'autorité
+administrative compétente ou le pétitionnaire, le recours est réputé admis. 
 
-Le ministre chargé de la culture peut évoquer tout dossier dont l'architecte des Bâtiments de France ou le représentant de
-l'Etat dans la région est saisi en application du présent article. La décision de non-opposition à la déclaration préalable
-ou la décision accordant le permis de construire, le permis d'aménager ou le permis de démolir ne peut dès lors intervenir
-qu'avec son accord.
+Le délai de saisine du représentant de l'Etat dans la région ainsi que les délais impartis au maire ou à l'autorité
+administrative compétente pour statuer sont fixés par décret. 
 
 Dans la collectivité territoriale de Corse, les compétences dévolues au préfet de région par le présent article sont exercées
 par le préfet de Corse.
-
-**Nota:**
-
-L'article 41 de l'ordonnance n° 2005-1527 énonce : " La présente ordonnance entrera en vigueur à des dates fixées par décret
-en Conseil d'Etat et au plus tard le 1er juillet 2007. " 
-
-Le décret n° 2007-18 du 5 janvier 2007, en son article 26 fixe cette date au 1er juillet 2007, sous les réserves énoncées
-dans ce même article 26. 
-
-En dernier lieu, l'article 72 de la loi n° 2007-209 du 19 février 2007 reporte la date limite d'entrée en vigueur de
-l'ordonnance au 1er octobre 2007.
 
 **Liens relatifs à cet article**
 
 	**Anciens textes**:
 
 	  - Loi n°1913-12-31 du 31 décembre 1913 - art. 13 bis (Ab)
-	  - Loi n°1913-12-31 art. 13 bis
 
 	**Cité par**:
 
@@ -10315,19 +10296,15 @@ l'ordonnance au 1er octobre 2007.
 	  - Code du patrimoine. - art. R612-3 (M)
 	  - Code du patrimoine. - art. R621-96 (M)
 
-	**Codifié par**:
-
-	  - Ordonnance 2004-178 2004-02-20 JORF 24 février 2004
-
 	**Modifié par**:
 
-	  - Ordonnance n°2005-1527 du 8 décembre 2005 - art. 38 () JORF 9 décembre 2005 en vigueur le 1er octobre 2007
+	  - Loi n°2010-788 du 12 juillet 2010 - art. 29
 
 	**Cite**:
 
-	  - Code du patrimoine. - art. L621-27 (M)
+	  - Code du patrimoine. - art. L621-27 (V)
 	  - Code du patrimoine. - art. L621-30-1 (V)
-	  - Code du patrimoine. - art. L621-9 (AbD)
+	  - Code du patrimoine. - art. L621-9 (V)
 
 
 ###### Article L621-32
@@ -11523,11 +11500,9 @@ code de l'environnement ci-après reproduits :
 ou la préservation présente, au point de vue artistique, historique, scientifique, légendaire ou pittoresque, un intérêt
 général. 
 
-" L'inscription sur la liste est prononcée par arrêté du ministre chargé des sites et, en Corse, par délibération de
-l'Assemblée de Corse après avis du représentant de l'Etat. Un décret en Conseil d'Etat fixe la procédure selon laquelle cette
-inscription est notifiée aux propriétaires ou fait l'objet d'une publicité. La publicité ne peut être substituée à la
-notification que dans les cas où celle-ci est rendue impossible du fait du nombre élevé de propriétaires d'un même site ou
-monument naturel, ou de l'impossibilité pour l'administration de connaître l'identité ou le domicile du propriétaire. 
+" Après l'enquête publique réalisée conformément au chapitre III du titre II du livre Ier, l'inscription sur la liste est
+prononcée par arrêté du ministre chargé des sites et, en Corse, par délibération de l'Assemblée de Corse après avis du
+représentant de l'Etat. 
 
 " L'inscription entraîne, sur les terrains compris dans les limites fixées par l'arrêté, l'obligation pour les intéressés de
 ne pas procéder à des travaux autres que ceux d'exploitation courante en ce qui concerne les fonds ruraux et d'entretien
@@ -11544,9 +11519,8 @@ comporte.
 
 " Dans les zones de montagne, la décision de classement est prise après consultation du comité de massif concerné. " 
 
-" Art. L. 341-3. - Lorsqu'un monument naturel ou un site appartenant en tout ou partie à des personnes autres que celles
-énumérées aux articles L. 341-4 et L. 341-5 fait l'objet d'un projet de classement, les intéressés sont invités à présenter
-leurs observations selon une procédure fixée par décret en Conseil d'Etat. " 
+" Art. L. 341-3. - Le projet de classement est soumis à une enquête publique réalisée conformément au chapitre III du titre
+II du livre Ier. " 
 
 " Art. L. 341-4. - Le monument naturel ou le site compris dans le domaine public ou privé de l'Etat est classé par arrêté du
 ministre chargé des sites, en cas d'accord avec le ministre dans les attributions duquel le monument naturel ou le site se
@@ -11682,41 +11656,41 @@ composition, le mode de désignation et les modalités de fonctionnement des com
 
 " Art. L. 341-19. - I. - Est puni d'une amende de 9 000 euros : 
 
-" 1° Le fait de procéder à des travaux sur un monument naturel ou un site inscrit sans en aviser l'administration dans les
+1° Le fait de procéder à des travaux sur un monument naturel ou un site inscrit sans en aviser l'administration dans les
 conditions prévues à l'article L. 341-1, alinéa 4 ; 
 
-" 2° Le fait d'aliéner un monument naturel ou un site classé sans faire connaître à l'acquéreur l'existence du classement ou
+2° Le fait d'aliéner un monument naturel ou un site classé sans faire connaître à l'acquéreur l'existence du classement ou
 sans notifier cette aliénation à l'administration dans les conditions prévues à l'article L. 341-9 ; 
 
-" 3° Le fait d'établir une servitude sur un monument naturel ou un site classé sans l'agrément de l'administration dans les
+3° Le fait d'établir une servitude sur un monument naturel ou un site classé sans l'agrément de l'administration dans les
 conditions prévues à l'article L. 341-14. 
 
-" II. - Est puni des peines prévues à l'article L. 480-4 du code de l'urbanisme : 
+II. - Est puni des peines prévues à l'article L. 480-4 du code de l'urbanisme : 
 
-" 1° Le fait d'apporter des modifications sur un monument naturel ou un site en instance de classement en violation des
+1° Le fait d'apporter des modifications sur un monument naturel ou un site en instance de classement en violation des
 dispositions de l'article L. 341-7 ; 
 
-" 2° Le fait de détruire ou de modifier dans son état ou son aspect un monument naturel ou un site classé sans l'autorisation
+2° Le fait de détruire ou de modifier dans son état ou son aspect un monument naturel ou un site classé sans l'autorisation
 prévue à l'article L. 341-10 ; 
 
-" 3° Le fait de ne pas se conformer aux prescriptions fixées par un décret de création d'une zone de protection pris en
+3° Le fait de ne pas se conformer aux prescriptions fixées par un décret de création d'une zone de protection pris en
 application de l'article 19 de la loi du 2 mai 1930 ayant pour objet de réorganiser la protection des monuments naturels et
 des sites de caractère artistique, historique, scientifique, légendaire ou pittoresque et continuant à produire ses effets en
-application de l'article L. 642-6 du code du patrimoine. 
+application de l'article L. 642-9 du code du patrimoine. 
 
-" III. - Les dispositions des articles L. 480-1, L. 480-2, L. 480-3 et L. 480-5 à L. 480-9 du code de l'urbanisme sont
+III. - Les dispositions des articles L. 480-1, L. 480-2, L. 480-3 et L. 480-5 à L. 480-9 du code de l'urbanisme sont
 applicables aux infractions à l'alinéa 4 de l'article L. 341-1 du présent code et aux dispositions visées au II, sous la
 seule réserve des conditions suivantes : 
 
-" 1° Les infractions sont constatées en outre par les fonctionnaires et les agents commissionnés à cet effet par le ministre
+1° Les infractions sont constatées en outre par les fonctionnaires et les agents commissionnés à cet effet par le ministre
 chargé des sites et par les fonctionnaires et agents commissionnés et assermentés pour constater les infractions en matière
 forestière, de chasse et de pêche ; 
 
-" 2° Pour l'application de l'article L. 480-5 du code de l'urbanisme, le tribunal statue soit sur la mise en conformité des
+2° Pour l'application de l'article L. 480-5 du code de l'urbanisme, le tribunal statue soit sur la mise en conformité des
 lieux avec les prescriptions formulées par le ministre chargé des sites, soit sur leur rétablissement dans leur état
 antérieur ; 
 
-" 3° Le droit de visite prévu à l'article L. 461-1 du code de l'urbanisme est ouvert aux représentants du ministre chargé des
+3° Le droit de visite prévu à l'article L. 461-1 du code de l'urbanisme est ouvert aux représentants du ministre chargé des
 sites ; l'article L. 480-12 du même code est applicable. " 
 
 " Art. L. 341-20. - Le fait de détruire, mutiler ou dégrader un monument naturel ou un site inscrit ou classé est puni des
@@ -11736,29 +11710,27 @@ monuments naturels de caractère artistique. "
 
 **Liens relatifs à cet article**
 
-	**Codifié par**:
-
-	  - Ordonnance 2004-178 2004-02-20 JORF 24 février 2004
-
 	**Modifié par**:
 
-	  - Ordonnance n°2004-637 du 1 juillet 2004 - art. 28 () JORF 2 juillet 2004 en vigueur le 1er juillet 2006
-	  - Loi n°2005-157 du 23 février 2005 - art. 180 () JORF 24 février 2005
+	  - Loi n°2010-788 du 12 juillet 2010 - art. 240
 
 	**Cite**:
 
-	  - Code pénal - art. 322-2 (M)
-	  - Code de l'urbanisme - art. L460-1 (M)
-	  - Code de l'urbanisme - art. L480-1 (M)
-	  - Code de l'urbanisme - art. L480-12 (M)
-	  - Code de l'urbanisme - art. L480-2 (M)
-	  - Code de l'urbanisme - art. L480-3 (M)
-	  - Code de l'urbanisme - art. L480-4 (M)
-	  - Code de l'urbanisme - art. L480-5 (M)
-	  - Code de l'urbanisme L480-4, L642-6, L480-1, L480-2, L480-3, L480-5 à L480-9, L480-5, L460-1, L480-12
-	  - Code du patrimoine L341-4, L341-5, L341-6, L341-16, L341-17, L341-1, L341-9, L341-14, L341-7, L341-10, L341-19, L341-20
-	  - Loi n°1906-04-21
-	  - Loi n°1930-05-02 art. 19
+	  - Code général des collectivités territoriales - art. L4421-4 (V)
+	  - Code de l'urbanisme - art. L111-1-4 (V)
+	  - Code de l'urbanisme - art. L122-2 (V)
+	  - Code de l'urbanisme - art. L145-11 (V)
+	  - Code de l'urbanisme - art. L145-3 (VT)
+	  - Code de l'urbanisme - art. L145-5 (V)
+	  - Code de l'urbanisme - art. L146-4 (V)
+	  - Code de l'urbanisme - art. L146-6 (V)
+	  - Code de l'urbanisme - art. L146-6-1 (V)
+	  - Code de l'urbanisme - art. L146-7 (V)
+	  - Code de l'urbanisme - art. L156-2 (V)
+	  - Code de l'urbanisme - art. L461-1 (V)
+	  - Code de l'urbanisme - art. L480-1 (V)
+	  - Code de l'urbanisme - art. L480-5 (V)
+	  - Code de l'urbanisme - art. L480-9 (V)
 
 	**Liens**:
 
@@ -12001,29 +11973,27 @@ constituant une infraction à l'alinéa premier du présent article. "
 	  - Code du patrimoine. - art. L720-1 (V)
 
 
-#### Chapitre 2 : Zones de protection du patrimoine architectural, urbain et paysager.
+#### Chapitre 2 : Aires de mise en valeur de l'architecture et du patrimoine.
 
 ###### Article L642-1
 
-Sur proposition du conseil municipal des communes intéressées ou de l'organe délibérant de l'établissement public de
-coopération intercommunale compétent en matière de plan local d'urbanisme, des zones de protection du patrimoine
-architectural, urbain et paysager peuvent être instituées autour des monuments historiques et dans les quartiers, sites et
-espaces à protéger ou à mettre en valeur pour des motifs d'ordre esthétique, historique ou culturel.
+Une aire de mise en valeur de l'architecture et du patrimoine peut être créée à l'initiative de la ou des communes ou d'un
+établissement public de coopération intercommunale lorsqu'il est compétent en matière d'élaboration du plan local
+d'urbanisme, sur un ou des territoires présentant un intérêt culturel, architectural, urbain, paysager, historique ou
+archéologique.
+
+Elle a pour objet de promouvoir la mise en valeur du patrimoine bâti et des espaces dans le respect du développement durable.
+Elle est fondée sur un diagnostic architectural, patrimonial et environnemental, prenant en compte les orientations du projet
+d'aménagement et de développement durables du plan local d'urbanisme, afin de garantir la qualité architecturale des
+constructions existantes et à venir ainsi que l'aménagement des espaces.
+
+L'aire de mise en valeur de l'architecture et du patrimoine a le caractère de servitude d'utilité publique.
 
 **Liens relatifs à cet article**
 
 	**Anciens textes**:
 
-	  - Loi n°83-8 1983-01-07 art. 70 al. 1
 	  - Loi n°83-8 du 7 janvier 1983 - art. 70 (Ab)
-
-	**Codifié par**:
-
-	  - Ordonnance 2004-178 2004-02-20 JORF 24 février 2004
-
-	**Modifié par**:
-
-	  - Ordonnance n°2005-1128 du 8 septembre 2005 - art. 28 () JORF 9 septembre 2005 en vigueur le 1er janvier 2007
 
 	**Cité par**:
 
@@ -12059,6 +12029,10 @@ espaces à protéger ou à mettre en valeur pour des motifs d'ordre esthétique,
 	  - Code général des impôts, CGI. - art. 199 tervicies (V)
 	  - Code général des impôts, CGI. - art. 31 (VT)
 
+	**Modifié par**:
+
+	  - Loi n°2010-788 du 12 juillet 2010 - art. 28
+
 	**Liens**:
 
 	  - PILOTE_SUIVEUR: Code de l'environnement - art. L350-2 (Ab)
@@ -12066,29 +12040,39 @@ espaces à protéger ou à mettre en valeur pour des motifs d'ordre esthétique,
 
 ###### Article L642-2
 
-Des prescriptions particulières en matière d'architecture et de paysages sont instituées à l'intérieur de ces zones ou
-parties de zone pour les travaux mentionnés à l'article L. 642-3.
+Le dossier relatif à la création de l'aire de mise en valeur de l'architecture et du patrimoine comporte : 
 
-Après enquête publique, avis de la commission régionale du patrimoine et des sites et accord de l'autorité administrative, la
-zone de protection est créée par décision du maire ou du président de l'établissement public de coopération intercommunale
-compétent en matière de plan local d'urbanisme.
+― un rapport de présentation des objectifs de l'aire. Ces objectifs sont fondés sur le diagnostic mentionné au deuxième
+alinéa de l'article L. 642-1 et déterminés en fonction du projet d'aménagement et de développement durables du plan local
+d'urbanisme s'il est entré en vigueur ; 
 
-Le ministre compétent peut évoquer tout projet de zone de protection.
+― un règlement comprenant des prescriptions ; 
 
-Les dispositions de la zone de protection sont annexées au plan local d'urbanisme, dans les conditions prévues à l'article L.
-126-1 du code de l'urbanisme.
+― et un document graphique faisant apparaître le périmètre de l'aire, une typologie des constructions, les immeubles
+protégés, bâtis ou non, dont la conservation est imposée et, le cas échéant, les conditions spéciales relatives à
+l'implantation, à la morphologie et aux dimensions des constructions. 
 
-La révision de tout ou partie d'une zone de protection du patrimoine architectural, urbain et paysager a lieu dans les formes
-prévues pour son élaboration. Toutefois, à condition qu'il ne soit pas porté atteinte à son économie générale, ni que soient
-réduits les espaces boisés classés, une zone de protection du patrimoine architectural, urbain et paysager peut être modifiée
-par arrêté de l'autorité compétente et après accord de l'autorité administrative. Le projet de modification est soumis à
-enquête publique.
+Le règlement de l'aire de mise en valeur de l'architecture et du patrimoine contient des règles relatives : 
+
+― à la qualité architecturale des constructions nouvelles ou des aménagements de constructions existantes ainsi qu'à la
+conservation ou à la mise en valeur du patrimoine bâti et des espaces naturels ou urbains ; 
+
+― à l'intégration architecturale et à l'insertion paysagère des constructions, ouvrages, installations ou travaux visant tant
+à l'exploitation des énergies renouvelables ou aux économies d'énergie qu'à la prise en compte d'objectifs environnementaux.
+
+**Nota:**
+
+L'article 240 de la loi n° 2010-788 modifie l'article L. 642-2 du code du patrimoine, or celui-ci a été réécrit par l'article
+28 de ladite loi.
+
+Ces dispositions s'appliquent aux projets, plans, programmes ou autres documents de planification pour lesquels l'arrêté
+d'ouverture et d'organisation de l'enquête publique est publié à compter du premier jour du sixième mois après la publication
+du décret en Conseil d'Etat prévu à l'article L. 123-19 du code de l'environnement.
 
 **Liens relatifs à cet article**
 
 	**Anciens textes**:
 
-	  - Loi n°83-8 1983-01-07 art. 70 al. 2 à 5
 	  - Loi n°83-8 du 7 janvier 1983 - art. 70 (Ab)
 
 	**Cité par**:
@@ -12104,35 +12088,45 @@ enquête publique.
 	  - Code du patrimoine. - art. L612-1 (V)
 	  - Code du patrimoine. - art. L642-3 (V)
 
-	**Codifié par**:
-
-	  - Ordonnance 2004-178 2004-02-20 JORF 24 février 2004
-
 	**Modifié par**:
 
-	  - Ordonnance n°2005-1128 du 8 septembre 2005 - art. 29 () JORF 9 septembre 2005 en vigueur le 1er janvier 2007
-
-	**Cite**:
-
-	  - Code de l'urbanisme - art. L126-1 (M)
+	  - Loi n°2010-788 du 12 juillet 2010 - art. 28
+	  - Loi n°2010-788 du 12 juillet 2010 - art. 240
 
 	**Liens**:
 
 	  - PILOTE_SUIVEUR: Code de l'environnement - art. L350-2 (Ab)
 
+	**Cite**:
+
+	  - Code du patrimoine. - art. L642-1 (V)
+
 
 ###### Article L642-3
 
-Les travaux de construction, de démolition, de déboisement, de transformation et de modification de l'aspect des immeubles
-compris dans le périmètre de la zone de protection instituée en vertu de l'article L. 642-2 sont soumis à autorisation
-spéciale, accordée par l'autorité administrative compétente en matière de permis de construire après avis de l'architecte des
-Bâtiments de France. Le permis de construire et les autres autorisations d'utilisation du sol prévues par le code de
-l'urbanisme en tiennent lieu sous réserve de cet avis, s'ils sont revêtus du visa de l'architecte des Bâtiments de France. 
+La mise à l'étude de la création ou de la révision de l'aire de mise en valeur de l'architecture et du patrimoine est décidée
+par délibération de l'organe délibérant de l'autorité mentionnée au premier alinéa de l'article L. 642-1. La délibération
+mentionne les modalités de la concertation prévue à l'article L. 300-2 du code de l'urbanisme. 
 
-Le ministre compétent peut évoquer tout dossier dont l'architecte des Bâtiments de France est saisi en application du présent
-article. 
+Le projet de création ou de révision de l'aire de mise en valeur de l'architecture et du patrimoine est arrêté par
+délibération de cette autorité. Le projet arrêté est soumis à l'avis de la commission régionale du patrimoine et des sites
+prévue à l'article L. 612-1 du présent code. 
 
-Si le ministre compétent a décidé d'évoquer le dossier, l'autorisation ne peut intervenir qu'après son accord.
+Ce projet donne lieu à un examen conjoint des personnes publiques mentionnées au b de l'article L. 123-16 du code de
+l'urbanisme. 
+
+Il fait l'objet d'une enquête publique conduite par les autorités compétentes concernées.L'organe délibérant de l'autorité
+mentionnée au premier alinéa de l'article L. 642-1 du présent code peut, par délibération, désigner à cette fin l'une de ces
+autorités compétentes concernées. 
+
+Lorsque le projet n'est pas compatible avec les dispositions du plan local d'urbanisme, l'aire de mise en valeur de
+l'architecture et du patrimoine ne peut être créée que si celui-ci a été mis en compatibilité avec ses dispositions selon la
+procédure définie à l'article L. 123-16 du code de l'urbanisme. 
+
+Après accord du préfet, l'aire de mise en valeur de l'architecture et du patrimoine est créée ou révisée par délibération de
+l'autorité mentionnée au premier alinéa de l'article L. 642-1 du présent code. Lorsque l'enquête publique précitée a porté à
+la fois sur l'aire et sur un plan local d'urbanisme, l'acte portant création ou révision de l'aire prononce également la
+révision ou la modification du plan local d'urbanisme.
 
 **Liens relatifs à cet article**
 
@@ -12162,83 +12156,94 @@ Si le ministre compétent a décidé d'évoquer le dossier, l'autorisation ne pe
 
 	**Modifié par**:
 
-	  - Loi n°2009-967 du 3 août 2009 - art. 9
+	  - Loi n°2010-788 du 12 juillet 2010 - art. 28
+
+	**Cite**:
+
+	  - Code de l'urbanisme - art. L123-16 (VT)
+	  - Code de l'urbanisme - art. L300-2 (V)
+	  - Code du patrimoine. - art. L642-1 (V)
 
 
 ###### Article L642-4
 
-Le fait, pour toute personne, d'enfreindre les dispositions du premier alinéa de l'article L. 642-3 du présent code est puni
-des peines prévues à l'article L. 480-4 du code de l'urbanisme.
+Une aire de mise en valeur de l'architecture et du patrimoine peut également être modifiée lorsqu'il n'est pas porté atteinte
+à l'économie générale de ses dispositions relatives à la protection du patrimoine bâti et des espaces. La modification est
+prononcée, après enquête publique puis accord du préfet, par délibération de l'organe délibérant de l'autorité mentionnée au
+premier alinéa de l'article L. 642-1. 
 
-Les dispositions des articles L. 480-1 à L. 480-3 et L. 480-5 à L. 480-9 du code de l'urbanisme sont applicables aux
-infractions mentionnées à l'article L. 642-3 et à l'alinéa précédent sous réserve des adaptations suivantes :
-
-a) Les infractions sont constatées, en outre, par les fonctionnaires et agents assermentés et commissionnés à cet effet par
-le ministre compétent ;
-
-b) Le droit de visite prévu à l'article L. 460-1 du code de l'urbanisme est ouvert aux personnes mentionnées au a ;
-
-c) L'article L. 480-12 du code de l'urbanisme est applicable ;
-
-d) Pour application de l'article L. 480-5, le tribunal statue soit sur la mise en conformité du lieu avec les prescriptions
-formulées par le ministre compétent, soit sur leur rétablissement dans l'état antérieur.
+La modification de l'aire de mise en valeur de l'architecture et du patrimoine emporte, le cas échéant, la modification du
+plan local d'urbanisme.
 
 **Liens relatifs à cet article**
 
 	**Anciens textes**:
 
-	  - Loi n°83-8 1983-01-07 art. 71 al. 4 à 7
 	  - Loi n°83-8 du 7 janvier 1983 - art. 71 (Ab)
 
-	**Codifié par**:
+	**Modifié par**:
 
-	  - Ordonnance 2004-178 2004-02-20 JORF 24 février 2004
-
-	**Cite**:
-
-	  - Code de l'urbanisme - art. L460-1 (M)
-	  - Code de l'urbanisme - art. L480-12 (M)
-	  - Code de l'urbanisme - art. L480-4 (M)
-	  - Code de l'urbanisme L480-4, L480-1 à L480-3, L480-5 à L480-9, L460-1, L480-12
-	  - Code du patrimoine. - art. L642-3 (V)
+	  - Loi n°2010-788 du 12 juillet 2010 - art. 28
 
 	**Cité par**:
 
 	  - Code de l'urbanisme - art. R*315-18 (Ab)
 	  - Code de l'urbanisme - art. R*442-11-1 (Ab)
 
+	**Cite**:
+
+	  - Code du patrimoine. - art. L642-1 (V)
+
 
 ###### Article L642-5
 
-Lorsqu'un monument historique est situé sur une zone de protection du patrimoine architectural, urbain et paysager, les
-servitudes d'utilité publique instituées pour la protection de son champ de visibilité, en application des articles L.
-621-30-1, L. 621-31 et L. 621-32, ne sont pas applicables.
+Une instance consultative, associant : 
 
-Les immeubles situés dans une zone de protection du patrimoine architectural, urbain et paysager ne sont pas soumis aux
-servitudes d'utilité publique instituées en application des articles L. 621-30-1, L. 621-31 et L. 621-32 du présent code et
-de l'article L. 341-1 du code de l'environnement.
+― des représentants de la ou des collectivités territoriales et des établissements publics de coopération intercommunale
+intéressés ; 
+
+― le préfet ou son représentant ; 
+
+― le directeur régional de l'environnement, de l'aménagement et du logement ou son représentant ; 
+
+― le directeur régional des affaires culturelles ou son représentant ; 
+
+― ainsi que des personnes qualifiées, d'une part, au titre de la protection du patrimoine et, d'autre part, au titre des
+intérêts économiques concernés, 
+
+est constituée par délibération de l'organe délibérant de l'autorité mentionnée au premier alinéa de l'article L. 642-1 lors
+de la mise à l'étude de la création ou de la révision d'une aire de mise en valeur de l'architecture et du patrimoine. 
+
+Cette instance consultative a pour mission d'assurer le suivi de la conception et de la mise en œuvre des règles applicables
+à l'aire de mise en valeur de l'architecture et du patrimoine. Dans le cadre de l'instruction des demandes d'autorisation de
+travaux, elle peut être consultée par l'autorité compétente pour délivrer l'autorisation sur tout projet d'opération
+d'aménagement, de construction ou de démolition, notamment lorsque celui-ci nécessite une adaptation mineure des dispositions
+de l'aire de mise en valeur de l'architecture et du patrimoine. 
+
+Lorsque l'aire de mise en valeur de l'architecture et du patrimoine intéresse, en tout ou partie, une commune sur le
+territoire de laquelle un secteur sauvegardé a été créé en application de l'article L. 313-1 du code de l'urbanisme, le
+préfet peut décider, après délibération de la ou des collectivités territoriales, l'extension des compétences de la
+commission locale du secteur sauvegardé, constituée en application du même article L. 313-1, aux compétences mentionnées au
+huitième alinéa du présent article.
 
 **Liens relatifs à cet article**
 
 	**Anciens textes**:
 
-	  - Loi n°83-8 1983-01-07 art. 72 al. 1, al. 2
 	  - Loi n°83-8 du 7 janvier 1983 - art. 72 (Ab)
-
-	**Codifié par**:
-
-	  - Ordonnance 2004-178 2004-02-20 JORF 24 février 2004
 
 	**Modifié par**:
 
-	  - Ordonnance n°2005-1128 du 8 septembre 2005 - art. 30 () JORF 9 septembre 2005
+	  - Loi n°2010-788 du 12 juillet 2010 - art. 28
+
+	**Abrogé par**:
+
+	  - Loi n°2016-925 du 7 juillet 2016 - art. 77
 
 	**Cite**:
 
-	  - Code de l'environnement - art. L341-1 (M)
-	  - Code du patrimoine. - art. L621-30-1 (V)
-	  - Code du patrimoine. - art. L621-31 (M)
-	  - Code du patrimoine. - art. L621-32 (M)
+	  - Code de l'urbanisme - art. L313-1 (V)
+	  - Code du patrimoine - art. L642-1
 
 	**Cité par**:
 
@@ -12249,20 +12254,53 @@ de l'article L. 341-1 du code de l'environnement.
 
 ###### Article L642-6
 
-Les zones de protection créées en application des articles 17 à 20 et 28 de la loi du 2 mai 1930 ayant pour objet de
-réorganiser la protection des monuments naturels et des sites de caractère artistique, historique, scientifique, légendaire
-ou pittoresque continuent à produire leurs effets jusqu'à leur suppression ou leur remplacement par des zones de protection
-du patrimoine architectural, urbain et paysager.
+Tous travaux, à l'exception des travaux sur un monument historique classé, ayant pour objet ou pour effet de transformer ou
+de modifier l'aspect d'un immeuble, bâti ou non, compris dans le périmètre d'une aire de mise en valeur de l'architecture et
+du patrimoine instituée en application de l'article L. 642-1, sont soumis à une autorisation préalable délivrée par
+l'autorité compétente mentionnée aux articles L. 422-1 à L. 422-8 du code de l'urbanisme. Cette autorisation peut être
+assortie de prescriptions particulières destinées à rendre le projet conforme aux prescriptions du règlement de l'aire. 
+
+L'autorité compétente transmet le dossier à l'architecte des Bâtiments de France. A compter de sa saisine, l'architecte des
+Bâtiments de France statue dans un délai d'un mois. En cas de silence à l'expiration de ce délai, l'architecte des Bâtiments
+de France est réputé avoir approuvé le permis ou la décision de non-opposition à déclaration préalable, qui vaut alors
+autorisation préalable au titre du présent article. Dans le cas contraire, l'architecte des Bâtiments de France transmet son
+avis défavorable motivé ou sa proposition de prescriptions motivées à l'autorité compétente. 
+
+En cas de désaccord avec l'avis ou la proposition de l'architecte des Bâtiments de France, l'autorité compétente transmet le
+dossier accompagné de son projet de décision au préfet de région qui instruit le projet. A compter de sa saisine, ce dernier
+statue : 
+
+― dans un délai de quinze jours s'il s'agit d'une autorisation spéciale ou d'une déclaration préalable ; 
+
+― dans un délai d'un mois s'il s'agit d'un permis et, après avoir entendu, le cas échéant, l'instance consultative prévue à
+l'article L. 642-5. 
+
+En cas de silence à l'expiration des délais précités, le préfet de région est réputé avoir approuvé le projet de décision. 
+
+Toutefois, le ministre chargé des monuments historiques et des espaces protégés peut évoquer les dossiers relevant d'un
+intérêt national dont le préfet de région est saisi en application du présent article. Dans ce cas, il émet, dans un délai de
+quatre mois à compter de l'enregistrement de la demande d'autorisation préalable, une décision qui s'impose à l'autorité
+compétente pour la délivrance de ladite autorisation. Cette décision ne peut être contestée que par voie juridictionnelle. A
+défaut, le silence gardé par le ministre vaut approbation implicite de la demande d'autorisation. 
+
+Le présent article est applicable aux zones de protection du patrimoine architectural, urbain et paysager prévues par
+l'article L. 642-8 pour les demandes de permis ou de déclaration préalable de travaux déposées à compter du premier jour du
+troisième mois suivant l'entrée en vigueur de la loi n° 2010-788 du 12 juillet 2010 portant engagement national pour
+l'environnement.
 
 **Liens relatifs à cet article**
 
-	**Anciens textes**:
+	**Cite**:
 
-	  - Loi n°83-8 1983-01-07 art. 72 al. 3
+	  - Loi n°2010-788 du 12 juillet 2010
+	  - Code de l'urbanisme - art. L422-1
+	  - Code du patrimoine - art. L642-1
+	  - Code du patrimoine - art. L642-5
+	  - Code du patrimoine - art. L642-8 (Ab)
 
-	**Codifié par**:
+	**Modifié par**:
 
-	  - Ordonnance 2004-178 2004-02-20 JORF 24 février 2004
+	  - Loi n°2010-788 du 12 juillet 2010 - art. 28
 
 	**Cité par**:
 
@@ -12280,24 +12318,108 @@ du patrimoine architectural, urbain et paysager.
 	  - Code du patrimoine - art. R642-22 (Ab)
 	  - Code du patrimoine - art. R642-29 (Ab)
 
-	**Cite**:
+	**Abrogé par**:
 
-	  - Loi n°1930-05-02 art. 17 à 20, art. 28
+	  - Loi n°2016-925 du 7 juillet 2016 - art. 77
 
 
 ###### Article L642-7
 
-Les modalités d'application du présent chapitre sont fixées par décret en Conseil d'Etat.
+Les servitudes d'utilité publique, instituées en application des articles L. 621-30-1, L. 621-31 et L. 621-32 du présent code
+pour la protection du champ de visibilité des immeubles inscrits ou classés au titre des monuments historiques et de
+l'article L. 341-1 du code de l'environnement relatif aux sites inscrits, ne sont pas applicables dans l'aire de mise en
+valeur de l'architecture et du patrimoine.
 
 **Liens relatifs à cet article**
 
-	**Anciens textes**:
+	**Modifié par**:
 
-	  - Loi n°83-8 1983-01-07 art. 72 al. 4
+	  - Loi n°2010-788 du 12 juillet 2010 - art. 28
 
-	**Codifié par**:
+	**Cite**:
 
-	  - Ordonnance 2004-178 2004-02-20 JORF 24 février 2004
+	  - Code du patrimoine. - art. L621-30-1 (V)
+	  - Code du patrimoine. - art. L621-31 (V)
+
+
+###### Article L642-8
+
+Les zones de protection du patrimoine architectural, urbain et paysager mises en place avant la date d'entrée en vigueur de
+la loi n° 2010-788 du 12 juillet 2010 précitée continuent à produire leurs effets de droit jusqu'à ce que s'y substituent des
+aires de mise en valeur de l'architecture et du patrimoine et, au plus tard, dans un délai de cinq ans à compter de l'entrée
+en vigueur de cette même loi. 
+
+Les modifications et révisions des zones de protection du patrimoine architectural, urbain et paysager en cours à la date
+d'entrée en vigueur de la loi mentionnée au premier alinéa continuent d'être instruites conformément aux dispositions
+antérieures à l'entrée en vigueur de celle-ci. 
+
+Les zones de protection du patrimoine architectural, urbain et paysager en cours de révision à la date d'entrée en vigueur de
+la loi n° 2010-788 du 12 juillet 2010 précitée sont instruites conformément aux dispositions du présent chapitre lorsqu'elles
+n'ont pas encore fait l'objet d'une enquête publique. Dans ce cas, la commission régionale du patrimoine et des sites est
+consultée sur le projet d'aire de mise en valeur de l'architecture et du patrimoine avant l'engagement de l'enquête. 
+
+La révision d'une zone de protection du patrimoine architectural, urbain et paysager créée antérieurement à la date d'entrée
+en vigueur de la loi n° 2010-788 du 12 juillet 2010 précitée est instruite selon les dispositions du présent chapitre et
+conduit à l'établissement d'une aire de mise en valeur de l'architecture et du patrimoine.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Loi n°2010-788 du 12 juillet 2010
+
+	**Créé par**:
+
+	  - Loi n°2010-788 du 12 juillet 2010 - art. 28
+
+	**Cité par**:
+
+	  - Décret n°2011-1903 du 19 décembre 2011 (V)
+	  - Code de la construction et de l'habitation. - art. D511-13-1 (M)
+
+
+###### Article L642-9
+
+Les zones de protection créées en application des articles 17 à 20 et 28 de la loi du 2 mai 1930 ayant pour objet de
+réorganiser la protection des monuments naturels et des sites de caractère artistique, historique, scientifique, légendaire
+ou pittoresque continuent à produire leurs effets jusqu'à leur suppression ou leur remplacement par des zones de protection
+du patrimoine architectural, urbain et paysager ou des aires de mise en valeur de l'architecture et du patrimoine.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°2010-788 du 12 juillet 2010 - art. 28
+
+	**Abrogé par**:
+
+	  - Loi n°2016-925 du 7 juillet 2016 - art. 77
+
+	**Cité par**:
+
+	  - Code de l'environnement - art. L341-19 (VT)
+	  - Code de l'urbanisme - art. (M)
+	  - Code de l'urbanisme - art. R*111-42 (VT)
+	  - Code de l'urbanisme - art. R111-33 (M)
+
+	**Cite**:
+
+	  - Loi du 2 mai 1930
+
+
+###### Article L642-10
+
+Les modalités d'application du présent chapitre sont définies par décret.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°2010-788 du 12 juillet 2010 - art. 28
+
+	**Abrogé par**:
+
+	  - Loi n°2016-925 du 7 juillet 2016 - art. 77
 
 
 #### Chapitre 3 : Dispositions fiscales.
