@@ -1,5 +1,5 @@
 # Code du patrimoine  
-Version Consolidée au 2011-04-01
+Version Consolidée au 2011-05-19
 
 # Partie législative
 
@@ -3218,16 +3218,17 @@ prévu à l'alinéa précédent.
 
 Les documents de l'état civil ayant plus de cent cinquante ans de date, les plans et registres cadastraux ayant cessé d'être
 en service depuis au moins trente ans et les autres documents d'archives ayant plus de cent ans de date, conservés dans les
-archives des communes de moins de 2 000 habitants, sont obligatoirement déposés aux archives du département, sauf dérogation
-accordée par le préfet sur la demande du maire. Dans ce cas, les documents peuvent être conservés soit par les communes
-elles-mêmes, soit par le groupement de collectivités territoriales dont elles sont membres, soit, par convention, par la
-commune désignée par ce groupement pour gérer les archives de celui-ci.
+archives des communes de moins de 2 000 habitants, sont déposés aux archives du département. 
+
+Toutefois, après déclaration auprès du représentant de l'Etat dans le département, la commune peut conserver elle-même ces
+documents ou, si elle est membre d'un groupement de collectivités territoriales, les déposer selon les modalités prévues au
+premier alinéa de l'article L. 212-12. Est alors applicable le second alinéa de ce même article.
 
 **Liens relatifs à cet article**
 
 	**Modifié par**:
 
-	  - Loi n°2008-696  du 15 juillet 2008 - art. 9
+	  - Loi n°2011-525 du 17 mai 2011 - art. 86
 
 	**Cité par**:
 
