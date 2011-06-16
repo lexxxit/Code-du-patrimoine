@@ -1,5 +1,5 @@
 # Code du patrimoine  
-Version Consolidée au 2011-05-27
+Version Consolidée au 2011-06-17
 
 # Partie législative
 
@@ -12348,10 +12348,11 @@ Les modifications et révisions des zones de protection du patrimoine architectu
 d'entrée en vigueur de la loi mentionnée au premier alinéa continuent d'être instruites conformément aux dispositions
 antérieures à l'entrée en vigueur de celle-ci. 
 
-Les zones de protection du patrimoine architectural, urbain et paysager en cours de révision à la date d'entrée en vigueur de
-la loi n° 2010-788 du 12 juillet 2010 précitée sont instruites conformément aux dispositions du présent chapitre lorsqu'elles
-n'ont pas encore fait l'objet d'une enquête publique. Dans ce cas, la commission régionale du patrimoine et des sites est
-consultée sur le projet d'aire de mise en valeur de l'architecture et du patrimoine avant l'engagement de l'enquête. 
+Les zones de protection du patrimoine architectural, urbain et paysager en cours d'élaboration ou de révision à la date
+d'entrée en vigueur de la loi n° 2010-788 du 12 juillet 2010 précitée sont instruites conformément aux dispositions du
+présent chapitre lorsqu'elles n'ont pas encore fait l'objet d'une enquête publique. Dans ce cas, la commission régionale du
+patrimoine et des sites est consultée sur le projet d'aire de mise en valeur de l'architecture et du patrimoine avant
+l'engagement de l'enquête. 
 
 La révision d'une zone de protection du patrimoine architectural, urbain et paysager créée antérieurement à la date d'entrée
 en vigueur de la loi n° 2010-788 du 12 juillet 2010 précitée est instruite selon les dispositions du présent chapitre et
@@ -12363,9 +12364,9 @@ conduit à l'établissement d'une aire de mise en valeur de l'architecture et du
 
 	  - Loi n°2010-788 du 12 juillet 2010
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Loi n°2010-788 du 12 juillet 2010 - art. 28
+	  - Loi n°2011-665 du 15 juin 2011 - art. 2
 
 	**Cité par**:
 
