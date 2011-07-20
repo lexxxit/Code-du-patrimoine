@@ -1,5 +1,5 @@
 # Code du patrimoine  
-Version Consolidée au 2011-06-23
+Version Consolidée au 2011-07-21
 
 # Partie législative
 
@@ -19327,8 +19327,9 @@ application ;
 4° Il peut prendre dans l'intervalle des séances du conseil d'administration, sous réserve de l'avis préalable du membre du
 corps du contrôle général économique et financier, des décisions modificatives de l'état prévisionnel des recettes et
 dépenses qui ne comportent ni accroissement des effectifs permanents ou du montant total des dépenses, ni réduction du
-montant total des recettes, ni virements de crédits entre les chapitres de personnel et les chapitres de matériel ; ces
-décisions sont ratifiées par le conseil d'administration lors de sa plus prochaine séance ;
+montant total des recettes, ni virements de crédits entre les chapitres de personnel et les chapitres de matériel ; 
+
+ces décisions sont ratifiées par le conseil d'administration lors de sa plus prochaine séance ;
 
 5° Il signe les conventions engageant l'établissement ;
 
@@ -19346,18 +19347,23 @@ décisions sont ratifiées par le conseil d'administration lors de sa plus proch
 
 12° Il arrête le programme d'activités en concertation avec les chefs de département ;
 
-13° Il organise les directions et les départements et a autorité sur les services de l'établissement.
+13° Il organise les directions et les départements et a autorité sur les services de l'établissement ;
+
+14° Il exerce les compétences dévolues au ministre chargé de l'architecture pour signer au nom de l'Etat le diplôme national
+d'enseignement supérieur délivré par l'établissement et au nom de l'établissement les diplômes qui lui sont propres.
 
 Le président rend compte de sa gestion au conseil d'administration.
 
-Il peut déléguer sa signature, selon l'étendue qu'il détermine, au directeur général délégué et aux chefs de département,
-sauf en ce qui concerne le 1° et le 4° du présent article.
+Le président ne peut pas déléguer sa signature en ce qui concerne le 1°, le 4° et le 14°.
+
+Dans les autres cas, il peut déléguer sa signature, dans les limites qu'il détermine, au directeur général délégué et aux
+chefs de département.
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Anciens textes**:
 
-	  - Décret n°2011-574 du 24 mai 2011  - art.
+	  - Décret n°2004-683 du 9 juillet 2004 - art. 12 (Ab), alinéa 1, deuxième et troisième phrases, à l'alinéa 16.
 
 	**Codifié par**:
 
@@ -19366,6 +19372,10 @@ sauf en ce qui concerne le 1° et le 4° du présent article.
 	**Cité par**:
 
 	  - Décret n°2011-848 du 18 juillet 2011 (V)
+
+	**Modifié par**:
+
+	  - Décret n°2011-848 du 18 juillet 2011 - art. 2
 
 
 ###### Article R142-15
