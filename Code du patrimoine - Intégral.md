@@ -1,5 +1,5 @@
 # Code du patrimoine  
-Version Consolidée au 2011-11-01
+Version Consolidée au 2011-12-22
 
 # Partie législative
 
@@ -16785,27 +16785,39 @@ chargés de la culture et de la communication.
 ###### Article R131-7
 
 Les documents déposés doivent porter des mentions dont la nature est fixée par les arrêtés ministériels prévus aux articles
-R. 132-8, R. 132-14, R. 132-22, R. 132-32, R. 132-43 et R. 132-46.
+R. 132-8, R. 132-14, R. 132-22, R. 132-32, R. 132-40 et R. 132-46. 
 
-Ces arrêtés peuvent prévoir des mentions relatives :
+Ces arrêtés peuvent prévoir des mentions relatives : 
 
-1° A l'identification de la personne qui, selon le cas, édite, imprime, produit ou diffuse le document ;
+1° A l'identification de la personne qui, selon le cas, édite, imprime, produit ou diffuse le document ; 
 
-2° A l'existence et la date du dépôt légal ;
+2° A l'existence et la date du dépôt légal ; 
 
-3° A la date de création, d'édition, de production ou de diffusion ;
+3° A la date de création, d'édition, de production ou de diffusion ; 
 
 4° Aux codes d'identification correspondant aux normes nationales et internationales applicables.
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Anciens textes**:
 
-	  - Décret n°2011-574 du 24 mai 2011  - art.
+	  - Décret n°93-1429 du 31 décembre 1993 - art. 6 (Ab)
 
 	**Codifié par**:
 
 	  - Décret n°2011-574 du 24 mai 2011 Annexe - art.
+
+	**Modifié par**:
+
+	  - Décret n°2011-1904 du 19 décembre 2011 - art. 2
+
+	**Cite**:
+
+	  - Code du patrimoine - art. D132-40
+	  - Code du patrimoine - art. R132-14
+	  - Code du patrimoine - art. R132-22
+	  - Code du patrimoine - art. R132-32
+	  - Code du patrimoine - art. R132-8
 
 
 #### Chapitre II : Modalités et organisation du dépôt légal
@@ -16844,38 +16856,43 @@ public, à titre gratuit ou onéreux.
 
 ###### Article R132-2
 
-Les documents imprimés suivants ne sont pas soumis à l'obligation de dépôt :
+Les documents imprimés suivants ne sont pas soumis à l'obligation de dépôt : 
 
-1° Les travaux d'impression dits de ville, de commerce ou administratifs ;
+1° Les travaux d'impression dits de ville, de commerce ou administratifs ; 
 
-2° Les documents électoraux mentionnés aux articles R. 26, R. 29 et R. 30 du code électoral ;
+2° Les documents électoraux mentionnés aux articles R. 26, R. 29 et R. 30 du code électoral ; 
 
-3° Les documents mentionnés au premier alinéa du présent article et importés à moins de cent exemplaires ;
+3° Les documents mentionnés à l'article R. 132-1 et importés à moins de cent exemplaires ; 
 
-4° Les partitions musicales et les chorégraphies importées à moins de trente exemplaires ;
+4° Les partitions musicales et les chorégraphies importées à moins de trente exemplaires ; 
 
 5° Les documents imprimés, graphiques et photographiques dont le dépôt est prévu en accompagnement des documents déposés en
-application des sections 1, 2 et 3 du présent chapitre ;
+application des sections 1, 2 et 3 du présent chapitre ; 
 
-6° Les brevets, dessins ou modèles industriels ;
+6° Les brevets, dessins ou modèles industriels ; 
 
-7° Les recueils de photocopies et de reproduction d'articles de presse ou d'autres textes ;
+7° Les recueils de photocopies et de reproduction d'articles de presse ou d'autres textes ; 
 
 8° Les réimpressions à l'identique après le dépôt initial.
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Anciens textes**:
 
-	  - Décret n°2011-574 du 24 mai 2011  - art.
+	  - Décret n°93-1429 du 31 décembre 1993 - art. 7 (Ab), alinéas 2 à 10.
 
 	**Codifié par**:
 
 	  - Décret n°2011-574 du 24 mai 2011 Annexe - art.
 
+	**Modifié par**:
+
+	  - Décret n°2011-1904 du 19 décembre 2011 - art. 3
+
 	**Cite**:
 
-	  - Code électoral - art. R26 (M)
+	  - Code électoral - art. R26
+	  - Code du patrimoine - art. R132-1
 
 
 ###### Article R132-3
@@ -17130,17 +17147,30 @@ Le dépôt des logiciels et bases de données importés incombe à leur importat
 
 Le dépôt des logiciels et des bases de données est effectué en deux exemplaires pour les documents édités sur le territoire
 national et en un exemplaire pour ceux qui sont importés, au plus tard le jour de la mise à la disposition du public, à la
-Bibliothèque nationale de France.
+Bibliothèque nationale de France. 
+
+Les personnes qui éditent des logiciels ou des bases de données périodiques sont admises à grouper les déclarations prévues à
+l'article R. 131-6 en une déclaration globale annuelle en triple exemplaire qui accompagne la dernière mise à disposition de
+chaque année. Toutefois, pour les logiciels ou bases de données périodiques nouvellement créés et ceux qui ont fait l'objet
+d'une modification de titre, la déclaration doit accompagner le premier envoi.
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Anciens textes**:
 
-	  - Décret n°2011-574 du 24 mai 2011  - art.
+	  - Décret n°93-1429 du 31 décembre 1993 - art. 10 (Ab), alinéa 5.
 
 	**Codifié par**:
 
 	  - Décret n°2011-574 du 24 mai 2011 Annexe - art.
+
+	**Modifié par**:
+
+	  - Décret n°2011-1904 du 19 décembre 2011 - art. 4
+
+	**Cite**:
+
+	  - Code du patrimoine - art. R131-6
 
 
 ###### Article R132-13
@@ -17220,46 +17250,66 @@ diffusion, sont déposés à la Bibliothèque nationale de France dès lors qu'i
 
 ###### Article R132-16
 
-Les vidéogrammes, autres que ceux fixés sur un support photochimique, sont déposés à la Bibliothèque nationale de France dès
-lors qu'ils sont mis à la disposition d'un public.
+Les vidéogrammes, autres que ceux mentionnés à l'article R. 132-25, sont déposés à la Bibliothèque nationale de France dès
+lors qu'ils sont mis à la disposition d'un public. 
 
-L'obligation prévue à l'alinéa précédent s'applique aux documents cinématographiques mentionnés aux articles R. 132-26 et R.
-132-30 qui, outre leur fixation sur un support photochimique, sont mis à la disposition d'un public au moyen d'un autre
-support.
+L'obligation prévue au premier alinéa s'applique aux documents cinématographiques mentionnés à l'article R. 132-26  qui sont
+mis à la disposition d'un public par un autre moyen que l'exploitation en salles de spectacles cinématographiques. 
+
+La même obligation s'applique aux vidéogrammes mentionnés à l'article R. 132-30  qui, outre leur fixation sur un support
+photochimique, sont mis à la disposition d'un public par un autre moyen. 
 
 La même obligation s'applique aux documents audiovisuels mentionnés aux articles R. 132-35 et R. 132-36 qui, outre leur
-diffusion dans les conditions fixées à l'article R. 132-34, sont mis à la disposition d'un public au moyen d'un autre
-support.
+diffusion dans les conditions fixées à l'article R. 132-34, sont mis à la disposition d'un public par un autre moyen.
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Anciens textes**:
 
-	  - Décret n°2011-574 du 24 mai 2011  - art.
+	  - Décret n°93-1429 du 31 décembre 1993 - art. 15 (Ab), alinéas 2 à 4.
 
 	**Codifié par**:
 
 	  - Décret n°2011-574 du 24 mai 2011 Annexe - art.
+
+	**Modifié par**:
+
+	  - Décret n°2011-1904 du 19 décembre 2011 - art. 5
+
+	**Cite**:
+
+	  - Code du patrimoine - art. R132-25
+	  - Code du patrimoine - art. R132-26
+	  - Code du patrimoine - art. R132-30
+	  - Code du patrimoine - art. R132-35
 
 
 ###### Article R132-17
 
 Les documents multimédias, quels que soient leurs support et procédé technique de production, d'édition ou de diffusion, sont
-déposés à la Bibliothèque nationale de France dès lors qu'ils sont mis à la disposition d'un public.
+déposés à la Bibliothèque nationale de France dès lors qu'ils sont mis à la disposition d'un public. 
 
-On entend par document multimédia au sens du h de l'article L. 132-2 tout document qui soit regroupe deux ou plusieurs
-supports mentionnés à la présente section, soit associe, sur un même support, deux ou plusieurs documents soumis à
-l'obligation de dépôt.
+On entend par document multimédia au sens de l'article L. 131-2 tout document qui soit regroupe deux ou plusieurs supports
+mentionnés à la présente section, soit associe, sur un même support, deux ou plusieurs documents soumis à l'obligation de
+dépôt.
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Anciens textes**:
 
-	  - Décret n°2011-574 du 24 mai 2011  - art.
+	  - Décret n°93-1429 du 31 décembre 1993 - art. 15 (Ab), alinéas 5 et 6.
 
 	**Codifié par**:
 
 	  - Décret n°2011-574 du 24 mai 2011 Annexe - art.
+
+	**Modifié par**:
+
+	  - Décret n°2011-1904 du 19 décembre 2011 - art. 6
+
+	**Cite**:
+
+	  - Code du patrimoine - art. L131-2
 
 
 ###### Article R132-18
@@ -17307,17 +17357,31 @@ Le dépôt des phonogrammes, vidéogrammes et documents multimédias importés i
 
 Le dépôt des phonogrammes, vidéogrammes et documents multimédias est effectué en deux exemplaires pour les documents édités
 sur le territoire national et en un exemplaire pour ceux qui sont importés, au plus tard le jour de la mise à la disposition
-du public destinataire, à la Bibliothèque nationale de France.
+du public destinataire, à la Bibliothèque nationale de France. 
+
+Les personnes qui éditent des phonogrammes, vidéogrammes ou documents multimédias périodiques sont admises à grouper les
+déclarations prévues à l'article R. 131-6 en une déclaration globale annuelle en triple exemplaire qui accompagne la dernière
+mise à disposition de chaque année. Toutefois, pour les phonogrammes, vidéogrammes ou documents multimédias périodiques
+nouvellement créés et ceux qui ont fait l'objet d'une modification de titre, la déclaration doit accompagner le premier
+envoi.
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Anciens textes**:
 
-	  - Décret n°2011-574 du 24 mai 2011  - art.
+	  - Décret n°93-1429 du 31 décembre 1993 - art. 16 (Ab), alinéa 4.
 
 	**Codifié par**:
 
 	  - Décret n°2011-574 du 24 mai 2011 Annexe - art.
+
+	**Modifié par**:
+
+	  - Décret n°2011-1904 du 19 décembre 2011 - art. 7
+
+	**Cite**:
+
+	  - Code du patrimoine - art. R131-6
 
 
 ###### Article R132-21
@@ -17375,9 +17439,95 @@ Le ministre chargé de la culture fixe les mentions que doivent porter les docum
 	  - Code du patrimoine. - art. R133-1 (V)
 
 
-##### Sous-section 4 : Dispositions diverses
+##### Sous-section 4 : Dépôt légal des services de communication au public par voie électronique
 
-###### Article D132-23
+###### Article R132-23
+
+Sont soumis au dépôt légal auprès de la Bibliothèque nationale de France : 
+
+1° Sauf s'ils sont édités par les services mentionnés à l'article R. 132-34 ou principalement consacrés aux programmes édités
+par ceux-ci, les services de communication au public en ligne au sens du IV de l'article 1er de la loi n° 2004-575 du 21 juin
+2004  pour la confiance dans l'économie numérique, enregistrés sous le nom de domaine. fr ou tout autre nom de domaine
+enregistré auprès du ou des organismes français chargés de la gestion de ces noms, enregistrés par une personne domiciliée en
+France ou produits sur le territoire français ; 
+
+2° Sauf s'ils sont diffusés par voie hertzienne terrestre ou s'ils mettent à la disposition du public les programmes des
+services mentionnés au 1° de l'article R. 132-34, les services de médias audiovisuels à la demande au sens de l'article 2 de
+la loi n° 86-1067 du 30 septembre 1986  relative à la liberté de communication, établis en France au sens des articles 43-2
+et 43-3 de cette même loi.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Loi n°86-1067 du 30 septembre 1986 - art. 2
+	  - Loi n°2004-575 du 21 juin 2004 - art. 1
+	  - Code du patrimoine - art. R132-34
+
+	**Créé par**:
+
+	  - Décret n°2011-1904 du 19 décembre 2011 - art. 8
+
+	**Cité par**:
+
+	  - Code du patrimoine. - art. R132-23-1 (V)
+	  - Code du patrimoine. - art. R132-41 (V)
+
+
+###### Article R132-23-1
+
+I. ― La collecte des services de communication au public en ligne et des services de médias audiovisuels à la demande
+mentionnés à l'article R. 132-23 est effectuée au moins une fois par an. 
+
+II. ― Lorsqu'un service de communication au public en ligne ou un service de médias audiovisuels à la demande mentionné à
+l'article R. 132-23 ne peut être collecté intégralement selon des procédures automatiques, l'éditeur doit, à la demande de la
+Bibliothèque nationale de France, lui fournir les mots de passe et les clés d'accès aux documents protégés nécessaires à sa
+collecte, ou lui remettre une copie de ces documents. Dans les deux cas, l'éditeur doit également fournir toutes les données
+techniques nécessaires à la communication et à la conservation à long terme des documents. L'organisme dépositaire et le
+déposant définissent conjointement les modalités de l'extraction des fichiers. 
+
+III. ― Le service de communication au public en ligne de la Bibliothèque nationale de France informe le public sur les
+procédures de collecte qu'elle met en œuvre et sur les spécifications techniques de l'outil de collecte automatique qu'elle
+utilise. 
+
+IV. ― Les bibliographies nationales des services de communication au public en ligne et des services de médias audiovisuels à
+la demande prévues au b de l'article L. 131-1 prennent la forme d'une indexation de ces services.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2011-1904 du 19 décembre 2011 - art. 8
+
+	**Cite**:
+
+	  - Code du patrimoine - art. L131-1
+	  - Code du patrimoine - art. R132-23
+
+
+###### Article R132-23-2
+
+La consultation sur place des services de communication au public en ligne et des services de médias audiovisuels à la
+demande collectés s'effectue : 
+
+1° A la Bibliothèque nationale de France et dans tout organisme habilité à mettre en œuvre cette consultation par arrêté du
+ministre chargé de la culture ; 
+
+2° Sur des postes individuels équipés d'interfaces d'accès, de recherche et de traitement fournies par la Bibliothèque
+nationale de France ou les organismes habilités et dont l'usage est strictement réservé à des chercheurs dûment accrédités.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2011-1904 du 19 décembre 2011 - art. 8
+
+
+##### Sous-section 5 : Dispositions diverses 
+
+
+
+###### Article D132-23-3
 
 La Bibliothèque nationale de France est régie par le décret mentionné à l'annexe 3 du présent code.
 
@@ -17385,15 +17535,7 @@ La Bibliothèque nationale de France est régie par le décret mentionné à l'a
 
 	**Créé par**:
 
-	  - Décret n°2011-574 du 24 mai 2011  - art.
-
-	**Abrogé par**:
-
 	  - Décret n°2011-1904 du 19 décembre 2011 - art. 8
-
-	**Cité par**:
-
-	  - Code du patrimoine - art. Annexe 3 aux articles R. 113-1 (V)
 
 
 ##### Section 2 : Dépôt légal au Centre national du cinéma  et de l'image animée
@@ -17421,18 +17563,26 @@ conditions fixées par la présente section.
 
 ###### Article R132-25
 
-Les vidéogrammes fixés sur un support photochimique mentionnés aux articles R. 132-26 et R. 132-30 sont déposés au Centre
-national du cinéma et de l'image animée dans les conditions indiquées à la présente section.
+Les vidéogrammes mentionnés aux articles R. 132-26 et R. 132-30 sont déposés au Centre national du cinéma et de l'image
+animée dans les conditions indiquées à la présente section.
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Anciens textes**:
 
-	  - Décret n°2011-574 du 24 mai 2011  - art.
+	  - Décret n°93-1429 du 31 décembre 1993 - art. 23 (Ab)
 
 	**Codifié par**:
 
 	  - Décret n°2011-574 du 24 mai 2011 Annexe - art.
+
+	**Modifié par**:
+
+	  - Décret n°2011-1904 du 19 décembre 2011 - art. 9
+
+	**Cite**:
+
+	  - Code du patrimoine - art. R132-26
 
 	**Cité par**:
 
@@ -17441,19 +17591,27 @@ national du cinéma et de l'image animée dans les conditions indiquées à la p
 
 ###### Article R132-26
 
-Les documents cinématographiques ayant obtenu un visa d'exploitation en application de l'article L. 211-1 du code du cinéma
-et de l'image animée et qui sont représentés pour la première fois sur le territoire national dans une salle de spectacle
-cinématographique sont soumis à l'obligation de dépôt légal dans les conditions fixées par la présente section.
+Les documents cinématographiques destinés à une première exploitation en salle de spectacle cinématographique, dès lors
+qu'ils ont obtenu le visa d'exploitation cinématographique prévu à l'article L. 211-1 du code du cinéma et de l'image animée,
+sont soumis à l'obligation de dépôt légal dans les conditions fixées par la présente section.
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Anciens textes**:
 
-	  - Décret n°2011-574 du 24 mai 2011  - art.
+	  - Décret n°93-1429 du 31 décembre 1993 - art. 24 (Ab)
+
+	**Cite**:
+
+	  - Code du cinéma et de l'image animée - art. L211-1
 
 	**Codifié par**:
 
 	  - Décret n°2011-574 du 24 mai 2011 Annexe - art.
+
+	**Modifié par**:
+
+	  - Décret n°2011-1904 du 19 décembre 2011 - art. 10
 
 	**Cité par**:
 
@@ -17465,23 +17623,27 @@ cinématographique sont soumis à l'obligation de dépôt légal dans les condit
 
 ###### Article R132-27
 
-Le dépôt est effectué en un exemplaire par le producteur, ou par le distributeur pour ce qui concerne les documents
-cinématographiques importés, dans le délai d'un mois à compter de la première représentation publique du document. Il est
-accompagné du dossier de presse, du synopsis et de la fiche technique ainsi que du matériel publicitaire, notamment les
-bandes-annonces, affiches et photographies.
+Le dépôt est effectué par le producteur, ou par le distributeur pour ce qui concerne les documents cinématographiques
+importés, dans le délai de deux mois à compter de l'obtention du visa d'exploitation cinématographique. Il est accompagné du
+synopsis et de la fiche technique. Lorsque le document cinématographique est exploité en salle, le dépôt est également
+accompagné du dossier de presse et du matériel publicitaire, notamment les bandes-annonces, affiches et photographies.
 
 Le délai prévu à l'alinéa précédent est fixé à six mois pour les œuvres cinématographiques d'une durée inférieure à une
 heure.
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Anciens textes**:
 
-	  - Décret n°2011-574 du 24 mai 2011  - art.
+	  - Décret n°93-1429 du 31 décembre 1993 - art. 25 (Ab)
 
 	**Codifié par**:
 
 	  - Décret n°2011-574 du 24 mai 2011 Annexe - art.
+
+	**Modifié par**:
+
+	  - Décret n°2011-1904 du 19 décembre 2011 - art. 11
 
 	**Cité par**:
 
@@ -17490,7 +17652,8 @@ heure.
 
 ###### Article R132-28
 
-L'exemplaire doit être déposé sous la forme d'un élément intermédiaire permettant l'obtention soit d'une copie positive, soit
+Pour les documents cinématographiques fixés sur support photochimique entrant dans les prévisions de l'article R. 132-26, un
+exemplaire doit être déposé sous la forme d'un élément intermédiaire permettant l'obtention soit d'une copie positive, soit
 d'une matrice négative ou, à défaut, sous la forme d'une copie positive neuve d'une parfaite qualité technique. L'exemplaire
 déposé doit être identique dans son métrage et son contenu à la copie soumise à l'examen de la commission de classification
 prévue à l'article 1er du décret n° 90-174 du 23 février 1990 pris pour l'application des articles 19 à 22 du code de
@@ -17498,13 +17661,23 @@ l'industrie cinématographique et relatif à la classification des œuvres ciné
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Cite**:
 
-	  - Décret n°2011-574 du 24 mai 2011  - art.
+	  - Décret n°90-174 du 23 février 1990 - art. 1 (V)
+	  - Code de l'industrie cinématographique - art. 19 (Ab)
+	  - Code du patrimoine - art. R132-26
+
+	**Anciens textes**:
+
+	  - Décret n°93-1429 du 31 décembre 1993 - art. 26 (Ab), alinéa 1.
 
 	**Codifié par**:
 
 	  - Décret n°2011-574 du 24 mai 2011 Annexe - art.
+
+	**Modifié par**:
+
+	  - Décret n°2011-1904 du 19 décembre 2011 - art. 12
 
 	**Cité par**:
 
@@ -17512,25 +17685,53 @@ l'industrie cinématographique et relatif à la classification des œuvres ciné
 	  - Code du patrimoine. - art. R132-29 (V)
 
 
+###### Article R132-28-1
+
+Pour les documents cinématographiques sous forme de fichier numérique entrant dans les prévisions de l'article R. 132-26,
+deux exemplaires sont déposés : un exemplaire numérique répondant à des prescriptions techniques fixées par décision du
+président du Centre national du cinéma et de l'image animée prise sur le fondement du 2° de l'article L. 111-3  du code du
+cinéma et de l'image animée et un exemplaire sur support photochimique conforme aux prescriptions de l'article R. 132-28.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Code du cinéma et de l'image animée - art. L111-3
+	  - Code du patrimoine - art. R132-26
+	  - Code du patrimoine - art. R132-28
+
+	**Créé par**:
+
+	  - Décret n°2011-1904 du 19 décembre 2011 - art. 13
+
+
 ###### Article R132-29
 
 Par dérogation aux dispositions de l'article R. 132-28, le dépôt d'une copie ayant déjà fait l'objet d'une exploitation est
 admis pour les œuvres cinématographiques d'une durée inférieure à une heure à la condition que la copie fournie soit d'une
-parfaite qualité technique.
+parfaite qualité technique. 
 
 Lorsque le dépôt est effectué sous la forme d'une copie positive et que celle-ci ne présente plus une qualité technique
-suffisante, le Centre national du cinéma et de l'image animée, avec l'autorisation des titulaires de droits, a accès à
-l'élément intermédiaire mentionné à l'article R. 132-28 et prend en charge les frais de tirage d'une nouvelle copie positive.
+suffisante, le Centre national du cinéma et de l'image animée a accès à l'élément intermédiaire mentionné à l'article R.
+132-28 et prend en charge les frais de tirage d'une nouvelle copie positive.
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Anciens textes**:
 
-	  - Décret n°2011-574 du 24 mai 2011  - art.
+	  - Décret n°93-1429 du 31 décembre 1993 - art. 26 (Ab), alinéas 2 et 3.
 
 	**Codifié par**:
 
 	  - Décret n°2011-574 du 24 mai 2011 Annexe - art.
+
+	**Modifié par**:
+
+	  - Décret n°2011-1904 du 19 décembre 2011 - art. 14
+
+	**Cite**:
+
+	  - Code du patrimoine - art. R132-28
 
 
 ###### Article R132-30
@@ -17598,20 +17799,25 @@ nombre de séances de représentations est inférieur à un seuil fixé par arr�
 
 ###### Article R132-32
 
-Lorsque, pour un même support, il existe des formats différents, le format assurant la meilleure définition et les meilleures
-conditions de conservation doit être déposé, à l'exclusion du format de 70 mm.
+Lorsque,   pour un document cinématographique fixé sur support photochimique, il existe des formats différents, le format
+assurant la meilleure définition et les meilleures conditions de conservation doit être déposé, à l'exclusion du format de 70
+mm. 
 
 Le ministre chargé de la culture fixe par arrêté les mentions que doivent porter les documents cités à la présente section.
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Anciens textes**:
 
-	  - Décret n°2011-574 du 24 mai 2011  - art.
+	  - Décret n°93-1429 du 31 décembre 1993 - art. 29 (Ab)
 
 	**Codifié par**:
 
 	  - Décret n°2011-574 du 24 mai 2011 Annexe - art.
+
+	**Modifié par**:
+
+	  - Décret n°2011-1904 du 19 décembre 2011 - art. 15
 
 	**Cité par**:
 
@@ -17620,40 +17826,6 @@ Le ministre chargé de la culture fixe par arrêté les mentions que doivent por
 
 
 ##### Section 3 : Dépôt légal à l'Institut national de l'audiovisuel
-
-###### Article D132-40
-
-La commission prévue à l'article R. 132-39 est composée des membres suivants :
-
-1° Le président de l'Institut national de l'audiovisuel, président ;
-
-2° Un représentant du ministre chargé de la culture ;
-
-3° Un représentant du ministre chargé de la communication ;
-
-4° Deux représentants de l'organisme dépositaire ;
-
-5° Trois représentants des services et sociétés mentionnés à l'article R. 132-34 ;
-
-6° Deux personnalités qualifiées désignées par les ministres chargés de la culture et de la communication.
-
-Les membres de cette commission sont nommés pour trois ans par arrêté conjoint des ministres chargés de la culture et de la
-communication.
-
-**Liens relatifs à cet article**
-
-	**Créé par**:
-
-	  - Décret n°2011-574 du 24 mai 2011  - art.
-
-	**Abrogé par**:
-
-	  - Décret n°2011-1904 du 19 décembre 2011 - art. 19
-
-	**Cité par**:
-
-	  - Code du patrimoine. - art. R131-7 (V)
-
 
 ###### Article R132-33
 
@@ -17688,31 +17860,55 @@ L'institut gère le dépôt légal dont il a la charge conformément aux objecti
 
 Les documents audiovisuels et sonores mentionnés aux articles R. 132-35 et R. 132-36 sont déposés à l'Institut national de
 l'audiovisuel dès lors qu'ils font l'objet d'une diffusion par les services énumérés ci-après qui mettent à la disposition
-directe du public leurs programmes :
+directe du public leurs programmes : 
 
-1° Les sociétés nationales de programmes pour ce qui concerne leurs émissions nationales ;
+1° Les services de télévision établis en France au sens des articles 43-2 à 43-6 de la loi du 30 septembre 1986 précitée à
+l'exception : 
 
-2° Les services de communication audiovisuelle autorisés en application de l'article 30 de la loi n° 86-1067 du 30 septembre
-1986 relative à la liberté de communication, pour ce qui concerne leurs émissions nationales ;
+a) Des services autorisés sur le fondement de l'article 28-3 de cette même loi ; 
 
-3° La société visée à l'article 65 de la loi du 30 septembre 1986 susmentionnée ;
+b) Des services de paiement à la séance au sens de l'article 6-6 du décret n° 90-66 du 17 janvier 1990 pris pour
+l'application du 3° de l'article 27 et du 2° de l'article 70 de la loi n° 86-1067 du 30 septembre 1986 modifiée relative à la
+liberté de communication et fixant les principes généraux concernant la diffusion des œuvres cinématographiques et
+audiovisuelles par les éditeurs de service de télévision ; 
 
-4° La chaîne culturelle européenne issue du traité signé à Berlin le 2 octobre 1990.
+c) Des services principalement ou exclusivement consacrés au télé-achat au sens des articles 21, 32 et 33 du décret n° 92-280
+du 27 mars 1992 pris pour l'application des articles 27 et 33 de la loi n° 86-1067 du 30 septembre 1986 susvisée et fixant
+les principes généraux définissant les obligations des éditeurs de services en matière de publicité, de parrainage et de
+téléachat ; 
+
+2° Les services de radio, à l'exception : 
+
+a) Des services mentionnés aux articles 28-3 et 80 de la loi du 30 septembre 1986 précitée ; 
+
+b) Des services locaux, régionaux et thématiques indépendants mentionnés aux articles 29 et 42-3 de cette même loi ; 
+
+3° Les services de médias audiovisuels à la demande diffusés par voie hertzienne terrestre.
 
 **Liens relatifs à cet article**
 
 	**Cite**:
 
-	  - Loi n°86-1067 du 30 septembre 1986 - art. 30 (M)
-	  - Loi n°86-1067 du 30 septembre 1986 - art. 65 (M)
+	  - Loi n°86-1067 du 30 septembre 1986 - art. 27
+	  - Loi n°86-1067 du 30 septembre 1986 - art. 43-2
+	  - Loi n°86-1067 du 30 septembre 1986 - art. 70
+	  - Loi n°86-1067 du 30 septembre 1986 - art. 28-3 (V)
+	  - Loi n°86-1067 du 30 septembre 1986 - art. 29 (V)
+	  - Loi n°86-1067 du 30 septembre 1986 - art. 42-3 (V)
+	  - Décret n°90-66 du 17 janvier 1990 - art. 6-6
+	  - Décret n°92-280 du 27 mars 1992 - art. 21 (V)
 
-	**Créé par**:
+	**Anciens textes**:
 
-	  - Décret n°2011-574 du 24 mai 2011  - art.
+	  - Décret n°93-1429 du 31 décembre 1993 - art. 30 (Ab), alinéas 1 à 4 et 6.
 
 	**Codifié par**:
 
 	  - Décret n°2011-574 du 24 mai 2011 Annexe - art.
+
+	**Modifié par**:
+
+	  - Décret n°2011-1904 du 19 décembre 2011 - art. 16
 
 	**Cité par**:
 
@@ -17727,40 +17923,51 @@ directe du public leurs programmes :
 
 ###### Article R132-35
 
-I. ― Sont intégralement déposés et conservés les documents audiovisuels suivants lorsqu'ils sont d'origine française et font
-l'objet d'une première diffusion au sens de l'article R. 132-38 :
+I. ― Sont intégralement déposés et conservés les documents audiovisuels suivants lorsqu'ils sont d'origine française au sens
+de l'article R. 132-37 et font l'objet d'une première diffusion par les services de télévision mentionnés au 1° de l'article
+R. 132-34 : 
 
-1° Les magazines et les émissions majoritairement réalisés en plateau, autres que de fiction ;
+1° Les magazines et les émissions majoritairement réalisés en plateau, autres que de fiction ; 
 
-2° Les émissions d'information, à l'exception des journaux télévisés ;
+2° Les émissions d'information, à l'exception des journaux télévisés ; 
 
 3° Les œuvres audiovisuelles au sens du décret n° 90-66 du 17 janvier 1990 pris pour l'application du 3° de l'article 27 et
 du 2° de l'article 70 de la loi n° 86-1067 du 30 septembre 1986 relative à la liberté de communication et fixant les
-principes généraux concernant la diffusion des œuvres cinématographiques et audiovisuelles ;
+principes généraux concernant la diffusion des œuvres cinématographiques et audiovisuelles ; 
 
-4° Les émissions de variétés ;
+4° Les émissions de variétés ; 
 
-5° Les messages publicitaires ;
+5° Les messages publicitaires ; 
 
-6° Les émissions relevant d'obligations particulières des cahiers des missions et des charges.
+6° Les émissions relevant d'obligations particulières des cahiers des charges des sociétés nationales de programme. 
 
-II. ― Les autres émissions ou éléments d'émission font l'objet d'une sélection en vue d'un échantillonnage dans les
-conditions fixées par les articles R. 132-39, D. 132-40 et R. 132-41.
+II. ― L'ensemble des documents audiovisuels des services d'autopromotion au sens de l'article 16-1 du décret n° 92-280 du 27
+mars 1992 modifié pris pour l'application des articles 27 et 33 de la loi n° 86-1067 du 30 septembre 1986 relative à la
+liberté de communication et fixant les principes généraux définissant les obligations des éditeurs de services en matière de
+publicité, de parrainage et de téléachat, ainsi que les autres émissions ou éléments d'émission, sont collectés à raison d'au
+moins quatre documents par titre ou par discipline sportive ou par genre, par déposant et par an, à l'exception des journaux
+télévisés qui sont collectés à raison d'au moins une édition par jour et par déposant.
 
 **Liens relatifs à cet article**
 
 	**Cite**:
 
-	  - Loi n°86-1067 du 30 septembre 1986 - art. 70 (M)
-	  - Décret n°90-66 du 17 janvier 1990 (M)
+	  - Loi n°86-1067 du 30 septembre 1986 - art. 27
+	  - Loi n°86-1067 du 30 septembre 1986 - art. 70
+	  - Décret n°90-66 du 17 janvier 1990
+	  - Décret n°92-280 du 27 mars 1992 - art. 16-1
 
-	**Créé par**:
+	**Anciens textes**:
 
-	  - Décret n°2011-574 du 24 mai 2011  - art.
+	  - Décret n°93-1429 du 31 décembre 1993 - art. 31 (Ab)
 
 	**Codifié par**:
 
 	  - Décret n°2011-574 du 24 mai 2011 Annexe - art.
+
+	**Modifié par**:
+
+	  - Décret n°2011-1904 du 19 décembre 2011 - art. 17
 
 	**Cité par**:
 
@@ -17774,52 +17981,67 @@ conditions fixées par les articles R. 132-39, D. 132-40 et R. 132-41.
 ###### Article R132-36
 
 I. ― Sont intégralement collectés par l'Institut national de l'audiovisuel et conservés les documents sonores suivants
-lorsqu'ils sont d'origine française et font l'objet d'une première diffusion au sens de l'article R. 132-38 :
+lorsqu'ils sont d'origine française au sens de l'article R. 132-37 et font l'objet d'une première diffusion par les services
+de radio mentionnés au 2° de l'article R. 132-34 : 
 
-1° Les œuvres littéraires, dramatiques et documentaires ;
+1° Les œuvres littéraires, dramatiques et documentaires ; 
 
 2° Les œuvres musicales, à l'exception de celles fixées sur des phonogrammes et vidéogrammes diffusés à des fins de
-commerce ;
+commerce ; 
 
-3° Les émissions d'information, à l'exception des journaux radiophoniques ;
+3° Les émissions d'information, à l'exception des journaux radiophoniques ; 
 
-4° Les entretiens et magazines culturels et scientifiques ;
+4° Les entretiens et magazines culturels et scientifiques ; 
 
-5° Les émissions de variétés ;
+5° Les émissions de variétés ; 
 
-6° Les messages publicitaires ;
+6° Les messages publicitaires ; 
 
-7° Les émissions relevant d'obligations particulières des cahiers des missions et des charges.
+7° Les émissions relevant d'obligations particulières des cahiers des charges des sociétés nationales de programme. 
 
-II. ― Les autres émissions ou éléments d'émission font l'objet d'une sélection en vue d'un échantillonnage dans les
-conditions fixées par les articles R. 132-39, D. 132-40 et R. 132-41.
+II. ― Les autres émissions ou éléments d'émission sont collectés à raison d'au moins quatre documents par titre ou par
+discipline sportive ou par genre, par déposant et par an, à l'exception des journaux qui sont collectés à raison d'au moins
+une édition par jour et par déposant.
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Anciens textes**:
 
-	  - Décret n°2011-574 du 24 mai 2011  - art.
+	  - Décret n°93-1429 du 31 décembre 1993 - art. 32 (Ab)
 
 	**Codifié par**:
 
 	  - Décret n°2011-574 du 24 mai 2011 Annexe - art.
+
+	**Modifié par**:
+
+	  - Décret n°2011-1904 du 19 décembre 2011 - art. 18
+
+	**Cite**:
+
+	  - Code du patrimoine - art. R132-34
+	  - Code du patrimoine - art. R132-37
 
 
 ###### Article R132-37
 
-L'ensemble des documents diffusés lors de journées choisies par l'Institut national de l'audiovisuel, dont le nombre ne peut
-excéder sept par an par déposant, sont déposés à l'Institut national de l'audiovisuel, sur sa demande, par les sociétés et
-les services mentionnés à l'article R. 132-34.
+Les documents mentionnés aux articles R. 132-35 et R. 132-36 sont considérés comme étant d'origine française dès lors qu'ils
+sont entièrement produits par une entreprise de droit français ou qu'un apport en part producteur ou un préachat de droits de
+diffusion réalisé par une entreprise de droit français figure dans le budget de production de ces documents.
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Anciens textes**:
 
-	  - Décret n°2011-574 du 24 mai 2011  - art.
+	  - Décret n°93-1429 du 31 décembre 1993 - art. 33 (Ab)
 
 	**Codifié par**:
 
 	  - Décret n°2011-574 du 24 mai 2011 Annexe - art.
+
+	**Modifié par**:
+
+	  - Décret n°2011-1904 du 19 décembre 2011 - art. 19
 
 	**Cité par**:
 
@@ -17829,60 +18051,127 @@ les services mentionnés à l'article R. 132-34.
 
 ###### Article R132-38
 
-Les documents mentionnés aux articles R. 132-35 et R. 132-36 sont considérés comme étant d'origine française dès lors qu'ils
-sont entièrement produits par une entreprise de droit français ou qu'un apport en part producteur ou un préachat de droits de
-diffusion réalisé par une entreprise de droit français figure dans le budget de production de ces émissions.
-
-Par première diffusion au sens de la présente section, on entend la première diffusion effectuée à partir du 1er janvier 1995
-ou la première rediffusion effectuée à compter de cette date d'un document diffusé antérieurement par l'un des services de
-communication audiovisuelle ou sonore mentionné à l'article R. 132-34.
-
-**Liens relatifs à cet article**
-
-	**Créé par**:
-
-	  - Décret n°2011-574 du 24 mai 2011  - art.
-
-	**Codifié par**:
-
-	  - Décret n°2011-574 du 24 mai 2011 Annexe - art.
-
-
-###### Article R132-39
-
-Les critères de sélection et d'échantillonnage des documents sélectionnés mentionnés aux 2° des articles R. 132-35 et R.
-132-36 sont fixés dans les conditions prévues à l'annexe 4 sur proposition d'une commission dont la composition est fixée par
-décret.
-
-**Liens relatifs à cet article**
-
-	**Créé par**:
-
-	  - Décret n°2011-574 du 24 mai 2011  - art.
-
-	**Codifié par**:
-
-	  - Décret n°2011-574 du 24 mai 2011 Annexe - art.
-
-
-###### Article R132-41
-
-Les déposants communiquent à l'Institut national de l'audiovisuel leur programmation quinze jours avant la diffusion
-publique. Avant cette diffusion, l'Institut national de l'audiovisuel fait connaître aux services et sociétés mentionnés à
-l'article R. 132-34 la liste des documents qui seront collectés intégralement et de ceux qui seront sélectionnés.
+Les éditeurs des services mentionnés à l'article R. 132-34 communiquent à l'Institut national de l'audiovisuel leur
+programmation quinze jours avant la diffusion publique. Avant cette diffusion, l'Institut national de l'audiovisuel fait
+connaître à ces éditeurs la liste des documents qui seront collectés intégralement et de ceux qui seront sélectionnés. 
 
 Ces listes, à défaut de modifications apportées par l'Institut national de l'audiovisuel dans un délai qui ne peut excéder
 sept jours après la diffusion, sont définitives sauf erreur ou omission imputable au déposant.
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Anciens textes**:
 
-	  - Décret n°2011-574 du 24 mai 2011  - art.
+	  - Décret n°93-1429 du 31 décembre 1993 - art. 34 (Ab)
 
 	**Codifié par**:
 
 	  - Décret n°2011-574 du 24 mai 2011 Annexe - art.
+
+	**Modifié par**:
+
+	  - Décret n°2011-1904 du 19 décembre 2011 - art. 19
+
+	**Cite**:
+
+	  - Code du patrimoine - art. R132-34
+
+
+###### Article R132-39
+
+Les éditeurs des services mentionnés à l'article R. 132-34  déposent à l'Institut national de l'audiovisuel, dans un délai de
+quinze jours suivant leur première communication au public, les documents mentionnés aux articles R. 132-35 et R. 132-36.
+Toutefois, l'Institut national de l'audiovisuel peut procéder à la collecte de ces documents selon des procédures
+automatiques. 
+
+Les conditions et modalités de dépôt ou de collecte automatique ainsi que les normes techniques sont arrêtées par les
+ministres chargés de la culture et de la communication sur proposition de l'Institut national de l'audiovisuel. 
+
+Lorsqu'un document mentionné aux articles R. 132-35 et R. 132-36 ne peut être collecté intégralement selon des procédures
+automatiques, le déposant doit, à la demande de l'Institut national de l'audiovisuel, lui fournir les mots de passe et les
+clés d'accès aux documents protégés nécessaires à la collecte, ou lui remettre une copie de ces documents. Dans les deux cas,
+il doit également fournir toutes les données techniques nécessaires à la communication et à la conservation à long terme des
+documents. Le déposant et l'Institut national de l'audiovisuel définissent conjointement les modalités de collecte selon les
+procédures autres qu'automatiques.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Décret n°93-1429 du 31 décembre 1993 - art. 35 (Ab), alinéa 1, ecqc les critères de sélection et d'échantillonnage des documents sélectionnés.
+
+	**Codifié par**:
+
+	  - Décret n°2011-574 du 24 mai 2011 Annexe - art.
+
+	**Modifié par**:
+
+	  - Décret n°2011-1904 du 19 décembre 2011 - art. 19
+
+	**Cite**:
+
+	  - Code du patrimoine - art. R132-34
+	  - Code du patrimoine - art. R132-35
+
+
+###### Article R132-40
+
+Les éditeurs des services mentionnés à l'article R. 132-34 fournissent à l'Institut national de l'audiovisuel le conducteur
+des émissions, le rapport du chef de chaîne, une copie de la déclaration des droits relatifs aux programmes musicaux, les
+documents d'accompagnement dont ils disposent, et notamment le dossier de presse, le synopsis, la fiche technique et le
+matériel publicitaire. 
+
+Les ministres chargés de la culture et de la communication fixent par arrêté conjoint les mentions que doivent porter les
+documents mentionnés à la présente section.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Décret n°93-1429 du 31 décembre 1993 - art. 35 (Ab), alinéas 1 à 8, ecqc composition commission.
+
+	**Créé par**:
+
+	  - Décret n°2011-1904 du 19 décembre 2011 - art. 19
+
+	**Cite**:
+
+	  - Code du patrimoine - art. R132-34
+
+	**Cité par**:
+
+	  - Code du patrimoine. - art. R133-1 (V)
+
+
+###### Article R132-41
+
+Sont soumis au dépôt légal auprès de l'Institut national de l'audiovisuel : 
+
+1° Les services de communication au public en ligne entrant dans les prévisions du 1° de l'article R. 132-23, lorsqu'ils sont
+édités par les services mentionnés à l'article R. 132-34 ou lorsqu'ils sont principalement consacrés aux programmes que ceux-
+ci éditent ; 
+
+2° Les services de médias audiovisuels à la demande entrant dans les prévisions du 2° de l'article R. 132-23, lorsqu'ils
+mettent à la disposition du public les programmes des services mentionnés au 1° de l'article R. 132-34.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Décret n°93-1429 du 31 décembre 1993 - art. 36 (Ab)
+
+	**Codifié par**:
+
+	  - Décret n°2011-574 du 24 mai 2011 Annexe - art.
+
+	**Modifié par**:
+
+	  - Décret n°2011-1904 du 19 décembre 2011 - art. 19
+
+	**Cite**:
+
+	  - Code du patrimoine - art. R132-23
+	  - Code du patrimoine - art. R132-34
 
 	**Cité par**:
 
@@ -17891,40 +18180,67 @@ sept jours après la diffusion, sont définitives sauf erreur ou omission imputa
 
 ###### Article R132-42
 
-Le dépôt à l'Institut national de l'audiovisuel est effectué dans un délai de quinze jours à compter de la date de diffusion.
+I. ― La collecte des services de communication au public en ligne et des services de médias audiovisuels à la demande
+mentionnés à l'article R. 132-41  est effectuée au moins une fois par an. 
 
-Les conditions et modalités de dépôt, ainsi que les normes techniques, sont arrêtées par le ministre chargé de la culture sur
-proposition de l'Institut national de l'audiovisuel.
+II. ― Lorsqu'un service de communication au public en ligne ou un service de médias audiovisuels à la demande mentionné à
+l'article R. 132-41 ne peut être collecté intégralement selon des procédures automatiques, l'éditeur doit, à la demande de
+l'Institut national de l'audiovisuel, lui fournir les mots de passe et les clés d'accès aux documents protégés nécessaires à
+sa collecte, ou lui remettre une copie de ces documents. Dans les deux cas, l'éditeur doit également fournir toutes les
+données techniques nécessaires à la communication et à la conservation à long terme des documents. L'organisme dépositaire et
+le déposant définissent conjointement les modalités de l'extraction des fichiers. 
+
+III. ― Le service de communication au public en ligne de l'Institut national de l'audiovisuel informe le public sur les
+procédures de collecte qu'il met en œuvre et sur les spécifications techniques de l'outil de collecte automatique qu'il
+utilise. 
+
+IV. ― Les bibliographies nationales des services de communication au public en ligne et des services de médias audiovisuels à
+la demande prévues au b de l'article L. 131-1 prennent la forme d'une indexation de ces services.
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Anciens textes**:
 
-	  - Décret n°2011-574 du 24 mai 2011  - art.
+	  - Décret n°93-1429 du 31 décembre 1993 - art. 37 (Ab)
 
 	**Codifié par**:
 
 	  - Décret n°2011-574 du 24 mai 2011 Annexe - art.
+
+	**Modifié par**:
+
+	  - Décret n°2011-1904 du 19 décembre 2011 - art. 19
+
+	**Cite**:
+
+	  - Code du patrimoine - art. L131-1
+	  - Code du patrimoine - art. R132-41
 
 
 ###### Article R132-43
 
-Les déposants fournissent à l'Institut national de l'audiovisuel le conducteur des émissions, le rapport du chef de chaîne,
-une copie de la déclaration des droits relatifs aux programmes musicaux, les documents d'accompagnement dont ils disposent,
-et notamment le dossier de presse, le synopsis, la fiche technique et le matériel publicitaire.
+La consultation sur place des services de communication au public en ligne et des services de médias audiovisuels à la
+demande collectés s'effectue :
 
-Les ministres chargés de la culture et de la communication fixent par arrêté conjoint les mentions que doivent porter les
-documents mentionnés à la présente section.
+1° A l'Institut national de l'audiovisuel et dans tout organisme habilité à mettre en œuvre cette consultation par arrêté des
+ministres chargés de la culture et de la communication ;
+
+2° Sur des postes individuels équipés d'interfaces d'accès, de recherche et de traitement fournies par l'Institut national de
+l'audiovisuel ou les organismes habilités et dont l'usage est strictement réservé à des chercheurs dûment accrédités.
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Anciens textes**:
 
-	  - Décret n°2011-574 du 24 mai 2011  - art.
+	  - Décret n°93-1429 du 31 décembre 1993 - art. 38 (Ab)
 
 	**Codifié par**:
 
 	  - Décret n°2011-574 du 24 mai 2011 Annexe - art.
+
+	**Modifié par**:
+
+	  - Décret n°2011-1904 du 19 décembre 2011 - art. 19
 
 
 ##### Section 4 : Dépôt légal au ministère de l'intérieur
@@ -18097,33 +18413,46 @@ R. 132-8 et R. 132-47 peuvent être librement consultées par les déposants, le
 ###### Article R133-1
 
 Sont punis de l'amende prévue pour les contraventions de la cinquième classe et, en cas de récidive, de l'amende prévue pour
-les contraventions de la cinquième classe en récidive :
+les contraventions de la cinquième classe en récidive : 
 
-1° Ceux qui n'accompagnent pas le dépôt de leur déclaration, dûment remplie, prévue aux articles R. 131-6 et R. 132-47 ;
+1° Ceux qui n'accompagnent pas le dépôt de leur déclaration, dûment remplie, prévue aux articles R. 131-6 et R. 132-47 ; 
 
 2° Ceux qui n'accompagnent pas le dépôt des pièces, fiches, documents et matériels prévus par les articles R. 132-13, R.
-132-14, R. 132-21, R. 132-22, R. 132-27, R. 132-30, R. 132-43 ;
+132-14, R. 132-21, R. 132-22, R. 132-27, R. 132-30, R. 132-40 ; 
 
 3° Ceux qui ne font pas figurer sur les documents soumis à l'obligation de dépôt les mentions obligatoires prévues par le
 présent titre et les arrêtés d'application prévus par les articles R. 131-7, R. 132-8, R. 132-14, R. 132-22, R. 132-32, R.
-132-43, R. 132-46 ;
+132-40, R. 132-46 ; 
 
 4° Ceux qui ne déposent pas des documents répondant aux normes de qualité permettant d'atteindre les objectifs prévus par les
-articles R. 132-8, R. 132-13, R. 132-21, R. 132-28, R. 132-29, R. 132-30, R. 132-42 et R. 132-44.
+articles R. 132-8, R. 132-13, R. 132-21, R. 132-28, R. 132-29, R. 132-30, R. 132-39 et R. 132-44.
 
 **Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Décret n°93-1429 du 31 décembre 1993 - art. 45 (Ab)
 
 	**Cité par**:
 
 	  - Code du cinéma et de l'image animée - art. R241-1 (V)
 
-	**Créé par**:
-
-	  - Décret n°2011-574 du 24 mai 2011  - art.
-
 	**Codifié par**:
 
 	  - Décret n°2011-574 du 24 mai 2011 Annexe - art.
+
+	**Modifié par**:
+
+	  - Décret n°2011-1904 du 19 décembre 2011 - art. 20
+
+	**Cite**:
+
+	  - Code du patrimoine - art. R131-6
+	  - Code du patrimoine - art. R132-13
+	  - Code du patrimoine - art. R132-21
+	  - Code du patrimoine - art. R132-27
+	  - Code du patrimoine - art. R132-30
+	  - Code du patrimoine - art. R132-40
 
 
 ### TITRE IV : INSTITUTIONS RELATIVES  AU PATRIMOINE CULTUREL
@@ -40219,6 +40548,872 @@ la partie règlementaire du code de l'urbanisme.
 	  - Code du patrimoine - art. D780-12 (M)
 	  - Code du patrimoine - art. D790-11 (M)
 	  - Code du patrimoine. - art. D720-12 (M)
+
+
+#### Chapitre II : Aires de mise en valeur  de l'architecture et du patrimoine
+
+##### Section 1 : Mise à l'étude d'un projet d'aire 
+
+
+###### Article D642-1
+
+La décision de mettre à l'étude un projet d'aire de mise en valeur de l'architecture et du patrimoine en application du
+premier alinéa de l'article L. 642-3 est prise sur délibérations concordantes du ou des conseils municipaux de la ou des
+communes concernées ou sur délibération de l'organe délibérant de l'établissement public de coopération intercommunale
+compétent en matière de plan local d'urbanisme. 
+
+La délibération par laquelle cette mise à l'étude est prescrite fait l'objet d'un affichage, durant un mois à compter de son
+adoption, dans les mairies des communes concernées ou au siège de l'établissement public de coopération intercommunale
+compétent, ainsi que d'une mention insérée dans un journal d'annonces légales diffusé dans le département. Lorsque plusieurs
+communes sont concernées, le délai d'un mois court à compter de l'adoption de la dernière de ces délibérations. 
+
+La délibération est, en outre, publiée : 
+
+1° Au recueil des actes administratifs mentionné à l'article R. 2121-10 du code général des collectivités territoriales,
+lorsqu'il s'agit de la délibération du conseil municipal d'une commune de 3 500 habitants et plus ; 
+
+2° Au recueil des actes administratifs mentionné à l'article R. 5211-41 du même code, s'il existe, lorsqu'il s'agit de la
+délibération de l'organe délibérant d'un établissement public de coopération intercommunale comportant au moins une commune
+de 3 500 habitants et plus.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2011-1903 du 19 décembre 2011 - art. 1
+
+	**Abrogé par**:
+
+	  - Décret n°2017-456 du 29 mars 2017 - art. 5
+
+	**Cite**:
+
+	  - Code général des collectivités territoriales - art. R2121-10
+	  - Code général des collectivités territoriales - art. R5211-41
+	  - Code du patrimoine - art. L642-3
+
+	**Cité par**:
+
+	  - Code du patrimoine - art. D642-10 (Ab)
+	  - Code du patrimoine - art. D642-2 (Ab)
+
+
+###### Article D642-2
+
+L'instance consultative prévue à l'article L. 642-5, dénommée commission locale de l'aire de mise en valeur de l'architecture
+et du patrimoine, comporte un nombre maximum de quinze membres. 
+
+Le nombre des représentants de la ou des communes ou de l'établissement public de coopération intercommunale mentionnés à
+l'article D. 642-1 ne peut être inférieur à cinq. 
+
+Les personnes qualifiées, désignées par les délibérations concordantes mentionnées au même article sont au nombre de quatre
+dont deux choisies au titre du patrimoine culturel ou environnemental local et deux choisies au titre d'intérêts économiques
+locaux. 
+
+Un maire ou un président d'établissement public de coopération intercommunale, désigné en son sein par la commission, assure
+la présidence. En cas d'absence ou d'empêchement, il peut donner mandat à un autre membre de l'instance titulaire d'un mandat
+électif. 
+
+L'architecte des Bâtiments de France assiste avec voix consultative aux réunions de la commission. 
+
+La commission délibère à la majorité des voix. En cas de partage des voix, la voix du président est prépondérante. 
+
+Elle arrête un règlement intérieur.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2011-1903 du 19 décembre 2011 - art. 1
+
+	**Abrogé par**:
+
+	  - Décret n°2017-456 du 29 mars 2017 - art. 5
+
+	**Cite**:
+
+	  - Code du patrimoine - art. D642-1
+	  - Code du patrimoine - art. L642-5
+
+
+###### Article D642-3
+
+L'étude est conduite sous l'autorité du ou des maires ou du président de l'établissement public de coopération intercommunale
+compétent en matière de plan local d'urbanisme, avec l'assistance de l'architecte des Bâtiments de France.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2011-1903 du 19 décembre 2011 - art. 1
+
+	**Abrogé par**:
+
+	  - Décret n°2017-456 du 29 mars 2017 - art. 5
+
+
+###### Article D642-4
+
+Le diagnostic prévu au deuxième alinéa de l'article L. 642-1 constitue la première étape de l'étude. 
+
+Il porte sur le territoire de l'aire et comprend : 
+
+1° Une partie relative au patrimoine architectural, urbain, paysager, historique et archéologique permettant de déterminer
+l'intérêt, les caractéristiques et l'état de ce patrimoine ; elle comporte une analyse du territoire concerné, à différentes
+échelles, portant notamment sur : 
+
+a) La géomorphologie et la structure paysagère, l'évolution et l'état de l'occupation bâtie et des espaces ; 
+
+b) L'histoire et les logiques d'insertion dans le site, des implantations urbaines et des constructions, la morphologie
+urbaine, les modes d'utilisation des espaces et des sols ainsi que l'occupation végétale ; 
+
+c) La qualité architecturale des bâtiments ainsi que l'organisation des espaces ; 
+
+2° Une partie relative à l'environnement comportant notamment : 
+
+a) Une analyse des tissus bâtis et des espaces au regard de leur capacité esthétique et paysagère à recevoir des
+installations nécessaires à l'exploitation des énergies renouvelables ; 
+
+b) Une analyse de l'implantation des constructions, des modes constructifs existants et des matériaux utilisés, précisant au
+besoin l'époque de construction des bâtiments, permettant de déterminer des objectifs d'économie d'énergie. 
+
+Cette partie reprend et complète, en tant que de besoin, l'analyse environnementale figurant au plan local d'urbanisme. 
+
+A défaut de plan local d'urbanisme, elle comporte, en outre, une analyse de l'état initial de l'environnement dans le
+territoire de l'aire.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2011-1903 du 19 décembre 2011 - art. 1
+
+	**Abrogé par**:
+
+	  - Décret n°2017-456 du 29 mars 2017 - art. 5
+
+	**Cité par**:
+
+	  - Code du patrimoine - art. D642-5 (Ab)
+	  - Code du patrimoine - art. D642-6 (Ab)
+
+	**Cite**:
+
+	  - Code du patrimoine - art. L642-1
+
+
+##### Section 2 : Création d'une aire 
+
+
+
+###### Article D642-5
+
+Pour l'application du deuxième alinéa de l'article L. 642-3, le projet de création ou de révision d'une aire de mise en
+valeur de l'architecture et du patrimoine est, à l'issue de l'étude prévue à la section 1, soumis aux délibérations
+concordantes du ou des conseils municipaux de la ou des communes concernées ou à la délibération de l'organe délibérant de
+l'établissement public de coopération intercommunale compétent en matière de plan local d'urbanisme. 
+
+Ce projet comporte, en application de l'article L. 642-2 : 
+
+1° Un rapport de présentation des objectifs de l'aire, auquel est annexé le diagnostic défini à l'article D. 642-4.
+
+2° Le règlement et le document graphique prévus aux troisième à septième alinéas du même article. Le document graphique
+contient une présentation graphique des prescriptions énoncées par le règlement. Le règlement peut prévoir la possibilité
+d'adaptations mineures de ses prescriptions.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2011-1903 du 19 décembre 2011 - art. 1
+
+	**Abrogé par**:
+
+	  - Décret n°2017-456 du 29 mars 2017 - art. 5
+
+	**Cite**:
+
+	  - Code du patrimoine - art. D642-4
+	  - Code du patrimoine - art. L642-2
+	  - Code du patrimoine - art. L642-3
+
+
+###### Article D642-6
+
+Le rapport de présentation des objectifs de l'aire comporte une synthèse du diagnostic défini à l'article D. 642-4. 
+
+Il énonce, en les mettant en cohérence : 
+
+1° Les objectifs de protection et de mise en valeur du patrimoine, de qualité de l'architecture et de traitement des
+espaces ; 
+
+2° Les objectifs de développement durable attachés au territoire de l'aire. 
+
+En outre, il justifie la compatibilité de ces dispositions avec le projet d'aménagement et de développement durable du plan
+local d'urbanisme.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2011-1903 du 19 décembre 2011 - art. 1
+
+	**Abrogé par**:
+
+	  - Décret n°2017-456 du 29 mars 2017 - art. 5
+
+	**Cite**:
+
+	  - Code du patrimoine - art. D642-4 (Ab)
+
+
+###### Article D642-7
+
+Le silence gardé pendant deux mois par les personnes publiques consultées pour examen conjoint sur le projet de création ou
+de révision d'une aire en application du troisième alinéa de l'article L. 642-3 vaut avis favorable.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2011-1903 du 19 décembre 2011 - art. 1
+
+	**Abrogé par**:
+
+	  - Décret n°2017-456 du 29 mars 2017 - art. 5
+
+	**Cité par**:
+
+	  - Code du patrimoine - art. D642-8 (Ab)
+
+	**Cite**:
+
+	  - Code du patrimoine - art. L642-3
+
+
+###### Article D642-8
+
+A l'issue de la consultation mentionnée à l'article D. 642-7, l'enquête publique prévue aux articles L. 642-3 et L. 642-4 est
+réalisée conformément au chapitre III du titre II du livre Ier du code de l'environnement.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2011-1903 du 19 décembre 2011 - art. 1
+
+	**Abrogé par**:
+
+	  - Décret n°2017-456 du 29 mars 2017 - art. 5
+
+	**Cite**:
+
+	  - Code du patrimoine - art. D642-7 (Ab)
+	  - Code du patrimoine - art. L642-3
+
+	**Cité par**:
+
+	  - Code du patrimoine - art. D642-9 (Ab)
+
+
+###### Article D642-9
+
+Pour l'application du sixième alinéa de l'article L. 642-3, le projet de création ou de révision de l'aire est soumis à
+l'accord du préfet à l'issue de l'enquête publique mentionnée à l'article D. 642-8.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2011-1903 du 19 décembre 2011 - art. 1
+
+	**Abrogé par**:
+
+	  - Décret n°2017-456 du 29 mars 2017 - art. 5
+
+	**Cite**:
+
+	  - Code du patrimoine - art. D642-8 (Ab)
+	  - Code du patrimoine - art. L642-3
+
+
+###### Article D642-10
+
+Les délibérations prises par le ou les conseils municipaux de la ou des communes concernées ou par l'organe délibérant de
+l'établissement public de coopération intercommunale pour l'application du sixième alinéa de l'article L. 642-3, portant
+création ou révision de l'aire, mentionnent l'accord du préfet. 
+
+Les modalités de publicité de la délibération sont celles prévues à l'article D. 642-1. La publicité mentionne le ou les
+lieux où le dossier peut être consulté. 
+
+La délibération produit ses effets juridiques dès l'exécution de la dernière formalité de publicité, la date à prendre en
+compte pour l'affichage étant celle du premier jour où il est effectué.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2011-1903 du 19 décembre 2011 - art. 1
+
+	**Abrogé par**:
+
+	  - Décret n°2017-456 du 29 mars 2017 - art. 5
+
+	**Cite**:
+
+	  - Code du patrimoine - art. D642-1 (Ab)
+	  - Code du patrimoine - art. L642-3
+
+
+##### Section 3 : Régime des travaux dans une aire 
+
+
+
+###### Article D642-11
+
+L'autorisation prévue par le premier alinéa de l'article L. 642-6 pour les travaux compris dans le périmètre d'une aire de
+mise en valeur de l'architecture et du patrimoine non soumis à autorisation au titre du code de l'urbanisme est régie par la
+présente section. 
+
+Le permis de construire, le permis d'aménager, le permis de démolir ou la décision prise sur la déclaration préalable tient
+lieu de l'autorisation prévue au premier alinéa de l'article L. 642-6 dès lors que la décision a fait l'objet de l'accord,
+selon les cas prévus par cet article, de l'architecte des Bâtiments de France, du préfet de région ou du ministre chargé des
+monuments historiques et des espaces protégés.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2011-1903 du 19 décembre 2011 - art. 1
+
+	**Cité par**:
+
+	  - Arrêté du 12 avril 2012 - art. 1 (V)
+
+	**Abrogé par**:
+
+	  - Décret n°2017-456 du 29 mars 2017 - art. 5
+
+	**Cite**:
+
+	  - Code du patrimoine - art. L642-6
+
+
+###### Article D642-12
+
+La demande d'autorisation est adressée par pli recommandé avec demande d'avis de réception ou déposée à la mairie de la
+commune dans laquelle les travaux sont envisagés : 
+
+1° Par le ou les propriétaires du ou des terrains, leur mandataire ou par une ou plusieurs personnes attestant être
+autorisées par eux à exécuter les travaux ; 
+
+2° En cas d'indivision, par un ou plusieurs co-indivisaires ou leur mandataire ; 
+
+3° Par une personne ayant qualité pour bénéficier de l'expropriation pour cause d'utilité publique.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2011-1903 du 19 décembre 2011 - art. 1
+
+	**Abrogé par**:
+
+	  - Décret n°2017-456 du 29 mars 2017 - art. 5
+
+	**Cité par**:
+
+	  - Code du patrimoine - art. D642-13 (Ab)
+
+
+###### Article D642-13
+
+Un arrêté du ministre chargé des monuments historiques et des espaces protégés fixe le modèle national de la demande
+d'autorisation. 
+
+La demande d'autorisation précise : 
+
+1° L'identité du ou des demandeurs ; 
+
+2° La localisation et la superficie du ou des terrains ; 
+
+3° La nature des travaux envisagés. 
+
+La déclaration comporte également l'attestation du ou des déclarants qu'il remplit ou qu'ils remplissent les conditions
+définies à l'article D. 642-12.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2011-1903 du 19 décembre 2011 - art. 1
+
+	**Abrogé par**:
+
+	  - Décret n°2017-456 du 29 mars 2017 - art. 5
+
+	**Cite**:
+
+	  - Code du patrimoine - art. D642-12 (Ab)
+
+
+###### Article D642-14
+
+Le dossier joint à la demande d'autorisation comprend un plan permettant de connaître la situation du terrain à l'intérieur
+de la commune et une notice indiquant les matériaux utilisés et les modes d'exécution des travaux. 
+
+Il comprend, en outre : 
+
+1° Lorsque le projet a pour objet d'édifier ou de modifier une construction : 
+
+a) Un plan de masse coté dans les trois dimensions ainsi qu'une représentation de l'aspect extérieur de la construction
+faisant apparaître les modifications projetées ; 
+
+b) Lorsque les travaux projetés nécessitent la démolition de bâtiments soumis au régime du permis de démolir, la
+justification du dépôt de la demande de permis de démolir ; 
+
+2° Lorsque le projet a pour objet la réalisation ou la modification d'une infrastructure ou un aménagement des sols : 
+
+a) Un plan de masse faisant apparaître les cotes de niveau du terrain avant et après travaux, s'il y a lieu, les
+constructions, la végétation et les éléments paysagers existants ainsi que le traitement des constructions, clôtures,
+végétations ou aménagements situés en limite de terrain, lorsque les travaux portent sur l'aménagement ou la modification du
+terrain ; 
+
+b) Un plan de coupe longitudinale et des plans de coupe transversale précisant l'implantation de l'infrastructure par rapport
+au profil du terrain et indiquant, lorsque les travaux ont pour effet de modifier le profil du terrain, l'état initial et
+l'état futur ; 
+
+c) Une notice exposant les partis retenus pour assurer l'insertion du projet dans son environnement et la prise en compte des
+paysages accompagnée de deux documents photographiques permettant de situer le terrain respectivement dans l'environnement
+proche et, sauf si le demandeur justifie qu'aucune photographie de loin n'est possible, dans le paysage lointain. Les points
+et les angles des prises de vue sont reportés sur le plan de situation et le plan de masse ; 
+
+d) Un plan faisant apparaître le traitement des espaces libres, notamment les plantations à conserver ou à créer ainsi que
+l'organisation et l'aménagement des accès au terrain, aux constructions et aux aires de stationnement. 
+
+Lorsque les travaux projetés nécessitent une autorisation de défrichement en application des articles L. 311-1 ou L. 312-1 du
+code forestier, la demande d'autorisation est complétée par la copie de la lettre par laquelle le préfet fait connaître au
+demandeur que son dossier de demande d'autorisation de défrichement est complet.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2011-1903 du 19 décembre 2011 - art. 1
+
+	**Abrogé par**:
+
+	  - Décret n°2017-456 du 29 mars 2017 - art. 5
+
+	**Cite**:
+
+	  - Code forestier - art. L311-1
+
+
+###### Article D642-15
+
+La demande et le dossier qui l'accompagne sont établis en trois exemplaires ou, lorsque l'autorité compétente pour la
+délivrance de l'autorisation en vertu du premier alinéa de l'article L. 642-6 est le président d'un établissement public de
+coopération intercommunale, en quatre exemplaires. 
+
+Un exemplaire supplémentaire du dossier est fourni lorsque les travaux concernent un immeuble inscrit au titre des monuments
+historiques. Dans ce cas, la réception de la demande tient lieu de la déclaration mentionnée au premier alinéa de l'article
+L. 621-27. 
+
+Un exemplaire supplémentaire du dossier est fourni lorsque les travaux sont soumis à l'autorisation du ministre de la défense
+ou du ministre chargé des sites. 
+
+Deux exemplaires supplémentaires du dossier sont fournis lorsque le projet est situé dans le cœur d'un parc national délimité
+en application de l'article L. 331-2 du code de l'environnement.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2011-1903 du 19 décembre 2011 - art. 1
+
+	**Abrogé par**:
+
+	  - Décret n°2017-456 du 29 mars 2017 - art. 5
+
+	**Cite**:
+
+	  - Code de l'environnement - art. L331-2
+	  - Code du patrimoine - art. L621-27
+	  - Code du patrimoine - art. L642-6
+
+
+###### Article D642-16
+
+Le maire affecte un numéro d'enregistrement à la demande et en délivre récépissé dans les conditions prévues par arrêté du
+ministre chargé des monuments historiques et des espaces protégés. 
+
+Le récépissé précise le numéro d'enregistrement, ainsi que les conditions et délais dans lesquels la décision de l'autorité
+compétente est prise, selon que le dossier est complet ou non, par application de l'article D. 642-21.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2011-1903 du 19 décembre 2011 - art. 1
+
+	**Abrogé par**:
+
+	  - Décret n°2017-456 du 29 mars 2017 - art. 5
+
+	**Cite**:
+
+	  - Code du patrimoine - art. D642-21
+
+
+###### Article D642-17
+
+Lorsque la demande précise que le demandeur accepte de recevoir à une adresse électronique les réponses de l'autorité
+compétente, les modalités de notification peuvent lui être adressées par courrier électronique. 
+
+Dans ce cas, le demandeur est réputé avoir reçu ces notifications à la date à laquelle il les consulte à l'aide de la
+procédure électronique. Un accusé de réception électronique est adressé à l'autorité compétente au moment de la consultation
+du document. A défaut de consultation à l'issue d'un délai de huit jours après leur envoi, le demandeur est réputé avoir reçu
+ces notifications.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2011-1903 du 19 décembre 2011 - art. 1
+
+	**Abrogé par**:
+
+	  - Décret n°2017-456 du 29 mars 2017 - art. 5
+
+
+###### Article D642-18
+
+Dans les quinze jours qui suivent le dépôt de la demande et pendant la durée d'instruction de celle-ci, le maire procède à
+l'affichage en mairie d'un avis de dépôt de demande d'autorisation précisant les caractéristiques essentielles du projet,
+dans des conditions prévues par arrêté du ministre chargé des monuments historiques et des espaces protégés.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2011-1903 du 19 décembre 2011 - art. 1
+
+	**Cité par**:
+
+	  - Arrêté du 12 avril 2012 - art. 4 (V)
+
+	**Abrogé par**:
+
+	  - Décret n°2017-456 du 29 mars 2017 - art. 5
+
+
+###### Article D642-19
+
+Dans la semaine qui suit le dépôt de la demande, le maire transmet un exemplaire de la demande et du dossier qui l'accompagne
+à l'autorité compétente en vertu du premier alinéa de l'article L. 642-6 pour délivrer l'autorisation. 
+
+Dans le même délai le maire transmet, en outre, les autres exemplaires de la demande et du dossier dans les conditions
+suivantes : 
+
+1° Pour le compte de l'autorité compétente en vertu du premier alinéa de l'article L. 642-6 pour délivrer l'autorisation, le
+maire transmet un exemplaire à l'architecte des Bâtiments de France ; 
+
+2° Lorsqu'il est lui-même l'autorité compétente au nom de la commune, le maire transmet un exemplaire au préfet et, lorsque
+le projet concerne un immeuble inscrit au titre des monuments historiques ou un immeuble adossé à un immeuble classé au titre
+des monuments historiques, un exemplaire au directeur régional des affaires culturelles ; 
+
+3° Lorsque l'autorité compétente est le président de l'établissement public de coopération intercommunale, le maire conserve
+un exemplaire et, lorsque le projet concerne un immeuble inscrit au titre des monuments historiques ou un immeuble adossé à
+un immeuble classé au titre des monuments historiques, il transmet un exemplaire au directeur régional des affaires
+culturelles ; 
+
+4° Lorsque l'autorité compétente relève de l'Etat, le maire conserve un exemplaire, et, dans le cas où la commune a délégué
+sa compétence à un établissement public de coopération intercommunale, il transmet un exemplaire au président de cet
+établissement. Il transmet au préfet les exemplaires restants ; 
+
+5° Dans les sites classés et les réserves naturelles, le maire transmet un exemplaire supplémentaire au préfet. Lorsque le
+projet est situé dans le cœur d'un parc national délimité en application de l'article L. 331-2 du code de l'environnement, le
+maire transmet deux exemplaires au directeur de l'établissement public du parc national.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2011-1903 du 19 décembre 2011 - art. 1
+
+	**Cite**:
+
+	  - Code de l'environnement - art. L331-2
+	  - Code du patrimoine - art. L642-6
+
+
+###### Article D642-20
+
+I. ― Lorsque l'autorité compétente est le maire au nom de la commune ou le président de l'établissement public de coopération
+intercommunale, l'instruction est faite sous son autorité. 
+
+Cette instruction peut être confiée : 
+
+1° Aux services de la commune ; 
+
+2° Aux services d'une autre collectivité territoriale ou d'un groupement de collectivités. 
+
+II. ― Lorsque l'autorité compétente relève de l'Etat, l'instruction est effectuée par le service déconcentré de l'Etat chargé
+de l'architecture et du patrimoine.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2011-1903 du 19 décembre 2011 - art. 1
+
+	**Abrogé par**:
+
+	  - Décret n°2017-456 du 29 mars 2017 - art. 5
+
+
+###### Article D642-21
+
+Lorsque le dossier de la demande d'autorisation est complet, le silence gardé pendant plus de deux mois par l'autorité
+compétente en vertu du premier alinéa de l'article L. 642-6 vaut décision de rejet. 
+
+Lorsque le dossier est incomplet, l'autorité compétente avise le demandeur, dans un délai d'un mois à compter de
+l'enregistrement de la demande, des pièces manquant à son dossier. Le délai mentionné à l'alinéa précédent court à compter du
+dépôt de ces pièces. A défaut pour le demandeur de déposer ces pièces dans un délai de trois mois à compter de la réception
+de la notification de cet avis, la demande est réputée rejetée.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2011-1903 du 19 décembre 2011 - art. 1
+
+	**Cité par**:
+
+	  - Arrêté du 12 avril 2012 - art. 3 (V)
+	  - Arrêté du 12 avril 2012 - art. 4 (V)
+	  - Décret n°2015-1461 du 10 novembre 2015 - art. (V)
+	  - Code du patrimoine - art. D642-16 (Ab)
+	  - Code du patrimoine - art. R642-22 (Ab)
+
+	**Abrogé par**:
+
+	  - Décret n°2017-456 du 29 mars 2017 - art. 5
+
+	**Cite**:
+
+	  - Code du patrimoine - art. L642-6
+
+
+###### Article D642-23
+
+Lorsque l'autorité compétente relève de l'Etat, le maire adresse au chef du service de l'Etat chargé de l'architecture et du
+patrimoine son avis sur chaque demande. Cet avis est réputé favorable s'il n'est pas intervenu dans le délai d'un mois à
+compter du dépôt à la mairie de la demande. 
+
+Lorsque la commune a confié l'instruction des demandes d'autorisation de travaux à un établissement public de coopération
+intercommunale, le président de cet établissement adresse son avis au chef du service de l'Etat chargé de l'architecture et
+du patrimoine dans les mêmes conditions et délais. 
+
+Le chef du service de l'Etat chargé de l'architecture et du patrimoine adresse un projet de décision à l'autorité compétente.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2011-1903 du 19 décembre 2011 - art. 1
+
+	**Abrogé par**:
+
+	  - Décret n°2017-456 du 29 mars 2017 - art. 5
+
+
+###### Article D642-24
+
+Toute décision expresse prise par l'autorité compétente, ou, le cas échéant, le ministre, statuant sur la demande
+d'autorisation, comportant refus, prescription ou adaptation mineure en application du règlement de l'aire de mise en valeur
+de l'architecture et du patrimoine est motivée. 
+
+Lorsque la réalisation des travaux est différée dans l'attente de formalités prévues par une autre législation, la décision
+en fait expressément la réserve. 
+
+La décision accordant l'autorisation précise les conditions dans lesquelles elle devient exécutoire.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2011-1903 du 19 décembre 2011 - art. 1
+
+	**Abrogé par**:
+
+	  - Décret n°2017-456 du 29 mars 2017 - art. 5
+
+	**Cité par**:
+
+	  - Code du patrimoine - art. D642-25 (Ab)
+
+
+###### Article D642-25
+
+La décision mentionnée au premier alinéa de l'article D. 642-24 est notifiée au demandeur par lettre recommandée avec demande
+d'avis de réception postal, ou par transmission électronique. 
+
+Lorsque la décision est prise par le président de l'établissement public de coopération intercommunale, celui-ci en adresse
+copie au maire de la commune. 
+
+Lorsque l'autorité compétente est le maire ou le président de l'établissement public de coopération intercommunale, elle
+informe le demandeur de la date à laquelle la décision et le dossier ont été transmis au préfet ou à son délégué dans les
+conditions définies aux articles L. 2131-1 et L. 2131-2 du code général des collectivités territoriales.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2011-1903 du 19 décembre 2011 - art. 1
+
+	**Abrogé par**:
+
+	  - Décret n°2017-456 du 29 mars 2017 - art. 5
+
+	**Cite**:
+
+	  - Code général des collectivités territoriales - art. L2131-1
+	  - Code du patrimoine - art. D642-24 (Ab)
+
+
+###### Article D642-26
+
+Mention de l'autorisation doit être affichée sur le terrain, de manière visible de l'extérieur, par les soins de son
+bénéficiaire, dès la notification de l'arrêté ou dès la date à laquelle l'autorisation est acquise et pendant toute la durée
+du chantier. 
+
+En outre, dans les huit jours de la délivrance de l'autorisation, un extrait de cette autorisation est publié par voie
+d'affichage à la mairie pendant deux mois. L'exécution de cette formalité fait l'objet d'une mention au registre
+chronologique des actes de publication et de notification des arrêtés du maire prévu à l'article R. 2122-7 du code général
+des collectivités territoriales. 
+
+Le contenu et les formes de l'affichage de l'autorisation sont fixés par le ministre chargé des monuments historiques et des
+espaces protégés.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2011-1903 du 19 décembre 2011 - art. 1
+
+	**Cité par**:
+
+	  - Arrêté du 12 avril 2012 - art. 5 (V)
+
+	**Abrogé par**:
+
+	  - Décret n°2017-456 du 29 mars 2017 - art. 5
+
+	**Cite**:
+
+	  - Code général des collectivités territoriales - art. R2122-7
+
+
+###### Article D642-27
+
+L'autorisation est périmée si les travaux ne sont pas entrepris dans le délai de deux ans à compter de la notification de la
+décision ou de la date à laquelle la décision tacite est intervenue. Lorsque le commencement des travaux est subordonné à une
+autorisation ou à une procédure prévue par une autre législation, ce délai court à compter de la date à laquelle les travaux
+peuvent commencer en application de cette législation si cette date est postérieure à ladite notification. 
+
+L'autorisation est également périmée si, passé ce délai, les travaux sont interrompus pendant plus d'une année.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2011-1903 du 19 décembre 2011 - art. 1
+
+	**Abrogé par**:
+
+	  - Décret n°2017-456 du 29 mars 2017 - art. 5
+
+
+###### Article D642-28
+
+L'autorisation peut être prorogée pour une année, sur demande de son bénéficiaire si le règlement de l'aire de mise en valeur
+de l'architecture et du patrimoine n'a pas évolué de façon défavorable à son égard. 
+
+La demande de prorogation est établie en deux exemplaires et adressée par pli recommandé ou déposée à la mairie deux mois au
+moins avant l'expiration du délai de validité. 
+
+La prorogation est acquise au bénéficiaire de l'autorisation si aucune décision ne lui a été adressée dans le délai de deux
+mois suivant la date de l'avis de réception postal ou de la décharge de l'autorité compétente pour statuer sur la demande. La
+prorogation prend effet au terme de la validité de la décision initiale.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2011-1903 du 19 décembre 2011 - art. 1
+
+	**Abrogé par**:
+
+	  - Décret n°2017-456 du 29 mars 2017 - art. 5
+
+
+###### Article R642-22
+
+L'architecte des Bâtiments de France dispose d'un délai d'un mois à compter de sa saisine pour faire connaître son avis à
+l'autorité compétente. A défaut, il est réputé avoir émis un avis favorable. 
+
+S'il estime que le dossier est incomplet, il en avise, dans le délai de quinze jours à compter de sa saisine, l'autorité
+compétente, laquelle fait application du deuxième alinéa de l'article D. 642-21. 
+
+Pour l'application du troisième alinéa de l'article L. 642-6, l'autorité compétente dispose d'un délai de sept jours à
+compter de la réception de l'avis de l'architecte des Bâtiments de France pour soumettre à l'approbation du préfet de région,
+par lettre recommandée avec avis de réception, un projet de décision sur la demande d'autorisation. L'autorité compétente
+adresse copie de ce courrier à l'architecte des Bâtiments de France et au demandeur. Le silence gardé par le préfet de région
+pendant plus de quinze jours vaut approbation de ce projet de décision. 
+
+Lorsqu'il est fait application du septième alinéa de l'article L. 642-6, la décision d'évocation prise par le ministre est
+notifiée au demandeur.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2011-1903 du 19 décembre 2011 - art. 1
+
+	**Cite**:
+
+	  - Code du patrimoine - art. D642-21
+	  - Code du patrimoine - art. L642-6
+
+
+##### Section 4 : Sanctions pénales 
+
+
+###### Article R642-29
+
+Le fait, pour toute personne, de réaliser des travaux dans une aire de mise en valeur de l'architecture et du patrimoine sans
+l'autorisation préalable prévue au premier alinéa de l'article L. 642-6 est puni de l'amende prévue pour les contraventions
+de la cinquième classe. 
+
+La récidive de la contravention prévue au présent article est réprimée conformément aux articles 132-11 et 132-15 du code
+pénal.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2011-1903 du 19 décembre 2011 - art. 1
+
+	**Abrogé par**:
+
+	  - Décret n°2017-456 du 29 mars 2017 - art. 5
+
+	**Cite**:
+
+	  - Code pénal - art. 132-11
+	  - Code du patrimoine - art. L642-6
 
 
 #### Chapitre III : Dispositions fiscales
