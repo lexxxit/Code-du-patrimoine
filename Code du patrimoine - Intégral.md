@@ -1,5 +1,5 @@
 # Code du patrimoine  
-Version Consolidée au 2011-12-22
+Version Consolidée au 2011-12-30
 
 # Partie législative
 
@@ -6779,8 +6779,11 @@ rendus nécessaires pour la réalisation de travaux agricoles, forestiers ou pou
 
 Le fait générateur de la redevance d'archéologie préventive est :
 
-a) Pour les travaux soumis à autorisation ou à déclaration préalable en application du code de l'urbanisme, à l'exception des
-lotissements, la délivrance de cette autorisation ou la non-opposition aux travaux ;
+a) Pour les travaux soumis à autorisation ou à déclaration préalable en application du code de l'urbanisme,  la délivrance de
+l'autorisation de construire ou d'aménager, la  délivrance du permis modificatif, la naissance d'une autorisation tacite  de
+construire ou d'aménager, la décision de non-opposition à une  déclaration préalable ou, en cas de construction sans
+autorisation ou en  infraction aux obligations résultant de l'autorisation de construire ou  d'aménager, le procès-verbal
+constatant les infractions ; 
 
 b) Pour les travaux et aménagements autres que ceux mentionnés au a et donnant lieu à une étude d'impact, à l'exception des
 zones d'aménagement concerté, l'acte qui décide, éventuellement après enquête publique, la réalisation du projet et en
@@ -6792,11 +6795,24 @@ Dans le cas où l'aménageur souhaite que le diagnostic soit réalisé avant la 
 opposition aux travaux mentionnée au a ou avant l'édiction de l'acte mentionné au b, le fait générateur de la redevance est
 le dépôt de la demande de réalisation du diagnostic.
 
+**Nota:**
+
+Conformément à l'article 79-IV de la loi n° 2011-1978 du 29 décembre 2011, ces dispositions entrent en vigueur dans les
+conditions suivantes : 
+
+1° Lorsque la redevance d'archéologie préventive est perçue sur des travaux mentionnés au a de l'article L. 524-2 du code du
+patrimoine, ils sont applicables aux demandes d'autorisation d'urbanisme et aux déclarations préalables déposées à compter du
+1er mars 2012 ; 
+
+2° Lorsque la redevance est perçue sur des travaux mentionnés aux b et c de l'article L. 524-2 et au dernier alinéa de
+l'article L. 524-4 du même code, ils sont applicables à compter du 1er mars 2013 ; 
+
+3° Ils entrent en vigueur à Mayotte à compter du 1er mars 2014.
+
 **Liens relatifs à cet article**
 
 	**Anciens textes**:
 
-	  - Loi n°2001-44 2001-01-17 art. 9 par. I al. 2 à 6
 	  - Loi n°2001-44 du 17 janvier 2001 - art. 9 (Ab)
 
 	**Cité par**:
@@ -6810,11 +6826,11 @@ le dépôt de la demande de réalisation du diagnostic.
 
 	**Codifié par**:
 
-	  - Ordonnance 2004-178 2004-02-20 JORF 24 février 2004
+	  - Ordonnance n°2004-178 du 20 février 2004
 
 	**Modifié par**:
 
-	  - Loi n°2004-804 du 9 août 2004 - art. 17 (V) JORF 11 août 2004
+	  - Loi n°2011-1978 du 28 décembre 2011 - art. 79 (V)
 
 
 ###### Article L524-6
@@ -6978,77 +6994,6 @@ titre de recettes au début de chacune des tranches prévues dans l'autorisation
 	  - Code du patrimoine - art. L524-4
 
 
-###### Article L524-9
-
-La redevance d'archéologie préventive est exigible immédiatement à la date d'ordonnancement du titre de recettes. La date
-limite de paiement est fixée au dernier jour du mois qui suit la date de cet ordonnancement. 
-
-Lorsque le délai de remise des titres au comptable est supérieur à trois jours, la date de prise en charge des titres par le
-comptable constitue le point de départ pour l'application de la date limite de paiement. 
-
-Lorsque la redevance n'a pas été réglée à la date limite de paiement, elle fait l'objet de la majoration de 10 % prévue à
-l'article 1730 du code général des impôts. Une lettre de rappel est adressée au redevable.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Loi n°2001-44 2001-01-17 art. 9 par. III al. 5 à 7
-	  - Loi n°2001-44 du 17 janvier 2001 - art. 9 (Ab)
-
-	**Codifié par**:
-
-	  - Ordonnance 2004-178 2004-02-20 JORF 24 février 2004
-
-	**Modifié par**:
-
-	  - Ordonnance n°2005-1512 du 7 décembre 2005 - art. 24 () JORF 8 décembre 2005 en vigueur le 1er janvier 2006
-	  - Ordonnance n°2005-1512 du 7 décembre 2005 - art. 25 (V) JORF 8 décembre 2005 en vigueur le 1er janvier 2006
-
-	**Abrogé par**:
-
-	  - Loi n°2011-1978 du 28 décembre 2011 - art. 79 (V)
-
-	**Cite**:
-
-	  - Code général des impôts, CGI. - art. 1730 (V)
-
-
-###### Article L524-10
-
-Le titre de recettes établi par l'ordonnateur comporte les décomptes de liquidation et de répartition du produit de la
-redevance et indique l'identité des tiers tenus solidairement au paiement de la redevance. 
-
-Le recouvrement de la redevance est assuré par les comptables publics compétents dans les conditions fixées au titre IV du
-livre des procédures fiscales. Il est garanti par le privilège prévu au I de l'article 1929 du code général des impôts. Sont
-tenus solidairement au paiement de la redevance les établissements de crédit ou sociétés de caution mutuelle qui sont garants
-de l'achèvement de l'opération d'aménagement ou de travaux ainsi que les aménageurs successifs, dont l'identité est précisée
-dans le contrat prévu à l'article L. 523-9.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Loi n°2001-44 du 17 janvier 2001 - art. 9 (Ab)
-
-	**Cité par**:
-
-	  - Décret n°2002-89 du 16 janvier 2002 - art. 29 (Ab)
-
-	**Modifié par**:
-
-	  - Ordonnance n°2010-420  du 27 avril 2010 - art. 113
-
-	**Abrogé par**:
-
-	  - Loi n°2011-1978 du 28 décembre 2011 - art. 79 (V)
-
-	**Cite**:
-
-	  - Code général des impôts, CGI. - art. 1929
-	  - Code du patrimoine - art. L523-9
-
-
 ###### Article L524-11
 
 Après encaissement de la redevance, le comptable public compétent en reverse le produit à l'établissement public mentionné à
@@ -7123,34 +7068,6 @@ titre le montant de la redevance à l'exception des frais d'assiette et de recou
 	**Cite**:
 
 	  - Code du patrimoine. - art. L521-1 (V)
-
-
-###### Article L524-13
-
-Le recouvrement de la redevance est prescrit quatre années après l'émission du titre.
-
-L'admission en non-valeur de la redevance est prononcée comme en matière d'impôts directs. Lorsque la redevance bénéficie à
-une collectivité territoriale, le comptable public soumet la proposition d'admission en non-valeur à cette collectivité. La
-collectivité peut refuser la non-valeur dès lors qu'elle est à même de justifier au comptable public des éléments permettant
-le recouvrement de la créance.
-
-A défaut de décision, la non-valeur est admise d'office après un délai de six mois suivant la demande formulée par le
-comptable public.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Loi n°2001-44 2001-01-17 art. 9 par. IV al. 9 à 11
-	  - Loi n°2001-44 du 17 janvier 2001 - art. 9 (Ab)
-
-	**Codifié par**:
-
-	  - Ordonnance 2004-178 2004-02-20 JORF 24 février 2004
-
-	**Abrogé par**:
-
-	  - Loi n°2011-1978 du 28 décembre 2011 - art. 79 (V)
 
 
 ###### Article L524-14
