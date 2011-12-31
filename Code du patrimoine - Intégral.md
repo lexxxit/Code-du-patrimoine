@@ -1,5 +1,5 @@
 # Code du patrimoine  
-Version Consolidée au 2011-12-30
+Version Consolidée au 2012-01-01
 
 # Partie législative
 
@@ -6700,8 +6700,8 @@ c) Par les rémunérations qu'il perçoit en contrepartie des opérations de fou
 
 ###### Article L524-2
 
-Il est institué une redevance d'archéologie préventive due par les personnes publiques ou privées projetant d'exécuter des
-travaux affectant le sous-sol et qui :
+Il est institué une redevance d'archéologie préventive due par les personnes, y compris membres d'une indivision, projetant
+d'exécuter des travaux affectant le sous-sol et qui :
 
 a) Sont soumis à une autorisation ou à une déclaration préalable en application du code de l'urbanisme ;
 
@@ -6715,12 +6715,11 @@ du programme général des travaux.
 
 	**Anciens textes**:
 
-	  - Loi n°2001-44 2001-01-17 art. 9 par. I al. 1
 	  - Loi n°2001-44 du 17 janvier 2001 - art. 9 (Ab)
 
 	**Codifié par**:
 
-	  - Ordonnance 2004-178 2004-02-20 JORF 24 février 2004
+	  - Ordonnance n°2004-178 du 20 février 2004
 
 	**Cité par**:
 
@@ -6739,7 +6738,7 @@ du programme général des travaux.
 
 	**Modifié par**:
 
-	  - Loi n°2004-804 du 9 août 2004 - art. 17 (V) JORF 11 août 2004
+	  - Loi n°2011-1978 du 28 décembre 2011 - art. 79 (V)
 
 
 ###### Article L524-3
@@ -7073,39 +7072,33 @@ titre le montant de la redevance à l'exception des frais d'assiette et de recou
 ###### Article L524-14
 
 Il est créé, dans les comptes de l'établissement public mentionné à l'article L. 523-1, un Fonds national pour l'archéologie
-préventive.
+préventive. 
 
 Les recettes du fonds sont constituées par un prélèvement sur le produit de la redevance d'archéologie préventive prévue à
 l'article L. 524-2. La part du produit de la redevance qui lui est affectée ne peut être inférieure à 30 %. Elle est fixée
-chaque année par décision de l'autorité administrative.
+chaque année par décision de l'autorité administrative. 
 
 Ce fonds finance les subventions accordées par l'Etat aux personnes projetant d'exécuter des travaux qui ont donné lieu à
 l'édiction d'une prescription de fouille d'archéologie préventive conformément aux dispositions de l'article L. 522-2. Les
 interventions de ce fonds visent à faciliter la conciliation entre la préservation du patrimoine archéologique et le
-développement des territoires, en particulier ruraux.
+développement des territoires, en particulier ruraux. 
 
 Les subventions sont attribuées par décision de l'autorité administrative, conformément aux critères définis par une
 commission comprenant un député et un sénateur désignés par leur assemblée respective et, en nombre égal, des représentants
 de l'Etat, des représentants des collectivités territoriales, des représentants des personnes mentionnées à l'article L.
-524-2 et des personnalités qualifiées. La commission élit son président en son sein.
+524-2 et des personnalités qualifiées. La commission élit son président en son sein. 
 
-Les travaux de fouilles archéologiques induits par la construction de logements à usage locatif construits ou améliorés avec
-le concours financier de l'Etat en application des 3° et 5° de l'article L. 351-2 et des articles L. 472-1 et L. 472-1-1 du
-code de la construction et de l'habitation, au prorata de la surface hors oeuvre nette effectivement destinée à cet usage,
-ainsi que les constructions de logements réalisées par une personne physique pour elle-même, y compris lorsque ces
-constructions sont effectuées dans le cadre d'un lotissement ou d'une zone d'aménagement concerté, sont pris en charge
-financièrement par le fonds précité dans des conditions fixées par décret en Conseil d'Etat.
+Les travaux de fouilles archéologiques induits par la construction de logements mentionnés au 1° de l'article L. 331-12 du
+code de l'urbanisme, au prorata de la surface de construction effectivement destinée à usage locatif, ainsi que par la
+construction de logements réalisée par une personne physique pour elle-même, y compris lorsque ces constructions sont
+édifiées dans le cadre d'un lotissement ou d'une zone d'aménagement concerté, bénéficient d'une prise en charge financière
+totale ou partielle.
 
 **Liens relatifs à cet article**
 
 	**Anciens textes**:
 
-	  - Loi n°2001-44 2001-01-17 art. 9-2 (à l'exception du nombre de membres)
 	  - Loi n°2001-44 du 17 janvier 2001 - art. 9-2 (V)
-
-	**Codifié par**:
-
-	  - Ordonnance 2004-178 2004-02-20 JORF 24 février 2004
 
 	**Cité par**:
 
@@ -7124,14 +7117,13 @@ financièrement par le fonds précité dans des conditions fixées par décret e
 	  - Code du patrimoine. - art. R524-27-1 (VD)
 	  - Code du patrimoine. - art. R524-31 (V)
 
+	**Modifié par**:
+
+	  - Loi n°2011-1978 du 28 décembre 2011 - art. 79 (V)
+
 	**Cite**:
 
-	  - Code de la construction et de l'habitation. - art. L472-1 (V)
-	  - Code de la construction et de l'habitation. - art. L472-1-1 (M)
-	  - Code du patrimoine L523-1, L524-2, L522-2, L351-2
-	  - Code du patrimoine. - art. L522-2 (V)
-	  - Code du patrimoine. - art. L523-1 (V)
-	  - Code du patrimoine. - art. L524-2 (M)
+	  - Code de l'urbanisme - art. L331-12 (V)
 
 
 ###### Article L524-15
@@ -22970,140 +22962,6 @@ Il n'est pas dérogé par la présente section aux dispositions réglementaires 
 	**Codifié par**:
 
 	  - Décret n°2011-574 du 24 mai 2011 Annexe - art.
-
-
-##### Section 3 : Commission des archives constitutionnelles  de la Ve République
-
-###### Article D212-95
-
-La Commission des archives constitutionnelles de la Ve République recense et assure, dans le respect de la législation
-relative aux archives, la publication des archives publiques et privées intéressant l'application de la Constitution du 4
-octobre 1958. Elle peut également recueillir des témoignages écrits et oraux et participer à des recherches et des travaux de
-nature historique.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°2002-581 du 25 avril 2002 - art. 1 (Ab)
-	  - Décret n°2002-581 du 25 avril 2002 - art. 2 (Ab)
-
-	**Créé par**:
-
-	  - Décret n°2011-574 du 24 mai 2011  - art.
-
-	**Abrogé par**:
-
-	  - Décret n°2011-1013 du 24 août 2011 - art. 2
-
-
-###### Article D212-96
-
-La Commission des archives constitutionnelles de la Ve République est présidée par le vice-président du Conseil d'Etat et
-comprend les membres de droit suivants :
-
-1° Le premier président de la Cour de cassation ;
-
-2° Le premier président de la Cour des comptes ;
-
-3° Le secrétaire général du Gouvernement ;
-
-4° Le secrétaire perpétuel de l'Académie des sciences morales et politiques ;
-
-5° Le secrétaire général de l'Assemblée nationale ;
-
-6° Le secrétaire général du Sénat ;
-
-7° Le secrétaire général du Conseil constitutionnel ;
-
-8° Le directeur de l'information légale et administrative ;
-
-9° Le directeur des affaires civiles et du sceau au ministère de la justice ;
-
-10° Le directeur général des patrimoines au ministère chargé de la culture ;
-
-11° Le président de la Fondation nationale des sciences politiques ;
-
-12° Le directeur de l'Institut d'histoire du temps présent au Centre national de la recherche scientifique.
-
-Les membres de droit peuvent se faire représenter.
-
-Sont également membres de la commission les anciens secrétaires généraux du Gouvernement ainsi que quinze personnalités
-qualifiées nommées pour quatre ans par décret du Président de la République.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°2002-581 du 25 avril 2002 - art. 3 (Ab)
-
-	**Créé par**:
-
-	  - Décret n°2011-574 du 24 mai 2011  - art.
-
-	**Abrogé par**:
-
-	  - Décret n°2011-1013 du 24 août 2011 - art. 2
-
-
-###### Article D212-97
-
-Le rapporteur général de la Commission des archives constitutionnelles de la Ve République est nommé pour quatre ans par
-décret du Président de la République.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°2002-581 du 25 avril 2002 - art. 4 (Ab)
-
-	**Créé par**:
-
-	  - Décret n°2011-574 du 24 mai 2011  - art.
-
-	**Abrogé par**:
-
-	  - Décret n°2011-1013 du 24 août 2011 - art. 2
-
-
-###### Article D212-98
-
-La Commission des archives constitutionnelles de la Ve République désigne en son sein un comité scientifique de six membres.
-Son président est nommé par décret.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°2002-581 du 25 avril 2002 - art. 5 (Ab)
-
-	**Créé par**:
-
-	  - Décret n°2011-574 du 24 mai 2011  - art.
-
-	**Abrogé par**:
-
-	  - Décret n°2011-1013 du 24 août 2011 - art. 2
-
-
-###### Article D212-99
-
-Le secrétariat de la Commission des archives constitutionnelles de la Ve République et de son comité scientifique est assuré
-par le secrétariat général du Gouvernement.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°2002-581 du 25 avril 2002 - art. 6 (Ab)
-
-	**Créé par**:
-
-	  - Décret n°2011-574 du 24 mai 2011  - art.
-
-	**Abrogé par**:
-
-	  - Décret n°2011-1013 du 24 août 2011 - art. 2
 
 
 #### Chapitre III : Régime de communication
