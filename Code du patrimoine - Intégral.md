@@ -1,5 +1,5 @@
 # Code du patrimoine  
-Version Consolidée au 2012-01-01
+Version Consolidée au 2012-03-01
 
 # Partie législative
 
@@ -6743,11 +6743,28 @@ du programme général des travaux.
 
 ###### Article L524-3
 
-Sont exonérés de la redevance d'archéologie préventive les travaux relatifs aux logements à usage locatif construits ou
-améliorés avec le concours financier de l'Etat en application des 3° et 5° de l'article L. 351-2 et des articles L. 472-1 et
-L. 472-1-1 du code de la construction et de l'habitation, au prorata de la surface hors oeuvre nette effectivement destinée à
-cet usage, les constructions de logements réalisées par une personne physique pour elle-même ainsi que les affouillements
+Sont exonérés de la redevance d'archéologie préventive : 
+
+1° Lorsqu'elle est perçue sur les travaux mentionnés au a de l'article L. 524-2, les constructions et aménagements mentionnés
+aux 1° à 3° et 7° à 9° de l'article L. 331-7 du code de l'urbanisme, ainsi que les constructions de maisons individuelles
+réalisées pour elle-même par une personne physique ; 
+
+2° Lorsqu'elle est perçue sur les travaux mentionnés aux b et c de l'article L. 524-2 du présent code, les affouillements
 rendus nécessaires pour la réalisation de travaux agricoles, forestiers ou pour la prévention des risques naturels.
+
+**Nota:**
+
+Conformément à l'article 79-IV de la loi n° 2011-1978 du 29 décembre 2011, ces dispositions entrent en vigueur dans les
+conditions suivantes : 
+
+1° Lorsque la redevance d'archéologie préventive est perçue sur des travaux mentionnés au a de l'article L. 524-2 du code du
+patrimoine, ils sont applicables aux demandes d'autorisation d'urbanisme et aux déclarations préalables déposées à compter du
+1er mars 2012 ; 
+
+2° Lorsque la redevance est perçue sur des travaux mentionnés aux b et c de l'article L. 524-2 et au dernier alinéa de
+l'article L. 524-4 du même code, ils sont applicables à compter du 1er mars 2013 ; 
+
+3° Ils entrent en vigueur à Mayotte à compter du 1er mars 2014.
 
 **Liens relatifs à cet article**
 
@@ -6755,19 +6772,13 @@ rendus nécessaires pour la réalisation de travaux agricoles, forestiers ou pou
 
 	  - Loi n°2001-44 du 17 janvier 2001 - art. 9-1 (Ab)
 
-	**Codifié par**:
-
-	  - Ordonnance 2004-178 2004-02-20 JORF 24 février 2004
-
 	**Modifié par**:
 
-	  - Loi n°2004-804 du 9 août 2004 - art. 17 (V) JORF 11 août 2004
+	  - Loi n°2011-1978 du 28 décembre 2011 - art. 79 (V)
 
 	**Cite**:
 
-	  - Code de la construction et de l'habitation. - art. L472-1 (V)
-	  - Code de la construction et de l'habitation. - art. L472-1-1 (M)
-	  - Code du patrimoine L351-2
+	  - Code de l'urbanisme - art. L331-7 (V)
 
 	**Cité par**:
 
@@ -6870,42 +6881,33 @@ titre est déduit de la redevance due pour la réalisation de l'aménagement.
 
 Le montant de la redevance d'archéologie préventive est calculé selon les modalités suivantes : 
 
-I.-Lorsqu'elle est perçue sur les travaux visés au a de l'article L. 524-2, l'assiette de la redevance est constituée par la
-valeur de l'ensemble immobilier comprenant les terrains nécessaires à la construction, à la reconstruction ou à
-l'agrandissement et les bâtiments dont l'édification doit faire l'objet de l'autorisation de construire. Cette valeur est
-déterminée forfaitairement en appliquant à la surface de plancher développée hors oeuvre une valeur au mètre carré variable
-selon la catégorie d'immeubles. Cette valeur est déterminée conformément aux dispositions de l'article 1585 D du code général
-des impôts. Les constructions, y compris celles réalisées dans le cadre des contrats énumérés à l'article 1048 ter du même
-code, qui sont destinées à être affectées à un service public ou d'utilité publique sont assimilées, pour le calcul de
-l'assiette de la redevance, aux constructions visées au 4° du I de l'article 1585 D du même code. Il en est de même pour les
-espaces aménagés principalement pour le stationnement des véhicules, qui sont assujettis sur la base de la surface hors
-oeuvre brute lorsqu'il s'agit de constructions et de la surface au sol des travaux dans les autres cas. 
+I. ― Lorsqu'elle est perçue sur les travaux mentionnés au a de l'article L. 524-2, l'assiette de la redevance est constituée
+par la valeur de l'ensemble immobilier déterminée dans les conditions prévues aux articles L. 331-10 à L. 331-13 du code de
+l'urbanisme. 
 
-La redevance n'est pas due pour les travaux de construction créant moins de 1 000 mètres carrés de surface hors oeuvre nette
-ou, pour les parcs de stationnement visés à l'alinéa précédent, de surface. 
+Le taux de la redevance est de 0,40 % de la valeur de l'ensemble immobilier. 
 
-Le tarif de la redevance est de   0,5 % de la valeur de l'ensemble immobilier déterminée conformément à l'article 1585 D du
-code général des impôts. 
+II. ― Lorsqu'elle est perçue sur des travaux visés aux b et c de l'article L. 524-2 ou en application du dernier alinéa de
+l'article L. 524-4, son montant est égal à 0,50 € par mètre carré. Ce montant est indexé sur l'indice du coût de la
+construction. 
 
-II.-Lorsqu'elle est perçue sur des travaux visés aux b et c de l'article L. 524-2, son montant est égal à 0,50 € par mètre
-carré. Ce montant est indexé sur l'indice du coût de la construction. 
+La surface prise en compte est selon le cas : 
 
-La surface prise en compte est selon le cas :
+― la surface au sol des travaux nécessaires à la réalisation des installations autorisées pour les aménagements et ouvrages
+soumis à autorisation administrative qui doivent être précédés d'une étude d'impact en application de l'article L. 122-1 du
+code de l'environnement ; 
 
-- la surface au sol des installations autorisées pour les aménagements et ouvrages soumis à autorisation administrative qui
-doivent être précédés d'une étude d'impact en application de l'article L. 122-1 du code de l'environnement ;
+― la surface au sol des travaux nécessaires à la réalisation des aménagements et ouvrages non soumis à autorisation
+administrative qui doivent être précédés d'une étude d'impact en application de l'article L. 122-1 du code de l'environnement
+sur la base du dossier transmis pour prescription de diagnostic éventuelle en application des articles L. 522-1 et suivants
+du présent code ; 
 
-- la surface au sol des aménagements et ouvrages non soumis à autorisation administrative qui doivent être précédés d'une
-étude d'impact en application de l'article L. 122-1 du code de l'environnement sur la base du dossier transmis pour
-prescription de diagnostic éventuelle en application des articles L. 522-1 et suivants du présent code ;
+― la surface de la zone sur laquelle porte la demande de réalisation du diagnostic prévue au dernier alinéa de l'article L.
+524-4 ; 
 
-- la surface de la zone sur laquelle porte la demande de réalisation du diagnostic prévue au dernier alinéa de l'article L.
-524-4 ;
+― la surface au sol des travaux soumis à déclaration administrative préalable visés à l'article L. 524-2 du présent code. 
 
-- la surface au sol des travaux soumis à déclaration administrative préalable visés à l'article L. 524-2 du présent code. 
-
-La redevance n'est pas due pour les travaux et aménagements réalisés sur des terrains d'une superficie inférieure à 3 000
-mètres carrés.
+La redevance n'est pas due pour les travaux et aménagements dont la surface au sol est inférieure à 3 000 mètres carrés.
 
 **Liens relatifs à cet article**
 
@@ -6929,44 +6931,79 @@ mètres carrés.
 
 	**Modifié par**:
 
-	  - Loi n°2009-179 du 17 février 2009 - art. 8
+	  - Loi n°2011-1978 du 28 décembre 2011 - art. 79 (V)
 
 	**Cite**:
 
-	  - Code général des impôts, CGI. - art. 1048 ter
-	  - Code général des impôts, CGI. - art. 1585 D
-	  - Code de l'environnement - art. L122-1
+	  - Code de l'urbanisme - art. L331-10 (V)
+	  - Code de l'environnement - art. L122-1 (V)
 	  - Code du patrimoine - art. L522-1
-	  - Code du patrimoine - art. L524-2
-	  - Code du patrimoine - art. L524-4
+	  - Code du patrimoine - art. L524-2 (V)
+	  - Code du patrimoine - art. L524-4 (V)
 
 
 ###### Article L524-8
 
-Au vu des éléments transmis par l'autorité compétente pour délivrer les autorisations ou recevoir les déclarations ou
-demandes mentionnées aux articles L. 524-2 et L. 524-4, le montant de la redevance d'archéologie préventive est liquidé et
-ordonnancé par le représentant de l'Etat dans le département ou, dans les cas prévus par l'article L. 255 A du livre des
-procédures fiscales, par le maire lorsqu'il est fait application du a de l'article L. 524-4 et par le représentant de l'Etat
-dans la région lorsqu'il est fait application des b ou c ou du cinquième alinéa de l'article L. 524-4.
+I. ― Lorsqu'elle est perçue sur les travaux mentionnés au a de l'article L. 524-2, la redevance est établie dans les
+conditions prévues aux articles L. 331-19 et L. 331-20 du code de l'urbanisme. Les règles de contrôle et les sanctions sont
+celles prévues aux articles L. 331-21 à L. 331-23 du même code. 
 
-Le représentant de l'Etat dans le département et le représentant de l'Etat dans la région peuvent déléguer leur signature
-respectivement au directeur départemental de l'équipement ou au directeur régional des affaires culturelles territorialement
-compétents pour tous les actes nécessaires à la liquidation ou l'ordonnancement de la redevance d'archéologie préventive. Ces
-autorités peuvent subdéléguer leur signature à leurs subordonnés pour ces attributions.
+II. ― Lorsqu'elle est perçue sur des travaux mentionnés aux b et c de l'article L. 524-2 du présent code ou sur la demande
+mentionnée au dernier alinéa de l'article L. 524-4, la redevance est établie par les services de l'Etat chargés des affaires
+culturelles dans la région. 
 
-Lorsqu'il apparaît que la superficie déclarée par l'aménageur dans le cadre d'une demande effectuée conformément au cinquième
-alinéa de l'article L. 524-4 est erronée ou inexacte, le service responsable de la liquidation rectifie la déclaration et en
-informe le redevable, avant de liquider la redevance. Dans ce cas, la procédure prévue aux articles L. 55 et suivants du
-livre des procédures fiscales est applicable.
+Lorsque l'opération est réalisée par tranches de travaux, un titre de perception est émis au début de chacune des tranches
+prévues dans l'autorisation administrative, pour le montant dû au titre de cette tranche. 
 
-L'émission du titre de recettes est prescrite à la fin de la quatrième année qui suit celle de la réalisation du fait
-générateur. Toutefois, lorsque l'autorisation administrative est accordée pour une durée supérieure à quatre ans, l'émission
-du titre de recettes est prescrite à la fin de l'année qui suit l'année d'expiration de l'autorisation administrative.
+Le droit de reprise de l'administration s'exerce jusqu'au 31 décembre de la troisième année qui suit, selon les cas, la
+réalisation du fait générateur mentionné aux trois derniers alinéas de l'article L. 524-4 ou, lorsque l'autorisation
+administrative est accordée pour une durée supérieure à trois ans, l'année d'expiration de l'autorisation administrative. 
 
-La redevance d'archéologie préventive est payée en un versement unique au comptable public compétent désigné par décision de
-l'autorité administrative. Toutefois, lorsque la redevance est afférente à une opération autre que celles mentionnées au a de
-l'article L. 524-4 faisant l'objet de réalisation par tranches de travaux, le service liquidateur fractionne l'émission du
-titre de recettes au début de chacune des tranches prévues dans l'autorisation administrative.
+Lorsqu'il apparaît que la superficie déclarée par l'aménageur est erronée, la procédure contradictoire prévue aux articles L.
+55 à L. 61 B du livre des procédures fiscales est applicable. 
+
+III. ― La redevance due sur les travaux mentionnés aux a, b et c de l'article L. 524-2 du présent code ou sur la demande
+mentionnée au dernier alinéa de l'article L. 524-4 est recouvrée par les comptables publics compétents comme en matière de
+créances étrangères à l'impôt et au domaine. 
+
+Sont solidaires du paiement de la redevance les époux et les partenaires liés par un pacte civil de solidarité. 
+
+Le recouvrement de la redevance est garanti par le privilège prévu au 1 de l'article 1929 du code général des impôts. 
+
+L'action en recouvrement se prescrit par cinq ans à compter de l'émission du titre de perception. 
+
+Lorsque la redevance est perçue sur des travaux mentionnés au a de l'article L. 524-2 du présent code, le montant total est
+dû douze mois à compter de la date des faits générateurs mentionnés au a de l'article L. 524-4. Elle est émise avec la
+première échéance ou l'échéance unique de taxe d'aménagement à laquelle elle est adossée. 
+
+En cas de modification apportée au permis de construire ou d'aménager ou à l'autorisation tacite de construire ou d'aménager,
+le complément de redevance fait l'objet d'un titre de perception émis dans le délai de douze mois à compter de la date de
+délivrance du permis modificatif ou de l'autorisation réputée accordée. 
+
+En cas de transfert total de l'autorisation de construire ou d'aménager, le redevable de la redevance est le nouveau
+titulaire du droit à construire ou d'aménager. Un titre d'annulation est émis au profit du redevable initial. Un titre de
+perception est émis à l'encontre du nouveau titulaire du droit à construire ou d'aménager. 
+
+En cas de transfert partiel, un titre d'annulation des sommes correspondant à la surface transférée est émis au profit du
+titulaire initial du droit à construire ou d'aménager. Un titre de perception est émis à l'encontre du titulaire du transfert
+partiel. 
+
+IV. ― L'Etat effectue un prélèvement de 3 % sur le montant des sommes recouvrées, au titre des frais d'assiette et de
+recouvrement.
+
+**Nota:**
+
+Conformément à l'article 79-IV de la loi n° 2011-1978 du 29 décembre 2011, ces dispositions entrent en vigueur dans les
+conditions suivantes : 
+
+1° Lorsque la redevance d'archéologie préventive est perçue sur des travaux mentionnés au a de l'article L. 524-2 du code du
+patrimoine, ils sont applicables aux demandes d'autorisation d'urbanisme et aux déclarations préalables déposées à compter du
+1er mars 2012 ; 
+
+2° Lorsque la redevance est perçue sur des travaux mentionnés aux b et c de l'article L. 524-2 et au dernier alinéa de
+l'article L. 524-4 du même code, ils sont applicables à compter du 1er mars 2013 ; 
+
+3° Ils entrent en vigueur à Mayotte à compter du 1er mars 2014.
 
 **Liens relatifs à cet article**
 
@@ -6983,14 +7020,15 @@ titre de recettes au début de chacune des tranches prévues dans l'autorisation
 
 	**Modifié par**:
 
-	  - Ordonnance n°2010-420  du 27 avril 2010 - art. 113
+	  - Loi n°2011-1978 du 28 décembre 2011 - art. 79 (V)
 
 	**Cite**:
 
-	  - Livre des procédures fiscales - art. L255 A
-	  - Livre des procédures fiscales - art. L55
-	  - Code du patrimoine - art. L524-2
-	  - Code du patrimoine - art. L524-4
+	  - Livre des procédures fiscales - art. L55 (V)
+	  - Code de l'urbanisme - art. L331-19 (V)
+	  - Code de l'urbanisme - art. L331-21 (V)
+	  - Code du patrimoine - art. L524-2 (V)
+	  - Code du patrimoine - art. L524-4 (V)
 
 
 ###### Article L524-11
@@ -7033,32 +7071,46 @@ collectivité territoriale ou le groupement de collectivités territoriales qui 
 
 ###### Article L524-12
 
-Les dégrèvements sont prononcés par le service qui a procédé à la liquidation initiale de la redevance au vu des décisions
-préalables et conformes adoptées par l'établissement public ou la collectivité bénéficiaire et par l'autorité administrative.
+Les dégrèvements sont prononcés par le service qui a procédé à la liquidation initiale de la redevance. 
 
 Les décharges sont prononcées lorsque les travaux définis à l'article L. 521-1 ne sont pas réalisés par le redevable et que
-l'opération de diagnostic n'a pas été engagée.
+l'opération de diagnostic n'a pas été engagée. 
 
-Les dégrèvements et décharges sont imputés sur les titres émis dans les conditions fixées par décret en Conseil d'Etat.
+Les dégrèvements et décharges donnent lieu à l'émission de titres d'annulation totale ou partielle par le service qui a émis
+le titre initial. 
 
-Lorsque la redevance qui fait l'objet d'un dégrèvement ou d'une décharge a été acquittée par le redevable et répartie entre
-les bénéficiaires, le comptable recouvre préalablement le produit auprès de ces bénéficiaires sur le fondement de leurs
-propres décisions. Lorsqu'il n'obtient pas le remboursement spontané, le comptable peut procéder par voie de compensation
-avec le produit de la redevance qu'il répartit par ailleurs.
+Lorsque la redevance qui fait l'objet d'un titre d'annulation a été acquittée par le redevable en tout ou en partie et
+répartie entre les bénéficiaires, le versement indu fait l'objet d'un remboursement par le comptable et un titre de
+perception est émis à l'égard des bénéficiaires pour les montants indûment reversés. Le comptable peut recouvrer ce titre par
+voie de compensation.
 
-Après avoir obtenu le remboursement de la part des bénéficiaires initiaux, le comptable reverse au redevable figurant sur le
-titre le montant de la redevance à l'exception des frais d'assiette et de recouvrement.
+**Nota:**
+
+Conformément à l'article 79-IV de la loi n° 2011-1978 du 29 décembre 2011, ces dispositions entrent en vigueur dans les
+conditions suivantes : 
+
+1° Lorsque la redevance d'archéologie préventive est perçue sur des travaux mentionnés au a de l'article L. 524-2 du code du
+patrimoine, ils sont applicables aux demandes d'autorisation d'urbanisme et aux déclarations préalables déposées à compter du
+1er mars 2012 ; 
+
+2° Lorsque la redevance est perçue sur des travaux mentionnés aux b et c de l'article L. 524-2 et au dernier alinéa de
+l'article L. 524-4 du même code, ils sont applicables à compter du 1er mars 2013 ; 
+
+3° Ils entrent en vigueur à Mayotte à compter du 1er mars 2014.
 
 **Liens relatifs à cet article**
 
 	**Anciens textes**:
 
-	  - Loi n°2001-44 2001-01-17 art. 9 par. IV al. 4 à 8
 	  - Loi n°2001-44 du 17 janvier 2001 - art. 9 (Ab)
 
 	**Codifié par**:
 
-	  - Ordonnance 2004-178 2004-02-20 JORF 24 février 2004
+	  - Ordonnance n°2004-178 du 20 février 2004
+
+	**Modifié par**:
+
+	  - Loi n°2011-1978 du 28 décembre 2011 - art. 79 (V)
 
 	**Cité par**:
 
@@ -7128,16 +7180,27 @@ totale ou partielle.
 
 ###### Article L524-15
 
-Les litiges relatifs à la redevance d'archéologie préventive sont de la compétence des juridictions administratives. Les
-réclamations relatives à l'assiette de la redevance sont adressées au service liquidateur, celles relatives au recouvrement
-et aux poursuites sont adressées au comptable compétent désigné par l'autorité administrative. Elles sont présentées et
-instruites selon les règles des titres III et IV du livre des procédures fiscales.
+Les réclamations concernant la redevance d'archéologie préventive sont présentées, instruites et jugées dans les conditions
+prévues aux articles L. 331-30 à L. 331-32 du code de l'urbanisme.
+
+**Nota:**
+
+Conformément à l'article 79-IV de la loi n° 2011-1978 du 29 décembre 2011, ces dispositions entrent en vigueur dans les
+conditions suivantes : 
+
+1° Lorsque la redevance d'archéologie préventive est perçue sur des travaux mentionnés au a de l'article L. 524-2 du code du
+patrimoine, ils sont applicables aux demandes d'autorisation d'urbanisme et aux déclarations préalables déposées à compter du
+1er mars 2012 ; 
+
+2° Lorsque la redevance est perçue sur des travaux mentionnés aux b et c de l'article L. 524-2 et au dernier alinéa de
+l'article L. 524-4 du même code, ils sont applicables à compter du 1er mars 2013 ; 
+
+3° Ils entrent en vigueur à Mayotte à compter du 1er mars 2014.
 
 **Liens relatifs à cet article**
 
 	**Anciens textes**:
 
-	  - Loi n°2001-44 du 17 janvier 2001 - art. 10 (M)
 	  - Loi n°2001-44 du 17 janvier 2001 - art. 10 (Ab)
 
 	**Cité par**:
@@ -7146,7 +7209,15 @@ instruites selon les règles des titres III et IV du livre des procédures fisca
 
 	**Codifié par**:
 
-	  - Ordonnance 2004-178 2004-02-20 JORF 24 février 2004
+	  - Ordonnance n°2004-178 du 20 février 2004
+
+	**Modifié par**:
+
+	  - Loi n°2011-1978 du 28 décembre 2011 - art. 79 (V)
+
+	**Cite**:
+
+	  - Code de l'urbanisme - art. L331-30 (V)
 
 
 ###### Article L524-16
