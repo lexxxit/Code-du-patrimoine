@@ -1,5 +1,5 @@
 # Code du patrimoine  
-Version Consolidée au 2012-03-14
+Version Consolidée au 2012-03-24
 
 # Partie législative
 
@@ -1834,8 +1834,8 @@ après avis de la Commission nationale de l'informatique et des libertés.
 ###### Article L132-3
 
 Sont responsables du dépôt légal, qu'ils gèrent pour le compte de l'Etat, dans des conditions déterminées par décret en
-Conseil d'Etat : la Bibliothèque nationale de France, le Centre national du cinéma et de l'image animée, l'Institut national
-de l'audiovisuel et le service chargé du dépôt légal du ministère de l'intérieur. 
+Conseil d'Etat : la Bibliothèque nationale de France, le Centre national du cinéma et de l'image animée
+et l'Institut national de l'audiovisuel. 
 
 Ce décret peut confier la responsabilité du dépôt légal à d'autres établissements ou services publics, nationaux ou locaux, à
 la condition qu'ils présentent les garanties statutaires et disposent des moyens, notamment scientifiques, propres à assurer
@@ -1854,11 +1854,11 @@ le respect des objectifs définis à l'article L. 131-1.
 
 	**Modifié par**:
 
-	  - Ordonnance n°2009-901 du 24 juillet 2009 - art. 3 (V)
+	  - Loi n°2012-387 du 22 mars 2012 - art. 99 (V)
 
 	**Cite**:
 
-	  - Code du patrimoine. - art. L131-1 (V)
+	  - Code du patrimoine - art. L131-1
 
 
 ###### Article L132-4
@@ -8697,11 +8697,11 @@ commise.
 
 ###### Article L611-1
 
-La Commission nationale des monuments historiques se prononce notamment dans les cas prévus aux articles L. 621-30-1, L.
-621-5, L. 621-6, L. 621-12, L. 622-3 et L. 622-4.
+La Commission nationale des monuments historiques se prononce notamment dans les cas prévus aux articles L. 621-30, L. 621-5,
+L. 621-6, L. 621-12, L. 622-3 et L. 622-4. 
 
 Placée auprès du ministre chargé de la culture, elle comprend des personnes titulaires d'un mandat électif national ou local,
-des représentants de l'Etat et des personnalités qualifiées.
+des représentants de l'Etat et des personnalités qualifiées. 
 
 Un décret en Conseil d'Etat détermine la composition et les modalités de fonctionnement de la commission.
 
@@ -8713,12 +8713,11 @@ Un décret en Conseil d'Etat détermine la composition et les modalités de fonc
 
 	**Codifié par**:
 
-	  - Ordonnance 2004-178 2004-02-20 JORF 24 février 2004
+	  - Ordonnance n°2004-178 du 20 février 2004
 
 	**Modifié par**:
 
-	  - Ordonnance n°2005-1128 du 8 septembre 2005 - art. 2 () JORF 9 septembre 2005
-	  - Ordonnance n°2005-1128 du 8 septembre 2005 - art. 4 () JORF 9 septembre 2005
+	  - Loi n°2012-387 du 22 mars 2012 - art. 106
 
 	**Cité par**:
 
@@ -8731,12 +8730,12 @@ Un décret en Conseil d'Etat détermine la composition et les modalités de fonc
 
 	**Cite**:
 
-	  - Code du patrimoine. - art. L621-12 (M)
-	  - Code du patrimoine. - art. L621-30-1 (V)
-	  - Code du patrimoine. - art. L621-5 (M)
-	  - Code du patrimoine. - art. L621-6 (M)
-	  - Code du patrimoine. - art. L622-3 (M)
-	  - Code du patrimoine. - art. L622-4 (M)
+	  - Code du patrimoine. - art. L621-12 (V)
+	  - Code du patrimoine. - art. L621-30 (V)
+	  - Code du patrimoine. - art. L621-5 (V)
+	  - Code du patrimoine. - art. L621-6 (V)
+	  - Code du patrimoine. - art. L622-3 (V)
+	  - Code du patrimoine. - art. L622-4 (V)
 
 
 #### Chapitre 2 : Institutions locales.
@@ -8744,24 +8743,28 @@ Un décret en Conseil d'Etat détermine la composition et les modalités de fonc
 ###### Article L612-1
 
 La commission régionale du patrimoine et des sites, placée auprès du représentant de l'Etat dans la région, est compétente
-notamment dans le cas prévu à l'article  L. 642-3.
+notamment dans le cas prévu à l'article L. 642-3. 
 
 Elle comprend des personnalités titulaires d'un mandat électif national ou local, des représentants de l'Etat et des
-personnalités qualifiées.
+personnalités qualifiées. 
 
-Sa composition, ses attributions et son mode de fonctionnement sont précisés par décret en Conseil d'Etat.
+Sa composition, ses attributions et son mode de fonctionnement sont précisés par décret en Conseil d'Etat. 
 
 Une section de la commission régionale du patrimoine et des sites est instituée pour l'examen des recours prévus par les
-articles   L. 621-31 et L. 641-1.
+articles L. 621-32 et L. 641-1. 
 
 Elle est présidée par le préfet de région ou son représentant. Elle comprend en outre des représentants de l'Etat, des
-personnes titulaires d'un mandat électif et des personnalités qualifiées nommés par arrêté du préfet de région.
+personnes titulaires d'un mandat électif et des personnalités qualifiées nommés par arrêté du préfet de région. 
 
 Les titulaires d'un mandat électif sont deux membres élus par chaque conseil général en son sein et un maire désigné par
 chaque président de l'association départementale des maires. Ils ne siègent qu'à l'occasion de l'examen des affaires
-concernant le département dont ils sont issus.
+concernant le département dont ils sont issus. 
 
 Un décret en Conseil d'Etat détermine les conditions de désignation de ses membres et ses modalités de fonctionnement.
+
+**Nota:**
+
+
 
 **Liens relatifs à cet article**
 
@@ -8785,12 +8788,12 @@ Un décret en Conseil d'Etat détermine les conditions de désignation de ses me
 
 	**Modifié par**:
 
-	  - Loi n°2010-788 du 12 juillet 2010 - art. 28
+	  - Loi n°2012-387 du 22 mars 2012 - art. 106
 
 	**Cite**:
 
-	  - Code du patrimoine - art. L621-31
-	  - Code du patrimoine - art. L641-1
+	  - Code du patrimoine. - art. L621-32 (V)
+	  - Code du patrimoine. - art. L641-1 (V)
 
 
 ###### Article L612-2
@@ -10055,29 +10058,50 @@ Les modalités d'application du présent article sont fixées par décret en Con
 
 ###### Article L621-30
 
-Lorsque les constructions ou travaux destinés à la création ou à la modification d'un immeuble adossé à un immeuble classé
-sont soumis à permis de construire, à permis de démolir, à permis d'aménager ou à déclaration préalable, la décision
-accordant le permis ou la décision de non-opposition ne peut intervenir sans l'accord de l'autorité administrative chargée
-des monuments historiques.
+Est considéré, pour l'application du présent titre, comme immeuble adossé à un immeuble classé : 
 
-Les travaux sur un immeuble adossé à un immeuble classé non soumis à permis de construire, permis de démolir, permis
-d'aménager ou déclaration préalable mais qui sont de nature à affecter la bonne conservation de l'immeuble classé ne peuvent
-être réalisés sans autorisation de l'autorité administrative chargée des monuments historiques.
+1° Tout immeuble en contact avec un immeuble classé au titre des monuments historiques, en élévation, au sol ou en sous-
+sol ; 
+
+2° Toute partie non protégée au titre des monuments historiques d'un immeuble partiellement classé. 
+
+Est considéré, pour l'application du présent titre, comme étant situé dans le champ de visibilité d'un immeuble classé ou
+inscrit au titre des monuments historiques tout autre immeuble, nu ou bâti, visible du premier ou visible en même temps que
+lui et situé dans un périmètre déterminé par une distance de 500 mètres du monument. 
+
+Lorsqu'un immeuble non protégé au titre des monuments historiques fait l'objet d'une procédure d'inscription ou de classement
+ou d'une instance de classement, l'architecte des Bâtiments de France peut proposer, en fonction de la nature de l'immeuble
+et de son environnement, un périmètre de protection adapté. La distance de 500 mètres peut alors être dépassée avec l'accord
+de la commune ou des communes intéressées. Ce périmètre est créé par l'autorité administrative après enquête publique. 
+
+Les périmètres prévus aux quatrième et cinquième alinéas peuvent être modifiés par l'autorité administrative, sur proposition
+de l'architecte des Bâtiments de France, après accord de la commune ou des communes intéressées et enquête publique, de façon
+à désigner des ensembles d'immeubles, bâtis ou non, qui participent de l'environnement d'un monument historique, pour en
+préserver le caractère ou contribuer à en améliorer la qualité. 
+
+En cas de désaccord de la commune ou des communes intéressées, la décision est prise par décret en Conseil d'Etat après avis
+de la Commission nationale des monuments historiques. 
+
+Lorsque la modification du périmètre est réalisée à l'occasion de l'élaboration, de la modification ou de la révision d'un
+plan local d'urbanisme ou d'une carte communale, elle est soumise à enquête publique par le maire ou le président de
+l'établissement public de coopération intercommunale compétent, en même temps que le plan local d'urbanisme ou la carte
+communale. L'approbation du plan ou de la carte emporte modification du périmètre. 
+
+Le tracé du périmètre prévu au présent article est annexé au plan local d'urbanisme dans les conditions prévues à l'article
+L. 126-1 du code de l'urbanisme. 
+
+Les enquêtes publiques conduites pour l'application du présent article sont réalisées conformément au chapitre III du titre
+II du livre Ier du code de l'environnement.
 
 **Liens relatifs à cet article**
 
 	**Anciens textes**:
 
 	  - Loi n°1913-12-31 du 31 décembre 1913 - art. 12 (Ab)
-	  - Loi n°1913-12-31 art. 12 al. 1
 
 	**Codifié par**:
 
-	  - Ordonnance 2004-178 2004-02-20 JORF 24 février 2004
-
-	**Modifié par**:
-
-	  - Ordonnance n°2005-1527 du 8 décembre 2005 - art. 38 () JORF 9 décembre 2005 en vigueur le 1er octobre 2007
+	  - Ordonnance n°2004-178 du 20 février 2004
 
 	**Cité par**:
 
@@ -10125,126 +10149,38 @@ d'aménager ou déclaration préalable mais qui sont de nature à affecter la bo
 	  - Code du patrimoine. - art. L621-34 (Ab)
 	  - Code du patrimoine. - art. L624-2 (V)
 
-
-###### Article L621-30-1
-
-Est considéré, pour l'application du présent titre, comme étant situé dans le champ de visibilité d'un immeuble classé ou
-inscrit tout autre immeuble, nu ou bâti, visible du premier ou visible en même temps que lui et situé dans un périmètre de
-500 mètres.
-
-Lorsqu'un immeuble non protégé au titre des monuments historiques fait l'objet d'une procédure d'inscription ou de classement
-ou d'une instance de classement, l'architecte des Bâtiments de France peut proposer, en fonction de la nature de l'immeuble
-et de son environnement, un périmètre de protection adapté. La distance de 500 mètres peut être dépassée avec l'accord de la
-commune ou des communes intéressées. Ce périmètre est créé par l'autorité administrative après enquête publique.
-
-Le périmètre prévu au premier alinéa peut être modifié par l'autorité administrative, sur proposition de l'architecte des
-Bâtiments de France après accord de la commune ou des communes intéressées et enquête publique, de façon à désigner des
-ensembles d'immeubles bâtis ou non qui participent de l'environnement du monument pour en préserver le caractère ou
-contribuer à en améliorer la qualité.
-
-En cas de désaccord de la commune ou des communes intéressées, la décision est prise par décret en Conseil d'Etat après avis
-de la Commission nationale des monuments historiques.
-
-Lorsque la modification du périmètre est réalisée à l'occasion de l'élaboration, de la modification ou de la révision d'un
-plan local d'urbanisme ou d'une carte communale, elle est soumise à enquête publique par le maire ou le président de
-l'établissement public de coopération intercommunale compétent, en même temps que le plan local d'urbanisme ou la carte
-communale. L'approbation du plan ou de la carte emporte modification du périmètre.
-
-Le tracé du périmètre prévu par le présent article est annexé au plan local d'urbanisme dans les conditions prévues à
-l'article L. 126-1 du code de l'urbanisme.
-
-Les enquêtes publiques conduites pour l'application du présent article sont  réalisées conformément au chapitre III du titre
-II du livre Ier du code de l'environnement   du code de l'environnement.
-
-**Nota:**
-
-Ces dispositions s'appliquent aux projets, plans, programmes ou autres documents de planification pour lesquels l'arrêté
-d'ouverture et d'organisation de l'enquête publique est publié à compter du premier jour du sixième mois après la publication
-du décret en Conseil d'Etat prévu à l'article L. 123-19 du code de l'environnement.
-
-**Liens relatifs à cet article**
-
-	**Cité par**:
-
-	  - Décret n°99-78 du 5 février 1999 - art. 1 (Ab)
-	  - Décret n°2007-487 du 30 mars 2007 - art. 50 (Ab)
-	  - Code de l'environnement - art. R581-16 (VD)
-	  - Code de l'urbanisme - art. L128-1 (VT)
-	  - Code de l'urbanisme - art. L151-29 (VD)
-	  - Code de l'urbanisme - art. L313-2-1 (V)
-	  - Code de l'urbanisme - art. L421-6 (V)
-	  - Code de l'urbanisme - art. R*111-42 (V)
-	  - Code de l'urbanisme - art. R*123-15 (VT)
-	  - Code de l'urbanisme - art. R*421-12 (VD)
-	  - Code de l'urbanisme - art. R*421-28 (VD)
-	  - Code de l'urbanisme - art. R*423-67 (V)
-	  - Code de l'urbanisme - art. R*423-68 (M)
-	  - Code de l'urbanisme - art. R*425-1 (M)
-	  - Code de l'urbanisme - art. R*431-14 (M)
-	  - Code de la construction et de l'habitation. - art. D511-13-1 (M)
-	  - Code du patrimoine. - art. L611-1 (V)
-	  - Code du patrimoine. - art. L621-31 (V)
-	  - Code du patrimoine. - art. L642-5 (V)
-	  - Code du patrimoine. - art. L642-7 (V)
-	  - Code du patrimoine. - art. R612-1 (M)
-	  - Code du patrimoine. - art. R621-94 (M)
-	  - Code minier (nouveau) - art. L161-1 (V)
-	  - Code minier - art. 79 (VT)
-
 	**Modifié par**:
-
-	  - Loi n°2010-788 du 12 juillet 2010 - art. 240
-
-	**Abrogé par**:
 
 	  - Loi n°2012-387 du 22 mars 2012 - art. 106
 
 	**Cite**:
 
-	  - Code de l'urbanisme - art. L126-1
-	  - Code de l'environnement - art. L123-1
-
-	**Anciens textes**:
-
-	  - Code du patrimoine. - art. L621-2 (Ab)
+	  - Code de l'urbanisme - art. L126-1 (VT)
 
 
 ###### Article L621-31
 
-Lorsqu'un immeuble est situé dans le champ de visibilité d'un édifice classé au titre des monuments historiques ou inscrit,
-il ne peut faire l'objet, tant de la part des propriétaires privés que des collectivités et établissements publics, d'aucune
-construction nouvelle, d'aucune démolition, d'aucun déboisement, d'aucune transformation ou modification de nature à en
-affecter l'aspect, sans une autorisation préalable. 
+Lorsqu'un immeuble est adossé à un immeuble classé ou situé dans le champ de visibilité d'un édifice classé ou inscrit au
+titre des monuments historiques, il ne peut faire l'objet, tant de la part des propriétaires privés que des collectivités et
+établissements publics, d'aucune construction nouvelle, d'aucune démolition, d'aucun déboisement, d'aucune transformation ou
+modification de nature à en affecter l'aspect, sans une autorisation préalable. 
+
+Lorsque les travaux concernent un immeuble adossé à un immeuble classé, cette autorisation est également délivrée au regard
+de l'atteinte qu'ils sont susceptibles de porter à la conservation de l'immeuble classé. 
 
 La même autorisation est nécessaire lorsque l'immeuble est situé dans le champ de visibilité d'un parc ou d'un jardin classé
 ou inscrit ne comportant pas d'édifice, si le périmètre de protection de ce parc ou de ce jardin a été délimité dans les
-conditions fixées aux deuxième ou troisième alinéas de l'article L. 621-30-1. 
+conditions fixées aux cinquième ou sixième alinéas de l'article L. 621-30. 
 
-Si cet immeuble est classé au titre des monuments historiques, l'autorisation est celle prévue au premier alinéa de l'article
-L. 621-9. Si l'immeuble n'est pas classé, le permis de construire, le permis de démolir, le permis d'aménager ou l'absence
-d'opposition à déclaration préalable tient lieu de l'autorisation si l'architecte des Bâtiments de France a donné son
-accord. 
+Si les travaux concernent un immeuble lui-même classé ou inscrit au titre des monuments historiques, l'autorisation est celle
+prévue à l'article L. 621-9 et au deuxième alinéa de l'article L. 621-27. 
 
-Les travaux soumis à permis de construire, permis de démolir, permis d'aménager ou déclaration préalable et portant sur des
-immeubles inscrits ou des immeubles adossés à des immeubles classés ne sont soumis qu'à l'accord de l'autorité administrative
-prévu respectivement aux articles L. 621-27 et L. 621-30. 
+Toutefois, si les travaux concernent un immeuble inscrit au titre des monuments historiques et ne relèvent pas du permis de
+construire, du permis de démolir, du permis d'aménager ou de la déclaration préalable prévus au livre IV du code de
+l'urbanisme, l'autorisation est délivrée conformément au II de l'article L. 621-32 du présent code. 
 
-En cas de désaccord soit du maire ou de l'autorité administrative compétente pour délivrer le permis de construire, le permis
-d'aménager ou le permis de démolir ou pour ne pas s'opposer à la déclaration préalable, soit du pétitionnaire avec l'avis
-émis par l'architecte des Bâtiments de France, le représentant de l'Etat dans la région émet, après consultation de la
-section de la commission régionale du patrimoine et des sites, un avis qui se substitue à celui de l'architecte des Bâtiments
-de France. Le recours du pétitionnaire s'exerce à l'occasion du refus d'autorisation ou de l'opposition à la déclaration
-préalable. Si le représentant de l'Etat exprime son désaccord à l'encontre de l'avis de l'architecte des Bâtiments de France,
-le maire ou l'autorité administrative compétente peut délivrer le permis de construire, le permis de démolir ou le permis
-d'aménager initialement refusé ou ne pas s'opposer à la déclaration préalable. En l'absence de décision expresse du
-représentant de l'Etat dans la région dans le délai de deux mois à compter de sa saisine par le maire, l'autorité
-administrative compétente ou le pétitionnaire, le recours est réputé admis. 
-
-Le délai de saisine du représentant de l'Etat dans la région ainsi que les délais impartis au maire ou à l'autorité
-administrative compétente pour statuer sont fixés par décret. 
-
-Dans la collectivité territoriale de Corse, les compétences dévolues au préfet de région par le présent article sont exercées
-par le préfet de Corse.
+Si les travaux concernent un immeuble qui n'est ni classé, ni inscrit au titre des monuments historiques, l'autorisation est
+délivrée conformément au même article L. 621-32.
 
 **Liens relatifs à cet article**
 
@@ -10283,34 +10219,54 @@ par le préfet de Corse.
 
 	**Modifié par**:
 
-	  - Loi n°2010-788 du 12 juillet 2010 - art. 29
+	  - Loi n°2012-387 du 22 mars 2012 - art. 106
 
 	**Cite**:
 
 	  - Code du patrimoine. - art. L621-27 (V)
-	  - Code du patrimoine. - art. L621-30-1 (V)
 	  - Code du patrimoine. - art. L621-9 (V)
 
 
 ###### Article L621-32
 
-Lorsqu'elle ne concerne pas des travaux pour lesquels le permis de construire, le permis de démolir ou l'autorisation
-mentionnée à l'article L. 442-1 du code de l'urbanisme est nécessaire, la demande d'autorisation prévue à l'article L. 621-31
-est adressée à l'autorité administrative. Celle-ci statue après avoir recueilli l'avis de l'architecte des Bâtiments de
-France. Toutefois, si le ministre chargé de la culture a décidé d'évoquer le dossier, l'autorisation ne peut être délivrée
-qu'avec son accord exprès.
+I. ― Le permis de construire, le permis de démolir, le permis d'aménager ou l'absence d'opposition à déclaration préalable
+tient lieu de l'autorisation prévue au premier alinéa de l'article L. 621-31 si l'architecte des Bâtiments de France a donné
+son accord. 
+
+En cas de désaccord soit du maire ou de l'autorité administrative compétente pour délivrer le permis de construire, le permis
+d'aménager ou le permis de démolir ou pour ne pas s'opposer à la déclaration préalable, soit du pétitionnaire avec l'avis
+émis par l'architecte des Bâtiments de France, le représentant de l'Etat dans la région émet, après consultation de la
+section de la commission régionale du patrimoine et des sites, un avis qui se substitue à celui de l'architecte des Bâtiments
+de France. Le recours du pétitionnaire s'exerce à l'occasion du refus d'autorisation ou de l'opposition à la déclaration
+préalable. Si le représentant de l'Etat dans la région exprime son désaccord à l'encontre de l'avis de l'architecte des
+Bâtiments de France, le maire ou l'autorité administrative compétente peut délivrer le permis de construire, le permis de
+démolir ou le permis d'aménager initialement refusé ou ne pas s'opposer à la déclaration préalable. En l'absence de décision
+expresse du représentant de l'Etat dans la région dans le délai de deux mois à compter de sa saisine par le maire, l'autorité
+administrative compétente ou le pétitionnaire, le recours est réputé admis. 
+
+Le délai de saisine du représentant de l'Etat dans la région ainsi que les délais impartis au maire ou à l'autorité
+administrative compétente pour statuer sont fixés par décret. 
+
+Dans la collectivité territoriale de Corse, les compétences dévolues au représentant de l'Etat dans la région par le présent
+article sont exercées par le préfet de Corse. 
+
+II. ― Lorsqu'elle ne concerne pas des travaux pour lesquels le permis de construire, le permis de démolir, le permis
+d'aménager ou la déclaration préalable est nécessaire au titre du code de l'urbanisme, la demande d'autorisation prévue à
+l'article L. 621-31 du présent code est adressée à l'autorité administrative. Celle-ci statue après avoir recueilli l'avis de
+l'architecte des Bâtiments de France. Toutefois, si le ministre chargé de la culture a décidé d'évoquer le dossier,
+l'autorisation ne peut être délivrée qu'avec son accord exprès. 
 
 Si l'autorité administrative n'a pas notifié sa réponse aux intéressés dans le délai de quarante jours à dater du dépôt de
-leur demande ou si cette réponse ne leur donne pas satisfaction, ils peuvent former un recours hiérarchique, dans les deux
-mois suivant la notification de la réponse du préfet ou l'expiration du délai de quarante jours imparti au préfet pour
-procéder à ladite notification.
+leur demande ou si cette réponse ne leur donne pas satisfaction, ils peuvent former un recours hiérarchique dans les deux
+mois suivant la notification de la réponse de l'autorité administrative ou l'expiration du délai de quarante jours imparti à
+l'autorité administrative pour procéder à ladite notification. 
 
 L'autorité administrative statue. Si sa décision n'a pas été notifiée aux intéressés dans un délai fixé par voie
-réglementaire à partir de la réception de leur demande, cette demande est considérée comme rejetée.
+réglementaire à partir de la réception de leur demande, cette demande est considérée comme rejetée. 
 
 Les auteurs de la demande sont tenus de se conformer aux prescriptions qui leur sont imposées pour la protection de
-l'immeuble classé ou inscrit par l'autorité administrative dans le cas prévu au 2e alinéa de l'article L. 621-31 et dans les
-cas prévus aux 1er, 2e et 3e alinéas du présent article.
+l'immeuble classé ou inscrit par l'autorité administrative dans le cas prévu au troisième alinéa de l'article L. 621-31 et
+dans les cas prévus aux trois premiers alinéas du présent II.
 
 **Nota:**
 
@@ -10321,15 +10277,10 @@ cas prévus aux 1er, 2e et 3e alinéas du présent article.
 	**Anciens textes**:
 
 	  - Loi n°1913-12-31 du 31 décembre 1913 - art. 13 ter (V)
-	  - Loi n°1913-12-31 art. 13 ter
 
 	**Codifié par**:
 
-	  - Ordonnance 2004-178 2004-02-20 JORF 24 février 2004
-
-	**Modifié par**:
-
-	  - Ordonnance n°2005-1128 du 8 septembre 2005 - art. 16 () JORF 9 septembre 2005 en vigueur le 1er octobre 2007
+	  - Ordonnance n°2004-178 du 20 février 2004
 
 	**Cité par**:
 
@@ -10360,9 +10311,9 @@ cas prévus aux 1er, 2e et 3e alinéas du présent article.
 	  - Code du patrimoine. - art. L621-31 (M)
 	  - Code du patrimoine. - art. L642-5 (V)
 
-	**Cite**:
+	**Modifié par**:
 
-	  - Code de l'urbanisme - art. L442-1 (M)
+	  - Loi n°2012-387 du 22 mars 2012 - art. 106
 
 
 ##### Section 5 : Dispositions diverses.
@@ -11287,10 +11238,10 @@ classés au titre des monuments historiques.
 Est puni d'une amende de 3 750 euros le fait, pour toute personne, d'enfreindre les dispositions de l'article L. 621-7
 relatif aux effets de la proposition de classement au titre des monuments historiques d'un immeuble, de l'article L. 621-19
 relatif aux effets de la notification d'une demande d'expropriation, de l'article L. 621-9 relatif aux modifications d'un
-immeuble classé au titre des monuments historiques, des articles L. 621-16 et L. 621-30 relatifs aux constructions neuves et
+immeuble classé au titre des monuments historiques, des articles L. 621-16 et L. 621-31 relatifs aux constructions neuves et
 aux servitudes ou de l'article L. 622-7 relatif à la modification d'un objet mobilier classé au titre des monuments
 historiques, sans préjudice de l'action en dommages-intérêts qui pourra être exercée contre ceux qui auront ordonné les
-travaux exécutés ou les mesures prises en violation desdits articles.
+travaux exécutés ou les mesures prises en violation desdits articles. 
 
 En outre, le ministre chargé de la culture ou son délégué peut prescrire la remise en état des lieux aux frais des
 délinquants. Il peut également demander de prescrire ladite remise en état à la juridiction compétente, laquelle peut
@@ -11301,20 +11252,27 @@ délinquants. Il peut également demander de prescrire ladite remise en état à
 	**Anciens textes**:
 
 	  - Loi n°1913-12-31 du 31 décembre 1913 - art. 30 (Ab)
-	  - Loi n°1913-12-31 art. 30
 
 	**Codifié par**:
 
-	  - Ordonnance 2004-178 2004-02-20 JORF 24 février 2004
+	  - Ordonnance n°2004-178 du 20 février 2004
+
+	**Modifié par**:
+
+	  - Loi n°2012-387 du 22 mars 2012 - art. 106
+
+	**Abrogé par**:
+
+	  - Loi n°2016-925 du 7 juillet 2016 - art. 75
 
 	**Cite**:
 
 	  - Code du patrimoine. - art. L621-16 (V)
 	  - Code du patrimoine. - art. L621-19 (V)
-	  - Code du patrimoine. - art. L621-30 (M)
-	  - Code du patrimoine. - art. L621-7 (M)
-	  - Code du patrimoine. - art. L621-9 (AbD)
-	  - Code du patrimoine. - art. L622-7 (AbD)
+	  - Code du patrimoine. - art. L621-31 (V)
+	  - Code du patrimoine. - art. L621-7 (V)
+	  - Code du patrimoine. - art. L621-9 (V)
+	  - Code du patrimoine. - art. L622-7 (V)
 
 
 ###### Article L624-3
@@ -11758,7 +11716,7 @@ monuments naturels de caractère artistique. "
 Les règles relatives aux secteurs sauvegardés sont fixées aux articles L. 313-1 à L. 313-3 et L. 313-11 à L. 313-15 du code
 de l'urbanisme, ci-après reproduits : 
 
-" Art. L. 313-1-I.-Des secteurs dits " secteurs sauvegardés " peuvent être créés lorsqu'ils présentent un caractère
+" Art. L. 313-1. - I. - Des secteurs dits " secteurs sauvegardés " peuvent être créés lorsqu'ils présentent un caractère
 historique, esthétique ou de nature à justifier la conservation, la restauration et la mise en valeur de tout ou partie d'un
 ensemble d'immeubles bâtis ou non. 
 
@@ -11836,8 +11794,8 @@ d'accessibilité d'un immeuble bâti aux personnes handicapées mentionnées à 
 de l'habitation, sauf pour prévenir la dégradation du patrimoine concerné." 
 
 " Art. L. 313-2-1-Les immeubles situés dans le périmètre d'un secteur sauvegardé dont le plan de sauvegarde et de mise en
-valeur a été approuvé ne sont pas soumis aux servitudes d'utilité publique instituées en application de l'article L.
-621-30-1, des articles L. 621-31 et L. 621-32 du code du patrimoine et de l'article L. 341-1 du code de l'environnement. " 
+valeur a été approuvé ne sont pas soumis aux servitudes d'utilité publique instituées en application de l'article L. 621-30,
+des articles L. 621-31 et L. 621-32 du code du patrimoine et de l'article L. 341-1 du code de l'environnement. " 
 
 " Art. L. 313-3-Les opérations de conservation, de restauration et de mise en valeur des secteurs sauvegardés peuvent être
 menées soit à l'initiative des collectivités publiques, soit à l'initiative d'un ou plusieurs propriétaires, groupés ou non
@@ -11890,8 +11848,7 @@ code du patrimoine.
 
 	**Modifié par**:
 
-	  - Loi n°2010-788 du 12 juillet 2010 - art. 19 (V)
-	  - Loi n°2010-788 du 12 juillet 2010 - art. 30
+	  - Loi n°2012-387 du 22 mars 2012 - art. 106
 
 	**Cité par**:
 
@@ -11906,7 +11863,7 @@ code du patrimoine.
 Les règles relatives aux sanctions fixées par l'article L. 480-1 du code de l'urbanisme sont applicables au présent titre et
 ci-après reproduites : 
 
-" Art.L. 480-1.-Les infractions aux dispositions des titres Ier, II, III, IV et VI du présent livre sont constatées par tous
+" Art. L. 480-1.-Les infractions aux dispositions des titres Ier, II, III, IV et VI du présent livre sont constatées par tous
 officiers ou agents de police judiciaire ainsi que par tous les fonctionnaires et agents de l'Etat et des collectivités
 publiques commissionnés à cet effet par le maire ou le ministre chargé de l'urbanisme suivant l'autorité dont ils relèvent et
 assermentés. Les procès-verbaux dressés par ces agents font foi jusqu'à preuve du contraire. 
@@ -11925,26 +11882,27 @@ prévoient les articles L. 160-1 et L. 480-4, ils sont tenus d'en faire dresser 
 
 Copie du procès-verbal constatant une infraction est transmise sans délai au ministère public. 
 
-Toute association agréée de protection de l'environnement en application des dispositions de l'article L. 252-1 du code rural
-et de la pêche maritime peut exercer les droits reconnus à la partie civile en ce qui concerne les faits constituant une
-infraction à l'alinéa 1er du présent article et portant un préjudice direct ou indirect aux intérêts collectifs qu'elle a
-pour objet de défendre. 
+Toute association agréée de protection de l'environnement en application des dispositions de l'article L. 141-1 du code de
+l'environnement peut exercer les droits reconnus à la partie civile en ce qui concerne les faits constituant une infraction à
+l'alinéa 1er du présent article et portant un préjudice direct ou indirect aux intérêts collectifs qu'elle a pour objet de
+défendre. 
 
-La commune peut exercer les droits reconnus à la partie civile, en ce qui concerne les faits commis sur son territoire et
-constituant une infraction à l'alinéa premier du présent article. "
+La commune ainsi que l'établissement public de coopération intercommunale compétent en matière d'urbanisme peuvent exercer
+les droits reconnus à la partie civile, en ce qui concerne les faits commis sur leur territoire et constituant une infraction
+à l'alinéa premier du présent article. "
 
 **Liens relatifs à cet article**
 
 	**Modifié par**:
 
-	  - Ordonnance n°2010-462 du 6 mai 2010 - art. 1
+	  - Loi n°2012-387 du 22 mars 2012 - art. 117
 
 	**Cite**:
 
-	  - Code rural - art. L252-1 (V)
-	  - Code de l'urbanisme - art. L480-1 (V)
-	  - Code de l'urbanisme - art. L480-4 (V)
-	  - Code du patrimoine. - art. L522-1 (V)
+	  - Code de l'urbanisme - art. L480-1
+	  - Code de l'urbanisme - art. L480-4
+	  - Code de l'environnement - art. L141-1
+	  - Code du patrimoine - art. L522-1
 
 	**Cité par**:
 
@@ -12304,7 +12262,7 @@ l'environnement.
 
 ###### Article L642-7
 
-Les servitudes d'utilité publique, instituées en application des articles L. 621-30-1, L. 621-31 et L. 621-32 du présent code
+Les servitudes d'utilité publique, instituées en application des articles L. 621-30, L. 621-31 et L. 621-32 du présent code
 pour la protection du champ de visibilité des immeubles inscrits ou classés au titre des monuments historiques et de
 l'article L. 341-1 du code de l'environnement relatif aux sites inscrits, ne sont pas applicables dans l'aire de mise en
 valeur de l'architecture et du patrimoine.
@@ -12313,12 +12271,17 @@ valeur de l'architecture et du patrimoine.
 
 	**Modifié par**:
 
-	  - Loi n°2010-788 du 12 juillet 2010 - art. 28
+	  - Loi n°2012-387 du 22 mars 2012 - art. 106
+
+	**Abrogé par**:
+
+	  - Loi n°2016-925 du 7 juillet 2016 - art. 77
 
 	**Cite**:
 
-	  - Code du patrimoine. - art. L621-30-1 (V)
-	  - Code du patrimoine. - art. L621-31 (V)
+	  - Code de l'environnement - art. L341-1
+	  - Code du patrimoine - art. L621-30
+	  - Code du patrimoine - art. L621-31
 
 
 ###### Article L642-8
@@ -12436,26 +12399,27 @@ l'article 31 et au 3° du I de l'article 156 du code général des impôts.
 
 ###### Article L720-1
 
-Les articles L. 122-1 à L. 122-10, L. 543-1, L. 621-10, L. 621-28, L. 621-34, L. 623-1, L. 641-1, L. 641-2 et L. 643-1 ne
-sont pas applicables à Saint-Pierre-et-Miquelon.
+Les articles L. 122-1 à L. 122-10, L. 543-1, L. 621-30 à L. 621-32, L. 623-1, L. 641-1, L. 641-2 et L. 643-1 ne sont pas
+applicables à Saint-Pierre-et-Miquelon.
 
 **Liens relatifs à cet article**
 
 	**Codifié par**:
 
-	  - Ordonnance 2004-178 2004-02-20 JORF 24 février 2004
+	  - Ordonnance n°2004-178 du 20 février 2004
+
+	**Modifié par**:
+
+	  - Loi n°2012-387 du 22 mars 2012 - art. 111
 
 	**Cite**:
 
-	  - Code du patrimoine L122-1 à L122-10, L543-1, L621-10, L621-28, L621-34, L623-1, L641-1, L641-2, L643-1
-	  - Code du patrimoine. - art. L543-1 (V)
-	  - Code du patrimoine. - art. L621-10 (M)
-	  - Code du patrimoine. - art. L621-28 (M)
-	  - Code du patrimoine. - art. L621-34 (M)
-	  - Code du patrimoine. - art. L623-1 (V)
-	  - Code du patrimoine. - art. L641-1 (M)
-	  - Code du patrimoine. - art. L641-2 (V)
-	  - Code du patrimoine. - art. L643-1 (V)
+	  - Code du patrimoine - art. L122-1
+	  - Code du patrimoine - art. L543-1
+	  - Code du patrimoine - art. L621-30
+	  - Code du patrimoine - art. L623-1
+	  - Code du patrimoine - art. L641-1
+	  - Code du patrimoine - art. L643-1
 
 
 ###### Article L720-2
