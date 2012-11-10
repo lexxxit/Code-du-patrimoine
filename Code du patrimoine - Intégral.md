@@ -1,5 +1,5 @@
 # Code du patrimoine  
-Version Consolidée au 2012-05-01
+Version Consolidée au 2012-11-11
 
 # Partie législative
 
@@ -14324,27 +14324,23 @@ retour d'un bien culturel sorti illicitement du territoire français.
 
 ###### Article R112-25
 
-La procédure prévue à l'article 90 du décret n° 62-1587 du 29 décembre 1962 portant règlement général de la comptabilité
+La procédure prévue à l'article 121 du décret n° 2012-1246 du 7 novembre 2012 relatif à la gestion budgétaire et comptable
 publique est applicable aux remises de dette mentionnées à l'article L. 112-19.
 
 **Liens relatifs à cet article**
 
-	**Cite**:
-
-	  - Décret n°62-1587 du 29 décembre 1962 - art. 90 (M)
-	  - Code du patrimoine. - art. L112-19 (V)
-
-	**Anciens textes**:
-
-	  - Décret n°97-286 du 25 mars 1997 - art. 15 (Ab)
-
-	**Créé par**:
-
-	  - Décret n°2011-574 du 24 mai 2011  - art.
-
 	**Codifié par**:
 
 	  - Décret n°2011-574 du 24 mai 2011 Annexe - art.
+
+	**Cite**:
+
+	  - Décret n°2012-1246 du 7 novembre 2012 - art. 121
+	  - Code du patrimoine - art. L112-19
+
+	**Modifié par**:
+
+	  - Décret n°2012-1247 du 7 novembre 2012 - art. 15
 
 
 ###### Article R112-26
@@ -19600,15 +19596,15 @@ générale de l'établissement. A ce titre :
 
 1° Il convoque le conseil d'administration, fixe son ordre du jour, prépare ses délibérations et en assure l'exécution ;
 
-2° Il prépare l'état prévisionnel des recettes et des dépenses ;
+2° Il prépare le budget ;
 
 3° Il est ordonnateur des recettes et des dépenses, prépare et signe les accords d'entreprise et veille à leur bonne
 application ;
 
 4° Il peut prendre dans l'intervalle des séances du conseil d'administration, sous réserve de l'avis préalable du membre du
-corps du contrôle général économique et financier, des décisions modificatives de l'état prévisionnel des recettes et
-dépenses qui ne comportent ni accroissement des effectifs permanents ou du montant total des dépenses, ni réduction du
-montant total des recettes, ni virements de crédits entre les chapitres de personnel et les chapitres de matériel ; 
+corps du contrôle général économique et financier, des décisions modificatives du budget qui ne comportent ni accroissement
+des effectifs permanents ou du montant total des dépenses, ni réduction du montant total des recettes, ni virements de
+crédits entre les chapitres de personnel et les chapitres de matériel ; 
 
 ces décisions sont ratifiées par le conseil d'administration lors de sa plus prochaine séance ;
 
@@ -19642,10 +19638,6 @@ chefs de département.
 
 **Liens relatifs à cet article**
 
-	**Anciens textes**:
-
-	  - Décret n°2004-683 du 9 juillet 2004 - art. 12 (Ab), alinéa 1, deuxième et troisième phrases, à l'alinéa 16.
-
 	**Codifié par**:
 
 	  - Décret n°2011-574 du 24 mai 2011 Annexe - art.
@@ -19656,7 +19648,7 @@ chefs de département.
 
 	**Modifié par**:
 
-	  - Décret n°2011-848 du 18 juillet 2011 - art. 2
+	  - Décret n°2012-1247 du 7 novembre 2012 - art. 2 (V)
 
 
 ###### Article R142-15
@@ -19846,21 +19838,17 @@ Elle est soumise au contrôle économique et financier de l'Etat prévu par le d
 
 ###### Article R142-23
 
-L'état prévisionnel des recettes et des dépenses est établi et s'exécute par année du 1er janvier au 31 décembre.
+Le budget est établi et s'exécute par année du 1er janvier au 31 décembre.
 
 **Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°2004-683 du 9 juillet 2004 - art. 21 (Ab)
-
-	**Créé par**:
-
-	  - Décret n°2011-574 du 24 mai 2011  - art.
 
 	**Codifié par**:
 
 	  - Décret n°2011-574 du 24 mai 2011 Annexe - art.
+
+	**Modifié par**:
+
+	  - Décret n°2012-1247 du 7 novembre 2012 - art. 2 (V)
 
 
 ###### Article R142-24
