@@ -1,5 +1,5 @@
 # Code du patrimoine  
-Version Consolidée au 2012-11-11
+Version Consolidée au 2012-12-22
 
 # Partie législative
 
@@ -18176,103 +18176,6 @@ l'audiovisuel ou les organismes habilités et dont l'usage est strictement rése
 	**Modifié par**:
 
 	  - Décret n°2011-1904 du 19 décembre 2011 - art. 19
-
-
-##### Section 4 : Dépôt légal au ministère de l'intérieur
-
-###### Article R132-44
-
-Les périodiques édités ou importés dans les départements, pour être mis à la disposition d'un public, sont déposés, au plus
-tard le jour de leur mise en circulation par leur éditeur ou importateur, en un exemplaire au service du dépôt légal au
-ministère de l'intérieur pour les éditeurs et importateurs ayant leur domicile ou siège social à Paris et auprès de la
-préfecture du département pour ceux situés dans les autres départements.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°93-1429 du 31 décembre 1993 - art. 39 (Ab), alinéa 1.
-
-	**Créé par**:
-
-	  - Décret n°2011-574 du 24 mai 2011  - art.
-
-	**Abrogé par**:
-
-	  - Décret n°2012-1431 du 19 décembre 2012 - art. 1
-
-
-###### Article R132-45
-
-Les travaux d'impression dits de ville, de commerce ou administratifs, les documents électoraux mentionnés aux articles R. 26
-et R. 30 du code électoral ne sont pas soumis à l'obligation de dépôt au ministère de l'intérieur.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°93-1429 du 31 décembre 1993 - art. 39 (Ab), alinéa 3.
-
-	**Créé par**:
-
-	  - Décret n°2011-574 du 24 mai 2011  - art.
-
-	**Abrogé par**:
-
-	  - Décret n°2012-1431 du 19 décembre 2012 - art. 1
-
-	**Cite**:
-
-	  - Code électoral - art. R26
-
-
-###### Article R132-46
-
-Les modalités de dépôt au ministère de l'intérieur sont fixées par un arrêté conjoint du ministre chargé de la culture et du
-ministre de l'intérieur.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°93-1429 du 31 décembre 1993 - art. 40 (Ab), alinéa 1.
-
-	**Créé par**:
-
-	  - Décret n°2011-574 du 24 mai 2011  - art.
-
-	**Abrogé par**:
-
-	  - Décret n°2012-1431 du 19 décembre 2012 - art. 1
-
-
-###### Article R132-47
-
-Les dépôts mentionnés à l'article R. 132-44 sont accompagnés d'une déclaration dont les mentions sont fixées par arrêté du
-ministre de l'intérieur. Les déclarations peuvent être groupées dans les conditions fixées au troisième alinéa de l'article
-R. 132-8. 
-
-Les dispositions du premier alinéa de l'article R. 132-8 sont applicables aux documents mentionnés à la présente section. 
-
-Ces documents doivent porter des mentions identiques à celles prévues à l'article R. 132-8.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°93-1429 du 31 décembre 1993 - art. 40 (Ab), alinéas 2 à 4.
-
-	**Créé par**:
-
-	  - Décret n°2011-574 du 24 mai 2011  - art.
-
-	**Abrogé par**:
-
-	  - Décret n°2012-1431 du 19 décembre 2012 - art. 1
-
-	**Cite**:
-
-	  - Code du patrimoine - art. R132-8
 
 
 ##### Section 5 : Dispositions diverses
