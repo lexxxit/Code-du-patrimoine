@@ -1,5 +1,5 @@
 # Code du patrimoine  
-Version Consolidée au 2012-12-22
+Version Consolidée au 2013-01-01
 
 # Partie législative
 
@@ -6741,8 +6741,7 @@ du programme général des travaux.
 Sont exonérés de la redevance d'archéologie préventive : 
 
 1° Lorsqu'elle est perçue sur les travaux mentionnés au a de l'article L. 524-2, les constructions et aménagements mentionnés
-aux 1° à 3° et 7° à 9° de l'article L. 331-7 du code de l'urbanisme, ainsi que les constructions de maisons individuelles
-réalisées pour elle-même par une personne physique ; 
+aux 1° à 3° et 7° à 9° de l'article L. 331-7 du code de l'urbanisme ; 
 
 2° Lorsqu'elle est perçue sur les travaux mentionnés aux b et c de l'article L. 524-2 du présent code, les affouillements
 rendus nécessaires pour la réalisation de travaux agricoles, forestiers ou pour la prévention des risques naturels.
@@ -6769,11 +6768,12 @@ l'article L. 524-4 du même code, ils sont applicables à compter du 1er mars 20
 
 	**Modifié par**:
 
-	  - Loi n°2011-1978 du 28 décembre 2011 - art. 79 (V)
+	  - Loi n°2012-1509 du 29 décembre 2012 - art. 101 (VD)
 
 	**Cite**:
 
-	  - Code de l'urbanisme - art. L331-7 (V)
+	  - Code de l'urbanisme - art. L331-7
+	  - Code du patrimoine - art. L524-2
 
 	**Cité par**:
 
@@ -7028,21 +7028,35 @@ l'article L. 524-4 du même code, ils sont applicables à compter du 1er mars 20
 
 ###### Article L524-11
 
+La redevance d'archéologie préventive mentionnée à l'article L. 524-2 est affectée dans les conditions prévues au présent
+article, dans la limite du plafond prévu au I de l'article 46 de la loi n° 2011-1977 du 28 décembre 2011 de finances pour
+2012. 
+
 Après encaissement de la redevance, le comptable public compétent en reverse le produit à l'établissement public mentionné à
 l'article L. 523-1 ou, dans le cas mentionné au b de l'article L. 523-4, à la collectivité territoriale ou au groupement de
 collectivités territoriales après déduction des frais d'assiette et de recouvrement et après prélèvement du pourcentage du
 produit de la redevance alimentant le Fonds national pour l'archéologie préventive prévu à l'article L. 524-14. Le
-reversement intervient au plus tard à la fin du mois qui suit le mois d'encaissement.
+reversement intervient au plus tard à la fin du mois qui suit le mois d'encaissement. 
 
 Toutefois, lorsque l'établissement public réalise un diagnostic prescrit à l'occasion de travaux d'aménagement réalisés pour
 le compte d'une collectivité territoriale ou d'un groupement de collectivités territoriales qui, dans le cas prévu au
 quatrième alinéa de l'article L. 523-4, n'a pas donné son accord à l'intervention du service archéologique de la collectivité
 territoriale mentionnée au b de l'article L. 523-4, cette dernière reverse à l'établissement public le montant de la
-redevance d'archéologie préventive perçue au titre de ces travaux.
+redevance d'archéologie préventive perçue au titre de ces travaux. 
 
 Dans le cas où une collectivité territoriale ou un groupement de collectivités territoriales assure l'intégralité d'un
 diagnostic en application du a de l'article L. 523-4, la redevance lui est reversée par l'établissement public, la
-collectivité territoriale ou le groupement de collectivités territoriales qui l'a perçue.
+collectivité territoriale ou le groupement de collectivités territoriales qui l'a perçue. 
+
+Le plafond mentionné au premier alinéa du présent article porte prioritairement sur la part affectée au Fonds national pour
+l'archéologie préventive prévu à l'article L. 524-14, puis sur la part affectée à l'établissement public mentionné à
+l'article L. 523-1. 
+
+Lorsque le plafond précédemment mentionné est atteint en cours d'année, le comptable public compétent poursuit les versements
+de redevance aux collectivités territoriales et aux groupements de collectivités territoriales dans les conditions prévues
+aux alinéas précédents. Le trop-perçu par le Fonds national pour l'archéologie préventive prévu à l'article L. 524-14 et, le
+cas échéant, par l'établissement public mentionné à l'article L. 523-1 est restitué au budget général selon les modalités
+fixées au A du III de l'article 46 de la loi n° 2011-1977 du 28 décembre 2011 précitée.
 
 **Liens relatifs à cet article**
 
@@ -7050,14 +7064,16 @@ collectivité territoriale ou le groupement de collectivités territoriales qui 
 
 	  - Loi n°2001-44 du 17 janvier 2001 - art. 9 (Ab)
 
-	**Modifié par**:
-
-	  - Ordonnance n°2010-420  du 27 avril 2010 - art. 113
-
 	**Cite**:
 
-	  - Code du patrimoine - art. L523-1
-	  - Code du patrimoine - art. L523-4
+	  - Loi n°2011-1977 du 28 décembre 2011 - art. 46 (M)
+	  - Code du patrimoine - art. L524-2 (V)
+	  - Code du patrimoine. - art. L523-1 (V)
+	  - Code du patrimoine. - art. L523-4 (V)
+
+	**Modifié par**:
+
+	  - Loi n°2012-1509 du 29 décembre 2012 - art. 39 (VD)
 
 	**Cité par**:
 
@@ -7122,8 +7138,9 @@ Il est créé, dans les comptes de l'établissement public mentionné à l'artic
 préventive. 
 
 Les recettes du fonds sont constituées par un prélèvement sur le produit de la redevance d'archéologie préventive prévue à
-l'article L. 524-2. La part du produit de la redevance qui lui est affectée ne peut être inférieure à 30 %. Elle est fixée
-chaque année par décision de l'autorité administrative. 
+l'article L. 524-2. La part du produit de la redevance qui lui est affectée ne peut être inférieure à 30 % du montant à
+percevoir avant application du plafonnement mentionné au premier alinéa de l'article L. 524-11. Elle est fixée chaque année
+par décision de l'autorité administrative. 
 
 Ce fonds finance les subventions accordées par l'Etat aux personnes projetant d'exécuter des travaux qui ont donné lieu à
 l'édiction d'une prescription de fouille d'archéologie préventive conformément aux dispositions de l'article L. 522-2. Les
@@ -7166,11 +7183,13 @@ totale ou partielle.
 
 	**Modifié par**:
 
-	  - Loi n°2011-1978 du 28 décembre 2011 - art. 79 (V)
+	  - Loi n°2012-1509 du 29 décembre 2012 - art. 39 (VD)
 
 	**Cite**:
 
-	  - Code de l'urbanisme - art. L331-12 (V)
+	  - Code de l'urbanisme - art. L331-12
+	  - Code du patrimoine - art. L523-1 (V)
+	  - Code du patrimoine - art. L524-2 (V)
 
 
 ###### Article L524-15
@@ -10439,30 +10458,29 @@ monuments historiques.
 ###### Article L622-4
 
 Les objets mobiliers appartenant à une personne privée peuvent être classés au titre des monuments historiques, avec le
-consentement du propriétaire, par décision de l'autorité administrative.
+consentement du propriétaire, par décision de l'autorité administrative. 
 
 A défaut de consentement du propriétaire, le classement d'office est prononcé par un décret en Conseil d'Etat pris après avis
-de la Commission nationale des monuments historiques.
+de la Commission nationale des monuments historiques. 
 
 Le classement pourra donner lieu au paiement d'une indemnité représentative du préjudice résultant pour le propriétaire de
 l'application de la servitude de classement d'office. La demande d'indemnité devra être produite dans les six mois à dater de
-la notification du décret de classement. A défaut d'accord amiable, l'indemnité est fixée par le tribunal d'instance.
+la notification du décret de classement. A défaut d'accord amiable, l'indemnité est fixée, selon le montant de la demande,
+par le tribunal d'instance ou de grande instance.
 
 **Liens relatifs à cet article**
 
 	**Anciens textes**:
 
 	  - Loi n°1913-12-31 du 31 décembre 1913 - art. 16 (Ab)
-	  - Loi n°1913-12-31 art. 16
 
 	**Codifié par**:
 
-	  - Ordonnance 2004-178 2004-02-20 JORF 24 février 2004
+	  - Ordonnance n°2004-178 du 20 février 2004
 
 	**Modifié par**:
 
-	  - Ordonnance n°2005-1128 du 8 septembre 2005 - art. 2 () JORF 9 septembre 2005
-	  - Ordonnance n°2005-1128 du 8 septembre 2005 - art. 5 () JORF 9 septembre 2005
+	  - Loi n°2011-1862 du 13 décembre 2011 - art. 10
 
 	**Cité par**:
 
@@ -11441,29 +11459,29 @@ code de l'environnement ci-après reproduits :
 
 " Art. L. 341-1. - Il est établi dans chaque département une liste des monuments naturels et des sites dont la conservation
 ou la préservation présente, au point de vue artistique, historique, scientifique, légendaire ou pittoresque, un intérêt
-général. 
+général.
 
-" Après l'enquête publique réalisée conformément au chapitre III du titre II du livre Ier, l'inscription sur la liste est
+"Après l'enquête publique réalisée conformément au chapitre III du titre II du livre Ier, l'inscription sur la liste est
 prononcée par arrêté du ministre chargé des sites et, en Corse, par délibération de l'Assemblée de Corse après avis du
 représentant de l'Etat. 
 
-" L'inscription entraîne, sur les terrains compris dans les limites fixées par l'arrêté, l'obligation pour les intéressés de
+"L'inscription entraîne, sur les terrains compris dans les limites fixées par l'arrêté, l'obligation pour les intéressés de
 ne pas procéder à des travaux autres que ceux d'exploitation courante en ce qui concerne les fonds ruraux et d'entretien
-normal en ce qui concerne les constructions sans avoir avisé, quatre mois d'avance, l'administration de leur intention. " 
+normal en ce qui concerne les constructions sans avoir avisé, quatre mois d'avance, l'administration de leur intention."
 
 " Art. L. 341-2. - Les monuments naturels et les sites inscrits ou non sur la liste dressée par la commission départementale
 peuvent être classés dans les conditions et selon les distinctions établies par la présente section. 
 
-" Lorsque la commission supérieure des sites, perspectives et paysages est saisie directement d'une demande de classement,
+"Lorsque la commission supérieure des sites, perspectives et paysages est saisie directement d'une demande de classement,
 celle-ci est renvoyée à la commission départementale aux fins d'instruction et, le cas échéant, de proposition de classement.
 En cas d'urgence, le ministre chargé des sites fixe à la commission départementale un délai pour émettre son avis. Faute par
 elle de se prononcer dans ce délai, le ministre consulte la commission supérieure et donne à la demande la suite qu'elle
 comporte. 
 
-" Dans les zones de montagne, la décision de classement est prise après consultation du comité de massif concerné. " 
+"Dans les zones de montagne, la décision de classement est prise après consultation du comité de massif concerné." 
 
 " Art. L. 341-3. - Le projet de classement est soumis à une enquête publique réalisée conformément au chapitre III du titre
-II du livre Ier. " 
+II du livre Ier." 
 
 " Art. L. 341-4. - Le monument naturel ou le site compris dans le domaine public ou privé de l'Etat est classé par arrêté du
 ministre chargé des sites, en cas d'accord avec le ministre dans les attributions duquel le monument naturel ou le site se
@@ -11513,10 +11531,10 @@ et de l'entretien normal des constructions.
 assure l'affichage et, le cas échéant, à l'occupant des lieux. " 
 
 " Art. L. 341-8. - Tout arrêté ou décret prononçant un classement est publié, par les soins de l'administration chargée des
-sites, au bureau des hypothèques de la situation de l'immeuble classé. 
+sites, au fichier immobilier. 
 
-" Cette publication, qui ne donne lieu à aucune perception au profit du Trésor, est faite dans les formes et de la manière
-prescrites par les lois et règlements concernant la publicité foncière. " 
+Cette publication, qui ne donne lieu à aucune perception au profit du Trésor, est faite dans les formes et de la manière
+prescrites par les lois et règlements concernant la publicité foncière." 
 
 " Art. L. 341-9. - Les effets du classement suivent le monument naturel ou le site classé, en quelques mains qu'il passe. 
 
@@ -11546,10 +11564,10 @@ douze mois de cette notification. Lorsque l'utilité publique a été déclarée
 par arrêté du ministre chargé des sites. " 
 
 " Art. L. 341-13. - Le déclassement total ou partiel d'un monument ou d'un site classé est prononcé, après avis de la
-commission supérieure des sites, par décret en Conseil d'Etat. Le déclassement est notifié aux intéressés et publié au bureau
-des hypothèques de la situation des biens, dans les mêmes conditions que le classement. 
+commission supérieure des sites, par décret en Conseil d'Etat. Le déclassement est notifié aux intéressés et publié au
+fichier immobilier, dans les mêmes conditions que le classement. 
 
-" Le décret de déclassement détermine, sur avis conforme du Conseil d'Etat, s'il y a lieu ou non à la restitution de
+Le décret de déclassement détermine, sur avis conforme du Conseil d'Etat, s'il y a lieu ou non à la restitution de
 l'indemnité prévue à l'article L. 341-6. " 
 
 " Art. L. 341-14. - Aucun monument naturel ou site classé ou proposé pour le classement ne peut être compris dans une enquête
@@ -11597,44 +11615,44 @@ composition, le mode de désignation et les modalités de fonctionnement des com
 
 " Dispositions pénales 
 
-" Art. L. 341-19. - I. - Est puni d'une amende de 9 000 euros : 
+" Art. L. 341-19. - I. - Est puni d'une amende de 9 000 euros :
 
 1° Le fait de procéder à des travaux sur un monument naturel ou un site inscrit sans en aviser l'administration dans les
-conditions prévues à l'article L. 341-1, alinéa 4 ; 
+conditions prévues à l'article L. 341-1, alinéa 4 ;
 
 2° Le fait d'aliéner un monument naturel ou un site classé sans faire connaître à l'acquéreur l'existence du classement ou
-sans notifier cette aliénation à l'administration dans les conditions prévues à l'article L. 341-9 ; 
+sans notifier cette aliénation à l'administration dans les conditions prévues à l'article L. 341-9 ;
 
 3° Le fait d'établir une servitude sur un monument naturel ou un site classé sans l'agrément de l'administration dans les
-conditions prévues à l'article L. 341-14. 
+conditions prévues à l'article L. 341-14.
 
-II. - Est puni des peines prévues à l'article L. 480-4 du code de l'urbanisme : 
+II. - Est puni des peines prévues à l'article L. 480-4 du code de l'urbanisme :
 
 1° Le fait d'apporter des modifications sur un monument naturel ou un site en instance de classement en violation des
-dispositions de l'article L. 341-7 ; 
+dispositions de l'article L. 341-7 ;
 
 2° Le fait de détruire ou de modifier dans son état ou son aspect un monument naturel ou un site classé sans l'autorisation
-prévue à l'article L. 341-10 ; 
+prévue à l'article L. 341-10 ;
 
 3° Le fait de ne pas se conformer aux prescriptions fixées par un décret de création d'une zone de protection pris en
 application de l'article 19 de la loi du 2 mai 1930 ayant pour objet de réorganiser la protection des monuments naturels et
 des sites de caractère artistique, historique, scientifique, légendaire ou pittoresque et continuant à produire ses effets en
-application de l'article L. 642-9 du code du patrimoine. 
+application de l'article L. 642-9 du code du patrimoine.
 
 III. - Les dispositions des articles L. 480-1, L. 480-2, L. 480-3 et L. 480-5 à L. 480-9 du code de l'urbanisme sont
 applicables aux infractions à l'alinéa 4 de l'article L. 341-1 du présent code et aux dispositions visées au II, sous la
-seule réserve des conditions suivantes : 
+seule réserve des conditions suivantes :
 
 1° Les infractions sont constatées en outre par les fonctionnaires et les agents commissionnés à cet effet par le ministre
 chargé des sites et par les fonctionnaires et agents commissionnés et assermentés pour constater les infractions en matière
-forestière, de chasse et de pêche ; 
+forestière, de chasse et de pêche ;
 
 2° Pour l'application de l'article L. 480-5 du code de l'urbanisme, le tribunal statue soit sur la mise en conformité des
 lieux avec les prescriptions formulées par le ministre chargé des sites, soit sur leur rétablissement dans leur état
-antérieur ; 
+antérieur ;
 
 3° Le droit de visite prévu à l'article L. 461-1 du code de l'urbanisme est ouvert aux représentants du ministre chargé des
-sites ; l'article L. 480-12 du même code est applicable. " 
+sites ; l'article L. 480-12 du même code est applicable." 
 
 " Art. L. 341-20. - Le fait de détruire, mutiler ou dégrader un monument naturel ou un site inscrit ou classé est puni des
 peines prévues à l'article 322-2 du code pénal, sans préjudice de tous dommages-intérêts. " 
@@ -11655,25 +11673,22 @@ monuments naturels de caractère artistique. "
 
 	**Modifié par**:
 
-	  - Loi n°2010-788 du 12 juillet 2010 - art. 240
+	  - Ordonnance n°2010-638 du 10 juin 2010 - art. 13
 
 	**Cite**:
 
-	  - Code général des collectivités territoriales - art. L4421-4 (V)
-	  - Code de l'urbanisme - art. L111-1-4 (V)
-	  - Code de l'urbanisme - art. L122-2 (V)
-	  - Code de l'urbanisme - art. L145-11 (V)
-	  - Code de l'urbanisme - art. L145-3 (VT)
-	  - Code de l'urbanisme - art. L145-5 (V)
-	  - Code de l'urbanisme - art. L146-4 (V)
-	  - Code de l'urbanisme - art. L146-6 (V)
-	  - Code de l'urbanisme - art. L146-6-1 (V)
-	  - Code de l'urbanisme - art. L146-7 (V)
-	  - Code de l'urbanisme - art. L156-2 (V)
-	  - Code de l'urbanisme - art. L461-1 (V)
-	  - Code de l'urbanisme - art. L480-1 (V)
-	  - Code de l'urbanisme - art. L480-5 (V)
-	  - Code de l'urbanisme - art. L480-9 (V)
+	  - Code pénal - art. 322-2 (M)
+	  - Code de l'urbanisme - art. L460-1 (M)
+	  - Code de l'urbanisme - art. L480-1 (M)
+	  - Code de l'urbanisme - art. L480-12 (M)
+	  - Code de l'urbanisme - art. L480-2 (M)
+	  - Code de l'urbanisme - art. L480-3 (M)
+	  - Code de l'urbanisme - art. L480-4 (M)
+	  - Code de l'urbanisme - art. L480-5 (M)
+	  - Code de l'urbanisme L480-4, L642-6, L480-1, L480-2, L480-3, L480-5 à L480-9, L480-5, L460-1, L480-12
+	  - Code du patrimoine L341-4, L341-5, L341-6, L341-16, L341-17, L341-1, L341-9, L341-14, L341-7, L341-10, L341-19, L341-20
+	  - Loi n°1906-04-21
+	  - Loi n°1930-05-02 art. 19
 
 	**Liens**:
 
@@ -11720,16 +11735,16 @@ de l'urbanisme, ci-après reproduits :
 historique, esthétique ou de nature à justifier la conservation, la restauration et la mise en valeur de tout ou partie d'un
 ensemble d'immeubles bâtis ou non. 
 
-Le secteur sauvegardé est créé par l'autorité administrative sur demande ou avec l'accord de la commune ou, le cas échéant,
+" Le secteur sauvegardé est créé par l'autorité administrative sur demande ou avec l'accord de la commune ou, le cas échéant,
 de l'établissement public de coopération intercommunale compétent en matière de plan local d'urbanisme après avis de la
 Commission nationale des secteurs sauvegardés. 
 
-II.-L'acte qui crée le secteur sauvegardé prescrit l'élaboration d'un plan de sauvegarde et de mise en valeur et met en
+" II. - L'acte qui crée le secteur sauvegardé prescrit l'élaboration d'un plan de sauvegarde et de mise en valeur et met en
 révision le plan local d'urbanisme lorsqu'il existe. Jusqu'à l'approbation du plan de sauvegarde et de mise en valeur, le
 plan local d'urbanisme mis en révision peut être modifié dans les conditions prévues à l'article L. 123-13-1 ou faire l'objet
-de révisions dans les conditions définies par le deuxième alinéa du II de l'article L. 123-13. 
+de révisions dans les conditions définies par le deuxième alinéa du II de l'article L. 123-13.
 
-Le plan de sauvegarde et de mise en valeur est élaboré conjointement par l'Etat et la commune ou l'établissement public de
+" Le plan de sauvegarde et de mise en valeur est élaboré conjointement par l'Etat et la commune ou l'établissement public de
 coopération intercommunale compétent en matière de plan local d'urbanisme. Le projet de plan de sauvegarde et de mise en
 valeur est soumis pour avis à une commission locale du secteur sauvegardé. Après avis du conseil municipal ou de l'organe
 délibérant de l'établissement public de coopération intercommunale et de la Commission nationale des secteurs sauvegardés, le
@@ -11737,49 +11752,49 @@ projet de plan de sauvegarde et de mise en valeur est mis à l'enquête par l'au
 l'autorité administrative si l'avis du conseil municipal ou de l'organe délibérant de l'établissement public de coopération
 intercommunale compétent est favorable, par décret en Conseil d'Etat dans le cas contraire. 
 
-III.-Les dispositions applicables aux plans locaux d'urbanisme le sont également aux plans de sauvegarde et de mise en valeur
-à l'exception de l'article L. 123-1-3, du premier alinéa de l'article L. 123-6, des articles L. 123-7 à L. 123-16 et des
-trois derniers alinéas de l'article L. 130-2. 
+" III. - Les dispositions applicables aux plans locaux d'urbanisme le sont également aux plans de sauvegarde et de mise en
+valeur à l'exception de l'article L. 123-1-3, du premier alinéa de l'article L. 123-6, des articles L. 123-7 à L. 123-16 et
+des trois derniers alinéas de l'article L. 130-2. 
 
-Le plan de sauvegarde et de mise en valeur peut en outre comporter l'indication des immeubles ou parties intérieures ou
+" Le plan de sauvegarde et de mise en valeur peut en outre comporter l'indication des immeubles ou parties intérieures ou
 extérieures d'immeubles : 
 
-a) Dont la démolition, l'enlèvement ou l'altération sont interdits et dont la modification est soumise à des conditions
+" a) Dont la démolition, l'enlèvement ou l'altération sont interdits et dont la modification est soumise à des conditions
 spéciales ; 
 
-b) Dont la démolition ou la modification pourra être imposée par l'autorité administrative à l'occasion d'opérations
+" b) Dont la démolition ou la modification pourra être imposée par l'autorité administrative à l'occasion d'opérations
 d'aménagement publiques ou privées. 
 
-IV.-Le plan de sauvegarde et de mise en valeur doit être compatible avec le projet d'aménagement et de développement durables
-du plan local d'urbanisme lorsqu'il existe. Lorsque le projet de plan de sauvegarde et de mise en valeur comporte des
-dispositions qui ne sont pas compatibles avec le projet d'aménagement et de développement durables du plan local d'urbanisme
-il ne peut être approuvé que si l'enquête publique, organisée par le préfet conformément aux dispositions du chapitre III du
-titre II du livre Ier du code de l'environnement, après accord de la commune ou de l'établissement public de coopération
-intercommunale compétent, a porté à la fois sur le projet de plan de sauvegarde et de mise en valeur et sur la modification
-ou la révision du plan local d'urbanisme. L'approbation du plan de sauvegarde et de mise en valeur emporte alors modification
-ou révision du plan local d'urbanisme. 
+" IV. - Le plan de sauvegarde et de mise en valeur doit être compatible avec le projet d'aménagement et de développement
+durables du plan local d'urbanisme lorsqu'il existe. Lorsque le projet de plan de sauvegarde et de mise en valeur comporte
+des dispositions qui ne sont pas compatibles avec le projet d'aménagement et de développement durables du plan local
+d'urbanisme il ne peut être approuvé que si l'enquête publique, organisée par le préfet conformément aux dispositions du
+chapitre III du titre II du livre Ier du code de l'environnement, après accord de la commune ou de l'établissement public de
+coopération intercommunale compétent, a porté à la fois sur le projet de plan de sauvegarde et de mise en valeur et sur la
+modification ou la révision du plan local d'urbanisme. L'approbation du plan de sauvegarde et de mise en valeur emporte alors
+modification ou révision du plan local d'urbanisme. 
 
-La révision du plan de sauvegarde et de mise en valeur a lieu dans les formes prévues pour son établissement. 
+" La révision du plan de sauvegarde et de mise en valeur a lieu dans les formes prévues pour son établissement. 
 
-Le plan de sauvegarde et de mise en valeur peut également être modifié à condition que la modification envisagée ne porte pas
-atteinte à son économie générale ou ne réduise pas un espace boisé classé. 
+" Le plan de sauvegarde et de mise en valeur peut également être modifié à condition que la modification envisagée ne porte
+pas atteinte à son économie générale ou ne réduise pas un espace boisé classé. 
 
-La modification est approuvée par l'autorité administrative, à la demande ou après consultation du conseil municipal de la
+" La modification est approuvée par l'autorité administrative, à la demande ou après consultation du conseil municipal de la
 commune ou de l'organe délibérant de l'établissement public de coopération intercommunale compétent, après avis de la
 commission locale du secteur sauvegardé et enquête publique réalisée conformément aux dispositions du chapitre III du titre
-II du livre Ier du code de l'environnement." 
+II du livre Ier du code de l'environnement. " 
 
-" Art. L. 313-2-A compter de la publication de la décision administrative créant le secteur sauvegardé, tout travail ayant
+" Art. L. 313-2. - A compter de la publication de la décision administrative créant le secteur sauvegardé, tout travail ayant
 pour effet de modifier l'état des immeubles est soumis à permis de construire ou à déclaration, dans les conditions prévues
 par le livre IV, après accord de l'architecte des Bâtiments de France. Cet accord est réputé donné à l'expiration d'un délai
-fixé par décret en Conseil d'Etat.L'autorisation délivrée énonce les prescriptions auxquelles le pétitionnaire doit se
+fixé par décret en Conseil d'Etat. L'autorisation délivrée énonce les prescriptions auxquelles le pétitionnaire doit se
 conformer.
 
-A compter de la publication de la décision prescrivant l'élaboration d'un plan de sauvegarde et de mise en valeur ou sa
+" A compter de la publication de la décision prescrivant l'élaboration d'un plan de sauvegarde et de mise en valeur ou sa
 révision, les travaux de la nature de ceux qui sont indiqués ci-dessus peuvent faire l'objet d'un sursis à statuer dans les
 conditions et délais prévus à l'article L. 111-8. 
 
-En cas de désaccord entre, d'une part, l'architecte des Bâtiments de France et, d'autre part, soit le maire ou l'autorité
+" En cas de désaccord entre, d'une part, l'architecte des Bâtiments de France et, d'autre part, soit le maire ou l'autorité
 compétente pour délivrer l'autorisation, soit le pétitionnaire, sur la compatibilité des travaux avec le plan de sauvegarde
 et de mise en valeur ou sur les prescriptions imposées au propriétaire, le représentant de l'Etat dans la région émet, après
 consultation de la section de la commission régionale du patrimoine et des sites, un avis qui se substitue à celui de
@@ -11787,68 +11802,79 @@ l'architecte des Bâtiments de France. Le recours du pétitionnaire s'exerce à 
 En l'absence de décision expresse du représentant de l'Etat dans la région dans le délai de deux mois à compter de sa
 saisine, le recours est réputé admis. 
 
-Un décret détermine le délai de saisine du représentant de l'Etat dans la région. 
+" Un décret détermine le délai de saisine du représentant de l'Etat dans la région. 
 
-Les prescriptions imposées en application du présent article ne peuvent faire obstacle à l'application des règles
+" Les prescriptions imposées en application du présent article ne peuvent faire obstacle à l'application des règles
 d'accessibilité d'un immeuble bâti aux personnes handicapées mentionnées à l'article L. 111-7-2 du code de la construction et
 de l'habitation, sauf pour prévenir la dégradation du patrimoine concerné." 
 
-" Art. L. 313-2-1-Les immeubles situés dans le périmètre d'un secteur sauvegardé dont le plan de sauvegarde et de mise en
+" Art. L. 313-2-1. - Les immeubles situés dans le périmètre d'un secteur sauvegardé dont le plan de sauvegarde et de mise en
 valeur a été approuvé ne sont pas soumis aux servitudes d'utilité publique instituées en application de l'article L. 621-30,
 des articles L. 621-31 et L. 621-32 du code du patrimoine et de l'article L. 341-1 du code de l'environnement. " 
 
-" Art. L. 313-3-Les opérations de conservation, de restauration et de mise en valeur des secteurs sauvegardés peuvent être
+" Art. L. 313-3. - Les opérations de conservation, de restauration et de mise en valeur des secteurs sauvegardés peuvent être
 menées soit à l'initiative des collectivités publiques, soit à l'initiative d'un ou plusieurs propriétaires, groupés ou non
 en association syndicale. Dans ce dernier cas, ce ou ces propriétaires y sont spécialement autorisés dans les conditions
 fixées par un décret en Conseil d'Etat qui précise notamment les engagements exigés d'eux quant à la nature et à l'importance
 des travaux. (1) " 
 
-" Art. L. 313-11-En cas d'infraction aux dispositions du présent chapitre, les articles L. 480-2 à L. 480-9 sont applicables.
-" 
+" Art. L. 313-11. - En cas d'infraction aux dispositions du présent chapitre, les articles L. 480-2 à L. 480-9 sont
+applicables. " 
 
-" Art. L. 313-12-Les infractions aux dispositions du présent chapitre sont constatées, d'une part, par les personnes visées à
-l'article L. 480-1 (alinéa premier), et, d'autre part, par les fonctionnaires et les agents commissionnés à cet effet par le
-ministre chargé des monuments historiques et des sites, et assermentés. 
+" Art. L. 313-12. - Les infractions aux dispositions du présent chapitre sont constatées, d'une part, par les personnes
+visées à l'article L. 480-1 (alinéa premier), et, d'autre part, par les fonctionnaires et les agents commissionnés à cet
+effet par le ministre chargé des monuments historiques et des sites, et assermentés. Les procès-verbaux dressés par ces
+personnes font foi jusqu'à preuve du contraire. " 
 
-" Les procès-verbaux dressés par ces personnes font foi jusqu'à preuve du contraire. " 
-
-" Art. L. 313-14-Les dispositions du présent chapitre, des articles 3 et 12 de la loi n° 48-1360 du 1er septembre 1948
+" Art. L. 313-14. - Les dispositions du présent chapitre, des articles 3 et 12 de la loi n° 48-1360 du 1er septembre 1948
 modifiée, des articles L. 145-6, L. 145-7, L. 145-18, L. 145-28, L. 145-29 et L. 145-30 du code de commerce sont applicables
 aux collectivités publiques, qu'elles soient propriétaires ou locataires des immeubles situés dans les secteurs et périmètres
 visés aux articles L. 313-3 et L. 313-4. " 
 
-" Art. L. 313-15-Un décret en Conseil d'Etat fixe les conditions d'application du présent chapitre et, notamment, les
+" Art. L. 313-15. - Un décret en Conseil d'Etat fixe les conditions d'application du présent chapitre et, notamment, les
 conditions dans lesquelles s'appliquent la loi du 31 décembre 1913 sur les monuments historiques et les articles L. 341-1 à
 L. 341-22 du code de l'environnement, dans le cas où des immeubles relevant de l'une ou de l'autre de ces législations sont
 compris dans les secteurs sauvegardés. "
 
 **Nota:**
 
-La loi du 31 décembre 1913 a été abrogée par l'ordonnance n° 2004-178 du 20 février 2004 relative à la partie législative du
-code du patrimoine.
+Ordonnance n° 2012-11 du 5 janvier 2012 article 19 : Les présentes dispositions entrent en vigueur à une date déterminée par
+décret en Conseil d'Etat et au plus tard le 1er janvier 2013. Toutefois, les dispositions en vigueur antérieurement à
+l'entrée en vigueur de l'ordonnance demeurent applicables :
 
-(1) L'article L. 313-3 du code de l'urbanisme est abrogé par l'ordonnance n° 2005-1527 du 8 décembre 2005.
+- aux procédures d'élaboration et de révision des schémas de cohérence territoriale et des plans locaux d'urbanisme
+prescrites à cette même date ;
+
+- aux procédures de modification des schémas de cohérence territoriale et des plans locaux d'urbanisme lorsque le projet de
+modification a été notifié aux personnes publiques associées à la date d'entrée en vigueur de l'ordonnance.
 
 **Liens relatifs à cet article**
 
 	**Cite**:
 
-	  - Loi n°48-1360 du 1 septembre 1948 - art. 12 (V)
-	  - Loi n°48-1360 du 1 septembre 1948 - art. 2 (V)
-	  - Code de commerce - art. L145-18 (V)
-	  - Code de commerce - art. L145-28 (V)
-	  - Code de commerce - art. L145-6 (V)
-	  - Code de l'urbanisme - art. L111-8 (V)
-	  - Code de l'urbanisme - art. L123-1-3 (V)
-	  - Code de l'urbanisme - art. L123-13 (V)
-	  - Code de l'urbanisme - art. L123-6 (V)
-	  - Code de l'urbanisme - art. L123-7 (V)
-	  - Code de l'urbanisme - art. L130-2 (V)
-	  - Code de la construction et de l'habitation. - art. L111-7-2 (V)
+	  - Loi n°48-1360 du 1er septembre 1948 - art. 12
+	  - Loi n°48-1360 du 1er septembre 1948 - art. 2
+	  - Code de commerce - art. L145-18
+	  - Code de commerce - art. L145-28
+	  - Code de commerce - art. L145-6
+	  - Code de l'urbanisme - art. L111-8
+	  - Code de l'urbanisme - art. L123-1-3
+	  - Code de l'urbanisme - art. L123-6
+	  - Code de l'urbanisme - art. L123-7
+	  - Code de l'urbanisme - art. L130-2
+	  - Code de l'urbanisme - art. L313-1
+	  - Code de l'urbanisme - art. L313-11
+	  - Code de l'urbanisme - art. L313-12
+	  - Code de l'urbanisme - art. L313-14
+	  - Code de l'urbanisme - art. L313-15
+	  - Code de l'urbanisme - art. L313-2
+	  - Code de l'urbanisme - art. L313-2-1
+	  - Code de l'urbanisme - art. L313-3
+	  - Code de la construction et de l'habitation. - art. L111-7-2
 
 	**Modifié par**:
 
-	  - Loi n°2012-387 du 22 mars 2012 - art. 106
+	  - Ordonnance n°2012-11 du 5 janvier 2012 - art. 12
 
 	**Cité par**:
 
@@ -12049,21 +12075,33 @@ Le projet de création ou de révision de l'aire de mise en valeur de l'architec
 délibération de cette autorité. Le projet arrêté est soumis à l'avis de la commission régionale du patrimoine et des sites
 prévue à l'article L. 612-1 du présent code. 
 
-Ce projet donne lieu à un examen conjoint des personnes publiques mentionnées au b de l'article L. 123-16 du code de
+Ce projet donne lieu à un examen conjoint des personnes publiques mentionnées à l'article L. 123-14-2 du code de
 l'urbanisme. 
 
-Il fait l'objet d'une enquête publique conduite par les autorités compétentes concernées.L'organe délibérant de l'autorité
+Il fait l'objet d'une enquête publique conduite par les autorités compétentes concernées. L'organe délibérant de l'autorité
 mentionnée au premier alinéa de l'article L. 642-1 du présent code peut, par délibération, désigner à cette fin l'une de ces
 autorités compétentes concernées. 
 
 Lorsque le projet n'est pas compatible avec les dispositions du plan local d'urbanisme, l'aire de mise en valeur de
 l'architecture et du patrimoine ne peut être créée que si celui-ci a été mis en compatibilité avec ses dispositions selon la
-procédure définie à l'article L. 123-16 du code de l'urbanisme. 
+procédure définie à l'article L. 123-14-2 du code de l'urbanisme. 
 
 Après accord du préfet, l'aire de mise en valeur de l'architecture et du patrimoine est créée ou révisée par délibération de
 l'autorité mentionnée au premier alinéa de l'article L. 642-1 du présent code. Lorsque l'enquête publique précitée a porté à
 la fois sur l'aire et sur un plan local d'urbanisme, l'acte portant création ou révision de l'aire prononce également la
 révision ou la modification du plan local d'urbanisme.
+
+**Nota:**
+
+Ordonnance n° 2012-11 du 5 janvier 2012 article 19 : Les présentes dispositions entrent en vigueur à une date déterminée par
+décret en Conseil d'Etat et au plus tard le 1er janvier 2013. Toutefois, les dispositions en vigueur antérieurement à
+l'entrée en vigueur de l'ordonnance demeurent applicables :
+
+- aux procédures d'élaboration et de révision des schémas de cohérence territoriale et des plans locaux d'urbanisme
+prescrites à cette même date ;
+
+- aux procédures de modification des schémas de cohérence territoriale et des plans locaux d'urbanisme lorsque le projet de
+modification a été notifié aux personnes publiques associées à la date d'entrée en vigueur de l'ordonnance.
 
 **Liens relatifs à cet article**
 
@@ -12093,13 +12131,13 @@ révision ou la modification du plan local d'urbanisme.
 
 	**Modifié par**:
 
-	  - Loi n°2010-788 du 12 juillet 2010 - art. 28
+	  - Ordonnance n°2012-11 du 5 janvier 2012 - art. 12
 
 	**Cite**:
 
-	  - Code de l'urbanisme - art. L123-16 (VT)
-	  - Code de l'urbanisme - art. L300-2 (V)
-	  - Code du patrimoine. - art. L642-1 (V)
+	  - Code de l'urbanisme - art. L123-14-2
+	  - Code de l'urbanisme - art. L300-2
+	  - Code du patrimoine - art. L642-1
 
 
 ###### Article L642-4
@@ -18626,16 +18664,16 @@ l'établissement, désignées par le ministre chargé de la culture ;
 
 ###### Article R141-11
 
-Le directeur général du Centre des monuments nationaux, le membre du corps du contrôle général économique et financier ou son
-représentant et l'agent comptable assistent également aux séances du conseil d'administration avec voix consultative.
+Le directeur général du Centre des monuments nationaux, le        contrôleur budgétaire ou son représentant et l'agent
+comptable assistent également aux séances du conseil d'administration avec voix consultative. 
 
 Le président peut appeler à participer aux séances du conseil d'administration avec voix consultative toute personne dont il
-juge la présence utile.
+juge la présence utile. 
 
 Les membres du conseil d'administration mentionnés aux 1°, 2°, 3°, 6° et 7° de l'article R. 141-10 sont élus ou nommés pour
 trois ans. Toute vacance définitive survenue au sein du conseil d'administration pour quelque cause que ce soit, y compris la
 perte par un membre de la qualité au titre de laquelle il siège, est pourvue dans un délai de deux mois. Le mandat du
-remplaçant expire à la date à laquelle aurait pris fin le mandat de son prédécesseur.
+remplaçant expire à la date à laquelle aurait pris fin le mandat de son prédécesseur. 
 
 Les fonctions de membre du conseil d'administration, à l'exception de celles de président, sont exercées à titre gratuit.
 Elles ouvrent droit au remboursement des frais de déplacement et de séjour dans les conditions prévues par la réglementation
@@ -18643,13 +18681,13 @@ applicable aux fonctionnaires de l'Etat.
 
 **Liens relatifs à cet article**
 
-	**Anciens textes**:
+	**Codifié par**:
 
-	  - Décret n°95-462 du 26 avril 1995 - art. 8 (Ab), alinéas 11 à 14.
+	  - Décret n°2011-574 du 24 mai 2011 Annexe - art.
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2011-574 du 24 mai 2011  - art.
+	  - Décret n°2012-1247 du 7 novembre 2012 - art. 2 (V)
 
 
 ###### Article R141-12
@@ -18781,15 +18819,11 @@ Le président du Centre des monuments nationaux dirige l'établissement public. 
 
 2° Il représente l'établissement en justice et dans tous les actes de la vie civile ; 
 
-3° Il est l'ordonnateur des recettes et des dépenses de l'établissement dans les conditions prévues par les décrets n°
-53-1227 du 10 décembre 1953 relatif à la réglementation comptable applicable aux établissements publics nationaux à caractère
-administratif et n° 62-1587 du 29 décembre 1962 portant règlement général sur la comptabilité publique. Il peut nommer des
+3° Il est l'ordonnateur des recettes et des dépenses de l'établissement dans les conditions prévues par les titres Ier et III
+du décret n° 2012-1246 du 7 novembre 2012 relatif à la gestion budgétaire et comptable publique. Il peut nommer des
 ordonnateurs secondaires qui peuvent déléguer leur signature ; 
 
-4° Il peut prendre, dans l'intervalle des séances du conseil d'administration, après en avoir informé le membre du corps du
-contrôle général économique et financier, des décisions modificatives du budget qui ne comportent ni accroissement des
-effectifs permanents ou du montant total des dépenses ni réduction du montant total des recettes ; ces décisions sont
-soumises pour ratification au conseil d'administration lors de sa plus prochaine séance ; 
+4° (Abrogé) ; 
 
 5° Il crée des régies d'avances et des régies de recettes sur avis conforme de l'agent comptable ; 
 
@@ -18797,7 +18831,7 @@ soumises pour ratification au conseil d'administration lors de sa plus prochaine
 et recrute les personnels contractuels ; il définit l'organisation des services de l'établissement, conformément aux
 orientations arrêtées par le conseil d'administration ; 
 
-7° Il préside le comité technique paritaire et le      comité d'hygiène, de sécurité et des conditions de travail ; 
+7° Il préside le comité technique paritaire et le comité d'hygiène, de sécurité et des conditions de travail ; 
 
 8° Il signe les conventions engageant l'établissement et passe les marchés répondant aux besoins de celui-ci ; 
 
@@ -18818,21 +18852,19 @@ sa signature aux responsables des services de l'établissement.
 
 **Liens relatifs à cet article**
 
-	**Cite**:
-
-	  - Décret n°53-1227 du 10 décembre 1953
-
-	**Anciens textes**:
-
-	  - Décret n°95-462 du 26 avril 1995 - art. 12 (Ab)
-
 	**Codifié par**:
 
 	  - Décret n°2011-574 du 24 mai 2011 Annexe - art.
 
+	**Cite**:
+
+	  - Décret n°2012-1246 du 7 novembre 2012
+	  - Code du patrimoine - art. R141-3
+	  - Code du patrimoine - art. R141-8
+
 	**Modifié par**:
 
-	  - Décret n°2011-774 du 28 juin 2011 - art. 30 (V)
+	  - Décret n°2012-1247 du 7 novembre 2012 - art. 34
 
 
 ###### Article R141-16
@@ -18862,38 +18894,25 @@ Il est chargé, sous l'autorité du président, de l'administration et de la ges
 
 ###### Article R141-17
 
-Le Centre des monuments nationaux est soumis au régime financier et comptable défini par les textes généraux applicables aux
-établissements publics nationaux à caractère administratif, et notamment les articles 14 à 25 du décret n° 53-1227 du 10
-décembre 1953 relatif à la réglementation comptable applicable aux établissements publics nationaux à caractère administratif
-et les articles 151 à 189 du décret n° 62-1587 du 29 décembre 1962 portant règlement général sur la comptabilité publique. 
+Le Centre des monuments nationaux est soumis aux dispositions des titres Ier et III du décret n° 2012-1246 du 7 novembre 2012
+relatif à la gestion budgétaire et comptable publique. 
 
-L'établissement est soumis au contrôle financier institué par le décret n° 2005-757 du 4 juillet 2005 relatif au contrôle
-financier au sein des établissements publics administratifs de l'Etat. Les attributions du membre du corps du contrôle
-général économique et financier et les modalités d'exercice de son contrôle sont fixées, en tant que de besoin, par arrêté
-conjoint du ministre chargé de la culture et du ministre chargé du budget. 
-
-L'agent comptable est nommé par arrêté conjoint du ministre chargé de la culture et du ministre chargé du budget. Des agents
-comptables secondaires peuvent être nommés, dans les mêmes conditions, sur proposition de l'agent comptable.
+Des agents comptables secondaires peuvent être nommés par arrêté des ministres chargés du budget et de la culture, sur
+proposition de l'agent comptable.
 
 **Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - Décret n°53-1227 du 10 décembre 1953 - art. 14 (V)
-	  - Décret n°62-1587 du 29 décembre 1962 - art. 151 (V)
-	  - Décret n°2005-757 du 4 juillet 2005 (V)
-
-	**Anciens textes**:
-
-	  - Décret n°95-462 du 26 avril 1995 - art. 14 (Ab)
-
-	**Créé par**:
-
-	  - Décret n°2011-574 du 24 mai 2011  - art.
 
 	**Codifié par**:
 
 	  - Décret n°2011-574 du 24 mai 2011 Annexe - art.
+
+	**Cite**:
+
+	  - Décret n°2012-1246 du 7 novembre 2012
+
+	**Modifié par**:
+
+	  - Décret n°2012-1247 du 7 novembre 2012 - art. 34
 
 	**Cité par**:
 
@@ -18993,31 +19012,6 @@ chargé de la culture et du ministre chargé du budget ;
 	**Codifié par**:
 
 	  - Décret n°2011-574 du 24 mai 2011 Annexe - art.
-
-
-###### Article R141-20
-
-Le Centre des monuments nationaux est autorisé à placer ses fonds disponibles dans les conditions fixées par le ministre
-chargé du budget.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°95-462 du 26 avril 1995 - art. 17 (Ab)
-
-	**Créé par**:
-
-	  - Décret n°2011-574 du 24 mai 2011  - art.
-
-	**Abrogé par**:
-
-	  - Décret n°2012-1247 du 7 novembre 2012 - art. 34
-
-	**Cité par**:
-
-	  - Arrêté du 21 mars 2014 (V)
-	  - Arrêté du 28 avril 2015 (V)
 
 
 ###### Article R141-21
@@ -19305,33 +19299,29 @@ Il peut également être convoqué à la demande du ministre chargé de la cultu
 
 Le conseil d'administration ne peut valablement délibérer que si la moitié au moins de ses membres est présente ou
 représentée. Si le quorum n'est pas atteint, le conseil est à nouveau réuni dans un délai maximum de quinze jours sur le même
-ordre du jour. Il délibère alors valablement quel que soit le nombre des membres présents ou représentés.
+ordre du jour. Il délibère alors valablement quel que soit le nombre des membres présents ou représentés. 
 
 En cas d'absence ou d'empêchement pour la présidence du conseil d'administration, le président de l'établissement est suppléé
-par le directeur général des patrimoines.
+par le directeur général des patrimoines. 
 
 Les délibérations sont prises à la majorité des membres présents ou représentés. En cas de partage égal des voix, celle du
-président est prépondérante.
+président est prépondérante. 
 
-Le directeur général délégué, les chefs de département et le membre du corps du contrôle général économique et financier
-assistent aux séances du conseil d'administration avec voix consultative.
+Le directeur général délégué, les chefs de département et le        contrôleur budgétaire assistent aux séances du conseil
+d'administration avec voix consultative. 
 
 Le président peut appeler à participer aux séances du conseil d'administration avec voix consultative toute personne dont il
 juge la présence utile.
 
 **Liens relatifs à cet article**
 
-	**Anciens textes**:
-
-	  - Décret n°2004-683 du 9 juillet 2004 - art. 9 (Ab)
-
-	**Créé par**:
-
-	  - Décret n°2011-574 du 24 mai 2011  - art.
-
 	**Codifié par**:
 
 	  - Décret n°2011-574 du 24 mai 2011 Annexe - art.
+
+	**Modifié par**:
+
+	  - Décret n°2012-1247 du 7 novembre 2012 - art. 2 (V)
 
 
 ###### Article R142-10
@@ -19356,9 +19346,9 @@ collections ;
 
 7° Le rapport annuel d'activité ;
 
-8° L'état prévisionnel des recettes et des dépenses et ses modifications ;
+8° Le budget  ;
 
-9° Les comptes de chaque exercice et l'affectation des résultats de l'exercice ;
+9° Le compte financier  ;
 
 10° La politique tarifaire de l'établissement ;
 
@@ -19385,17 +19375,13 @@ temporaires du domaine public, et les redevances y afférentes ;
 
 **Liens relatifs à cet article**
 
-	**Anciens textes**:
-
-	  - Décret n°2004-683 du 9 juillet 2004 - art. 10 (Ab), alinéas 1 à 20.
-
-	**Créé par**:
-
-	  - Décret n°2011-574 du 24 mai 2011  - art.
-
 	**Codifié par**:
 
 	  - Décret n°2011-574 du 24 mai 2011 Annexe - art.
+
+	**Modifié par**:
+
+	  - Décret n°2012-1247 du 7 novembre 2012 - art. 34
 
 	**Cité par**:
 
@@ -19437,39 +19423,36 @@ En cas d'urgence, les délibérations mentionnées aux 11° et 16° de l'article
 ###### Article R142-12
 
 Les délibérations du conseil d'administration autres que celles mentionnées aux alinéas suivants sont exécutoires de plein
-droit, en l'absence d'opposition expresse, quinze jours après leur réception par le ministre chargé de la culture.
+droit, en l'absence d'opposition expresse, quinze jours après leur réception par le ministre chargé de la culture. 
 
 Les décisions du président prises par délégation du conseil d'administration en application du deuxième alinéa de l'article
-R. 142-11 sont exécutoires dans les mêmes conditions.
+R. 142-11 sont exécutoires dans les mêmes conditions. 
 
-Les délibérations portant sur l'état prévisionnel des recettes et des dépenses ou ses modifications ainsi que sur le compte
-financier sont approuvées par les ministres chargés de la culture et du budget dans les conditions fixées par le décret n°
-99-575 du 8 juillet 1999 relatif aux modalités d'approbation de certaines décisions financières des établissements publics de
-l'Etat. Toutefois, le délai mentionné au premier alinéa de l'article 1er dudit décret est fixé à quinze jours.
+Les délibérations portant sur le budget sont réputées approuvées à l'expiration d'un délai de quinze jours après leur
+réception par les ministres de tutelle dans les conditions prévues par l'article 176 du décret n° 2012-1246 du 7 novembre
+2012 relatif à la gestion budgétaire et comptable publique. 
 
 Les délibérations relatives au 14° de l'article R. 142-10 deviennent exécutoires de plein droit un mois après leur réception
-par les ministres chargés de la culture et du budget si aucun des deux n'y a fait opposition dans ce délai.
+par les ministres chargés de la culture et du budget si aucun des deux n'y a fait opposition dans ce délai. 
 
 Les délibérations relatives aux matières mentionnées aux 11° et 13° de l'article R. 142-10 doivent, pour devenir exécutoires,
 faire l'objet d'une approbation expresse des ministres chargés de la culture et du budget.
 
 **Liens relatifs à cet article**
 
-	**Cite**:
-
-	  - Décret n°99-575 du 8 juillet 1999 (V)
-
-	**Anciens textes**:
-
-	  - Décret n°2004-683 du 9 juillet 2004 - art. 11 (Ab)
-
-	**Créé par**:
-
-	  - Décret n°2011-574 du 24 mai 2011  - art.
-
 	**Codifié par**:
 
 	  - Décret n°2011-574 du 24 mai 2011 Annexe - art.
+
+	**Cite**:
+
+	  - Décret n°2012-1246 du 7 novembre 2012 - art. 176
+	  - Code du patrimoine - art. R142-10
+	  - Code du patrimoine - art. R142-11
+
+	**Modifié par**:
+
+	  - Décret n°2012-1247 du 7 novembre 2012 - art. 34
 
 
 ###### Article R142-13
@@ -19495,46 +19478,46 @@ culture, pour une durée de cinq ans renouvelable.
 ###### Article R142-14
 
 Le président de la Cité de l'architecture et du patrimoine préside le conseil d'administration. Il assure la direction
-générale de l'établissement. A ce titre :
+générale de l'établissement. A ce titre : 
 
-1° Il convoque le conseil d'administration, fixe son ordre du jour, prépare ses délibérations et en assure l'exécution ;
+1° Il convoque le conseil d'administration, fixe son ordre du jour, prépare ses délibérations et en assure l'exécution ; 
 
-2° Il prépare le budget ;
+2° Il prépare le budget ; 
 
 3° Il est ordonnateur des recettes et des dépenses, prépare et signe les accords d'entreprise et veille à leur bonne
-application ;
+application ; 
 
-4° Il peut prendre dans l'intervalle des séances du conseil d'administration, sous réserve de l'avis préalable du membre du
-corps du contrôle général économique et financier, des décisions modificatives du budget qui ne comportent ni accroissement
-des effectifs permanents ou du montant total des dépenses, ni réduction du montant total des recettes, ni virements de
-crédits entre les chapitres de personnel et les chapitres de matériel ; 
+4° Il peut prendre dans l'intervalle des séances du conseil d'administration, sous réserve de l'avis préalable du contrôleur
+budgétaire, des décisions modificatives du budget qui ne comportent ni accroissement des effectifs permanents ou du montant
+total des dépenses, ni réduction du montant total des recettes, ni virements de crédits entre les chapitres de personnel et
+les chapitres de matériel ; 
 
-ces décisions sont ratifiées par le conseil d'administration lors de sa plus prochaine séance ;
+ces décisions sont ratifiées par le conseil d'administration lors de sa plus prochaine séance ; 
 
-5° Il signe les conventions engageant l'établissement ;
+5° Il signe les conventions engageant l'établissement ; 
 
-6° Il fixe le prix des prestations et services rendus ;
+6° Il fixe le prix des prestations et services rendus ; 
 
-7° Il signe les autorisations d'occupation temporaire du domaine public ;
+7° Il signe les autorisations d'occupation temporaire du domaine public ; 
 
-8° Il représente l'établissement en justice et dans tous les actes de la vie civile ;
+8° Il représente l'établissement en justice et dans tous les actes de la vie civile ; 
 
-9° Il est autorisé à transiger, par délégation du conseil d'administration ;
+9° Il est autorisé à transiger, par délégation du conseil d'administration ; 
 
-10° Il recrute et gère les personnels de l'établissement ;
+10° Il recrute et gère les personnels de l'établissement ; 
 
-11° Il a autorité sur les personnels détachés ou mis à disposition ;
+11° Il a autorité sur les personnels détachés ou mis à disposition ; 
 
-12° Il arrête le programme d'activités en concertation avec les chefs de département ;
+12° Il arrête le programme d'activités en concertation avec les chefs de département ; 
 
-13° Il organise les directions et les départements et a autorité sur les services de l'établissement ;
+13° Il organise les directions et les départements et a autorité sur les services de l'établissement ; 
 
 14° Il exerce les compétences dévolues au ministre chargé de l'architecture pour signer au nom de l'Etat le diplôme national
-d'enseignement supérieur délivré par l'établissement et au nom de l'établissement les diplômes qui lui sont propres.
+d'enseignement supérieur délivré par l'établissement et au nom de l'établissement les diplômes qui lui sont propres. 
 
-Le président rend compte de sa gestion au conseil d'administration.
+Le président rend compte de sa gestion au conseil d'administration. 
 
-Le président ne peut pas déléguer sa signature en ce qui concerne le 1°, le 4° et le 14°.
+Le président ne peut pas déléguer sa signature en ce qui concerne le 1°, le 4° et le 14°. 
 
 Dans les autres cas, il peut déléguer sa signature, dans les limites qu'il détermine, au directeur général délégué et aux
 chefs de département.
@@ -19716,27 +19699,22 @@ français.
 
 ###### Article R142-22
 
-La Cité de l'architecture et du patrimoine est soumise aux règles de la comptabilité privée.
-
-Elle est soumise au contrôle économique et financier de l'Etat prévu par le décret n° 55-733 du 26 mai 1955.
+L'établissement est soumis aux dispositions des titres Ier et III du décret n° 2012-1246 du 7 novembre 2012 relatif à la
+gestion budgétaire et comptable publique.
 
 **Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - Décret n°55-733 du 26 mai 1955 (M)
-
-	**Anciens textes**:
-
-	  - Décret n°2004-683 du 9 juillet 2004 - art. 20 (Ab)
-
-	**Créé par**:
-
-	  - Décret n°2011-574 du 24 mai 2011  - art.
 
 	**Codifié par**:
 
 	  - Décret n°2011-574 du 24 mai 2011 Annexe - art.
+
+	**Cite**:
+
+	  - Décret n°2012-1246 du 7 novembre 2012
+
+	**Modifié par**:
+
+	  - Décret n°2012-1247 du 7 novembre 2012 - art. 34
 
 
 ###### Article R142-23
@@ -19752,26 +19730,6 @@ Le budget est établi et s'exécute par année du 1er janvier au 31 décembre.
 	**Modifié par**:
 
 	  - Décret n°2012-1247 du 7 novembre 2012 - art. 2 (V)
-
-
-###### Article R142-24
-
-La Cité de l'architecture et du patrimoine est autorisée à placer ses fonds disponibles dans les conditions fixées par le
-ministre chargé du budget.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°2004-683 du 9 juillet 2004 - art. 22 (Ab)
-
-	**Créé par**:
-
-	  - Décret n°2011-574 du 24 mai 2011  - art.
-
-	**Abrogé par**:
-
-	  - Décret n°2012-1247 du 7 novembre 2012 - art. 34
 
 
 ###### Article R142-25
@@ -20428,27 +20386,23 @@ depuis leur création.
 
 ###### Article R212-9
 
-Les documents déposés dans les conservations des hypothèques depuis plus de cinquante ans ainsi que ceux produits pour leur
-exploitation sont versés aux services départementaux d'archives dans les conditions prévues par l'article 10 du décret n°
-55-22 du 4 janvier 1955 portant réforme de la publicité foncière.
+Les documents déposés dans les services de la publicité foncière depuis plus de cinquante ans ainsi que ceux produits pour
+leur exploitation sont versés aux services départementaux d'archives dans les conditions prévues par l'article 10 du décret
+n° 55-22 du 4 janvier 1955 portant réforme de la publicité foncière.
 
 **Liens relatifs à cet article**
 
 	**Cite**:
 
-	  - Décret n°55-22 du 4 janvier 1955 - art. 10 (M)
-
-	**Anciens textes**:
-
-	  - Décret n°79-1037 du 3 décembre 1979 - art. 9 (Ab)
-
-	**Créé par**:
-
-	  - Décret n°2011-574 du 24 mai 2011  - art.
+	  - Décret n°55-22 du 4 janvier 1955 - art. 10
 
 	**Codifié par**:
 
 	  - Décret n°2011-574 du 24 mai 2011 Annexe - art.
+
+	**Modifié par**:
+
+	  - Décret n°2012-1462 du 26 décembre 2012 - art. 35
 
 	**Cité par**:
 
@@ -23080,27 +23034,23 @@ nationales ou départementales.
 
 ###### Article R213-7
 
-Les conditions de délivrance par les conservateurs des hypothèques des relevés, certificats, copies ou extraits des documents
-dont ils assurent la conservation demeurent soumises aux dispositions du décret n° 55-22 du 4 janvier 1955 portant réforme de
-la publicité foncière.
+Les conditions de délivrance par les services de la publicité foncière des renseignements et copies des documents dont ils
+assurent la conservation demeurent soumises aux dispositions du décret n° 55-22 du 4 janvier 1955 portant réforme de la
+publicité foncière.
 
 **Liens relatifs à cet article**
 
 	**Cite**:
 
-	  - Décret n°55-22 du 4 janvier 1955 (V)
-
-	**Anciens textes**:
-
-	  - Décret n°79-1039 du 3 décembre 1979 - art. 7 (Ab)
-
-	**Créé par**:
-
-	  - Décret n°2011-574 du 24 mai 2011  - art.
+	  - Décret n°55-22 du 4 janvier 1955
 
 	**Codifié par**:
 
 	  - Décret n°2011-574 du 24 mai 2011 Annexe - art.
+
+	**Modifié par**:
+
+	  - Décret n°2012-1462 du 26 décembre 2012 - art. 35
 
 	**Cité par**:
 
@@ -24681,37 +24631,33 @@ et D. 423-13.
 ###### Article D422-6
 
 Le Conseil artistique des musées nationaux comprend vingt-trois membres, dont le président nommé par arrêté du ministre
-chargé de la culture parmi les personnalités mentionnées au 4° du présent article :
+chargé de la culture parmi les personnalités mentionnées au 4° du présent article : 
 
-1° Le directeur général des patrimoines, ou son représentant, responsable du service des musées de France, vice-président ;
+1° Le directeur général des patrimoines, ou son représentant, responsable du service des musées de France, vice-président ; 
 
-2° Cinq conservateurs généraux du patrimoine en exercice ou honoraires, dont deux responsables d'un musée national ;
+2° Cinq conservateurs généraux du patrimoine en exercice ou honoraires, dont deux responsables d'un musée national ; 
 
-3° Cinq présidents de commission d'acquisition d'établissement public ;
+3° Cinq présidents de commission d'acquisition d'établissement public ; 
 
 4° Douze personnalités choisies en raison de leur compétence nommées par le ministre chargé de la culture, dont un membre de
 l'Institut de France proposé par le chancelier de l'Institut de France et au moins deux professeurs au Collège de France ou
-d'université en exercice ou honoraires.
+d'université en exercice ou honoraires. 
 
-Les personnalités mentionnées aux 2° à 4° sont nommées pour une durée de trois ans renouvelable.
+Les personnalités mentionnées aux 2° à 4° sont nommées pour une durée de trois ans renouvelable. 
 
 Le président de l'établissement public de la Réunion des musées nationaux et du Grand Palais des Champs-Elysées, ou son
-représentant, et le membre du corps du contrôle général économique et financier de cet établissement public assistent aux
-séances du conseil artistique avec voix consultative.
+représentant, et le        contrôleur budgétaire de cet établissement public assistent aux séances du conseil artistique avec
+voix consultative.
 
 **Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°2003-1302 du 26 décembre 2003 - art. 5 (Ab), alinéas 1 à 6 et 8.
-
-	**Créé par**:
-
-	  - Décret n°2011-574 du 24 mai 2011  - art.
 
 	**Codifié par**:
 
 	  - Décret n°2011-574 du 24 mai 2011 Annexe - art.
+
+	**Modifié par**:
+
+	  - Décret n°2012-1247 du 7 novembre 2012 - art. 2 (V)
 
 	**Cité par**:
 
@@ -25597,22 +25543,22 @@ publié au Journal officiel de la République française. Le cas échéant, cet 
 dont relève le musée en cause ou qui en assure la tutelle. 
 
 Lorsque l'appellation est attribuée à une personne privée, l'arrêté mentionne l'insertion de l'avis prévu au 3° de l'article
-R. 442-2. Si l'inventaire des collections comprend des biens immobiliers, l'arrêté et l'inventaire sont également publiés à
-la conservation des hypothèques.
+R. 442-2. Si l'inventaire des collections comprend des biens immobiliers, l'arrêté et l'inventaire sont également publiés au
+fichier immobilier.
 
 **Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°2002-628 du 25 avril 2002 - art. 8 (Ab)
-
-	**Créé par**:
-
-	  - Décret n°2011-574 du 24 mai 2011  - art.
 
 	**Codifié par**:
 
 	  - Décret n°2011-574 du 24 mai 2011 Annexe - art.
+
+	**Modifié par**:
+
+	  - Décret n°2012-1462 du 26 décembre 2012 - art. 35
+
+	**Cite**:
+
+	  - Code du patrimoine - art. R442-2
 
 
 ###### Article R442-4
@@ -30751,25 +30697,30 @@ de l'article L. 524-14, l'aménageur adresse au préfet de région une demande d
 la demande d'autorisation de fouilles. 
 
 Le contenu de la demande de prise en charge ainsi que les pièces à produire pour la constitution du dossier sont définies par
-un arrêté du ministre chargé de la culture et du ministre chargé du budget. 
+un arrêté du ministre chargé de la culture et du ministre chargé du budget.
 
-Pour les zones d'aménagement concerté et lotissements, lorsque la destination finale des lots est encore incertaine à la date
-de demande d'autorisation de fouilles, la demande indique la part prévisionnelle des surfaces affectées à des constructions
-ouvrant droit à une prise en charge du coût des fouilles.
+**Nota:**
+
+Décret n° 2012-1334 du 30 novembre 2012 article 4 :
+
+I : Le présent décret entre en vigueur le 1er janvier 2013.
+
+II. - Les demandes de prise en charge formulées avant cette date restent régies par les dispositions des articles R. 524-24 à
+R. 524-33 du code du patrimoine dans leur rédaction antérieure à l'entrée en vigueur du présent décret.
+
+III. - Dans les départements et régions d'outre-mer, à Mayotte, à Saint-Barthélemy, à Saint-Martin et à Saint-Pierre-et-
+Miquelon, les demandes de prise en charge formulées avant cette date restent régies par les dispositions des articles 101 à
+110 du décret du 3 juin 2004 susvisé dans leur rédaction antérieure à l'entrée en vigueur du présent décret.
 
 **Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°2004-490 du 3 juin 2004 - art. 101 (Ab)
-
-	**Créé par**:
-
-	  - Décret n°2011-574 du 24 mai 2011  - art.
 
 	**Codifié par**:
 
 	  - Décret n°2011-574 du 24 mai 2011 Annexe - art.
+
+	**Modifié par**:
+
+	  - Décret n°2012-1334 du 30 novembre 2012 - art. 1
 
 	**Cité par**:
 
@@ -30777,7 +30728,7 @@ ouvrant droit à une prise en charge du coût des fouilles.
 
 	**Cite**:
 
-	  - Code du patrimoine. - art. L524-14 (V)
+	  - Code du patrimoine - art. L524-14
 
 
 ###### Article R524-25
@@ -30858,6 +30809,54 @@ modalités de paiement ainsi que les clauses de reversement. Elle vise le contra
 	**Cite**:
 
 	  - Code du patrimoine. - art. R523-44 (V)
+
+
+###### Article R524-27-1
+
+Le montant prévisionnel de la prise en charge est calculé par référence à la dépense éligible prévisionnelle. 
+
+La dépense éligible prévisionnelle est le prix prévisionnel de la fouille convenu entre l'aménageur et l'opérateur affecté
+d'un taux correspondant à la part de la surface de construction prévisionnelle destinée au logement ouvrant droit à prise en
+charge en application du dernier alinéa de l'article L. 524-14. 
+
+Pour les zones d'aménagement concerté et les lotissements soumis à permis d'aménager en application de l'article L. 421-2 du
+code de l'urbanisme, le montant de la prise en charge est égal à 50 % du montant de la dépense éligible prévisionnelle. 
+
+Pour la construction de logements sociaux mentionnés au 1° de l'article L. 331-12 du code de l'urbanisme, au prorata de la
+surface de construction effectivement destinée à usage locatif, le montant de la prise en charge est fixé à 75 % du montant
+de la dépense éligible prévisionnelle. 
+
+Dans les autres cas mentionnés à l'article L. 524-14, le montant de la prise en charge est égal à 100 % du montant de la
+dépense éligible prévisionnelle.
+
+**Nota:**
+
+Décret n° 2012-1334 du 30 novembre 2012 article 4 :
+
+I : Le présent décret entre en vigueur le 1er janvier 2013.
+
+II. - Les demandes de prise en charge formulées avant cette date restent régies par les dispositions des articles R. 524-24 à
+R. 524-33 du code du patrimoine dans leur rédaction antérieure à l'entrée en vigueur du présent décret.
+
+III. - Dans les départements et régions d'outre-mer, à Mayotte, à Saint-Barthélemy, à Saint-Martin et à Saint-Pierre-et-
+Miquelon, les demandes de prise en charge formulées avant cette date restent régies par les dispositions des articles 101 à
+110 du décret du 3 juin 2004 susvisé dans leur rédaction antérieure à l'entrée en vigueur du présent décret.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2012-1334 du 30 novembre 2012 - art. 1
+
+	**Cité par**:
+
+	  - Décret n°2012-1334 du 30 novembre 2012 - art. 3 (V)
+
+	**Cite**:
+
+	  - Code de l'urbanisme - art. L331-12
+	  - Code de l'urbanisme - art. L421-2
+	  - Code du patrimoine - art. L524-14
 
 
 ###### Article R524-28
@@ -32154,7 +32153,7 @@ l'incorporation du vestige dans son domaine public ou pour renoncer à ses droit
 A défaut de délibération dans le délai précité, la commune est réputée avoir renoncé à exercer ses droits sur le vestige. 
 
 En cas de renoncement de la commune, un arrêté du préfet de région constate que le vestige est propriété de l'Etat. Cet
-arrêté est publié au fichier immobilier de la conservation des hypothèques dans les conditions de droit commun. 
+arrêté est publié au fichier immobilier     dans les conditions de droit commun. 
 
 Si l'intérêt archéologique du vestige le justifie, le préfet de région autorise l'incorporation du bien au domaine public
 affecté au ministère chargé de la culture, après avis de la commission interrégionale de la recherche archéologique. 
@@ -32165,27 +32164,23 @@ définies à l'article R. 129-4 du code du domaine de l'Etat.
 Si, dans un délai de six mois à compter du renoncement de la commune, le préfet n'a procédé ni à son incorporation au domaine
 public de l'Etat ni à sa cession amiable, l'Etat est réputé avoir renoncé à la propriété de ce vestige. Le propriétaire du
 fonds peut, à tout moment après l'expiration de ce délai, demander au préfet de constater cette renonciation par un acte qui
-est publié au fichier immobilier de la conservation des hypothèques dans les conditions de droit commun.
+est publié au fichier immobilier     dans les conditions de droit commun.
 
 **Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°2004-490 du 3 juin 2004 - art. 63 (Ab)
-
-	**Créé par**:
-
-	  - Décret n°2011-574 du 24 mai 2011  - art.
 
 	**Codifié par**:
 
 	  - Décret n°2011-574 du 24 mai 2011 Annexe - art.
 
+	**Modifié par**:
+
+	  - Décret n°2012-1462 du 26 décembre 2012 - art. 35
+
 	**Cite**:
 
-	  - Code du domaine de l'Etat - art. R129-4 (V)
-	  - Code civil - art. 713 (M)
-	  - Code du patrimoine. - art. L541-1 (V)
+	  - Code du domaine de l'Etat - art. R129-4
+	  - Code civil - art. 713
+	  - Code du patrimoine - art. L541-1
 
 	**Cité par**:
 
@@ -33511,63 +33506,59 @@ comité d'hygiène, de sécurité et des conditions de travail, et peut s'y fair
 
 ###### Article R545-34
 
-Le conseil d'administration comprend, outre le président :
+Le conseil d'administration comprend, outre le président : 
 
-1° Sept représentants de l'Etat :
+1° Sept représentants de l'Etat : 
 
-a) Le secrétaire général du ministère chargé de la culture ou son représentant ;
+a) Le secrétaire général du ministère chargé de la culture ou son représentant ; 
 
-b) Le directeur général des patrimoines au ministère chargé de la culture ou son représentant ;
+b) Le directeur général des patrimoines au ministère chargé de la culture ou son représentant ; 
 
-c) Le directeur chargé de la recherche au ministère chargé de la recherche ou son représentant ;
+c) Le directeur chargé de la recherche au ministère chargé de la recherche ou son représentant ; 
 
-d) Le directeur chargé de l'enseignement supérieur au ministère chargé de l'enseignement supérieur ou son représentant ;
+d) Le directeur chargé de l'enseignement supérieur au ministère chargé de l'enseignement supérieur ou son représentant ; 
 
-e) Le directeur chargé du budget au ministère chargé du budget ou son représentant ;
+e) Le directeur chargé du budget au ministère chargé du budget ou son représentant ; 
 
 f) Le directeur général de l'aménagement, du logement et de la nature au ministère chargé de l'urbanisme ou son
-représentant ;
+représentant ; 
 
-g) Un conservateur régional de l'archéologie désigné par le ministre chargé de la culture ;
+g) Un conservateur régional de l'archéologie désigné par le ministre chargé de la culture ; 
 
-2° Deux représentants des organismes de recherche et d'enseignement supérieur :
+2° Deux représentants des organismes de recherche et d'enseignement supérieur : 
 
-a) Le directeur général du Centre national de la recherche scientifique ou son représentant ;
+a) Le directeur général du Centre national de la recherche scientifique ou son représentant ; 
 
 b) Le premier vice-président de la conférence des présidents d'université ou un autre membre de cette instance désigné par
-lui ;
+lui ; 
 
 3° Deux représentants des collectivités territoriales, désignés conjointement par le ministre chargé de la culture et le
-ministre chargé de la recherche ;
+ministre chargé de la recherche ; 
 
 4° Deux représentants des personnes publiques et privées concernées par l'archéologie préventive, désignés conjointement par
-les mêmes ministres ;
+les mêmes ministres ; 
 
-5° Quatre membres élus par les personnels de l'établissement et parmi eux ;
+5° Quatre membres élus par les personnels de l'établissement et parmi eux ; 
 
-6° Quatre personnalités qualifiées dans le domaine de l'archéologie :
+6° Quatre personnalités qualifiées dans le domaine de l'archéologie : 
 
-a) Deux désignées par le ministre chargé de la culture ;
+a) Deux désignées par le ministre chargé de la culture ; 
 
-b) Deux désignées par le ministre chargé de la recherche.
+b) Deux désignées par le ministre chargé de la recherche. 
 
-Le directeur général, le directeur chargé des questions scientifiques et techniques, le membre du corps du contrôle général
-économique et financier, l'agent comptable ainsi que toute personne dont la présence est jugée utile par le président
-assistent aux séances avec voix consultative.
+Le directeur général, le directeur chargé des questions scientifiques et techniques, le        contrôleur budgétaire, l'agent
+comptable ainsi que toute personne dont la présence est jugée utile par le président assistent aux séances avec voix
+consultative.
 
 **Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°2002-90 du 16 janvier 2002 - art. 8 (Ab)
-
-	**Créé par**:
-
-	  - Décret n°2011-574 du 24 mai 2011  - art.
 
 	**Codifié par**:
 
 	  - Décret n°2011-574 du 24 mai 2011 Annexe - art.
+
+	**Modifié par**:
+
+	  - Décret n°2012-1247 du 7 novembre 2012 - art. 2 (V)
 
 	**Cité par**:
 
@@ -33704,34 +33695,38 @@ En cas d'urgence, les décisions mentionnées aux 7°, 10° et 11° de l'article
 
 Les délibérations du conseil d'administration mentionnées aux 1°, 2°, 6°, 9°, 11° et 12° de l'article R. 545-35 sont
 exécutoires, à défaut d'approbation expresse notifiée dans ce délai, quinze jours après leur réception par les ministres
-chargés de la tutelle, si aucun de ceux-ci n'a fait connaître son opposition dans ce délai.
+chargés de la tutelle, si aucun de ceux-ci n'a fait connaître son opposition dans ce délai. 
 
-Les délibérations mentionnées aux 3°, 4°, 5°, 7° et 10° du même article deviennent exécutoires, à défaut d'approbation
-expresse notifiée dans ce délai, quinze jours après leur réception par les ministres chargés de la tutelle et le ministre
-chargé du budget, si aucun de ceux-ci n'a fait connaître son opposition dans ce délai.
+Les délibérations mentionnées aux 5°, 7° et 10° du même article deviennent exécutoires, à défaut d'approbation expresse
+notifiée dans ce délai, quinze jours après leur réception par les ministres chargés de la tutelle et le ministre chargé du
+budget, si aucun de ceux-ci n'a fait connaître son opposition dans ce délai. 
 
 Les délibérations du conseil d'administration mentionnées au 8° du même article doivent, pour devenir exécutoires, faire
 l'objet d'une approbation expresse des ministres chargés de la tutelle et, dans la limite de ses attributions, du ministre
-chargé du budget.
+chargé du budget. 
 
-En cas d'urgence, les ministres chargés de la tutelle peuvent autoriser l'exécution immédiate des délibérations.
+En cas d'urgence, les ministres chargés de la tutelle peuvent autoriser l'exécution immédiate des délibérations. 
+
+Les délibérations portant sur le budget et le compte financier sont exécutoires dans les conditions prévues par le titre III
+du décret n° 2012-1246 du 7 novembre 2012 relatif à la gestion budgétaire et comptable publique. 
 
 Les dispositions du présent article sont applicables aux décisions du directeur général prises sur délégation du conseil
 d'administration.
 
 **Liens relatifs à cet article**
 
-	**Anciens textes**:
-
-	  - Décret n°2002-90 du 16 janvier 2002 - art. 11 (Ab)
-
-	**Créé par**:
-
-	  - Décret n°2011-574 du 24 mai 2011  - art.
-
 	**Codifié par**:
 
 	  - Décret n°2011-574 du 24 mai 2011 Annexe - art.
+
+	**Cite**:
+
+	  - Décret n°2012-1246 du 7 novembre 2012
+	  - Code du patrimoine - art. R545-35
+
+	**Modifié par**:
+
+	  - Décret n°2012-1247 du 7 novembre 2012 - art. 34
 
 
 ###### Article R545-40
@@ -33816,28 +33811,22 @@ gestion du fonds.
 
 ###### Article R545-43
 
-Le directeur général peut, dans l'intervalle des séances du conseil d'administration, apporter au budget, avec l'accord du
-membre du corps du contrôle général économique et financier, des modifications ne comportant ni accroissement du niveau des
-effectifs du personnel sous contrat à durée indéterminée ou du montant total des dépenses, ni réduction du montant total des
-recettes, ni virement de crédits entre la section des opérations en capital et la section de fonctionnement.
-
-Ces décisions peuvent concerner des virements de crédits entre les crédits à répartir et la section de fonctionnement.
-
-Elles sont ratifiées par le conseil d'administration lors de la première séance qui suit leur signature.
+L'institut est soumis aux dispositions des titres Ier et III du décret n° 2012-1246 du 7 novembre 2012 relatif à la gestion
+budgétaire et comptable publique.
 
 **Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°2002-90 du 16 janvier 2002 - art. 13 (Ab), alinéa 10.
-
-	**Créé par**:
-
-	  - Décret n°2011-574 du 24 mai 2011  - art.
 
 	**Codifié par**:
 
 	  - Décret n°2011-574 du 24 mai 2011 Annexe - art.
+
+	**Cite**:
+
+	  - Décret n°2012-1246 du 7 novembre 2012
+
+	**Modifié par**:
+
+	  - Décret n°2012-1247 du 7 novembre 2012 - art. 34
 
 
 ###### Article R545-44
@@ -34111,41 +34100,16 @@ réglementation applicable aux fonctionnaires de l'Etat.
 
 ###### Article R545-53
 
-L'agent comptable est nommé par arrêté conjoint des ministres chargés du budget, de la culture et de la recherche. Des agents
-comptables secondaires peuvent être nommés, dans les mêmes conditions, sur avis conforme de l'agent comptable.
+Des agents comptables secondaires peuvent être nommés par arrêté conjoint des ministres chargés du budget, de la culture et
+de la recherche, sur avis conforme de l'agent comptable.
 
 **Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°2002-90 du 16 janvier 2002 - art. 21 (Ab)
-
-	**Créé par**:
-
-	  - Décret n°2011-574 du 24 mai 2011  - art.
 
 	**Codifié par**:
 
 	  - Décret n°2011-574 du 24 mai 2011 Annexe - art.
 
-
-###### Article R545-54
-
-Un membre du corps du contrôle général économique et financier, placé sous l'autorité du ministre chargé du budget, exerce le
-contrôle financier de l'établissement dans les conditions fixées par arrêté conjoint du ministre chargé de la culture, du
-ministre chargé de la recherche et du ministre chargé du budget.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°2002-90 du 16 janvier 2002 - art. 22 (Ab)
-
-	**Créé par**:
-
-	  - Décret n°2011-574 du 24 mai 2011  - art.
-
-	**Abrogé par**:
+	**Modifié par**:
 
 	  - Décret n°2012-1247 du 7 novembre 2012 - art. 34
 
@@ -37979,29 +37943,25 @@ récolement pour les immeubles inscrits.
 
 Les décisions de classement ou de déclassement sont publiées par le ministre chargé de la culture au Bulletin officiel du
 ministère. Les arrêtés d'inscription ou de radiation d'inscription sont publiés au recueil des actes administratifs de la
-préfecture de région.
+préfecture de région. 
 
 La liste des immeubles classés, déclassés, inscrits ou radiés au cours d'une année est publiée au Journal officiel de la
-République française avant l'expiration du premier semestre de l'année suivante.
+République française avant l'expiration du premier semestre de l'année suivante. 
 
 Les décisions de classement ou d'inscription, de déclassement ou de radiation d'inscription sont publiées par les soins du
-préfet de région au bureau des hypothèques de la situation de l'immeuble classé ou inscrit. Cette publication, qui ne donne
+préfet de région   au fichier immobilier de la situation de l'immeuble classé ou inscrit. Cette publication, qui ne donne
 lieu à aucune perception au profit du Trésor, est faite dans les formes et de la manière prescrites par les lois et
 règlements concernant la publicité foncière.
 
 **Liens relatifs à cet article**
 
-	**Anciens textes**:
-
-	  - Décret n°2007-487 du 30 mars 2007 - art. 42 (Ab)
-
-	**Créé par**:
-
-	  - Décret n°2011-574 du 24 mai 2011  - art.
-
 	**Codifié par**:
 
 	  - Décret n°2011-574 du 24 mai 2011 Annexe - art.
+
+	**Modifié par**:
+
+	  - Décret n°2012-1462 du 26 décembre 2012 - art. 35
 
 
 ###### Article R621-81
