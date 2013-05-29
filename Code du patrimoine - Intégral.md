@@ -1,5 +1,5 @@
 # Code du patrimoine  
-Version Consolidée au 2013-05-25
+Version Consolidée au 2013-05-30
 
 # Partie législative
 
@@ -8576,20 +8576,19 @@ pénal.
 ###### Article L544-8
 
 Les infractions mentionnées à la présente section sont recherchées et constatées par les officiers et agents de police
-judiciaire, les agents de police judiciaire adjoints, les administrateurs des affaires maritimes, les inspecteurs des
-affaires maritimes, les officiers du corps technique et administratif des affaires maritimes, les personnels embarqués
-d'assistance et de surveillance des affaires maritimes, les agents des douanes, les agents du ministre chargé de la culture
-spécialement assermentés et commissionnés à cet effet dans des conditions fixées par décret en Conseil d'Etat, les
-commandants, commandants en second ou officiers en second des bâtiments de la marine nationale, les contrôleurs des affaires
-maritimes, les techniciens du contrôle des établissements de pêche, les guetteurs sémaphoriques, les syndics des gens de mer
-et, en outre, dans les ports, les officiers de port et les officiers de port adjoints.
+judiciaire, les agents de police judiciaire adjoints, les administrateurs des affaires maritimes, les fonctionnaires affectés
+dans les services exerçant des missions de contrôle dans le domaine des affaires maritimes sous l'autorité ou à la
+disposition du ministre chargé de la mer, les officiers du corps technique et administratif des affaires maritimes, les
+agents des douanes, les agents du ministre chargé de la culture spécialement assermentés et commissionnés à cet effet dans
+des conditions fixées par décret en Conseil d'Etat, les commandants, commandants en second ou officiers en second des
+bâtiments de la marine nationale, les guetteurs sémaphoriques et, en outre, dans les ports, les officiers de port et les
+officiers de port adjoints.
 
 **Liens relatifs à cet article**
 
 	**Anciens textes**:
 
 	  - Loi n°89-874 du 1 décembre 1989 - art. 17 (Ab)
-	  - Loi n°1941-09-27 art. 17
 
 	**Cité par**:
 
@@ -8599,7 +8598,11 @@ et, en outre, dans les ports, les officiers de port et les officiers de port adj
 
 	**Codifié par**:
 
-	  - Ordonnance 2004-178 2004-02-20 JORF 24 février 2004
+	  - Ordonnance n°2004-178 du 20 février 2004
+
+	**Modifié par**:
+
+	  - Loi n°2013-431 du 28 mai 2013 - art. 31
 
 
 ###### Article L544-9
