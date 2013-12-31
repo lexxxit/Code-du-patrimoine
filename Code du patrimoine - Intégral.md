@@ -1,5 +1,5 @@
 # Code du patrimoine  
-Version Consolidée au 2013-07-01
+Version Consolidée au 2014-01-01
 
 # Partie législative
 
@@ -2149,8 +2149,7 @@ présent code, ainsi que pour la conservation de biens dans les conditions prév
 Elle peut également acquérir les biens mentionnés au troisième alinéa lorsque cette acquisition est nécessaire aux actions de
 sauvegarde qu'elle met en place. 
 
-Elle peut attribuer un label au patrimoine non protégé et aux sites. Ce label peut être pris en compte pour l'octroi de
-l'agrément prévu au 1° ter du II de l'article 156 du code général des impôts.
+Elle peut attribuer un label au patrimoine non protégé et aux sites.
 
 **Liens relatifs à cet article**
 
@@ -2160,11 +2159,7 @@ l'agrément prévu au 1° ter du II de l'article 156 du code général des impô
 
 	**Codifié par**:
 
-	  - Ordonnance 2004-178 2004-02-20 JORF 24 février 2004
-
-	**Modifié par**:
-
-	  - Loi n°2006-1666 du 21 décembre 2006 - art. 10 (V) JORF 27 décembre 2006
+	  - Ordonnance n°2004-178 du 20 février 2004
 
 	**Cité par**:
 
@@ -2176,6 +2171,10 @@ l'agrément prévu au 1° ter du II de l'article 156 du code général des impô
 	  - Code général des impôts, CGI. - art. 156 (VT)
 	  - Code général des impôts, CGI. - art. 156 bis (VD)
 	  - Code général des impôts, CGI. - art. 199 octovicies (VD)
+
+	**Modifié par**:
+
+	  - Loi n°2013-1278 du 29 décembre 2013 - art. 26
 
 	**Liens**:
 
@@ -12123,7 +12122,10 @@ prononcée, après enquête publique puis accord du préfet, par délibération 
 premier alinéa de l'article L. 642-1. 
 
 La modification de l'aire de mise en valeur de l'architecture et du patrimoine emporte, le cas échéant, la modification du
-plan local d'urbanisme.
+plan local d'urbanisme. 
+
+Une aire de mise en valeur de l'architecture et du patrimoine peut être adaptée dans les conditions définies à l'article L.
+300-6-1 du code de l'urbanisme.
 
 **Liens relatifs à cet article**
 
@@ -12133,16 +12135,21 @@ plan local d'urbanisme.
 
 	**Modifié par**:
 
-	  - Loi n°2010-788 du 12 juillet 2010 - art. 28
+	  - Ordonnance n°2013-888 du 3 octobre 2013 - art. 5
+
+	**Abrogé par**:
+
+	  - Loi n°2016-925 du 7 juillet 2016 - art. 77
+
+	**Cite**:
+
+	  - Code de l'urbanisme - art. L300-6-1 (M)
+	  - Code du patrimoine - art. L642-1
 
 	**Cité par**:
 
 	  - Code de l'urbanisme - art. R*315-18 (Ab)
 	  - Code de l'urbanisme - art. R*442-11-1 (Ab)
-
-	**Cite**:
-
-	  - Code du patrimoine. - art. L642-1 (V)
 
 
 ###### Article L642-5
@@ -12316,22 +12323,28 @@ l'engagement de l'enquête.
 
 La révision d'une zone de protection du patrimoine architectural, urbain et paysager créée antérieurement à la date d'entrée
 en vigueur de la loi n° 2010-788 du 12 juillet 2010 précitée est instruite selon les dispositions du présent chapitre et
-conduit à l'établissement d'une aire de mise en valeur de l'architecture et du patrimoine.
+conduit à l'établissement d'une aire de mise en valeur de l'architecture et du patrimoine. 
+
+Les zones de protection du patrimoine architectural, urbain et paysager créées avant la date d'entrée en vigueur de la loi n°
+2010-788 du 12 juillet 2010 précitée peuvent être adaptées dans les conditions définies à l'article L. 300-6-1 du code de
+l'urbanisme. Cette adaptation ne conduit pas à l'établissement d'une aire de mise en valeur de l'architecture et du
+patrimoine.
 
 **Liens relatifs à cet article**
 
 	**Cite**:
 
 	  - Loi n°2010-788 du 12 juillet 2010
-
-	**Modifié par**:
-
-	  - Loi n°2011-665 du 15 juin 2011 - art. 2
+	  - Code de l'urbanisme - art. L300-6-1
 
 	**Cité par**:
 
 	  - Décret n°2011-1903 du 19 décembre 2011 (V)
 	  - Code de la construction et de l'habitation. - art. D511-13-1 (M)
+
+	**Modifié par**:
+
+	  - Ordonnance n°2013-888 du 3 octobre 2013 - art. 5
 
 
 ###### Article L642-9
