@@ -1,5 +1,5 @@
 # Code du patrimoine  
-Version Consolidée au 2014-01-01
+Version Consolidée au 2014-02-14
 
 # Partie législative
 
@@ -16502,26 +16502,22 @@ initialement fixée pour les enchères.
 
 Si le ministre chargé de la culture entend se réserver la faculté d'user du droit de préemption prévu aux articles L. 123-1
 et L. 123-2, son représentant doit, aussitôt prononcée l'adjudication de l'objet mis en vente, en faire la déclaration à
-l'officier public ou ministériel chargé de procéder à la vente publique des biens ou à la société habilitée à organiser une
-telle vente.
+l'officier public ou ministériel                  ou à l'opérateur de vente volontaire chargé de procéder à la vente publique
+des biens.
 
 **Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°2001-650 du 19 juillet 2001 - art. 65 (Ab), alinéa 1.
-
-	**Créé par**:
-
-	  - Décret n°2011-574 du 24 mai 2011  - art.
 
 	**Codifié par**:
 
 	  - Décret n°2011-574 du 24 mai 2011 Annexe - art.
 
+	**Modifié par**:
+
+	  - Décret n°2014-119 du 11 février 2014 - art. 4
+
 	**Cite**:
 
-	  - Code du patrimoine. - art. L123-1 (V)
+	  - Code du patrimoine - art. L123-1
 
 	**Cité par**:
 
@@ -16531,29 +16527,26 @@ telle vente.
 
 ###### Article R123-7
 
-En cas de vente aux enchères publiques à distance par voie électronique, la société organisatrice procède, à la clôture de la
-vente, à l'information du ministre chargé de la culture sur la désignation des biens adjugés, leur prix d'adjudication, le
-jour et l'heure de la clôture de la vente. Le représentant du ministre chargé de la culture doit, dans un délai de quatre
-heures à compter de la réception du résultat de l'adjudication, faire par tous moyens appropriés la déclaration prévue à
-l'article R. 123-6 à la société organisatrice.
+En cas de vente aux enchères publiques à distance par voie électronique,  l'officier public ou ministériel ou l'opérateur de
+vente volontaire organisateur de la vente procède, à la clôture de la vente, à l'information du ministre chargé de la culture
+sur la désignation des biens adjugés, leur prix d'adjudication, le jour et l'heure de la clôture de la vente. Le représentant
+du ministre chargé de la culture doit, dans un délai de quatre heures à compter de la réception du résultat de
+l'adjudication, faire par tous moyens appropriés la déclaration prévue à l'article R. 123-6 à  l'officier public ou
+ministériel ou l'opérateur de vente volontaire organisateur de la vente.
 
 **Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°2001-650 du 19 juillet 2001 - art. 65 (Ab), alinéa 2.
-
-	**Créé par**:
-
-	  - Décret n°2011-574 du 24 mai 2011  - art.
 
 	**Codifié par**:
 
 	  - Décret n°2011-574 du 24 mai 2011 Annexe - art.
 
+	**Modifié par**:
+
+	  - Décret n°2014-119 du 11 février 2014 - art. 4
+
 	**Cite**:
 
-	  - Code du patrimoine. - art. R123-6 (V)
+	  - Code du patrimoine - art. R123-6
 
 
 ###### Article R123-8
@@ -18206,7 +18199,7 @@ l'audiovisuel ou les organismes habilités et dont l'usage est strictement rése
 
 ##### Section 5 : Dispositions diverses
 
-###### Article R132-48
+###### Article R132-44
 
 En application de l'article L. 132-1, les envois par la poste relatifs à la mise en œuvre des obligations résultant du
 présent titre sont admis en franchise postale dans les conditions fixées par arrêté conjoint des ministres chargés de la
@@ -18214,62 +18207,38 @@ poste et de la culture.
 
 **Liens relatifs à cet article**
 
-	**Anciens textes**:
+	**Modifié par**:
 
-	  - Décret n°93-1429 du 31 décembre 1993 - art. 43 (Ab)
-
-	**Créé par**:
-
-	  - Décret n°2011-574 du 24 mai 2011  - art.
-
-	**Codifié par**:
-
-	  - Décret n°2011-574 du 24 mai 2011 Annexe - art.
-
-	**Liens**:
-
-	  - TRANSFERE: Décret n°2014-119 du 11 février 2014 - art. 4
+	  - Décret n°2014-119 du 11 février 2014 - art. 4
 
 	**Cite**:
 
 	  - Code du patrimoine - art. L132-1
 
-	**Nouveaux textes**:
+	**Anciens textes**:
 
-	  - Code du patrimoine. - art. R132-44 (V)
+	  - Code du patrimoine. - art. R132-48 (T)
 
 
-###### Article R132-49
+###### Article R132-45
 
-Les déclarations mentionnées aux articles R. 131-6, 
-R. 132-8 et R. 132-47 peuvent être librement consultées par les déposants, les auteurs et leurs ayants cause respectifs.
+Les déclarations mentionnées aux articles R. 131-6 et R. 132-8 peuvent être librement consultées par les déposants, les
+auteurs et leurs ayants cause respectifs.
 
 **Liens relatifs à cet article**
 
-	**Anciens textes**:
+	**Modifié par**:
 
-	  - Décret n°93-1429 du 31 décembre 1993 - art. 44 (Ab)
-
-	**Créé par**:
-
-	  - Décret n°2011-574 du 24 mai 2011  - art.
-
-	**Codifié par**:
-
-	  - Décret n°2011-574 du 24 mai 2011 Annexe - art.
-
-	**Liens**:
-
-	  - TRANSFERE: Décret n°2014-119 du 11 février 2014 - art. 4
+	  - Décret n°2014-119 du 11 février 2014 - art. 4
 
 	**Cite**:
 
 	  - Code du patrimoine - art. R131-6
 	  - Code du patrimoine - art. R132-8
 
-	**Nouveaux textes**:
+	**Anciens textes**:
 
-	  - Code du patrimoine. - art. R132-45 (V)
+	  - Code du patrimoine. - art. R132-49 (T)
 
 
 #### Chapitre III : Dispositions pénales
@@ -18279,44 +18248,44 @@ R. 132-8 et R. 132-47 peuvent être librement consultées par les déposants, le
 Sont punis de l'amende prévue pour les contraventions de la cinquième classe et, en cas de récidive, de l'amende prévue pour
 les contraventions de la cinquième classe en récidive : 
 
-1° Ceux qui n'accompagnent pas le dépôt de leur déclaration, dûment remplie, prévue aux articles R. 131-6 et R. 132-47 ; 
+1° Ceux qui n'accompagnent pas le dépôt de leur déclaration, dûment remplie, prévue à l'article R. 131-6 ; 
 
 2° Ceux qui n'accompagnent pas le dépôt des pièces, fiches, documents et matériels prévus par les articles R. 132-13, R.
 132-14, R. 132-21, R. 132-22, R. 132-27, R. 132-30, R. 132-40 ; 
 
 3° Ceux qui ne font pas figurer sur les documents soumis à l'obligation de dépôt les mentions obligatoires prévues par le
-présent titre et les arrêtés d'application prévus par les articles R. 131-7, R. 132-8, R. 132-14, R. 132-22, R. 132-32, R.
-132-40, R. 132-46 ; 
+présent titre et les arrêtés d'application prévus par les articles R. 131-7, R. 132-8, R. 132-14, R. 132-22, R. 132-32, et R.
+132-40 ; 
 
 4° Ceux qui ne déposent pas des documents répondant aux normes de qualité permettant d'atteindre les objectifs prévus par les
-articles R. 132-8, R. 132-13, R. 132-21, R. 132-28, R. 132-29, R. 132-30, R. 132-39 et R. 132-44.
+articles R. 132-8, R. 132-13, R. 132-21, R. 132-28, R. 132-29, R. 132-30 et R. 132-39.
 
 **Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°93-1429 du 31 décembre 1993 - art. 45 (Ab)
-
-	**Cité par**:
-
-	  - Code du cinéma et de l'image animée - art. R241-1 (V)
 
 	**Codifié par**:
 
 	  - Décret n°2011-574 du 24 mai 2011 Annexe - art.
 
+	**Cité par**:
+
+	  - Code du cinéma et de l'image animée - art. R241-1 (V)
+
 	**Modifié par**:
 
-	  - Décret n°2011-1904 du 19 décembre 2011 - art. 20
+	  - Décret n°2014-119 du 11 février 2014 - art. 4
 
 	**Cite**:
 
 	  - Code du patrimoine - art. R131-6
 	  - Code du patrimoine - art. R132-13
+	  - Code du patrimoine - art. R132-14
 	  - Code du patrimoine - art. R132-21
+	  - Code du patrimoine - art. R132-22
 	  - Code du patrimoine - art. R132-27
 	  - Code du patrimoine - art. R132-30
+	  - Code du patrimoine - art. R132-32
 	  - Code du patrimoine - art. R132-40
+	  - Code du patrimoine - art. R132-8
 
 
 ### TITRE IV : INSTITUTIONS RELATIVES  AU PATRIMOINE CULTUREL
@@ -22716,34 +22685,31 @@ relative aux archives et aux dispositions de la présente section.
 
 Lorsque le ministre chargé de la culture entend exercer sur des archives privées passant en vente publique le droit de
 préemption défini par l'article L. 212-32, son représentant doit, aussitôt prononcée l'adjudication des archives mises en
-vente, en faire la déclaration à l'officier public ou ministériel chargé de procéder à la vente publique des biens ou à la
-société habilitée à organiser une telle vente. 
+vente, en faire la déclaration à l'officier public ou ministériel ou à l'opérateur de vente volontaire chargé de procéder à
+la vente publique des biens. 
 
-En cas de vente aux enchères publiques à distance par voie électronique, la société organisatrice procède, à la clôture de la
-vente, à l'information du ministre chargé de la culture sur la désignation des biens adjugés, leur prix d'adjudication, le
-jour et l'heure de la clôture de la vente. Le représentant du ministre chargé de la culture doit, dans un délai de quatre
-heures à compter de la réception du résultat de l'adjudication, faire par tous moyens appropriés la déclaration prévue à
-l'alinéa précédent à la société organisatrice. 
+En cas de vente aux enchères publiques à distance par voie électronique,  l'officier public ou ministériel ou l'opérateur de
+vente volontaire organisateur de la vente procède, à la clôture de la vente, à l'information du ministre chargé de la culture
+sur la désignation des biens adjugés, leur prix d'adjudication, le jour et l'heure de la clôture de la vente. Le représentant
+du ministre chargé de la culture doit, dans un délai de quatre heures à compter de la réception du résultat de
+l'adjudication, faire par tous moyens appropriés la déclaration prévue à l'alinéa précédent à  l'officier public ou
+ministériel ou l'opérateur de vente volontaire organisateur de la vente. 
 
 Dans tous les cas, il est fait mention de cette déclaration au procès-verbal de la vente.
 
 **Liens relatifs à cet article**
 
-	**Anciens textes**:
-
-	  - Décret n°79-1040 du 3 décembre 1979 - art. 13 (Ab)
-
-	**Créé par**:
-
-	  - Décret n°2011-574 du 24 mai 2011  - art.
-
 	**Codifié par**:
 
 	  - Décret n°2011-574 du 24 mai 2011 Annexe - art.
 
+	**Modifié par**:
+
+	  - Décret n°2014-119 du 11 février 2014 - art. 4
+
 	**Cite**:
 
-	  - Code du patrimoine. - art. L212-32 (V)
+	  - Code du patrimoine - art. L212-32
 
 	**Cité par**:
 
@@ -24039,176 +24005,6 @@ mentionnés à l'article R. 221-1 du code du tourisme.
 
 #### Chapitre Ier : Musées nationaux relevant du ministère  chargé de la culture
 
-###### Article D421-2
-
-Les musées nationaux ci-après sont soumis, en matière de projets d'acquisitions, de prêts et de dépôts, aux dispositions
-prévues par les articles R. 422-5 et R. 423-1 à D. 423-18 : 
-
-1° Le musée du Louvre, comprenant les départements des antiquités grecques, étrusques et romaines, des antiquités
-égyptiennes, des antiquités orientales, le département des peintures, le département des sculptures du Moyen Age, de la
-Renaissance et des Temps modernes, le département des objets d'art du Moyen Age, de la Renaissance et des Temps modernes, le
-département des arts graphiques, le département des arts de l'Islam ; 
-
-2° Le musée de l'Orangerie des Tuileries (collection Walter Guillaume et Nymphéas de Claude Monet) ; 
-
-3° Le musée du Moyen Age-thermes et hôtel de Cluny ; 
-
-4° Le musée de la céramique à Sèvres ; 
-
-5° Le musée des arts asiatiques Guimet ; 
-
-6° Le musée des civilisations de l'Europe et de la Méditerranée ; 
-
-7° Le musée des châteaux de Versailles et de Trianon ; 
-
-8° La salle du Jeu de Paume à Versailles (annexe du musée des châteaux de Versailles et de Trianon) ; 
-
-9° Le musée des carrosses (annexe du musée des châteaux de Versailles et de Trianon) ; 
-
-10° Le musée d'archéologie nationale (des origines à l'an mille)-château de Saint-Germain-en-Laye ; 
-
-11° Le musée des châteaux de Malmaison et de Bois-Préau ; 
-
-12° Le musée de la maison Bonaparte à Ajaccio (annexe du musée de Malmaison) ; 
-
-13° Le musée du château de Compiègne ; 
-
-14° Le musée de la voiture et du tourisme à Compiègne (annexe du musée du château de Compiègne) ; 
-
-15° Le musée du château de Fontainebleau ; 
-
-16° Le musée du château de Pau ; 
-
-17° Le musée franco-américain du château de Blérancourt ; 
-
-18° Le musée Gustave Moreau ; 
-
-19° Le musée d'Ennery ; 
-
-20° Le musée Rodin ; 
-
-21° Le musée Jean-Jacques Henner ; 
-
-22° Le musée Magnin à Dijon ; 
-
-23° Le musée Adrien Dubouché à Limoges ; 
-
-24° Le musée Clemenceau et de Lattre de Tassigny à Mouilleron-en-Pareds ; 
-
-25° Le musée napoléonien et le musée africain de l'île d'Aix, fondation Gourgaud (annexe du musée de Malmaison) ; 
-
-26° Le musée Fernand Léger à Biot ; 
-
-27° Le musée Marc Chagall à Nice ; 
-
-28° Le musée Eugène Delacroix ; 
-
-29° Le musée de Vallauris (La Guerre et la Paix de Picasso) ; 
-
-30° Le musée de Port-Royal des Champs à Magny-les-Hameaux ; 
-
-31° Le musée de préhistoire des Eyzies-de-Tayac ; 
-
-32° Le musée de la Renaissance-château d'Ecouen ; 
-
-33° Le musée Hébert ; 
-
-34° Le musée Picasso à Paris ; 
-
-35° Le musée d'Orsay.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°2011-574 du 24 mai 2011 Annexe - art.
-
-	**Modifié par**:
-
-	  - Décret n°2012-462 du 6 avril 2012 - art. 24
-
-	**Cité par**:
-
-	  - Décret n°2013-157  du 21 février 2013 - art. 6 (V)
-	  - Code du patrimoine. - art. D423-6 (M)
-	  - Code du patrimoine. - art. D423-9 (V)
-
-	**Liens**:
-
-	  - TRANSFERE: Décret n°2014-119 du 11 février 2014 - art. 4
-
-	**Cite**:
-
-	  - Code du patrimoine - art. R422-5
-	  - Code du patrimoine - art. R423-1
-
-	**Nouveaux textes**:
-
-	  - Code du patrimoine. - art. R421-2 (V)
-
-
-###### Article D421-3
-
-Les musées nationaux ci-après sont soumis, en matière de projets d'acquisitions, aux dispositions de l'article R. 422-5 :
-
-1° Le musée du quai Branly ; 
-
-2° Le musée de la musique (Cité de la musique) ; 
-
-3° Le musée national de l'histoire de l'immigration (Cité nationale de l'histoire de l'immigration).
-
-**Liens relatifs à cet article**
-
-	**Créé par**:
-
-	  - Décret n°2011-574 du 24 mai 2011  - art.
-
-	**Codifié par**:
-
-	  - Décret n°2011-574 du 24 mai 2011 Annexe - art.
-
-	**Liens**:
-
-	  - TRANSFERE: Décret n°2014-119 du 11 février 2014 - art. 4
-
-	**Cite**:
-
-	  - Code du patrimoine - art. R422-5
-
-	**Nouveaux textes**:
-
-	  - Code du patrimoine. - art. R421-3 (V)
-
-
-###### Article D421-4
-
-Les autres musées nationaux relevant du ministère chargé de la culture sont :
-
-1° Le musée national d'art moderne (Centre national d'art et de culture Georges Pompidou) ;
-
-2° Le musée des monuments français (Cité de l'architecture et du patrimoine) ;
-
-3° Le musée des plans et reliefs.
-
-**Liens relatifs à cet article**
-
-	**Créé par**:
-
-	  - Décret n°2011-574 du 24 mai 2011  - art.
-
-	**Codifié par**:
-
-	  - Décret n°2011-574 du 24 mai 2011 Annexe - art.
-
-	**Liens**:
-
-	  - TRANSFERE: Décret n°2014-119 du 11 février 2014 - art. 4
-
-	**Nouveaux textes**:
-
-	  - Code du patrimoine. - art. R421-4 (V)
-
-
 ###### Article D421-5
 
 La liste des textes relatifs aux musées nationaux ayant le statut d'établissement public est fixée à l'annexe 3 du présent
@@ -24252,11 +24048,174 @@ La liste des musées nationaux est fixée par décret, sur proposition du minist
 	  - Code du patrimoine. - art. R451-29 (V)
 
 
+###### Article R421-2
+
+Les musées nationaux ci-après sont soumis, en matière de projets d'acquisitions, de prêts et de dépôts, aux dispositions
+prévues par les articles R. 422-5 et R. 423-1 à D. 423-18 : 
+
+1° Le musée du Louvre, comprenant les départements des antiquités grecques, étrusques et romaines, des antiquités
+égyptiennes, des antiquités orientales, le département des peintures, le département des sculptures du Moyen Age, de la
+Renaissance et des Temps modernes, le département des objets d'art du Moyen Age, de la Renaissance et des Temps modernes, le
+département des arts graphiques, le département des arts de l'Islam ; 
+
+2° Le musée de l'Orangerie des Tuileries (collection Walter Guillaume et Nymphéas de Claude Monet) ; 
+
+3° Le musée du Moyen Age - thermes et hôtel de Cluny ; 
+
+4° Le musée de la céramique à Sèvres ; 
+
+5° Le musée des arts asiatiques Guimet ; 
+
+6° Le musée des civilisations de l'Europe et de la Méditerranée ; 
+
+7° Le musée des châteaux de Versailles et de Trianon ; 
+
+8° La salle du Jeu de Paume à Versailles (annexe du musée des châteaux de Versailles et de Trianon) ; 
+
+9° Le musée des carrosses (annexe du musée des châteaux de Versailles et de Trianon) ; 
+
+10° Le musée d'archéologie nationale (des origines à l'an mille) - château de Saint-Germain-en-Laye ; 
+
+11° Le musée des châteaux de Malmaison et de Bois-Préau ; 
+
+12° Le musée de la maison Bonaparte à Ajaccio (annexe du musée de Malmaison) ; 
+
+13° Le musée du château de Compiègne ; 
+
+14° Le musée de la voiture et du tourisme à Compiègne (annexe du musée du château de Compiègne) ; 
+
+15° Le musée du château de Fontainebleau ; 
+
+16° Le musée du château de Pau ; 
+
+17° Le musée franco-américain du château de Blérancourt ; 
+
+18° Le musée Gustave Moreau ; 
+
+19° Le musée d'Ennery ; 
+
+20° Le musée Rodin ; 
+
+21° Le musée Jean-Jacques Henner ; 
+
+22° Le musée Magnin à Dijon ; 
+
+23° Le musée Adrien Dubouché à Limoges ; 
+
+24° Le musée Clemenceau et de Lattre de Tassigny à Mouilleron-en-Pareds ; 
+
+25° Le musée napoléonien et le musée africain de l'île d'Aix, fondation Gourgaud (annexe du musée de Malmaison) ; 
+
+26° Le musée Fernand Léger à Biot ; 
+
+27° Le musée Marc Chagall à Nice ; 
+
+28° Le musée Eugène Delacroix ; 
+
+29° Le musée de Vallauris (La Guerre et la Paix de Picasso) ; 
+
+30° Le musée de Port-Royal des Champs à Magny-les-Hameaux ; 
+
+31° Le musée de préhistoire des Eyzies-de-Tayac ; 
+
+32° Le musée de la Renaissance - château d'Ecouen ; 
+
+33° Le musée Hébert ; 
+
+34° Le musée Picasso à Paris ; 
+
+35° Le musée d'Orsay.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2014-119 du 11 février 2014 - art. 4
+
+	**Cité par**:
+
+	  - Code du patrimoine - art. D423-6 (V)
+
+	**Anciens textes**:
+
+	  - Code du patrimoine. - art. D421-2 (T)
+
+
+###### Article R421-3
+
+Les musées nationaux ci-après sont soumis, en matière de projets d'acquisitions, aux dispositions de l'article R. 422-5 :
+
+1° Le musée du quai Branly ; 
+
+2° Le musée de la musique (Cité de la musique) ; 
+
+3° Le musée national de l'histoire de l'immigration (Cité nationale de l'histoire de l'immigration).
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2014-119 du 11 février 2014 - art. 4
+
+	**Anciens textes**:
+
+	  - Code du patrimoine. - art. D421-3 (T)
+
+
+###### Article R421-4
+
+Les autres musées nationaux relevant du ministère chargé de la culture sont :
+
+1° Le musée national d'art moderne (Centre national d'art et de culture Georges Pompidou) ;
+
+2° Le musée des monuments français (Cité de l'architecture et du patrimoine) ;
+
+3° Le musée des plans et reliefs.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2014-119 du 11 février 2014 - art. 4
+
+	**Anciens textes**:
+
+	  - Code du patrimoine. - art. D421-4 (T)
+
+
 #### Chapitre II : Conseil et expertise
 
 ##### Section 1 : Grands départements patrimoniaux
 
-###### Article D422-2
+###### Article R422-1
+
+La liste des grands départements patrimoniaux est fixée par décret, sur proposition du ministre chargé de la culture.
+
+Les grands départements remplissent à la demande du responsable du service des musées de France à la direction générale des
+patrimoines, des missions d'étude, de recherche et de conseil dans le domaine de l'histoire de l'art et de la conservation
+des biens culturels. Ils remplissent en outre les missions relatives aux collections placées sous leur responsabilité.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Décret n°45-2075 du 31 août 1945 - art. 2 (V), alinéa 2.
+
+	**Créé par**:
+
+	  - Décret n°2011-574 du 24 mai 2011  - art.
+
+	**Codifié par**:
+
+	  - Décret n°2011-574 du 24 mai 2011 Annexe - art.
+
+	**Cité par**:
+
+	  - Décret n°2013-157  du 21 février 2013 - art. 3 (V)
+	  - Code du patrimoine. - art. D451-6 (V)
+
+
+###### Article R422-2
 
 Les grands départements sont ainsi dénommés :
 
@@ -24285,7 +24244,7 @@ Rothschild) ;
 
 12° Le département des arts et civilisations d'Afrique, d'Asie, d'Océanie et des Amériques (musée du quai Branly) ;
 
-13° Le département du xxe siècle (musée national d'art moderne du Centre national d'art et de culture Georges Pompidou, musée
+13° Le département du XXe siècle (musée national d'art moderne du Centre national d'art et de culture Georges Pompidou, musée
 national Picasso-Paris, musée de l'Orangerie, musée Fernand Léger à Biot, musée Marc Chagall à Nice) ;
 
 14° Le département des civilisations de l'Europe et de la Méditerranée ;
@@ -24294,59 +24253,13 @@ national Picasso-Paris, musée de l'Orangerie, musée Fernand Léger à Biot, mu
 
 **Liens relatifs à cet article**
 
-	**Anciens textes**:
-
-	  - Décret n°45-2075 du 31 août 1945 - art. 2 (V), alinéas 3 à 18.
-
 	**Créé par**:
 
-	  - Décret n°2011-574 du 24 mai 2011  - art.
-
-	**Codifié par**:
-
-	  - Décret n°2011-574 du 24 mai 2011 Annexe - art.
-
-	**Liens**:
-
-	  - TRANSFERE: Décret n°2014-119 du 11 février 2014 - art. 4
-
-	**Cité par**:
-
-	  - Code du patrimoine. - art. D451-4 (V)
-	  - Code du patrimoine. - art. R451-10 (V)
-	  - Code du patrimoine. - art. R451-7 (V)
-
-	**Nouveaux textes**:
-
-	  - Code du patrimoine. - art. R422-2 (V)
-
-
-###### Article R422-1
-
-La liste des grands départements patrimoniaux est fixée par décret, sur proposition du ministre chargé de la culture.
-
-Les grands départements remplissent à la demande du responsable du service des musées de France à la direction générale des
-patrimoines, des missions d'étude, de recherche et de conseil dans le domaine de l'histoire de l'art et de la conservation
-des biens culturels. Ils remplissent en outre les missions relatives aux collections placées sous leur responsabilité.
-
-**Liens relatifs à cet article**
+	  - Décret n°2014-119 du 11 février 2014 - art. 4
 
 	**Anciens textes**:
 
-	  - Décret n°45-2075 du 31 août 1945 - art. 2 (V), alinéa 2.
-
-	**Créé par**:
-
-	  - Décret n°2011-574 du 24 mai 2011  - art.
-
-	**Codifié par**:
-
-	  - Décret n°2011-574 du 24 mai 2011 Annexe - art.
-
-	**Cité par**:
-
-	  - Décret n°2013-157  du 21 février 2013 - art. 3 (V)
-	  - Code du patrimoine. - art. D451-6 (V)
+	  - Code du patrimoine. - art. D422-2 (T)
 
 
 ###### Article R422-3
@@ -24712,27 +24625,19 @@ code.
 
 ###### Article D423-6
 
-Les œuvres appartenant aux collections confiées à la garde des musées nationaux dont la liste est fixée à l'article D. 421-2
+Les œuvres appartenant aux collections confiées à la garde des musées nationaux dont la liste est fixée à l'article R. 421-2
 peuvent être prêtées pour des expositions temporaires à caractère culturel organisées, en France ou à l'étranger, par des
 personnes publiques ou des organismes de droit privé à vocation culturelle, agissant sans but lucratif.
 
 **Liens relatifs à cet article**
 
-	**Anciens textes**:
+	**Modifié par**:
 
-	  - Décret n°81-240 du 3 mars 1981 - art. 1 (Ab)
-
-	**Créé par**:
-
-	  - Décret n°2011-574 du 24 mai 2011  - art.
-
-	**Codifié par**:
-
-	  - Décret n°2011-574 du 24 mai 2011 Annexe - art.
+	  - Décret n°2014-119 du 11 février 2014 - art. 4
 
 	**Cite**:
 
-	  - Code du patrimoine. - art. D421-2 (V)
+	  - Code du patrimoine - art. R421-2 (V)
 
 	**Cité par**:
 
@@ -31894,31 +31799,6 @@ au profit de l'Etat.
 	**Cite**:
 
 	  - Code du patrimoine. - art. L532-11 (V)
-
-
-###### Article R532-20
-
-Le régime douanier des épaves s'applique aux biens culturels maritimes. Toutefois, ceux importés par l'Etat font l'objet
-d'une déclaration en douane particulière dont les conditions d'établissement et de dépôt sont fixées par le directeur général
-des douanes et de droits indirects.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°91-1226 du 5 décembre 1991 - art. 19 (Ab), ecqc directeur général des douanes.
-
-	**Créé par**:
-
-	  - Décret n°2011-574 du 24 mai 2011  - art.
-
-	**Codifié par**:
-
-	  - Décret n°2011-574 du 24 mai 2011 Annexe - art.
-
-	**Abrogé par**:
-
-	  - Décret n°2014-119 du 11 février 2014 - art. 4
 
 
 ### TITRE IV : DISPOSITIONS DIVERSES
@@ -40893,6 +40773,3160 @@ l'article 41 DO de l'annexe III au code général des impôts.
 	  - Code du patrimoine. - art. D720-12 (M)
 
 
+## LIVRE VII : DISPOSITIONS RELATIVES À L'OUTRE-MER
+
+### TITRE Ier : DISPOSITIONS PARTICULIÈRES EN GUADELOUPE,  EN GUYANE, EN MARTINIQUE ET À LA RÉUNION
+
+###### Article R710-1
+
+En Guadeloupe, en Guyane, en Martinique et à La Réunion, la commission scientifique régionale des collections des musées de
+France, prévue aux articles R. 451-7 et suivants et aux articles R. 452-5 et suivants, compétente en matière d'acquisition de
+biens culturels et de restauration des collections, comprend, outre le directeur des affaires culturelles, président : 
+
+1° Cinq personnes désignées, le cas échéant en dehors de la région, par le représentant de l'Etat, dont : 
+
+a) Trois parmi les professionnels mentionnés aux articles R. 442-5 et R. 442-6 ; 
+
+b) Deux personnalités choisies en raison de leurs compétences dans l'un des domaines scientifiques suivants : archéologie,
+art contemporain, arts décoratifs, arts graphiques, ethnologie, histoire, peinture, sciences de la nature et de la vie,
+sciences et techniques, sculpture ; 
+
+2° Une personne désignée par le directeur général des patrimoines au sein du service des musées de France à la direction
+générale des patrimoines ou du centre de recherche et de restauration des musées de France.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Décret n°2002-628 du 25 avril 2002 - art. 21, alinéas 1 à 5, ecqc GGMR  (Ab)
+
+	**Codifié par**:
+
+	  - Décret n°2014-119 du 11 février 2014 - art.
+
+	**Créé par**:
+
+	  - Décret n°2014-119 du 11 février 2014 - art.
+
+	**Liens**:
+
+	  - TRANSFERE: Décret n°2017-432 du 28 mars 2017 - art. 10
+
+	**Nouveaux textes**:
+
+	  - Code du patrimoine - art. R710-1-1 (VD)
+
+	**Cite**:
+
+	  - Code du patrimoine. - art. R442-5 (V)
+	  - Code du patrimoine. - art. R451-7 (V)
+	  - Code du patrimoine. - art. R452-5 (V)
+
+
+###### Article R710-2
+
+En cas d'urgence, l'avis sur les projets d'acquisition de biens culturels et de restauration des collections est donné par
+une délégation permanente composée du président de la commission scientifique régionale des collections des musées de France,
+d'un membre élu en son sein et du membre désigné par le directeur général des patrimoines.
+
+Le président de la commission rend compte des avis de la délégation lors de la réunion plénière suivante.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Décret n°2002-628 du 25 avril 2002 - art. 21, alinéa 6, ecqc GGMR  (Ab)
+
+	**Codifié par**:
+
+	  - Décret n°2014-119 du 11 février 2014 - art.
+
+	**Créé par**:
+
+	  - Décret n°2014-119 du 11 février 2014 - art.
+
+
+###### Article R710-3
+
+Pour l'application du livre V en Guadeloupe, en Guyane, en Martinique et à La Réunion, les attributions de la commission
+interrégionale de la recherche archéologique sont exercées par la commission interrégionale de la recherche archéologique de
+l'outre-mer.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°2014-119 du 11 février 2014 - art.
+
+	**Créé par**:
+
+	  - Décret n°2014-119 du 11 février 2014 - art.
+
+
+###### Article R710-4
+
+La commission interrégionale de la recherche archéologique de l'outre-mer comprend, outre son président, six membres
+compétents pour les recherches archéologiques, nommés par le représentant de l'Etat présidant la commission, sur proposition
+du directeur des affaires culturelles de la région dans laquelle la commission a son siège, à savoir :
+
+a) Quatre spécialistes, français ou étrangers, dont au moins un professeur, un maître de conférences des universités ou un
+membre des personnels qui leur sont assimilés, choisis en raison de leur compétence en matière de recherche scientifique
+outre-mer ;
+
+b) Un conservateur général du patrimoine, un conservateur du patrimoine, un ingénieur de recherche, un ingénieur d'étude ou
+un assistant ingénieur compétent en matière d'archéologie et affecté dans une direction régionale des affaires culturelles ou
+dans une direction des affaires culturelles, à la direction générale des patrimoines ou dans un service à compétence
+nationale en relevant ;
+
+c) Un agent de la filière scientifique et technique de l'Institut national de recherches archéologiques préventives, après
+avis du conseil scientifique de cet établissement public.
+
+Un inspecteur des patrimoines compétent en matière d'archéologie nommé par le ministre chargé de la culture assiste aux
+séances avec voix consultative.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Décret n°2007-823 du 11 mai 2007 - art. 20, ecqc GGMR  (Ab)
+
+	**Codifié par**:
+
+	  - Décret n°2014-119 du 11 février 2014 - art.
+
+	**Créé par**:
+
+	  - Décret n°2014-119 du 11 février 2014 - art.
+
+	**Cité par**:
+
+	  - Code du patrimoine - art. R790-6 (V)
+	  - Code du patrimoine. - art. R720-4 (V)
+	  - Code du patrimoine. - art. R730-4 (V)
+
+
+###### Article R710-5
+
+La commission régionale du patrimoine et des sites prévue à l'article R. 612-1 exerce, en Guadeloupe, en Guyane, en
+Martinique et à La Réunion, outre les missions qui lui sont confiées par cet article, les missions qui sont confiées par
+l'article R. 612-10 à la commission départementale des objets mobiliers.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Décret n°99-78 du 5 février 1999 - art. 17, alinéa 1, ecqc GGMR (Ab)
+
+	**Codifié par**:
+
+	  - Décret n°2014-119 du 11 février 2014 - art.
+
+	**Créé par**:
+
+	  - Décret n°2014-119 du 11 février 2014 - art.
+
+	**Abrogé par**:
+
+	  - Décret n°2017-456 du 29 mars 2017 - art. 6
+
+	**Cite**:
+
+	  - Code du patrimoine - art. R612-1
+	  - Code du patrimoine - art. R612-10
+
+
+###### Article R710-6
+
+La commission régionale du patrimoine et des sites comprend, en Guadeloupe, en Guyane, en Martinique et à La Réunion, vingt
+membres :
+
+1° Six membres de droit :
+
+a) Le représentant de l'Etat ;
+
+b) Le directeur des affaires culturelles ;
+
+c) Le directeur de l'environnement, de l'aménagement et du logement ;
+
+d) Le chef du service chargé des monuments historiques à la direction des affaires culturelles ;
+
+e) Le commandant du groupement de gendarmerie ;
+
+f) Le conservateur départemental des antiquités et objets d'art ;
+
+2° Quatorze membres nommés par le représentant de l'Etat pour une durée de quatre ans :
+
+a) Deux fonctionnaires de l'Etat, dont au moins un affecté à la direction des affaires culturelles, compétents dans le
+domaine des monuments historiques, de l'archéologie ou de l'inventaire général du patrimoine culturel ;
+
+b) Cinq titulaires d'un mandat électif national ou local ;
+
+c) Cinq personnalités qualifiées dans le domaine de l'architecture, de l'urbanisme, du paysage, du patrimoine ou de
+l'ethnologie ;
+
+d) Deux représentants d'associations ou de fondations ayant pour objet de favoriser la connaissance, la protection et la
+conservation du patrimoine.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Décret n°99-78 du 5 février 1999 - art. 17, alinéas 2 à 13, ecqc GGMR  (Ab)
+
+	**Codifié par**:
+
+	  - Décret n°2014-119 du 11 février 2014 - art.
+
+	**Créé par**:
+
+	  - Décret n°2014-119 du 11 février 2014 - art.
+
+	**Cité par**:
+
+	  - Code du patrimoine - art. R780-14 (V)
+	  - Code du patrimoine - art. R780-15 (Ab)
+	  - Code du patrimoine - art. R780-16 (Ab)
+	  - Code du patrimoine - art. R790-13 (M)
+	  - Code du patrimoine - art. R790-14 (Ab)
+	  - Code du patrimoine - art. R790-15 (Ab)
+	  - Code du patrimoine. - art. R710-7 (M)
+
+
+###### Article R710-7
+
+En Guadeloupe, en Guyane, en Martinique et à La Réunion, la délégation permanente de la commission régionale du patrimoine et
+des sites prévue à l'article R. 612-2 comprend sept membres : 
+
+1° Quatre membres de droit : 
+
+a) Le directeur des affaires culturelles ; 
+
+b) Les deux fonctionnaires mentionnés au a du 2° de l'article R. 710-6 ; 
+
+c) Le chef du service chargé des monuments historiques à la direction des affaires culturelles ; 
+
+2° Trois membres désignés par le représentant de l'Etat parmi les personnalités mentionnées aux b, c et d du 2° de l'article
+R. 710-6.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Décret n°99-78 du 5 février 1999 - art. 17-1, ecqc GGMR (Ab)
+
+	**Codifié par**:
+
+	  - Décret n°2014-119 du 11 février 2014 - art.
+
+	**Créé par**:
+
+	  - Décret n°2014-119 du 11 février 2014 - art.
+
+	**Cite**:
+
+	  - Code du patrimoine. - art. R612-2 (V)
+	  - Code du patrimoine. - art. R710-6 (V)
+
+
+###### Article R710-8
+
+Pour l'application en Guadeloupe, en Guyane, en Martinique et à La Réunion, de l'article R. 612-6 : 
+
+1° Au premier alinéa, le mot : " onze " est remplacé par le mot : " huit " ; 
+
+2° Le 3° est ainsi rédigé : 
+
+" Trois personnalités qualifiées choisies et désignées par le représentant de l'Etat parmi les membres de la commission
+mentionnés au c ou au d du 2° de l'article R. 710-6. "
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Décret n°99-78 du 5 février 1999 - art. 17-2, ecqc GGMR (Ab)
+
+	**Codifié par**:
+
+	  - Décret n°2014-119 du 11 février 2014 - art.
+
+	**Créé par**:
+
+	  - Décret n°2014-119 du 11 février 2014 - art.
+
+	**Abrogé par**:
+
+	  - Décret n°2017-456 du 29 mars 2017 - art. 6
+
+	**Cite**:
+
+	  - Code du patrimoine - art. R612-6
+
+
+###### Article R710-9
+
+Les articles R. 612-11 et R. 612-13 à R. 612-15 ne sont pas applicables en Guadeloupe, en Guyane, en Martinique et à La
+Réunion.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°2014-119 du 11 février 2014 - art.
+
+	**Créé par**:
+
+	  - Décret n°2014-119 du 11 février 2014 - art.
+
+	**Abrogé par**:
+
+	  - Décret n°2017-456 du 29 mars 2017 - art. 6
+
+	**Cite**:
+
+	  - Code du patrimoine - art. R612-11
+	  - Code du patrimoine - art. R612-13
+
+
+###### Article R710-10
+
+Pour l'application du livre VI en Guadeloupe, en Guyane, en Martinique et à La Réunion, les termes : " commission
+départementale des objets mobiliers " sont remplacés par les termes : " commission régionale du patrimoine et des sites ".
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°2014-119 du 11 février 2014 - art.
+
+	**Créé par**:
+
+	  - Décret n°2014-119 du 11 février 2014 - art.
+
+	**Abrogé par**:
+
+	  - Décret n°2017-456 du 29 mars 2017 - art. 6
+
+
+### TITRE II : DISPOSITIONS PARTICULIÈRES  À SAINT-PIERRE-ET-MIQUELON
+
+###### Article D720-2
+
+Les articles D. 122-1 à D. 122-4 ne sont pas applicables à Saint-Pierre-et-Miquelon.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°2014-119 du 11 février 2014 - art.
+
+	**Créé par**:
+
+	  - Décret n°2014-119 du 11 février 2014 - art.
+
+	**Cite**:
+
+	  - Code du patrimoine. - art. D122-1 (V)
+
+
+###### Article D720-12
+
+Les articles D. 611-17, D. 612-18, D. 623-1, D. 623-2, D. 641-1 et D. 643-1 ne sont pas applicables à Saint-Pierre-et-
+Miquelon.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°2014-119 du 11 février 2014 - art.
+
+	**Créé par**:
+
+	  - Décret n°2014-119 du 11 février 2014 - art.
+
+	**Cite**:
+
+	  - Code du patrimoine. - art. D611-17 (V)
+	  - Code du patrimoine. - art. D612-18 (V)
+	  - Code du patrimoine. - art. D623-1 (V)
+	  - Code du patrimoine. - art. D641-1 (V)
+	  - Code du patrimoine. - art. D643-1 (V)
+
+
+###### Article R720-1
+
+L'article R. 111-23 n'est pas applicable à Saint-Pierre-et-Miquelon.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°2014-119 du 11 février 2014 - art.
+
+	**Créé par**:
+
+	  - Décret n°2014-119 du 11 février 2014 - art.
+
+	**Cite**:
+
+	  - Code du patrimoine. - art. R111-23 (V)
+
+
+###### Article R720-3
+
+La commission scientifique nationale des musées de France prévue aux articles R. 451-3 à D. 451-6 émet un avis sur les
+projets d'acquisition de biens culturels et de restauration des collections lorsque le musée de France est situé à Saint-
+Pierre-et-Miquelon.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Décret n°2002-628 du 25 avril 2002 - art. 16, alinéas 1, 2 et 6, ecqc Saint-Pierre-et-Miquelon  (Ab)
+
+	**Codifié par**:
+
+	  - Décret n°2014-119 du 11 février 2014 - art.
+
+	**Créé par**:
+
+	  - Décret n°2014-119 du 11 février 2014 - art.
+
+	**Cite**:
+
+	  - Code du patrimoine. - art. R451-3 (V)
+
+
+###### Article R720-4
+
+Pour l'application du livre V à Saint-Pierre-et-Miquelon, les attributions de la commission interrégionale de la recherche
+archéologique sont exercées par la commission interrégionale de la recherche archéologique de l'outre-mer prévue à l'article
+R. 710-4.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°2014-119 du 11 février 2014 - art.
+
+	**Créé par**:
+
+	  - Décret n°2014-119 du 11 février 2014 - art.
+
+	**Cite**:
+
+	  - Code du patrimoine. - art. R710-4 (V)
+
+
+###### Article R720-5
+
+Pour l'application à Saint-Pierre-et-Miquelon des articles R. 523-5, R. 523-7 et R. 523-9, les références aux articles du
+code de l'urbanisme sont remplacées par les références aux dispositions ayant le même objet applicables localement.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°2014-119 du 11 février 2014 - art.
+
+	**Créé par**:
+
+	  - Décret n°2014-119 du 11 février 2014 - art.
+
+	**Cite**:
+
+	  - Code du patrimoine. - art. R523-5 (V)
+	  - Code du patrimoine. - art. R523-7 (V)
+
+
+###### Article R720-6
+
+Dans l'exercice des missions d'intérêt général de sauvegarde et d'étude du patrimoine archéologique qui incombent à l'Etat
+dans le cadre de ses compétences en matière d'archéologie préventive, les articles R. 524-1 à R. 524-10 sont applicables à
+Saint-Pierre-et-Miquelon.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°2014-119 du 11 février 2014 - art.
+
+	**Créé par**:
+
+	  - Décret n°2014-119 du 11 février 2014 - art.
+
+	**Cite**:
+
+	  - Code du patrimoine. - art. R524-1 (V)
+
+
+###### Article R720-7
+
+Pour l'application à Saint-Pierre-et-Miquelon de l'article R. 524-5, la référence au livre des procédures fiscales est
+remplacée par la référence aux dispositions ayant le même objet applicables localement.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°2014-119 du 11 février 2014 - art.
+
+	**Créé par**:
+
+	  - Décret n°2014-119 du 11 février 2014 - art.
+
+	**Cite**:
+
+	  - Code du patrimoine. - art. R524-5 (V)
+
+
+###### Article R720-8
+
+Pour l'application à Saint-Pierre-et-Miquelon de l'article R. 532-13, les références au préfet maritime sont remplacées par
+les références au préfet de Saint-Pierre-et-Miquelon dans les eaux sous souveraineté et sous juridiction françaises bordant
+l'archipel de Saint-Pierre-et-Miquelon, assisté par le commandant de zone maritime de l'Atlantique.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Décret n°91-1226 du 5 décembre 1991 - art. 12, ecqc délégué du Gouvernement  (Ab)
+
+	**Codifié par**:
+
+	  - Décret n°2014-119 du 11 février 2014 - art.
+
+	**Créé par**:
+
+	  - Décret n°2014-119 du 11 février 2014 - art.
+
+	**Cite**:
+
+	  - Code du patrimoine. - art. R532-13 (V)
+
+
+###### Article R720-9
+
+Les articles R. 612-1 à R. 612-16 ne sont pas applicables à Saint-Pierre-et-Miquelon.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°2014-119 du 11 février 2014 - art.
+
+	**Créé par**:
+
+	  - Décret n°2014-119 du 11 février 2014 - art.
+
+	**Cite**:
+
+	  - Code du patrimoine. - art. R612-1 (V)
+
+
+###### Article R720-10
+
+Pour Saint-Pierre-et-Miquelon, la Commission nationale des monuments historiques examine en première instance : 
+
+1° Les demandes et propositions de classement au titre des monuments historiques d'immeubles mentionnées à l'article R.
+621-2 ; 
+
+2° Les demandes et propositions de déclassement au titre des monuments historiques d'immeubles mentionnées à l'article R.
+621-10 ; 
+
+3° Les demandes et propositions d'inscription au titre des monuments historiques d'immeubles mentionnées à l'article R.
+621-53 ; 
+
+4° Les demandes et propositions de radiation de l'inscription au titre des monuments historiques d'immeubles instruites selon
+la procédure mentionnée à l'article R. 621-59 ; 
+
+5° Les demandes et propositions de classement au titre des monuments historiques d'objets mobiliers mentionnées à l'article
+R. 622-2 ; 
+
+6° Les demandes et propositions de déclassement au titre des monuments historiques d'objets mobiliers mentionnées à l'article
+R. 622-8 ; 
+
+7° Les demandes et propositions d'inscription au titre des monuments historiques d'objets mobiliers mentionnées à l'article
+R. 622-33 ; 
+
+8° Les demandes et propositions de radiation de l'inscription au titre des monuments historiques d'objets mobiliers
+mentionnées à l'article R. 622-37. 
+
+Le ministre chargé de la culture est l'autorité compétente pour prendre les décisions d'instance de classement, les arrêtés
+d'inscription, de radiation d'inscription et de classement des immeubles et objets mobiliers ainsi que les arrêtés de
+déclassement des objets mobiliers.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°2014-119 du 11 février 2014 - art.
+
+	**Créé par**:
+
+	  - Décret n°2014-119 du 11 février 2014 - art.
+
+	**Cite**:
+
+	  - Code du patrimoine. - art. R621-10 (V)
+	  - Code du patrimoine. - art. R621-2 (V)
+	  - Code du patrimoine. - art. R621-53 (V)
+	  - Code du patrimoine. - art. R621-59 (V)
+	  - Code du patrimoine. - art. R622-2 (V)
+	  - Code du patrimoine. - art. R622-33 (V)
+	  - Code du patrimoine. - art. R622-37 (V)
+	  - Code du patrimoine. - art. R622-8 (V)
+
+
+###### Article R720-11
+
+La commission régionale du patrimoine et des sites prévue à l'article R. 612-1 exerce, à Saint-Pierre-et-Miquelon, les
+compétences prévues au premier alinéa de l'article L. 612-1 et à l'article L. 612-2. 
+
+Elle comprend sept membres : 
+
+1° Deux membres de droit : 
+
+a) Le représentant de l'Etat ; 
+
+b) Le responsable des affaires culturelles à Saint-Pierre-et-Miquelon ; 
+
+2° Cinq membres nommés par le représentant de l'Etat pour une durée de quatre ans : 
+
+a) Deux titulaires d'un mandat électif national ou local ; 
+
+b) Deux personnalités qualifiées dans le domaine de l'architecture, de l'archéologie, de l'histoire, de l'histoire de l'art,
+de l'urbanisme, du paysage, du patrimoine ou de l'ethnologie ; 
+
+c) Un membre d'association ou de fondation ayant pour objet de favoriser la connaissance, la protection et la conservation du
+patrimoine.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°2014-119 du 11 février 2014 - art.
+
+	**Créé par**:
+
+	  - Décret n°2014-119 du 11 février 2014 - art.
+
+	**Abrogé par**:
+
+	  - Décret n°2017-456 du 29 mars 2017 - art. 6
+
+	**Cite**:
+
+	  - Code du patrimoine - art. L612-1
+	  - Code du patrimoine - art. R612-1
+
+
+###### Article R720-13
+
+Pour l'application à Saint-Pierre-et-Miquelon des articles R. 612-3, R. 621-8, R. 621-58, R. 621-67, R. 621-88 et R. 621-95,
+les références aux articles du code de l'urbanisme sont remplacées par les références aux dispositions ayant le même objet
+applicables localement.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°2014-119 du 11 février 2014 - art.
+
+	**Créé par**:
+
+	  - Décret n°2014-119 du 11 février 2014 - art.
+
+	**Cite**:
+
+	  - Code du patrimoine. - art. R612-3 (V)
+	  - Code du patrimoine. - art. R621-58 (V)
+	  - Code du patrimoine. - art. R621-67 (V)
+	  - Code du patrimoine. - art. R621-8 (V)
+	  - Code du patrimoine. - art. R621-88 (V)
+	  - Code du patrimoine. - art. R621-95 (V)
+
+
+###### Article R720-14
+
+Pour l'application à Saint-Pierre-et-Miquelon des articles R. 621-71 et R. 622-46, les références à l'article L. 2334-4 du
+code général des collectivités territoriales sont remplacées par les références aux dispositions ayant le même objet
+applicables localement.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°2014-119 du 11 février 2014 - art.
+
+	**Créé par**:
+
+	  - Décret n°2014-119 du 11 février 2014 - art.
+
+	**Cite**:
+
+	  - Code général des collectivités territoriales - art. L2334-4 (V)
+	  - Code du patrimoine. - art. R621-71 (V)
+	  - Code du patrimoine. - art. R622-46 (V)
+
+
+###### Article R720-15
+
+Pour l'application de la partie réglementaire du code dans la collectivité territoriale de Saint-Pierre-et-Miquelon, les
+termes énumérés ci-après sont remplacés comme suit : 
+
+a) Les mots : " tribunal de grande instance " par les mots : " tribunal de première instance " ; 
+
+b) Les mots : " cour d'appel " par les mots : " tribunal supérieur d'appel " ; 
+
+c) Les mots : " département " ou " région " par le mot : " collectivité " ; 
+
+d) Les mots : " préfet " ou " préfet de région " par les mots : " représentant de l'Etat dans la collectivité " ; 
+
+e) Les mots : " arrêté préfectoral " par les mots : " arrêté du représentant de l'Etat dans la collectivité ".
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°2014-119 du 11 février 2014 - art.
+
+	**Créé par**:
+
+	  - Décret n°2014-119 du 11 février 2014 - art.
+
+
+###### Article R720-16
+
+En l'absence d'adaptation, les références faites par des dispositions du présent code applicables à Saint-Pierre-et-Miquelon
+à des dispositions qui n'y sont pas applicables sont remplacées par les références aux dispositions ayant le même objet
+applicables localement.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°2014-119 du 11 février 2014 - art.
+
+	**Créé par**:
+
+	  - Décret n°2014-119 du 11 février 2014 - art.
+
+
+### TITRE III : DISPOSITIONS PARTICULIÈRES À MAYOTTE
+
+###### Article R730-1
+
+I. ― L'article R. 212-9 n'est pas applicable à Mayotte. 
+
+II. ― Les documents déposés dans le service de la conservation de la propriété immobilière depuis plus de cinquante ans ainsi
+que ceux produits pour leur exploitation sont versés au service des archives suivant les modalités déterminées par un arrêté
+du représentant de l'Etat. Cette disposition ne s'applique pas aux inscriptions subsistantes. 
+
+Les documents qui sont conservés sur des supports de substitution ou sous forme dématérialisée sont versés, sous cette forme,
+au service des archives.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°2014-119 du 11 février 2014 - art.
+
+	**Créé par**:
+
+	  - Décret n°2014-119 du 11 février 2014 - art.
+
+	**Cite**:
+
+	  - Code du patrimoine. - art. R212-9 (V)
+
+
+###### Article R730-2
+
+Pour l'application de l'article R. 213-7, les mots : " services de la publicité foncière " sont remplacés par les mots : "
+services de la conservation de la propriété immobilière " et les mots : " du décret n° 55-22 du 4 janvier 1955 portant
+réforme de la publicité foncière " sont remplacés par les mots : " du décret n° 2008-1086 du 23 octobre 2008 relatif à
+l'immatriculation et à l'inscription des droits en matière immobilière à Mayotte ".
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Décret n°79-1039 du 3 décembre 1979 - art. 8-1, ecqc Mayotte (Ab)
+
+	**Cite**:
+
+	  - Décret n°2008-1086 du 23 octobre 2008 (V)
+	  - Code du patrimoine. - art. R213-7 (V)
+
+	**Codifié par**:
+
+	  - Décret n°2014-119 du 11 février 2014 - art.
+
+	**Créé par**:
+
+	  - Décret n°2014-119 du 11 février 2014 - art.
+
+
+###### Article R730-3
+
+La commission scientifique nationale des musées de France prévue aux articles R. 451-3 à D. 451-6 émet un avis sur les
+projets d'acquisition de biens culturels et de restauration des collections lorsque le musée de France est situé à Mayotte.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Décret n°2002-628 du 25 avril 2002 - art. 16, alinéas 1, 2 et 6, ecqc Mayotte (Ab)
+
+	**Codifié par**:
+
+	  - Décret n°2014-119 du 11 février 2014 - art.
+
+	**Créé par**:
+
+	  - Décret n°2014-119 du 11 février 2014 - art.
+
+	**Cite**:
+
+	  - Code du patrimoine. - art. R451-3 (V)
+
+
+###### Article R730-4
+
+Pour l'application du livre V, les attributions de la commission interrégionale de la recherche archéologique sont exercées
+par la commission interrégionale de la recherche archéologique de l'outre-mer définie à l'article R. 710-4.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°2014-119 du 11 février 2014 - art.
+
+	**Créé par**:
+
+	  - Décret n°2014-119 du 11 février 2014 - art.
+
+	**Cite**:
+
+	  - Code du patrimoine. - art. R710-4 (V)
+
+
+###### Article R730-5
+
+La commission régionale du patrimoine et des sites prévue à l'article R. 612-1 exerce à Mayotte, outre les missions qui lui
+sont confiées par cet article, les missions qui sont confiées par l'article R. 612-10 à la commission départementale des
+objets mobiliers.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°2014-119 du 11 février 2014 - art.
+
+	**Créé par**:
+
+	  - Décret n°2014-119 du 11 février 2014 - art.
+
+	**Abrogé par**:
+
+	  - Décret n°2017-456 du 29 mars 2017 - art. 6
+
+	**Cite**:
+
+	  - Code du patrimoine - art. R612-1
+	  - Code du patrimoine - art. R612-10
+
+
+###### Article R730-6
+
+La commission régionale du patrimoine et des sites comprend à Mayotte vingt membres :
+
+1° Six membres de droit :
+
+a) Le préfet de Mayotte ;
+
+b) Le directeur des affaires culturelles ;
+
+c) Le directeur de l'environnement, de l'aménagement et du logement ;
+
+d) Le chef du service chargé des monuments historiques compétent à Mayotte ;
+
+e) Le commandant du groupement de gendarmerie ;
+
+f) Le conservateur départemental des antiquités et objets d'art ;
+
+2° Quatorze membres nommés par le préfet de Mayotte pour une durée de quatre ans :
+
+a) Deux fonctionnaires de l'Etat, compétents dans le domaine des monuments historiques, de l'archéologie ou de l'inventaire
+général du patrimoine culturel ;
+
+b) Cinq titulaires d'un mandat électif national ou local ;
+
+c) Cinq personnalités qualifiées dans le domaine de l'architecture, de l'urbanisme, du paysage, du patrimoine ou de
+l'ethnologie ;
+
+d) Deux représentants d'associations ou de fondations ayant pour objet de favoriser la connaissance, la protection et la
+conservation du patrimoine.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°2014-119 du 11 février 2014 - art.
+
+	**Créé par**:
+
+	  - Décret n°2014-119 du 11 février 2014 - art.
+
+	**Cité par**:
+
+	  - Code du patrimoine - art. R730-8 (Ab)
+	  - Code du patrimoine. - art. R730-7 (M)
+
+
+###### Article R730-7
+
+A Mayotte, la délégation permanente de la commission régionale du patrimoine et des sites prévue à l'article R. 612-2
+comprend sept membres : 
+
+1° Quatre membres de droit : 
+
+a) Le directeur des affaires culturelles ; 
+
+b) Les deux fonctionnaires mentionnés au a du 2° de l'article R. 730-6 ; 
+
+c) Le chef du service chargé des monuments historiques à la direction des affaires culturelles compétent à Mayotte ; 
+
+2° Trois membres désignés par le préfet de Mayotte parmi les personnalités mentionnées aux b, c et d du 2° de l'article R.
+730-6.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°2014-119 du 11 février 2014 - art.
+
+	**Créé par**:
+
+	  - Décret n°2014-119 du 11 février 2014 - art.
+
+	**Cite**:
+
+	  - Code du patrimoine. - art. R612-2 (V)
+	  - Code du patrimoine. - art. R730-6 (V)
+
+
+###### Article R730-8
+
+Pour l'application à Mayotte de l'article R. 612-6 : 
+
+1° Au premier alinéa, le mot : " onze " est remplacé par le mot : " huit " ; 
+
+2° Le 3° est ainsi rédigé : 
+
+" Trois personnalités qualifiées désignées par le préfet de Mayotte parmi les membres de la commission mentionnés au c ou au
+d du 2° de l'article R. 730-6. "
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°2014-119 du 11 février 2014 - art.
+
+	**Créé par**:
+
+	  - Décret n°2014-119 du 11 février 2014 - art.
+
+	**Abrogé par**:
+
+	  - Décret n°2017-456 du 29 mars 2017 - art. 6
+
+	**Cite**:
+
+	  - Code du patrimoine - art. R612-6
+	  - Code du patrimoine - art. R730-6
+
+
+###### Article R730-9
+
+Les articles R. 612-11 et R. 612-13 à R. 612-15 ne sont pas applicables à Mayotte.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°2014-119 du 11 février 2014 - art.
+
+	**Créé par**:
+
+	  - Décret n°2014-119 du 11 février 2014 - art.
+
+	**Abrogé par**:
+
+	  - Décret n°2017-456 du 29 mars 2017 - art. 6
+
+	**Cite**:
+
+	  - Code du patrimoine - art. R612-11
+	  - Code du patrimoine - art. R612-13
+
+
+###### Article R730-10
+
+Pour l'application de la partie réglementaire du code à Mayotte, les termes énumérés ci-après sont remplacés comme suit : 
+
+a) Les mots : " préfet " ou " préfet de région " par les mots : " préfet de Mayotte " ; 
+
+b) Les mots : " cour d'appel " par les mots : " chambre d'appel de Mamoudzou " ; 
+
+c) Les mots : " direction régionale des affaires culturelles " par les mots : " direction des affaires culturelles " ; 
+
+d) Les mots : " directeur régional des affaires culturelles " par les mots : " directeur des affaires culturelles " ; 
+
+e) Les mots : " conseil régional " par les mots : " conseil général " ; 
+
+f) Les mots : " fichier immobilier " par les mots : " livre foncier ".
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°2014-119 du 11 février 2014 - art.
+
+	**Créé par**:
+
+	  - Décret n°2014-119 du 11 février 2014 - art.
+
+
+###### Article R730-11
+
+En l'absence d'adaptation, les références faites par des dispositions du présent code applicables à Mayotte à des
+dispositions qui n'y sont pas applicables sont remplacées par les références aux dispositions ayant le même objet applicables
+localement.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°2014-119 du 11 février 2014 - art.
+
+	**Créé par**:
+
+	  - Décret n°2014-119 du 11 février 2014 - art.
+
+
+### TITRE IV : DISPOSITIONS APPLICABLES  EN NOUVELLE-CALÉDONIE
+
+###### Article D740-2
+
+Les articles D. 113-1 à D. 113-30 sont applicables de plein droit en Nouvelle-Calédonie.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°2014-119 du 11 février 2014 - art.
+
+	**Créé par**:
+
+	  - Décret n°2014-119 du 11 février 2014 - art.
+
+	**Cite**:
+
+	  - Code du patrimoine. - art. D113-1 (V)
+
+
+###### Article R740-1
+
+Les dispositions applicables en Nouvelle-Calédonie en vertu du présent titre sont celles en vigueur dans leur rédaction issue
+du décret n° 2014-119 du 11 février 2014 relatif au livre VII de la partie réglementaire du code du patrimoine.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Décret n°2014-119 du 11 février 2014 (V)
+
+	**Codifié par**:
+
+	  - Décret n°2014-119 du 11 février 2014 - art.
+
+	**Créé par**:
+
+	  - Décret n°2014-119 du 11 février 2014 - art.
+
+
+###### Article R740-3
+
+Les articles R. 123-1 à R. 123-8 et R. 131-1 à R. 133-1 sont applicables en Nouvelle-Calédonie.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Décret n°2011-1904 du 19 décembre 2011 - art. 21, ecqc La Nouvelle-Calédonie  (V)
+
+	**Codifié par**:
+
+	  - Décret n°2014-119 du 11 février 2014 - art.
+
+	**Créé par**:
+
+	  - Décret n°2014-119 du 11 février 2014 - art.
+
+	**Cite**:
+
+	  - Code du patrimoine. - art. R123-1 (V)
+	  - Code du patrimoine. - art. R131-1 (V)
+
+
+###### Article R740-4
+
+Les articles R. 221-1 à R. 221-17 et R. 222-1 à R. 222-4 sont applicables de plein droit en Nouvelle-Calédonie.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°2014-119 du 11 février 2014 - art.
+
+	**Créé par**:
+
+	  - Décret n°2014-119 du 11 février 2014 - art.
+
+	**Cite**:
+
+	  - Code du patrimoine. - art. R221-1 (V)
+	  - Code du patrimoine. - art. R222-1 (V)
+
+
+###### Article R740-5
+
+Pour l'application en Nouvelle-Calédonie des articles R. 222-1 et R. 222-4, les références aux articles du code de procédure
+civile sont remplacées par les références aux dispositions ayant le même objet applicables localement.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°2014-119 du 11 février 2014 - art.
+
+	**Créé par**:
+
+	  - Décret n°2014-119 du 11 février 2014 - art.
+
+	**Cite**:
+
+	  - Code du patrimoine. - art. R222-1 (V)
+
+
+###### Article R740-6
+
+I. ― Les articles R. 532-1 à R. 532-19 sont applicables en Nouvelle-Calédonie pour autant qu'ils concernent les biens situés
+dans le domaine public maritime de l'Etat ou au fond de la mer dans la zone contiguë au sens de l'article L. 532-12. 
+
+II. ― Pour l'application de ces dispositions, les compétences du ministre chargé de la culture sont exercées par le haut-
+commissaire de la République. 
+
+III. ― Lorsque l'avis du Conseil national de la recherche archéologique est prévu, le haut-commissaire de la République peut
+recueillir l'avis des services chargés des affaires culturelles de chaque province concernée.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Décret n°91-1226 du 5 décembre 1991 - art. 21-1, alinéas 2 et 3, ecqc La Nouvelle-Calédonie  (Ab)
+
+	**Codifié par**:
+
+	  - Décret n°2014-119 du 11 février 2014 - art.
+
+	**Créé par**:
+
+	  - Décret n°2014-119 du 11 février 2014 - art.
+
+	**Cite**:
+
+	  - Code du patrimoine. - art. L532-12 (V)
+	  - Code du patrimoine. - art. R532-1 (V)
+
+
+###### Article R740-7
+
+Pour l'application des articles R. 532-1 et R. 532-3, les références à l'administrateur des affaires maritimes, chef du
+quartier ou du service des affaires maritimes, ou au service des affaires maritimes sont remplacées par la référence à
+l'administrateur des affaires maritimes, chef du service de la marine marchande et des pêches maritimes.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Décret n°91-1226 du 5 décembre 1991 - art. 21-1, alinéa 4, ecqc La Nouvelle Calédonie  (Ab)
+
+	**Codifié par**:
+
+	  - Décret n°2014-119 du 11 février 2014 - art.
+
+	**Créé par**:
+
+	  - Décret n°2014-119 du 11 février 2014 - art.
+
+	**Cite**:
+
+	  - Code du patrimoine. - art. R532-1 (V)
+
+
+###### Article R740-8
+
+La publicité prévue à l'article R. 532-5 est également faite par publication au Journal officiel de la Nouvelle-Calédonie.
+Elle est complétée par une publication dans un quotidien ou par une diffusion sur un support radiophonique couvrant
+l'ensemble de la Nouvelle-Calédonie.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Décret n°91-1226 du 5 décembre 1991 - art. 21-1, alinéa 5, ecqc La Nouvelle Calédonie  (Ab)
+
+	**Codifié par**:
+
+	  - Décret n°2014-119 du 11 février 2014 - art.
+
+	**Créé par**:
+
+	  - Décret n°2014-119 du 11 février 2014 - art.
+
+	**Cite**:
+
+	  - Code du patrimoine. - art. R532-5 (V)
+
+
+###### Article R740-9
+
+Pour l'application des articles R. 532-8, R. 532-9, R. 532-12, R. 532-15, R. 532-18 et R. 532-19, la référence à la
+commission interrégionale de la recherche archéologique est remplacée par la référence à la commission des opérations sous-
+marines du Conseil national de la recherche archéologique.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Décret n°2007-823 du 11 mai 2007 - art. 27, ecqc La Nouvelle Calédonie
+
+	**Codifié par**:
+
+	  - Décret n°2014-119 du 11 février 2014 - art.
+
+	**Créé par**:
+
+	  - Décret n°2014-119 du 11 février 2014 - art.
+
+	**Cite**:
+
+	  - Code du patrimoine. - art. R532-12 (V)
+	  - Code du patrimoine. - art. R532-15 (V)
+	  - Code du patrimoine. - art. R532-18 (V)
+	  - Code du patrimoine. - art. R532-8 (V)
+
+
+###### Article R740-10
+
+Pour l'application de l'article R. 532-13, les références au préfet maritime sont remplacées par les références au haut-
+commissaire de la République assisté par le commandant de zone.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°2014-119 du 11 février 2014 - art.
+
+	**Créé par**:
+
+	  - Décret n°2014-119 du 11 février 2014 - art.
+
+	**Cite**:
+
+	  - Code du patrimoine. - art. R532-13 (V)
+
+
+###### Article R740-11
+
+Pour l'application de l'article R. 532-19, les références au tribunal de grande instance ou au tribunal d'instance sont
+remplacées par la référence au tribunal de première instance.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Décret n°91-1226 du 5 décembre 1991 - art. 21-1, alinéa 6, ecqc La Nouvelle Calédonie  (Ab)
+
+	**Codifié par**:
+
+	  - Décret n°2014-119 du 11 février 2014 - art.
+
+	**Créé par**:
+
+	  - Décret n°2014-119 du 11 février 2014 - art.
+
+	**Cite**:
+
+	  - Code du patrimoine. - art. R532-19 (V)
+
+
+###### Article R740-12
+
+Les articles R. 544-1 et R. 544-2 sont applicables en Nouvelle-Calédonie pour autant qu'ils concernent les biens situés dans
+le domaine public maritime de l'Etat ou au fond de la mer dans la zone contiguë au sens de l'article L. 532-12.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°2014-119 du 11 février 2014 - art.
+
+	**Créé par**:
+
+	  - Décret n°2014-119 du 11 février 2014 - art.
+
+	**Cite**:
+
+	  - Code du patrimoine. - art. L532-12 (V)
+	  - Code du patrimoine. - art. R544-1 (V)
+
+
+###### Article R740-13
+
+Les articles R. 545-10 et R. 545-11 sont applicables en Nouvelle-Calédonie.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°2014-119 du 11 février 2014 - art.
+
+	**Créé par**:
+
+	  - Décret n°2014-119 du 11 février 2014 - art.
+
+	**Cite**:
+
+	  - Code du patrimoine. - art. R545-10 (V)
+
+
+###### Article R740-14
+
+Pour l'application de la partie réglementaire du code en Nouvelle-Calédonie, les termes énumérés ci-après sont remplacés
+comme suit : 
+
+a) Les mots : " département " ou " région " par les mots : " Nouvelle-Calédonie " ou " province " ; 
+
+b) Les mots : " cour d'appel " par les mots : " cour d'appel de Nouméa " ; 
+
+c) Les mots : " préfet " ou " préfet de région " par les mots : " haut-commissaire de la République ".
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°2014-119 du 11 février 2014 - art.
+
+	**Créé par**:
+
+	  - Décret n°2014-119 du 11 février 2014 - art.
+
+
+###### Article R740-15
+
+En l'absence d'adaptation, les références faites par des  dispositions du présent code applicables en Nouvelle-Calédonie à
+des  dispositions qui n'y sont pas applicables sont remplacées par les  références aux dispositions ayant le même objet
+applicables localement.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2014-119 du 11 février 2014 - art.
+
+	**Codifié par**:
+
+	  - Décret n°2014-119 du 11 février 2014 - art.
+
+
+### TITRE V : DISPOSITIONS APPLICABLES  EN POLYNÉSIE FRANÇAISE
+
+###### Article D750-2
+
+Les articles D. 113-1 à D. 113-30 sont applicables de plein droit en Polynésie française.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°2014-119 du 11 février 2014 - art.
+
+	**Créé par**:
+
+	  - Décret n°2014-119 du 11 février 2014 - art.
+
+	**Cite**:
+
+	  - Code du patrimoine. - art. D113-1 (V)
+
+
+###### Article R750-1
+
+Les dispositions applicables en Polynésie française en vertu du présent titre sont celles en vigueur dans leur rédaction
+issue du décret n° 2014-119 du 11 février 2014 relatif au livre VII de la partie réglementaire du code du patrimoine.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Décret n°2014-119 du 11 février 2014 (V)
+
+	**Codifié par**:
+
+	  - Décret n°2014-119 du 11 février 2014 - art.
+
+	**Créé par**:
+
+	  - Décret n°2014-119 du 11 février 2014 - art.
+
+
+###### Article R750-3
+
+Les articles R. 221-1 à R. 221-17 et R. 222-1 à R. 222-4 sont applicables de plein droit en Polynésie française.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°2014-119 du 11 février 2014 - art.
+
+	**Créé par**:
+
+	  - Décret n°2014-119 du 11 février 2014 - art.
+
+	**Cite**:
+
+	  - Code du patrimoine. - art. R221-1 (V)
+	  - Code du patrimoine. - art. R222-1 (V)
+
+
+###### Article R750-4
+
+Pour l'application en Polynésie française des articles R. 222-1 et R. 222-4, les références aux articles du code de procédure
+civile sont remplacées par les références aux dispositions ayant le même objet applicables localement.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°2014-119 du 11 février 2014 - art.
+
+	**Créé par**:
+
+	  - Décret n°2014-119 du 11 février 2014 - art.
+
+	**Cite**:
+
+	  - Code du patrimoine. - art. R222-1 (V)
+
+
+###### Article R750-5
+
+I. ― Les articles R. 532-1 à R. 532-19 sont applicables en Polynésie française pour autant qu'ils concernent les biens situés
+dans le domaine public maritime de l'Etat ou au fond de la mer dans la zone contiguë, au sens de l'article L. 532-12. 
+
+II. ― Pour l'application de ces dispositions, les compétences du ministre chargé de la culture sont exercées par le haut-
+commissaire de la République.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°2014-119 du 11 février 2014 - art.
+
+	**Créé par**:
+
+	  - Décret n°2014-119 du 11 février 2014 - art.
+
+	**Cite**:
+
+	  - Code du patrimoine. - art. L532-12 (V)
+	  - Code du patrimoine. - art. R532-1 (V)
+
+
+###### Article R750-6
+
+La publicité prévue à l'article R. 532-5 est également faite par publication au Journal officiel de la Polynésie française.
+Elle est complétée par une publication dans un quotidien ou par une diffusion sur un support radiophonique couvrant
+l'ensemble de la Polynésie française.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°2014-119 du 11 février 2014 - art.
+
+	**Créé par**:
+
+	  - Décret n°2014-119 du 11 février 2014 - art.
+
+	**Cite**:
+
+	  - Code du patrimoine. - art. R532-5 (V)
+
+
+###### Article R750-7
+
+Pour l'application des articles R. 532-8, R. 532-9, R. 532-12, R. 532-15, R. 532-18 et R. 532-19, la référence à la
+commission interrégionale de la recherche archéologique est remplacée par la référence à la commission des opérations sous-
+marines du Conseil national de la recherche archéologique.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Décret n°2007-823 du 11 mai 2007 - art. 27, ecqc Polynésie française
+
+	**Codifié par**:
+
+	  - Décret n°2014-119 du 11 février 2014 - art.
+
+	**Créé par**:
+
+	  - Décret n°2014-119 du 11 février 2014 - art.
+
+	**Cite**:
+
+	  - Code du patrimoine - art. R532-12 (V)
+	  - Code du patrimoine - art. R532-15 (V)
+	  - Code du patrimoine - art. R532-18 (V)
+	  - Code du patrimoine - art. R532-8 (V)
+
+
+###### Article R750-8
+
+Pour l'application de l'article R. 532-13, les références au préfet maritime sont remplacées par les références au haut-
+commissaire de la République dans la zone maritime de Polynésie française et dans les eaux sous souveraineté et sous
+juridiction française bordant l'île de Clipperton, assisté par le commandant de la zone maritime de Polynésie française.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°2014-119 du 11 février 2014 - art.
+
+	**Créé par**:
+
+	  - Décret n°2014-119 du 11 février 2014 - art.
+
+	**Cite**:
+
+	  - Code du patrimoine - art. R532-13 (V)
+
+
+###### Article R750-9
+
+Pour l'application de l'article R. 532-19, les références au tribunal de grande instance ou au tribunal d'instance sont
+remplacées par la référence au tribunal de première instance.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°2014-119 du 11 février 2014 - art.
+
+	**Créé par**:
+
+	  - Décret n°2014-119 du 11 février 2014 - art.
+
+	**Cite**:
+
+	  - Code du patrimoine - art. R532-19 (V)
+
+
+###### Article R750-10
+
+Les articles R. 544-1 et R. 544-2 sont applicables en Polynésie française pour autant qu'ils concernent les biens situés dans
+le domaine public maritime de l'Etat ou au fond de la mer dans la zone contiguë au sens de l'article L. 532-12.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°2014-119 du 11 février 2014 - art.
+
+	**Créé par**:
+
+	  - Décret n°2014-119 du 11 février 2014 - art.
+
+	**Cite**:
+
+	  - Code du patrimoine - art. L532-12 (V)
+	  - Code du patrimoine - art. R544-1 (V)
+
+
+###### Article R750-11
+
+Les articles R. 545-10 et R. 545-11 sont applicables en Polynésie française.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°2014-119 du 11 février 2014 - art.
+
+	**Créé par**:
+
+	  - Décret n°2014-119 du 11 février 2014 - art.
+
+	**Cite**:
+
+	  - Code du patrimoine - art. R545-10 (V)
+
+
+###### Article R750-12
+
+Pour l'application de la partie réglementaire du code en Polynésie française, les termes énumérés ci-après sont remplacés
+comme suit : 
+
+a) Les mots : " département " ou " région " par les mots : " territoire de la Polynésie française " ; 
+
+b) Les mots : " préfet " ou " préfet de région " par les mots : " haut-commissaire de la République " ; 
+
+c) Les mots : " conseil général " ou " conseil régional " par les mots : " assemblée de la Polynésie française ".
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°2014-119 du 11 février 2014 - art.
+
+	**Créé par**:
+
+	  - Décret n°2014-119 du 11 février 2014 - art.
+
+
+###### Article R750-13
+
+En l'absence d'adaptation, les références faites par des dispositions du présent code applicables en Polynésie française à
+des dispositions qui n'y sont pas applicables sont remplacées par les références aux dispositions ayant le même objet
+applicables localement.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°2014-119 du 11 février 2014 - art.
+
+	**Créé par**:
+
+	  - Décret n°2014-119 du 11 février 2014 - art.
+
+
+### TITRE VI : DISPOSITIONS APPLICABLES  DANS LES ÎLES WALLIS ET FUTUNA
+
+###### Article D760-2
+
+Les articles D. 113-1 à D. 113-30 sont applicables dans les îles Wallis et Futuna.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°2014-119 du 11 février 2014 - art.
+
+	**Créé par**:
+
+	  - Décret n°2014-119 du 11 février 2014 - art.
+
+	**Cite**:
+
+	  - Code du patrimoine - art. D113-1 (V)
+
+
+###### Article D760-4
+
+Les articles R. 212-1 à R. 212-37 et R. 213-1 à D. 213-10 sont applicables dans les îles Wallis et Futuna aux archives
+relevant des services et établissements publics de l'Etat et des personnes morales chargées de la gestion d'un service public
+relevant de la compétence de l'Etat.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°2014-119 du 11 février 2014 - art.
+
+	**Créé par**:
+
+	  - Décret n°2014-119 du 11 février 2014 - art.
+
+	**Cite**:
+
+	  - Code du patrimoine - art. R212-1 (V)
+	  - Code du patrimoine - art. R213-1 (V)
+
+
+###### Article R760-1
+
+Les dispositions applicables dans les îles Wallis et Futuna en vertu du présent titre sont celles en vigueur dans leur
+rédaction issue du décret n° 2014-119 du 11 février 2014 relatif au livre VII de la partie réglementaire du code du
+patrimoine.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Décret n°2014-119 du 11 février 2014 (V)
+
+	**Codifié par**:
+
+	  - Décret n°2014-119 du 11 février 2014 - art.
+
+	**Créé par**:
+
+	  - Décret n°2014-119 du 11 février 2014 - art.
+
+
+###### Article R760-3
+
+Les articles R. 123-1 à R. 123-8 et R. 131-1 à R. 133-1 sont applicables dans les îles Wallis et Futuna.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Décret n°2011-1904 du 19 décembre 2011 - art. 21, alinéa 2, ecqc les îles Wallis-et-Futuna  (V)
+
+	**Codifié par**:
+
+	  - Décret n°2014-119 du 11 février 2014 - art.
+
+	**Créé par**:
+
+	  - Décret n°2014-119 du 11 février 2014 - art.
+
+	**Cite**:
+
+	  - Code du patrimoine - art. R123-1 (V)
+	  - Code du patrimoine - art. R131-1 (V)
+
+
+###### Article R760-5
+
+Les articles R. 212-65 à R. 212-94, R. 213-11 à R. 213-13, R. 221-1 à R. 221-17 et R. 222-1 à R. 222-4 sont applicables dans
+les îles Wallis et Futuna.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°2014-119 du 11 février 2014 - art.
+
+	**Créé par**:
+
+	  - Décret n°2014-119 du 11 février 2014 - art.
+
+	**Cite**:
+
+	  - Code du patrimoine - art. R212-65 (V)
+	  - Code du patrimoine - art. R213-11 (V)
+	  - Code du patrimoine - art. R221-1 (V)
+	  - Code du patrimoine - art. R222-1 (V)
+
+
+###### Article R760-6
+
+I. ― Les articles R. 532-1 à R. 532-19 sont applicables dans les îles Wallis et Futuna. 
+
+II. ― Pour l'application de ces dispositions, les compétences du ministre chargé de la culture sont exercées par
+l'administrateur supérieur. 
+
+III. ― Lorsque l'avis du Conseil national de la recherche archéologique est prévu, l'administrateur supérieur peut recueillir
+l'avis des services territoriaux chargés des affaires culturelles.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Décret n°91-1226 du 5 décembre 1991 - art. 21-1, alinéas 2 et 3, ecqc les îles Wallis et Futuna  (Ab)
+
+	**Codifié par**:
+
+	  - Décret n°2014-119 du 11 février 2014 - art.
+
+	**Créé par**:
+
+	  - Décret n°2014-119 du 11 février 2014 - art.
+
+	**Cite**:
+
+	  - Code du patrimoine - art. R532-1 (V)
+
+
+###### Article R760-7
+
+Pour l'application de l'article R. 532-1, les références à l'administrateur des affaires maritimes, chef du quartier ou du
+service des affaires maritimes, sont remplacées par les références au chef de service des affaires maritimes, des ports, des
+phares et balises. Ce dernier exerce également les compétences prévues à l'article R. 532-3.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Décret n°91-1226 du 5 décembre 1991 - art. 21-1, alinéa 4, ecqc les îles Wallis et Futuna  (Ab)
+
+	**Codifié par**:
+
+	  - Décret n°2014-119 du 11 février 2014 - art.
+
+	**Créé par**:
+
+	  - Décret n°2014-119 du 11 février 2014 - art.
+
+	**Cite**:
+
+	  - Code du patrimoine - art. R532-1 (V)
+	  - Code du patrimoine - art. R532-3 (V)
+
+
+###### Article R760-8
+
+La publicité prévue à l'article R. 532-5 est également faite par publication au Journal officiel du territoire des îles
+Wallis et Futuna. Elle est complétée par une publication dans un quotidien ou par une diffusion sur un support radiophonique
+couvrant l'ensemble du territoire.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Décret n°91-1226 du 5 décembre 1991 - art. 21-1, alinéa 5, ecqc les îles Wallis et Futuna  (Ab)
+
+	**Codifié par**:
+
+	  - Décret n°2014-119 du 11 février 2014 - art.
+
+	**Créé par**:
+
+	  - Décret n°2014-119 du 11 février 2014 - art.
+
+	**Cite**:
+
+	  - Code du patrimoine - art. R532-5 (V)
+
+
+###### Article R760-9
+
+Pour l'application dans les îles Wallis et Futuna des articles R. 532-8, R. 532-9, R. 532-12, R. 532-15, R. 532-18 et R.
+532-19, la référence à la commission interrégionale de la recherche archéologique est remplacée par la référence à la
+commission des opérations sous-marines du Conseil national de la recherche archéologique.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Décret n°2007-823 du 11 mai 2007 - art. 27, ecqc les îles Wallis et Futuna
+
+	**Codifié par**:
+
+	  - Décret n°2014-119 du 11 février 2014 - art.
+
+	**Créé par**:
+
+	  - Décret n°2014-119 du 11 février 2014 - art.
+
+	**Cite**:
+
+	  - Code du patrimoine - art. R532-12 (V)
+	  - Code du patrimoine - art. R532-15 (V)
+	  - Code du patrimoine - art. R532-18 (V)
+	  - Code du patrimoine - art. R532-8 (V)
+
+
+###### Article R760-10
+
+Pour l'application de l'article R. 532-13, les références au préfet maritime sont remplacées par les références au délégué du
+Gouvernement pour l'action de l'Etat en mer.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°2014-119 du 11 février 2014 - art.
+
+	**Créé par**:
+
+	  - Décret n°2014-119 du 11 février 2014 - art.
+
+	**Cite**:
+
+	  - Code du patrimoine - art. R532-13 (V)
+
+
+###### Article R760-11
+
+Pour l'application de l'article R. 532-19, les références au tribunal de grande instance ou au tribunal d'instance sont
+remplacées par la référence au tribunal de première instance.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Décret n°91-1226 du 5 décembre 1991 - art. 21-1, alinéa 6, ecqc les îles Wallis et Futuna  (Ab)
+
+	**Codifié par**:
+
+	  - Décret n°2014-119 du 11 février 2014 - art.
+
+	**Créé par**:
+
+	  - Décret n°2014-119 du 11 février 2014 - art.
+
+	**Cite**:
+
+	  - Code du patrimoine - art. R532-19 (V)
+
+
+###### Article R760-12
+
+Les articles R. 544-1, R. 544-2, R. 545-10 et R. 545-11 sont applicables dans les îles Wallis et Futuna.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°2014-119 du 11 février 2014 - art.
+
+	**Créé par**:
+
+	  - Décret n°2014-119 du 11 février 2014 - art.
+
+	**Cite**:
+
+	  - Code du patrimoine - art. R544-1 (V)
+	  - Code du patrimoine - art. R545-10 (V)
+
+
+###### Article R760-13
+
+Pour l'application de la partie réglementaire du code dans les îles Wallis et Futuna, les termes énumérés ci-après sont
+remplacés comme suit : 
+
+a) Les mots : " département " ou " région " par le mot : " territoire " ; 
+
+b) Les mots : " préfet " ou " préfet de région " par les mots : " administrateur supérieur ".
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°2014-119 du 11 février 2014 - art.
+
+	**Créé par**:
+
+	  - Décret n°2014-119 du 11 février 2014 - art.
+
+
+###### Article R760-14
+
+En l'absence d'adaptation, les références faites par des dispositions du présent code applicables dans les îles Wallis et
+Futuna à des dispositions qui n'y sont pas applicables sont remplacées par les références aux dispositions ayant le même
+objet applicables localement.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°2014-119 du 11 février 2014 - art.
+
+	**Créé par**:
+
+	  - Décret n°2014-119 du 11 février 2014 - art.
+
+
+### TITRE VII : DISPOSITIONS APPLICABLES AUX TERRES AUSTRALES  ET ANTARCTIQUES FRANÇAISES
+
+###### Article D770-2
+
+Les articles D. 113-1 à D. 113-30 sont applicables dans les Terres australes et antarctiques françaises.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°2014-119 du 11 février 2014 - art.
+
+	**Créé par**:
+
+	  - Décret n°2014-119 du 11 février 2014 - art.
+
+	**Cite**:
+
+	  - Code du patrimoine - art. D113-1 (V)
+
+
+###### Article R770-1
+
+Les dispositions applicables dans les Terres australes et antarctiques françaises en vertu du présent titre sont celles en
+vigueur dans leur rédaction issue du décret n° 2014-119 du 11 février 2014 relatif au livre VII de la partie réglementaire du
+code du patrimoine.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Décret n°2014-119 du 11 février 2014 (V)
+
+	**Codifié par**:
+
+	  - Décret n°2014-119 du 11 février 2014 - art.
+
+	**Créé par**:
+
+	  - Décret n°2014-119 du 11 février 2014 - art.
+
+
+###### Article R770-3
+
+Les articles R. 131-1 à R. 133-1 sont applicables dans les Terres australes et antarctiques françaises.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Décret n°2011-1904 du 19 décembre 2011 - art. 21, alinéa 2, ecqc les Terres australes et antarctiques françaises  (V)
+
+	**Codifié par**:
+
+	  - Décret n°2014-119 du 11 février 2014 - art.
+
+	**Créé par**:
+
+	  - Décret n°2014-119 du 11 février 2014 - art.
+
+	**Cite**:
+
+	  - Code du patrimoine - art. R131-1 (V)
+
+
+###### Article R770-4
+
+Les articles R. 212-1 à R. 212-37, R. 212-65 à R. 212-94 et R. 213-1 à R. 213-13 sont applicables dans les Terres australes
+et antarctiques françaises.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Décret n°79-1035 du 3 décembre 1979 - art. 9-1, ecqc Les Terres australes et antarctiques françaises  (Ab)
+	  - Décret n°79-1037 du 3 décembre 1979 - art. 22-1, ecqc les Terres australes et antarctiques françaises  (Ab)
+	  - Décret n°79-1040 du 3 décembre 1979 - art. 18-1, ecqc Les Terres australes et antarctiques françaises  (Ab)
+	  - Décret n°79-1039 du 3 décembre 1979 - art. 8-1, ecqc Les Terres australes et antarctiques françaises  (Ab)
+	  - Décret n°80-975 du 1 décembre 1980 - art. 11-1, ecqc Les Terres australes et antarctiques françaises  (Ab)
+
+	**Codifié par**:
+
+	  - Décret n°2014-119 du 11 février 2014 - art.
+
+	**Créé par**:
+
+	  - Décret n°2014-119 du 11 février 2014 - art.
+
+	**Cite**:
+
+	  - Code du patrimoine - art. R212-1 (V)
+	  - Code du patrimoine - art. R212-65 (V)
+	  - Code du patrimoine - art. R213-1 (V)
+
+
+###### Article R770-5
+
+I. ― Les articles R. 532-1 à R. 532-19 sont applicables dans les Terres australes et antarctiques françaises. 
+
+II. ― Pour l'application de ces dispositions, les compétences du ministre chargé de la culture sont exercées par
+l'administrateur supérieur.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Décret n°91-1226 du 5 décembre 1991 - art. 21-1, alinéas 1 et 2, ecqc les Terres australes et antarctiques françaises  (Ab)
+
+	**Codifié par**:
+
+	  - Décret n°2014-119 du 11 février 2014 - art.
+
+	**Créé par**:
+
+	  - Décret n°2014-119 du 11 février 2014 - art.
+
+	**Cite**:
+
+	  - Code du patrimoine - art. R532-1 (V)
+
+
+###### Article R770-6
+
+La publicité prévue à l'article R. 532-5 est également faite par publication au Journal officiel des Terres australes et
+antarctiques françaises.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Décret n°91-1226 du 5 décembre 1991 - art. 21-1, alinéa 5, ecqc les Terres australes et antarctiques françaises  (Ab)
+
+	**Codifié par**:
+
+	  - Décret n°2014-119 du 11 février 2014 - art.
+
+	**Créé par**:
+
+	  - Décret n°2014-119 du 11 février 2014 - art.
+
+	**Cite**:
+
+	  - Code du patrimoine - art. R532-5 (V)
+
+
+###### Article R770-7
+
+Pour l'application dans les Terres australes et antarctiques françaises des articles R. 532-8, R. 532-9, R. 532-12, R.
+532-15, R. 532-18 et R. 532-19, la référence à la commission interrégionale de la recherche archéologique est remplacée par
+la référence à la commission des opérations sous-marines du Conseil national de la recherche archéologique.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Décret n°2007-823 du 11 mai 2007 - art. 27, ecqc les Terres australes et antarctiques françaises
+
+	**Codifié par**:
+
+	  - Décret n°2014-119 du 11 février 2014 - art.
+
+	**Créé par**:
+
+	  - Décret n°2014-119 du 11 février 2014 - art.
+
+	**Cite**:
+
+	  - Code du patrimoine - art. R532-12 (V)
+	  - Code du patrimoine - art. R532-15 (V)
+	  - Code du patrimoine - art. R532-18 (V)
+	  - Code du patrimoine - art. R532-8 (V)
+
+
+###### Article R770-8
+
+Pour l'application de l'article R. 532-13, les références au préfet maritime sont remplacées par les références au préfet de
+La Réunion dans la zone maritime du sud de l'océan Indien et dans les eaux bordant les Terres australes et antarctiques
+françaises, assisté par le commandant de la zone maritime du sud de l'océan Indien.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°2014-119 du 11 février 2014 - art.
+
+	**Créé par**:
+
+	  - Décret n°2014-119 du 11 février 2014 - art.
+
+	**Cite**:
+
+	  - Code du patrimoine - art. R532-13 (V)
+
+
+###### Article R770-9
+
+Les articles R. 544-1, R. 544-2, R. 545-10 et R. 545-11 sont applicables dans les Terres australes et antarctiques
+françaises.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°2014-119 du 11 février 2014 - art.
+
+	**Créé par**:
+
+	  - Décret n°2014-119 du 11 février 2014 - art.
+
+	**Cite**:
+
+	  - Code du patrimoine - art. R544-1 (V)
+	  - Code du patrimoine - art. R545-10 (V)
+
+
+###### Article R770-10
+
+Pour l'application de la partie réglementaire du code dans les Terres australes et antarctiques françaises, les termes
+énumérés ci-après sont remplacés comme suit : 
+
+a) Les mots : " département " ou " région " par le mot : " territoire " ; 
+
+b) Les mots : " préfet " ou " préfet de région " par les mots : " administrateur supérieur ".
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°2014-119 du 11 février 2014 - art.
+
+	**Créé par**:
+
+	  - Décret n°2014-119 du 11 février 2014 - art.
+
+
+###### Article R770-11
+
+En l'absence d'adaptation, les références faites par des dispositions du présent code applicables dans les Terres australes
+et antarctiques françaises à des dispositions qui n'y sont pas applicables sont remplacées par les références aux
+dispositions ayant le même objet applicables localement.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°2014-119 du 11 février 2014 - art.
+
+	**Créé par**:
+
+	  - Décret n°2014-119 du 11 février 2014 - art.
+
+
+### TITRE VIII : DISPOSITIONS PARTICULIÈRES  À SAINT-BARTHÉLEMY
+
+###### Article D780-2
+
+Les articles D. 122-1 à D. 122-4 ne sont pas applicables à Saint-Barthélemy.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°2014-119 du 11 février 2014 - art.
+
+	**Créé par**:
+
+	  - Décret n°2014-119 du 11 février 2014 - art.
+
+	**Cite**:
+
+	  - Code du patrimoine - art. D122-1 (V)
+
+
+###### Article D780-12
+
+Les articles D. 611-17, D. 612-18, D. 623-1, D. 623-2, D. 630-1, D. 641-1 et D. 643-1 ne sont pas applicables à Saint-
+Barthélemy.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°2014-119 du 11 février 2014 - art.
+
+	**Créé par**:
+
+	  - Décret n°2014-119 du 11 février 2014 - art.
+
+	**Cite**:
+
+	  - Code du patrimoine - art. D611-17 (V)
+	  - Code du patrimoine - art. D612-18 (V)
+	  - Code du patrimoine - art. D623-1 (V)
+	  - Code du patrimoine - art. D630-1 (V)
+	  - Code du patrimoine - art. D641-1 (V)
+	  - Code du patrimoine - art. D643-1 (V)
+
+
+###### Article L780-7
+
+Pour l'application à Saint-Barthélemy de l'article R. 523-5, la référence à l'article L. 122-1 du code de l'environnement est
+remplacée par les références aux dispositions ayant le même objet applicables localement.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°2014-119 du 11 février 2014 - art.
+
+	**Créé par**:
+
+	  - Décret n°2014-119 du 11 février 2014 - art.
+
+	**Cite**:
+
+	  - Code de l'environnement - art. L122-1 (V)
+	  - Code du patrimoine - art. R523-5 (V)
+
+
+###### Article R780-1
+
+L'article R. 111-23 n'est pas applicable à Saint-Barthélemy.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°2014-119 du 11 février 2014 - art.
+
+	**Créé par**:
+
+	  - Décret n°2014-119 du 11 février 2014 - art.
+
+	**Cite**:
+
+	  - Code du patrimoine - art. R111-23 (V)
+
+
+###### Article R780-3
+
+I. ― Pour l'application à Saint-Barthélemy de l'article R. 212-57 : 
+
+1° Les archives de la collectivité de Saint-Barthélemy sont assimilées aux archives communales ; 
+
+2° La liste des documents mentionnés à l'article R. 212-57 est complétée par les documents suivants : 
+
+― les documents provenant des tribunaux, des services déconcentrés de l'Etat et de ses établissements publics ; 
+
+― les minutes et répertoires des officiers publics ou ministériels exerçant ou ayant exercé sur le territoire de la
+collectivité ; 
+
+― les documents provenant des personnes de droit privé chargées d'une mission de service public ; 
+
+― les documents mentionnés aux articles L. 212-11 à L. 212-13. 
+
+II. ― Les articles R. 212-58 et R. 212-62 à R. 212-64 ne sont pas applicables à Saint-Barthélemy.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°2014-119 du 11 février 2014 - art.
+
+	**Créé par**:
+
+	  - Décret n°2014-119 du 11 février 2014 - art.
+
+	**Cite**:
+
+	  - Code du patrimoine - art. L212-11 (V)
+	  - Code du patrimoine - art. R212-57 (V)
+	  - Code du patrimoine - art. R212-58 (V)
+	  - Code du patrimoine - art. R212-62 (V)
+
+
+###### Article R780-4
+
+Pour l'application de l'article R. 310-4, les bibliothèques de Saint-Barthélemy sont assimilées aux bibliothèques
+municipales.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°2014-119 du 11 février 2014 - art.
+
+	**Créé par**:
+
+	  - Décret n°2014-119 du 11 février 2014 - art.
+
+	**Cite**:
+
+	  - Code du patrimoine - art. R310-4 (V)
+
+
+###### Article R780-5
+
+La commission scientifique nationale des musées de France prévue aux articles R. 451-3 à D. 451-6 émet un avis sur les
+projets d'acquisition de biens culturels et de restauration des collections lorsque le musée de France est situé à Saint-
+Barthélemy.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°2014-119 du 11 février 2014 - art.
+
+	**Créé par**:
+
+	  - Décret n°2014-119 du 11 février 2014 - art.
+
+	**Cite**:
+
+	  - Code du patrimoine - art. R451-3 (V)
+
+
+###### Article R780-6
+
+Pour l'application du livre V à Saint-Barthélemy, les attributions de la commission interrégionale de la recherche
+archéologique sont exercées par la commission interrégionale de la recherche archéologique de l'outre-mer.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°2014-119 du 11 février 2014 - art.
+
+	**Créé par**:
+
+	  - Décret n°2014-119 du 11 février 2014 - art.
+
+
+###### Article R780-8
+
+Pour l'application à Saint-Barthélemy des articles R. 523-5, R. 523-7 et R. 523-9, les références aux articles du code de
+l'urbanisme sont remplacées par les références aux dispositions ayant le même objet applicables localement.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°2014-119 du 11 février 2014 - art.
+
+	**Créé par**:
+
+	  - Décret n°2014-119 du 11 février 2014 - art.
+
+	**Cite**:
+
+	  - Code du patrimoine - art. R523-5 (V)
+
+
+###### Article R780-9
+
+Dans l'exercice des missions d'intérêt général qui incombent à l'Etat dans le cadre de ses compétences en matière
+d'archéologie préventive, les articles R. 524-1 à R. 524-10 sont applicables à Saint-Barthélemy.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°2014-119 du 11 février 2014 - art.
+
+	**Créé par**:
+
+	  - Décret n°2014-119 du 11 février 2014 - art.
+
+	**Cite**:
+
+	  - Code du patrimoine - art. R524-1 (V)
+
+
+###### Article R780-10
+
+Pour l'application à Saint-Barthélemy de l'article R. 524-5, la référence au livre des procédures fiscales est remplacée par
+la référence aux dispositions ayant le même objet applicables localement.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°2014-119 du 11 février 2014 - art.
+
+	**Créé par**:
+
+	  - Décret n°2014-119 du 11 février 2014 - art.
+
+	**Cite**:
+
+	  - Code du patrimoine - art. R524-5 (V)
+
+
+###### Article R780-11
+
+Pour l'application à Saint-Barthélemy de l'article R. 532-13, les références au préfet maritime sont remplacées par les
+références au représentant de l'Etat, assisté par le commandant de la zone maritime des Antilles.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°2014-119 du 11 février 2014 - art.
+
+	**Créé par**:
+
+	  - Décret n°2014-119 du 11 février 2014 - art.
+
+	**Cite**:
+
+	  - Code du patrimoine - art. R532-13 (V)
+
+
+###### Article R780-13
+
+La commission régionale du patrimoine et des sites prévue à l'article R. 612-1 exerce, à Saint-Barthélemy, outre les missions
+qui lui sont confiées par cet article, les missions qui sont confiées par l'article R. 612-10 à la commission départementale
+des objets mobiliers.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°2014-119 du 11 février 2014 - art.
+
+	**Créé par**:
+
+	  - Décret n°2014-119 du 11 février 2014 - art.
+
+	**Abrogé par**:
+
+	  - Décret n°2017-456 du 29 mars 2017 - art. 6
+
+	**Cite**:
+
+	  - Code du patrimoine - art. R612-1
+	  - Code du patrimoine - art. R612-10
+
+
+###### Article R780-14
+
+La commission régionale du patrimoine et des sites de Saint-Barthélemy comprend les mêmes membres que la commission régionale
+du patrimoine et des sites de Guadeloupe prévue à l'article R. 710-6, à l'exception de ceux mentionnés : 
+
+― au a et au b du 2°, remplacés par trois titulaires d'un mandat électif national ou local de la collectivité ; 
+
+― au d du 2°, remplacés par deux représentants d'associations ou de fondations représentées dans la collectivité et ayant
+pour objet de favoriser la connaissance, la protection et la conservation du patrimoine.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°2014-119 du 11 février 2014 - art.
+
+	**Créé par**:
+
+	  - Décret n°2014-119 du 11 février 2014 - art.
+
+	**Cite**:
+
+	  - Code du patrimoine - art. R710-6 (V)
+
+	**Cité par**:
+
+	  - Code du patrimoine - art. R780-15 (M)
+	  - Code du patrimoine - art. R780-16 (Ab)
+
+
+###### Article R780-15
+
+A Saint-Barthélemy, la délégation permanente de la commission régionale du patrimoine et des sites prévue à l'article R.
+612-2 comprend sept membres : 
+
+1° Quatre membres de droit : 
+
+a) Le directeur des affaires culturelles de Guadeloupe ; 
+
+b) Deux titulaires d'un mandat électif national ou local parmi ceux mentionnés à l'article R. 780-15 ; 
+
+c) Le chef du service chargé des monuments historiques de Guadeloupe ; 
+
+2° Trois membres désignés par le représentant de l'Etat parmi les personnalités mentionnées au c du 2° de l'article R. 710-6
+et au dernier alinéa de l'article R. 780-14.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°2014-119 du 11 février 2014 - art.
+
+	**Créé par**:
+
+	  - Décret n°2014-119 du 11 février 2014 - art.
+
+	**Cite**:
+
+	  - Code du patrimoine - art. R612-2 (V)
+	  - Code du patrimoine - art. R710-6 (V)
+	  - Code du patrimoine - art. R780-14 (V)
+
+
+###### Article R780-16
+
+Pour l'application à Saint-Barthélemy de l'article R. 612-6 : 
+
+1° Au premier alinéa, le mot : " onze " est remplacé par le mot : " huit " ; 
+
+2° Le 3° est ainsi rédigé : 
+
+" Trois personnalités désignées par le représentant de l'Etat parmi les membres de la commission mentionnés au c du 2° de
+l'article R. 710-6 et au dernier alinéa de l'article R. 780-14. "
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°2014-119 du 11 février 2014 - art.
+
+	**Créé par**:
+
+	  - Décret n°2014-119 du 11 février 2014 - art.
+
+	**Abrogé par**:
+
+	  - Décret n°2017-456 du 29 mars 2017 - art. 6
+
+	**Cite**:
+
+	  - Code du patrimoine - art. R612-6
+	  - Code du patrimoine - art. R710-6
+	  - Code du patrimoine - art. R780-14
+
+
+###### Article R780-17
+
+Pour l'application à Saint-Barthélemy des articles R. 612-3, R. 621-8, R. 621-58, R. 621-67, R. 621-88 et R. 621-95, les
+références aux articles du code de l'urbanisme sont remplacées par les références aux dispositions ayant le même objet
+applicables localement.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°2014-119 du 11 février 2014 - art.
+
+	**Créé par**:
+
+	  - Décret n°2014-119 du 11 février 2014 - art.
+
+	**Cite**:
+
+	  - Code du patrimoine - art. R612-3 (V)
+	  - Code du patrimoine - art. R621-58 (V)
+	  - Code du patrimoine - art. R621-67 (V)
+	  - Code du patrimoine - art. R621-8 (V)
+	  - Code du patrimoine - art. R621-88 (V)
+	  - Code du patrimoine - art. R621-95 (V)
+
+
+###### Article R780-18
+
+Pour l'application à Saint-Barthélemy des articles R. 621-71 et R. 622-46, les références à l'article L. 2334-4 du code
+général des collectivités territoriales sont remplacées par les références aux dispositions ayant le même objet applicables
+localement.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°2014-119 du 11 février 2014 - art.
+
+	**Créé par**:
+
+	  - Décret n°2014-119 du 11 février 2014 - art.
+
+	**Cite**:
+
+	  - Code général des collectivités territoriales - art. L2334-4 (V)
+	  - Code du patrimoine - art. R621-71 (V)
+	  - Code du patrimoine - art. R622-46 (V)
+
+
+###### Article R780-19
+
+Pour l'application de la partie réglementaire du code à Saint-Barthélemy, les termes énumérés ci-après sont remplacés comme
+suit : 
+
+a) Les mots : " département ", " région " ou " commune " par le mot : " collectivité " ; 
+
+b) Les mots : " conseil général " ou " conseil régional " par les mots : " conseil territorial " ; 
+
+c) Le mot : " mairie " par les mots : " hôtel de la collectivité " ; 
+
+d) Les mots : " maires ", " président du conseil général " ou " président du conseil régional " par les mots : " président du
+conseil territorial " ; 
+
+e) Les mots : " préfet " ou " préfet de région " par les mots : " représentant de l'Etat ".
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°2014-119 du 11 février 2014 - art.
+
+	**Créé par**:
+
+	  - Décret n°2014-119 du 11 février 2014 - art.
+
+
+###### Article R780-20
+
+En l'absence d'adaptation, les références faites par des dispositions du code applicables à Saint-Barthélemy à des
+dispositions qui n'y sont pas applicables sont remplacées par les références aux dispositions ayant le même objet applicables
+localement.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°2014-119 du 11 février 2014 - art.
+
+	**Créé par**:
+
+	  - Décret n°2014-119 du 11 février 2014 - art.
+
+
+### TITRE IX : DISPOSITIONS PARTICULIÈRES À SAINT-MARTIN
+
+###### Article D790-2
+
+Les articles D. 122-1 à D. 122-4 ne sont pas applicables à Saint-Martin.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°2014-119 du 11 février 2014 - art.
+
+	**Créé par**:
+
+	  - Décret n°2014-119 du 11 février 2014 - art.
+
+	**Cite**:
+
+	  - Code du patrimoine - art. D122-1 (V)
+
+
+###### Article D790-11
+
+Les articles D. 611-17, D. 612-18, D. 623-1, D. 623-2, D. 641-1 et D. 643-1 ne sont pas applicables à Saint-Martin.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°2014-119 du 11 février 2014 - art.
+
+	**Créé par**:
+
+	  - Décret n°2014-119 du 11 février 2014 - art.
+
+	**Cite**:
+
+	  - Code du patrimoine - art. D611-17 (V)
+	  - Code du patrimoine - art. D612-18 (V)
+	  - Code du patrimoine - art. D623-1 (V)
+	  - Code du patrimoine - art. D641-1 (V)
+	  - Code du patrimoine - art. D643-1 (V)
+
+
+###### Article R790-1
+
+L'article R. 111-23 n'est pas applicable à Saint-Martin.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°2014-119 du 11 février 2014 - art.
+
+	**Créé par**:
+
+	  - Décret n°2014-119 du 11 février 2014 - art.
+
+	**Cite**:
+
+	  - Code du patrimoine - art. R111-23 (V)
+
+
+###### Article R790-3
+
+I. ― Pour l'application à Saint Martin de l'article R. 212-57 : 
+
+1° Les archives de la collectivité de Saint-Martin sont assimilées aux archives communales ; 
+
+2° La liste des documents mentionnés à l'article R. 212-57 est complétée par les documents suivants : 
+
+― les documents provenant des tribunaux, des services déconcentrés de l'Etat et de ses établissements publics ; 
+
+― les minutes et répertoires des officiers publics ou ministériels exerçant ou ayant exercé sur le territoire de la
+collectivité ; 
+
+― les documents provenant des personnes de droit privé chargées d'une mission de service public ; 
+
+― les documents mentionnés aux articles L. 212-11 à L. 212-13. 
+
+II. ― Les articles R. 212-58 et R. 212-62 à R. 212-64 ne sont pas applicables à Saint-Martin.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°2014-119 du 11 février 2014 - art.
+
+	**Créé par**:
+
+	  - Décret n°2014-119 du 11 février 2014 - art.
+
+	**Cite**:
+
+	  - Code du patrimoine - art. L212-11 (V)
+	  - Code du patrimoine - art. R212-57 (V)
+	  - Code du patrimoine - art. R212-58 (V)
+	  - Code du patrimoine - art. R212-62 (V)
+
+
+###### Article R790-4
+
+Pour l'application de l'article R. 310-4, les bibliothèques de Saint-Martin sont assimilées aux bibliothèques municipales.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°2014-119 du 11 février 2014 - art.
+
+	**Créé par**:
+
+	  - Décret n°2014-119 du 11 février 2014 - art.
+
+	**Cite**:
+
+	  - Code du patrimoine - art. R310-4 (V)
+
+
+###### Article R790-5
+
+La commission scientifique nationale des musées de France prévue aux articles R. 451-3 à D. 451-6 émet un avis sur les
+projets d'acquisition de biens culturels et de restauration des collections lorsque le musée de France est situé à Saint-
+Martin.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°2014-119 du 11 février 2014 - art.
+
+	**Créé par**:
+
+	  - Décret n°2014-119 du 11 février 2014 - art.
+
+	**Cite**:
+
+	  - Code du patrimoine - art. R451-3 (V)
+
+
+###### Article R790-6
+
+Pour l'application du livre V à Saint-Martin, les attributions de la commission interrégionale de la recherche archéologique
+sont exercées par la commission interrégionale de la recherche archéologique de l'outre-mer prévue à l'article R. 710-4.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°2014-119 du 11 février 2014 - art.
+
+	**Créé par**:
+
+	  - Décret n°2014-119 du 11 février 2014 - art.
+
+	**Cite**:
+
+	  - Code du patrimoine - art. R710-4 (V)
+
+
+###### Article R790-7
+
+Pour l'application à Saint-Martin des articles R. 523-5, R. 523-7 et R. 523-9, les références aux articles du code de
+l'urbanisme sont remplacées par les références aux dispositions ayant le même objet applicables localement.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°2014-119 du 11 février 2014 - art.
+
+	**Créé par**:
+
+	  - Décret n°2014-119 du 11 février 2014 - art.
+
+	**Cite**:
+
+	  - Code du patrimoine - art. R523-5 (V)
+	  - Code du patrimoine - art. R523-7 (V)
+
+
+###### Article R790-8
+
+Dans l'exercice des missions d'intérêt général qui incombent à l'Etat dans le cadre de ses compétences en matière
+d'archéologie préventive, les articles R. 524-1 à R. 524-10 sont applicables à Saint-Martin.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°2014-119 du 11 février 2014 - art.
+
+	**Créé par**:
+
+	  - Décret n°2014-119 du 11 février 2014 - art.
+
+	**Cite**:
+
+	  - Code du patrimoine - art. R524-1 (V)
+
+
+###### Article R790-9
+
+Pour l'application à Saint-Martin de l'article R. 524-5, la référence au livre des procédures fiscales est remplacée par la
+référence aux dispositions ayant le même objet applicables localement.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°2014-119 du 11 février 2014 - art.
+
+	**Créé par**:
+
+	  - Décret n°2014-119 du 11 février 2014 - art.
+
+	**Cite**:
+
+	  - Code du patrimoine - art. R524-5 (V)
+
+
+###### Article R790-10
+
+Pour l'application à Saint-Martin de l'article R. 532-13, les références au préfet maritime sont remplacées par les
+références au représentant de l'Etat, assisté par le commandant de la zone maritime des Antilles.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°2014-119 du 11 février 2014 - art.
+
+	**Créé par**:
+
+	  - Décret n°2014-119 du 11 février 2014 - art.
+
+	**Cite**:
+
+	  - Code du patrimoine - art. R532-13 (V)
+
+
+###### Article R790-12
+
+La commission régionale du patrimoine et des sites prévue à l'article R. 612-1 exerce, à Saint-Martin, outre les missions qui
+lui sont confiées par cet article, les missions qui sont confiées par l'article R. 612-10 à la commission départementale des
+objets mobiliers.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°2014-119 du 11 février 2014 - art.
+
+	**Créé par**:
+
+	  - Décret n°2014-119 du 11 février 2014 - art.
+
+	**Abrogé par**:
+
+	  - Décret n°2017-456 du 29 mars 2017 - art. 6
+
+	**Cite**:
+
+	  - Code du patrimoine - art. R612-1
+	  - Code du patrimoine - art. R612-10
+
+
+###### Article R790-13
+
+La commission régionale du patrimoine et des sites de Saint-Martin comprend les mêmes membres que la commission régionale du
+patrimoine et des sites de Guadeloupe prévue à l'article R. 710-6, à l'exception de ceux mentionnés : 
+
+― au a et au b du 2°, remplacés par trois titulaires d'un mandat électif national ou local de la collectivité ; 
+
+― au d du 2°, remplacés par deux représentants d'associations ou de fondations représentées dans la collectivité et ayant
+pour objet de favoriser la connaissance, la protection et la conservation du patrimoine.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°2014-119 du 11 février 2014 - art.
+
+	**Créé par**:
+
+	  - Décret n°2014-119 du 11 février 2014 - art.
+
+	**Cite**:
+
+	  - Code du patrimoine - art. R710-6 (V)
+
+	**Cité par**:
+
+	  - Code du patrimoine - art. R780-15 (Ab)
+	  - Code du patrimoine - art. R790-14 (Ab)
+	  - Code du patrimoine - art. R790-15 (Ab)
+
+
+###### Article R790-14
+
+A Saint-Martin, la délégation permanente de la commission régionale du patrimoine et des sites prévue à l'article R. 612-2
+comprend sept membres : 
+
+1° Quatre membres de droit : 
+
+a) Le directeur des affaires culturelles de Guadeloupe ; 
+
+b) Deux titulaires d'un mandat électif national ou local parmi ceux mentionnés à l'article R. 790-13 ; 
+
+c) Le chef du service chargé des monuments historiques de Guadeloupe ; 
+
+2° Trois membres désignés par le représentant de l'Etat parmi les personnalités mentionnées au c du 2° de l'article R. 710-6
+et au dernier alinéa de l'article R. 790-13.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°2014-119 du 11 février 2014 - art.
+
+	**Créé par**:
+
+	  - Décret n°2014-119 du 11 février 2014 - art.
+
+	**Cite**:
+
+	  - Code du patrimoine - art. R612-2 (V)
+	  - Code du patrimoine - art. R710-6 (V)
+	  - Code du patrimoine - art. R790-13 (V)
+
+
+###### Article R790-15
+
+Pour l'application à Saint-Martin de l'article R. 612-6 : 
+
+1° Au premier alinéa, le mot : " onze " est remplacé par le mot : " huit " ; 
+
+2° Le 3° est ainsi rédigé : 
+
+" Trois personnalités désignées par le représentant de l'Etat parmi les membres de la commission mentionnés au c du 2° de
+l'article R. 710-6 et au dernier alinéa de l'article R. 790-13. "
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°2014-119 du 11 février 2014 - art.
+
+	**Créé par**:
+
+	  - Décret n°2014-119 du 11 février 2014 - art.
+
+	**Abrogé par**:
+
+	  - Décret n°2017-456 du 29 mars 2017 - art. 6
+
+	**Cite**:
+
+	  - Code du patrimoine - art. R612-6
+	  - Code du patrimoine - art. R710-6
+	  - Code du patrimoine - art. R790-13
+
+
+###### Article R790-16
+
+Pour l'application à Saint-Martin des articles R. 612-3, R. 621-8, R. 621-58, R. 621-67, R. 621-88 et R. 621-95, les
+références aux articles du code de l'urbanisme sont remplacées par les références aux dispositions ayant le même objet
+applicables localement.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°2014-119 du 11 février 2014 - art.
+
+	**Créé par**:
+
+	  - Décret n°2014-119 du 11 février 2014 - art.
+
+	**Cite**:
+
+	  - Code du patrimoine - art. R612-3 (V)
+	  - Code du patrimoine - art. R621-58 (V)
+	  - Code du patrimoine - art. R621-67 (V)
+	  - Code du patrimoine - art. R621-8 (V)
+	  - Code du patrimoine - art. R621-88 (V)
+	  - Code du patrimoine - art. R621-95 (V)
+
+
+###### Article R790-17
+
+Pour l'application à Saint-Martin des articles R. 621-71 et R. 622-46, les références à l'article L. 2334-4 du code général
+des collectivités territoriales sont remplacées par les références aux dispositions ayant le même objet applicables
+localement.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°2014-119 du 11 février 2014 - art.
+
+	**Créé par**:
+
+	  - Décret n°2014-119 du 11 février 2014 - art.
+
+	**Cite**:
+
+	  - Code général des collectivités territoriales - art. L2334-4 (V)
+	  - Code du patrimoine - art. R621-71 (V)
+	  - Code du patrimoine - art. R622-46 (V)
+
+
+###### Article R790-18
+
+Pour l'application de la partie réglementaire du code à Saint-Martin, les termes énumérés ci-après sont remplacés comme
+suit : 
+
+a) Les mots : " département ", " région " ou " commune " par le mot : " collectivité " ; 
+
+b) Les mots : " conseil général " ou " conseil régional " par les mots : " conseil territorial " ; 
+
+c) Le mot : " mairie " par les mots : " hôtel de la collectivité " ; 
+
+d) Les mots : " maires ", " président du conseil général " ou " président du conseil régional " par les mots : " président du
+conseil territorial " ; 
+
+e) Les mots : " préfet " ou " préfet de région " par les mots : " représentant de l'Etat ".
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°2014-119 du 11 février 2014 - art.
+
+	**Créé par**:
+
+	  - Décret n°2014-119 du 11 février 2014 - art.
+
+
+###### Article R790-19
+
+En l'absence d'adaptation, les références faites par des dispositions du code applicables à Saint-Martin, à des dispositions
+qui n'y sont pas applicables sont remplacées par les références aux dispositions ayant le même objet applicables localement.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°2014-119 du 11 février 2014 - art.
+
+	**Créé par**:
+
+	  - Décret n°2014-119 du 11 février 2014 - art.
+
+
 ## Annexes
 
 ###### Article Annexe 1 aux articles R. 111-1
@@ -41781,104 +44815,148 @@ Ressort territorial et siège des commissions interrégionales de la recherche a
 <table>
     <tbody>
       <tr>
-        <th>COMMISSION INTERRÉGIONALE
+        <th>COMMISSION INTERRÉGIONALE 
 
 </th>
-        <th>RESSORT
+        <th>
+
+RESSORT 
 
 </th>
-        <th>SIÈGE
+        <th>
+
+SIÈGE 
 
 </th>
       </tr>
       <tr>
-        <td align="center">Commission Centre-Est
+        <td align="center">
+
+Commission Centre-Est 
 
 </td>
-        <td align="center">Auvergne, Rhône-Alpes
+        <td align="center">
+
+Auvergne, Rhône-Alpes 
 
 </td>
-        <td align="center">Lyon
+        <td align="center">
 
-</td>
-      </tr>
-      <tr>
-        <td align="center">Commission Centre-Nord
-
-</td>
-        <td align="center">Centre, Ile-de-France, Nord - Pas-de-Calais, Picardie
-
-</td>
-        <td align="center">Orléans
+Lyon 
 
 </td>
       </tr>
       <tr>
-        <td align="center">Commission Ouest
+        <td align="center">
+
+Commission Centre-Nord 
 
 </td>
-        <td align="center">Bretagne, Basse-Normandie, Haute-Normandie, Pays de la Loire
+        <td align="center">
+
+Centre, Ile-de-France, Nord-Pas-de-Calais, Picardie 
 
 </td>
-        <td align="center">Rennes
+        <td align="center">
 
-</td>
-      </tr>
-      <tr>
-        <td align="center">Commission Est
-
-</td>
-        <td align="center">Alsace, Bourgogne, Champagne-Ardenne, Franche-Comté, Lorraine
-
-</td>
-        <td align="center">Dijon
+Orléans 
 
 </td>
       </tr>
       <tr>
-        <td align="center">Commission Sud-Est
+        <td align="center">
+
+Commission Ouest 
 
 </td>
-        <td align="center">Corse, Languedoc-Roussillon, Provence-Alpes-Côte d'Azur
+        <td align="center">
+
+Bretagne, Basse-Normandie, Haute-Normandie, Pays de la Loire 
 
 </td>
-        <td align="center">Marseille
+        <td align="center">
 
-</td>
-      </tr>
-      <tr>
-        <td align="center">Commission Sud-Ouest
-
-</td>
-        <td align="center">Aquitaine, Limousin, Midi-Pyrénées, Poitou-Charentes
-
-</td>
-        <td align="center">Bordeaux
+Rennes 
 
 </td>
       </tr>
       <tr>
-        <td align="center">Commission de l'outre-mer
+        <td align="center">
+
+Commission Est 
 
 </td>
-        <td align="center">Guadeloupe, Guyane, Martinique, Réunion
+        <td align="center">
+
+Alsace, Bourgogne, Champagne-Ardenne, Franche-Comté, Lorraine 
 
 </td>
-        <td align="center">Fort-de-France
+        <td align="center">
+
+Dijon 
 
 </td>
+      </tr>
+      <tr>
+        <td align="center">
+
+Commission Sud-Est 
+
+</td>
+        <td align="center">
+
+Corse, Languedoc-Roussillon, Provence-Alpes-Côte d'Azur 
+
+</td>
+        <td align="center">
+
+Marseille 
+
+</td>
+      </tr>
+      <tr>
+        <td align="center">
+
+Commission Sud-Ouest 
+
+</td>
+        <td align="center">
+
+Aquitaine, Limousin, Midi-Pyrénées, Poitou-Charentes 
+
+</td>
+        <td align="center">
+
+Bordeaux 
+
+</td>
+      </tr>
+      <tr>
+        <td align="center">
+
+Commission de l'outre-mer 
+
+</td>
+        <td align="center">
+
+Guadeloupe, Guyane, Martinique, La Réunion, Mayotte, Saint-Pierre-et-Miquelon, Saint-Barthélemy, Saint-Martin 
+
+</td>
+        <td align="center">
+
+Fort-de-France</td>
       </tr>
     </tbody>
   </table>
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
-
-	  - Décret n°2011-574 du 24 mai 2011  - art.
-
 	**Codifié par**:
 
 	  - Décret n°2011-574 du 24 mai 2011 Annexe - art.
+
+	**Modifié par**:
+
+	  - Décret n°2014-119 du 11 février 2014 - art. 5
 
 
