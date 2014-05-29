@@ -1,5 +1,5 @@
 # Code du patrimoine  
-Version Consolidée au 2014-03-27
+Version Consolidée au 2014-05-30
 
 # Partie législative
 
@@ -18271,6 +18271,18 @@ articles R. 132-8, R. 132-13, R. 132-21, R. 132-28, R. 132-29, R. 132-30 et R. 1
 	  - Code du patrimoine - art. R132-32
 	  - Code du patrimoine - art. R132-40
 	  - Code du patrimoine - art. R132-8
+
+
+###### Article R133-1-1
+
+Le comptable public compétent mentionné au quatrième alinéa de l'article L. 133-1 du code du patrimoine est un comptable de
+la direction générale des finances publiques.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2014-551 du 27 mai 2014 - art. 18
 
 
 ### TITRE IV : INSTITUTIONS RELATIVES  AU PATRIMOINE CULTUREL
