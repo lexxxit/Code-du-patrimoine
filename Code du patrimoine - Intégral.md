@@ -1,5 +1,5 @@
 # Code du patrimoine  
-Version Consolidée au 2014-11-05
+Version Consolidée au 2014-12-30
 
 # Partie législative
 
@@ -6982,6 +6982,9 @@ En cas de transfert partiel, un titre d'annulation des sommes correspondant à l
 titulaire initial du droit à construire ou d'aménager. Un titre de perception est émis à l'encontre du titulaire du transfert
 partiel. 
 
+En cas de transfert total ou partiel, le ou les titres de perception sont émis dans les trente-six mois suivant l'émission du
+titre d'annulation.
+
 IV. ― L'Etat effectue un prélèvement de 3 % sur le montant des sommes recouvrées, au titre des frais d'assiette et de
 recouvrement.
 
@@ -7014,15 +7017,15 @@ l'article L. 524-4 du même code, ils sont applicables à compter du 1er mars 20
 
 	**Modifié par**:
 
-	  - Loi n°2011-1978 du 28 décembre 2011 - art. 79 (V)
+	  - Loi n°2014-1655 du 29 décembre 2014 - art. 44
 
 	**Cite**:
 
-	  - Livre des procédures fiscales - art. L55 (V)
-	  - Code de l'urbanisme - art. L331-19 (V)
-	  - Code de l'urbanisme - art. L331-21 (V)
-	  - Code du patrimoine - art. L524-2 (V)
-	  - Code du patrimoine - art. L524-4 (V)
+	  - Livre des procédures fiscales - art. L55
+	  - Code de l'urbanisme - art. L331-19
+	  - Code de l'urbanisme - art. L331-21
+	  - Code du patrimoine - art. L524-2
+	  - Code du patrimoine - art. L524-4
 
 
 ###### Article L524-11
@@ -37651,8 +37654,6 @@ mise à disposition ;
 
 	  - Décret n°2014-1314 du 31 octobre 2014 - art. 19
 
-
-##### Sous-section 5 : Financement de l'Etat aux travaux d'entretien,  de réparation ou de restauration
 
 ##### Sous-section 5 : Contribution financière de l'Etat aux travaux d'entretien,  de réparation ou de restauration
 
