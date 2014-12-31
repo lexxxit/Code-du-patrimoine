@@ -1,5 +1,5 @@
 # Code du patrimoine  
-Version Consolidée au 2014-12-30
+Version Consolidée au 2015-01-01
 
 # Partie législative
 
@@ -3134,11 +3134,22 @@ même des autres archives publiques constituées dans leur ressort ainsi que des
 décident de déposer aux archives départementales. Les services départementaux d'archives peuvent également recevoir des
 archives privées.
 
+Le service départemental d'archives du Rhône exerce les missions définies au premier alinéa sur les territoires du
+département du Rhône et de la métropole de Lyon. Il assure également la conservation et la mise en valeur des archives de la
+métropole de Lyon. Le département du Rhône et la métropole de Lyon assurent conjointement le financement du service
+départemental d'archives du Rhône.
+
+Le service départemental d'archives du Rhône est un service unifié au sens du I de l'article L. 5111-1-1 du code général des
+collectivités territoriales, rattaché au département du Rhône. 
+
+Le remboursement des dépenses prévu au cinquième alinéa de l'article L. 5111-1-1 s'effectue au prorata de la population du
+département du Rhône et de la métropole de Lyon. 
+
+Pour l'application des dispositions du livre II du présent code au département du Rhône et à la métropole de Lyon, les mots :
+"   service départemental d'archives ", " archives du département " et " archives départementales " sont remplacés par les
+mots : " service d'archives du département du Rhône et de la métropole de Lyon ".
+
 **Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Ordonnance 2004-178 2004-02-20 JORF 24 février 2004
 
 	**Cité par**:
 
@@ -3146,9 +3157,13 @@ archives privées.
 	  - Code du patrimoine - art. R212-4-1 (V)
 	  - Code du patrimoine. - art. L212-10 (VD)
 
-	**Anciens textes**:
+	**Modifié par**:
 
-	  - Code général des collectivités territoriales L1421-5 alinéa 2
+	  - ORDONNANCE n°2014-1543 du 19 décembre 2014 - art. 27
+
+	**Cite**:
+
+	  - Code général des collectivités territoriales - art. L5111-1-1
 
 
 ###### Article L212-9
@@ -35422,7 +35437,7 @@ La demande d'indemnité formée par le propriétaire d'un immeuble classé d'off
 l'article L. 621-6 est adressée au préfet de la région dans laquelle le bien est situé. 
 
 A défaut d'accord amiable dans un délai de six mois à compter de la date de la demande, le juge de l'expropriation peut être
-saisi dans les conditions prévues au deuxième alinéa de l'article R. 13-21 du code de l'expropriation pour cause d'utilité
+saisi dans les conditions prévues au second alinéa de l'article R. 311-9 du code de l'expropriation pour cause d'utilité
 publique.
 
 **Liens relatifs à cet article**
@@ -35433,11 +35448,11 @@ publique.
 
 	**Modifié par**:
 
-	  - Décret n°2014-1314 du 31 octobre 2014 - art. 10
+	  - Décret n°2014-1635 du 26 décembre 2014 - art. 4
 
 	**Cite**:
 
-	  - Code de l'expropriation pour cause d'utilité publique - art. R13-21
+	  - Code de l'expropriation pour cause d'utilité pu... - art. R311-9 (V)
 	  - Code du patrimoine - art. L621-6
 
 
