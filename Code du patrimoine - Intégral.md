@@ -1,5 +1,5 @@
 # Code du patrimoine  
-Version Consolidée au 2015-01-01
+Version Consolidée au 2015-02-23
 
 # Partie législative
 
@@ -28,29 +28,48 @@ publique ou privée, qui présentent un intérêt historique, artistique, arché
 
 ###### Article L111-1
 
-Les biens appartenant aux collections publiques et aux collections des musées de France, les biens classés en application des
-dispositions relatives aux monuments historiques et aux archives, ainsi que les autres biens qui présentent un intérêt majeur
-pour le patrimoine national au point de vue de l'histoire, de l'art ou de l'archéologie sont considérés comme trésors
-nationaux.
+Sont des trésors nationaux : 
+
+1° Les biens appartenant aux collections des musées de France ; 
+
+2° Les archives publiques, au sens de l'article L. 211-4, ainsi que les biens classés comme archives historiques en
+application du livre II ; 
+
+3° Les biens classés au titre des monuments historiques en application du livre VI ; 
+
+4° Les autres biens faisant partie du domaine public mobilier, au sens de l'article L. 2112-1 du code général de la propriété
+des personnes publiques ; 
+
+5° Les autres biens présentant un intérêt majeur pour le patrimoine national au point de vue de l'histoire, de l'art ou de
+l'archéologie.
 
 **Liens relatifs à cet article**
 
 	**Anciens textes**:
 
-	  - Loi n°92-1477 1992-12-31 art. 4
 	  - Loi n°92-1477 du 31 décembre 1992 - art. 4 (Ab)
 
 	**Codifié par**:
 
-	  - Ordonnance 2004-178 2004-02-20 JORF 24 février 2004
+	  - Ordonnance n°2004-178 du 20 février 2004
 
 	**Cité par**:
 
 	  - Décret n°2011-975 du 16 août 2011 - art. 2 (V)
 	  - Code des douanes - art. 38 (VD)
 	  - Code du patrimoine - art. L111-7 (V)
+	  - Code du patrimoine - art. L112-11 (V)
 	  - Code du patrimoine - art. L114-1 (V)
 	  - Code du patrimoine - art. R112-4 (V)
+
+	**Modifié par**:
+
+	  - Loi n°2015-195 du 20 février 2015 - art. 6
+
+	**Cite**:
+
+	  - Code général de la propriété des personnes publiques. - art. L2112-1
+	  - Code du patrimoine - art. L211-4 (V)
 
 
 ###### Article L111-2
@@ -272,8 +291,9 @@ Un décret en Conseil d'Etat fixe les modalités d'application du présent artic
 ###### Article L112-1
 
 Au sens de la présente section, un bien culturel est considéré comme sorti illicitement du territoire d'un autre Etat membre
-de la Communauté européenne lorsque, en violation de la législation de cet Etat membre en matière de protection des trésors
-nationaux ou en violation du règlement (CEE) n° 3911/92 du 9 décembre 1992, il en est sorti après le 31 décembre 1992.
+de l'Union européenne lorsque, en violation de la législation de cet Etat membre en matière de protection des trésors
+nationaux ou en violation du règlement (CE) n° 116/2009 du Conseil, du 18 décembre 2008, concernant l'exportation de biens
+culturels, il en est sorti après le 31 décembre 1992.
 
 **Liens relatifs à cet article**
 
@@ -283,36 +303,25 @@ nationaux ou en violation du règlement (CEE) n° 3911/92 du 9 décembre 1992, i
 
 	**Codifié par**:
 
-	  - Ordonnance 2004-178 2004-02-20 JORF 24 février 2004
+	  - Ordonnance n°2004-178 du 20 février 2004
+
+	**Modifié par**:
+
+	  - Loi n°2015-195 du 20 février 2015 - art. 7
 
 	**Cité par**:
 
+	  - Code du patrimoine - art. L112-8 (V)
 	  - Code du patrimoine - art. L730-1 (V)
 	  - Code du patrimoine. - art. L112-3 (V)
 	  - Code du patrimoine. - art. L112-4 (V)
-	  - Code du patrimoine. - art. L112-8 (M)
-
-	**Cite**:
-
-	  - Règlement 3911-92 CEE 1992-12-09
 
 
 ###### Article L112-2
 
 Les dispositions de la présente section s'appliquent aux biens culturels qui constituent, en vertu des règles en vigueur dans
-un autre Etat membre, des trésors nationaux au sens de l'article 36 devenu l'article 30 du traité instituant la Communauté
-européenne, que cette qualification leur ait été donnée avant ou après leur sortie illicite du territoire de cet Etat.
-
-Ces biens doivent en outre :
-
-1° Soit appartenir à l'une des catégories précisées par décret en Conseil d'Etat ;
-
-2° Soit faire partie :
-
-a) Des collections publiques figurant sur les inventaires des musées, des archives et des fonds de conservation des
-bibliothèques ;
-
-b) Ou des inventaires des institutions ecclésiastiques.
+un autre Etat membre, des trésors nationaux au sens de l'article 36 du traité sur le fonctionnement de l'Union européenne,
+que cette qualification leur ait été donnée avant ou après leur sortie illicite du territoire de cet Etat.
 
 **Liens relatifs à cet article**
 
@@ -322,11 +331,11 @@ b) Ou des inventaires des institutions ecclésiastiques.
 
 	**Codifié par**:
 
-	  - Ordonnance 2004-178 2004-02-20 JORF 24 février 2004
+	  - Ordonnance n°2004-178 du 20 février 2004
 
 	**Modifié par**:
 
-	  - Loi n°2004-1343 du 9 décembre 2004 - art. 78 (V) JORF 10 décembre 2004
+	  - Loi n°2015-195 du 20 février 2015 - art. 6
 
 	**Cité par**:
 
@@ -334,10 +343,6 @@ b) Ou des inventaires des institutions ecclésiastiques.
 	  - Code du patrimoine - art. R112-4 (V)
 	  - Code du patrimoine - art. R112-6 (V)
 	  - Code du patrimoine. - art. R112-7 (V)
-
-	**Cite**:
-
-	  - Traité de Rome 1957-03-25 art. 30, art. 36
 
 
 ##### Sous-section 2 : Procédure administrative.
@@ -403,14 +408,15 @@ procédure de retour dans l'Etat d'origine.
 Les mesures conservatoires sont notifiées au propriétaire, au possesseur ou au détenteur du bien culturel. 
 
 Sans que puissent y faire obstacle les voies ordinaires de recours, les mesures conservatoires cessent de produire effet si
-l'action judiciaire définie au premier alinéa de l'article L. 112-6 n'a pas été introduite dans le délai d'un an à compter de
-la date à laquelle l'Etat membre a eu connaissance du lieu où se trouve le bien culturel et de l'identité de son possesseur
-ou de son détenteur, que ce soit à la suite de l'information prévue à l'article L. 112-3 ou de la communication par
-l'autorité administrative du résultat des recherches accomplies conformément à l'article L. 112-4.
+l'action judiciaire définie au premier alinéa de l'article L. 112-6 n'a pas été introduite dans le délai de trois ans à
+compter de la date à laquelle l'autorité centrale compétente de l'Etat membre a eu connaissance du lieu où se trouve le bien
+culturel et de l'identité de son possesseur ou de son détenteur, que ce soit à la suite de l'information prévue à l'article
+L. 112-3 ou de la communication par l'autorité administrative du résultat des recherches accomplies conformément à l'article
+L. 112-4. 
 
 Elles cessent également de produire effet si l'Etat membre requérant, informé conformément à l'article L. 112-3, n'a pas
 procédé à la vérification de la qualité de trésor national du bien ou n'a pas communiqué les résultats de cette vérification
-dans un délai de deux mois à compter de la notification des mesures conservatoires.
+dans un délai de six mois à compter de la notification des mesures conservatoires.
 
 **Liens relatifs à cet article**
 
@@ -420,13 +426,17 @@ dans un délai de deux mois à compter de la notification des mesures conservato
 
 	**Codifié par**:
 
-	  - Ordonnance 2004-178 2004-02-20 JORF 24 février 2004
+	  - Ordonnance n°2004-178 du 20 février 2004
+
+	**Modifié par**:
+
+	  - Loi n°2015-195 du 20 février 2015 - art. 6
 
 	**Cite**:
 
-	  - Code du patrimoine. - art. L112-3 (V)
-	  - Code du patrimoine. - art. L112-4 (V)
-	  - Code du patrimoine. - art. L112-6 (V)
+	  - Code du patrimoine - art. L112-3
+	  - Code du patrimoine - art. L112-4
+	  - Code du patrimoine - art. L112-6
 
 	**Cité par**:
 
@@ -494,6 +504,14 @@ Le tribunal accorde, en tenant compte des circonstances de l'espèce, au possess
 requise lors de l'acquisition du bien une indemnité équitable destinée à réparer son préjudice et qui est mise à la charge de
 l'Etat membre requérant. 
 
+Pour déterminer si le possesseur a exercé la diligence requise, il est tenu compte de toutes les circonstances de
+l'acquisition, notamment de la documentation sur la provenance du bien, des autorisations de sortie exigées en vertu du droit
+de l'Etat membre requérant, de la qualité des parties, du prix payé, de la consultation ou non par le possesseur de tout
+registre accessible sur les biens culturels volés et de toute information pertinente qu'il aurait pu raisonnablement obtenir
+ou de toute autre démarche qu'une personne raisonnable aurait entreprise dans les mêmes circonstances. 
+
+L'indemnité est versée lors de la restitution du bien. 
+
 En cas de donation ou de succession, le possesseur ne peut bénéficier de droits plus favorables que ceux dont peut se
 prévaloir la personne qui lui a transmis le bien.
 
@@ -505,7 +523,11 @@ prévaloir la personne qui lui a transmis le bien.
 
 	**Codifié par**:
 
-	  - Ordonnance 2004-178 2004-02-20 JORF 24 février 2004
+	  - Ordonnance n°2004-178 du 20 février 2004
+
+	**Modifié par**:
+
+	  - Loi n°2015-195 du 20 février 2015 - art. 6
 
 	**Cité par**:
 
@@ -515,7 +537,7 @@ prévaloir la personne qui lui a transmis le bien.
 
 	**Cite**:
 
-	  - Code du patrimoine. - art. L112-1 (V)
+	  - Code du patrimoine - art. L112-1 (V)
 
 
 ###### Article L112-9
@@ -546,9 +568,9 @@ retour, l'Etat membre requérant est réputé avoir renoncé au bénéfice de ce
 
 ###### Article L112-10
 
-L'action tendant au retour d'un bien culturel est prescrite à l'expiration d'un délai d'un an à compter de la date à laquelle
-l'Etat membre a eu connaissance du lieu où se trouve ce bien et de l'identité de son propriétaire, de son possesseur ou de
-son détenteur.
+L'action tendant au retour d'un bien culturel est prescrite à l'expiration d'un délai          de trois ans à compter de la
+date à laquelle l'autorité centrale compétente de l'Etat membre a eu connaissance du lieu où se trouve ce bien et de
+l'identité de son propriétaire, de son possesseur ou de son détenteur. 
 
 En tout état de cause, l'action se prescrit dans un délai de trente ans à compter de la date à laquelle le bien culturel est
 sorti illicitement du territoire de l'Etat membre requérant. Toutefois, l'action se prescrit dans un délai de soixante-quinze
@@ -564,12 +586,22 @@ l'Etat membre requérant accorde à ces biens une protection spécifique.
 
 	**Codifié par**:
 
-	  - Ordonnance 2004-178 2004-02-20 JORF 24 février 2004
+	  - Ordonnance n°2004-178 du 20 février 2004
 
 	**Modifié par**:
 
-	  - Loi n°2004-1343 du 9 décembre 2004 - art. 78 (V) JORF 10 décembre 2004
+	  - Loi n°2015-195 du 20 février 2015 - art. 6
 
+
+##### Section 1 : Biens culturels se trouvant en France et sortis illicitement du territoire d'un autre Etat membre de l'Union européenne
+
+##### Sous-section 1 : Champ d'application.
+
+##### Sous-section 2 : Procédure administrative.
+
+##### Sous-section 3 : Mesures conservatoires.
+
+##### Sous-section 4 : Procédure judiciaire.
 
 ##### Section 2 : Biens culturels se trouvant sur le territoire d'un autre Etat membre de la Communauté européenne et sortis illicitement du territoire français
 
@@ -577,79 +609,35 @@ l'Etat membre requérant accorde à ces biens une protection spécifique.
 
 ###### Article L112-11
 
-Sont considérés comme des biens culturels pour l'application de la présente section : 
-
-1° Les biens culturels qui, relevant des catégories définies par décret en Conseil d'Etat, sont : 
-
-a) Soit classés monuments historiques ou archives historiques en application du présent code ; 
-
-b) Soit considérés comme trésors nationaux par l'Etat après avis de la commission prévue à l'article L. 111-4 ; 
-
-2° Les biens culturels qui appartiennent à une personne publique et qui : 
-
-a) Soit figurent sur les inventaires des collections des musées de France et des autres musées ou des organismes qui
-remplissent des missions patrimoniales analogues, des archives ou des fonds de conservation des bibliothèques ; 
-
-b) Soit sont classés monuments historiques ou archives historiques en application du présent code ; 
-
-3° Les biens culturels qui, conservés dans les édifices affectés à l'exercice public d'un culte ou leurs dépendances, quel
-que soit leur propriétaire, ou dans les édifices utilisés par des communautés religieuses, sont classés monuments ou archives
-historiques ou sont considérés comme des trésors nationaux par l'Etat après avis de la commission prévue à l'article L.
-111-4 ; 
-
-4° Les biens culturels figurant à l'inventaire des collections d'un musée de France relevant d'une personne morale de droit
-privé sans but lucratif.
+La présente section est applicable aux biens culturels définis comme des trésors nationaux à l'article L. 111-1 sortis du
+territoire national après le 31 décembre 1992, que cette sortie soit illicite ou ait fait l'objet d'une autorisation de
+sortie temporaire, en application du dernier alinéa de l'article L. 111-2 ou de l'article L. 111-7, dont les conditions n'ont
+pas été respectées.
 
 **Liens relatifs à cet article**
 
 	**Anciens textes**:
 
-	  - Loi n°95-877 du 3 août 1995 - art. 11 (M)
 	  - Loi n°95-877 du 3 août 1995 - art. 11 (Ab)
-
-	**Codifié par**:
-
-	  - Ordonnance 2004-178 2004-02-20 JORF 24 février 2004
-
-	**Cité par**:
-
-	  - Code du patrimoine - art. R112-1 (Ab)
-	  - Code du patrimoine. - art. L112-13 (M)
-
-	**Cite**:
-
-	  - Code du patrimoine. - art. L111-4 (V)
-
-
-###### Article L112-12
-
-Les dispositions de la présente section sont applicables aux biens présentant un intérêt historique, artistique ou
-archéologique sortis du territoire national après le 31 décembre 1992 : 
-
-a) Sans que l'autorisation temporaire de sortie prévue par les dispositions relatives à l'exportation des biens culturels ait
-été délivrée ou lorsque les conditions de cette autorisation n'ont pas été respectées, s'il s'agit d'un trésor national ; 
-
-b) Ou sans que le certificat prévu à l'article L. 111-2 ou l'autorisation temporaire de sortie prévue par les dispositions du
-présent titre ait été accordé ou lorsque les conditions de l'autorisation temporaire de sortie n'ont pas été respectées,
-lorsqu'il ne s'agit pas d'un trésor national.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Loi n°95-877 du 3 août 1995 - art. 12 (Ab)
 
 	**Codifié par**:
 
 	  - Ordonnance n°2004-178 du 20 février 2004
 
-	**Abrogé par**:
+	**Modifié par**:
 
 	  - Loi n°2015-195 du 20 février 2015 - art. 6
 
 	**Cite**:
 
+	  - Code du patrimoine - art. L111-1 (V)
 	  - Code du patrimoine - art. L111-2
+	  - Code du patrimoine - art. L111-7
+
+	**Cité par**:
+
+	  - Code du patrimoine - art. L112-13 (V)
+	  - Code du patrimoine - art. R112-1 (Ab)
 
 
 ##### Sous-section 2 : Procédure de retour des biens culturels.
@@ -658,8 +646,8 @@ lorsqu'il ne s'agit pas d'un trésor national.
 
 L'autorité administrative : 
 
-a) Demande aux autres Etats membres de rechercher sur leur territoire les biens culturels relevant du champ d'application des
-articles L. 112-11 et L. 112-12 ;
+a) Demande aux autres Etats membres de rechercher sur leur territoire les biens culturels relevant du champ d'application de
+l'article L. 112-11 ; 
 
 b) Indique à l'Etat membre lui ayant notifié la présence sur son territoire d'un bien culturel présumé être sorti
 illicitement du territoire français si ce bien entre dans le champ d'application des mêmes articles.
@@ -672,11 +660,15 @@ illicitement du territoire français si ce bien entre dans le champ d'applicatio
 
 	**Codifié par**:
 
-	  - Ordonnance 2004-178 2004-02-20 JORF 24 février 2004
+	  - Ordonnance n°2004-178 du 20 février 2004
+
+	**Modifié par**:
+
+	  - Loi n°2015-195 du 20 février 2015 - art. 6
 
 	**Cite**:
 
-	  - Code du patrimoine. - art. L112-11 (V)
+	  - Code du patrimoine - art. L112-11 (V)
 
 
 ###### Article L112-14
@@ -849,6 +841,14 @@ garanties nécessaires.
 
 	  - Code du patrimoine. - art. R112-26 (V)
 
+
+##### Section 2 : Biens culturels se trouvant sur le territoire d'un autre Etat membre de l'Union européenne et sortis illicitement du territoire français
+
+##### Sous-section 1 : Champ d'application.
+
+##### Sous-section 2 : Procédure de retour des biens culturels.
+
+##### Sous-section 3 : Conditions de la restitution des biens.
 
 ##### Section 3 : Dispositions diverses.
 
