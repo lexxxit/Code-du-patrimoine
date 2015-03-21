@@ -1,5 +1,5 @@
 # Code du patrimoine  
-Version Consolidée au 2015-02-23
+Version Consolidée au 2015-03-22
 
 # Partie législative
 
@@ -284,7 +284,7 @@ Un décret en Conseil d'Etat fixe les modalités d'application du présent artic
 
 #### Chapitre 2 : Restitution des biens culturels
 
-##### Section 1 : Biens culturels se trouvant en France et sortis illicitement du territoire d'un autre Etat membre de la Communauté européenne
+##### Section 1 : Biens culturels se trouvant en France et sortis illicitement du territoire d'un autre Etat membre de l'Union européenne
 
 ##### Sous-section 1 : Champ d'application.
 
@@ -593,17 +593,7 @@ l'Etat membre requérant accorde à ces biens une protection spécifique.
 	  - Loi n°2015-195 du 20 février 2015 - art. 6
 
 
-##### Section 1 : Biens culturels se trouvant en France et sortis illicitement du territoire d'un autre Etat membre de l'Union européenne
-
-##### Sous-section 1 : Champ d'application.
-
-##### Sous-section 2 : Procédure administrative.
-
-##### Sous-section 3 : Mesures conservatoires.
-
-##### Sous-section 4 : Procédure judiciaire.
-
-##### Section 2 : Biens culturels se trouvant sur le territoire d'un autre Etat membre de la Communauté européenne et sortis illicitement du territoire français
+##### Section 2 : Biens culturels se trouvant sur le territoire d'un autre Etat membre de l'Union européenne et sortis illicitement du territoire français
 
 ##### Sous-section 1 : Champ d'application.
 
@@ -841,14 +831,6 @@ garanties nécessaires.
 
 	  - Code du patrimoine. - art. R112-26 (V)
 
-
-##### Section 2 : Biens culturels se trouvant sur le territoire d'un autre Etat membre de l'Union européenne et sortis illicitement du territoire français
-
-##### Sous-section 1 : Champ d'application.
-
-##### Sous-section 2 : Procédure de retour des biens culturels.
-
-##### Sous-section 3 : Conditions de la restitution des biens.
 
 ##### Section 3 : Dispositions diverses.
 
@@ -3207,8 +3189,8 @@ scientifique et technique de l'Etat.
 
 Un décret en Conseil d'Etat fixe les conditions d'application du présent article, et notamment les conditions dans lesquelles
 les conservateurs d'archives, appartenant au personnel scientifique de l'Etat, mis à disposition du président du conseil
-général ou régional ou, en Corse, du président du conseil exécutif, peuvent assurer le contrôle scientifique et technique
-prévu à l'alinéa précédent.
+départemental  ou régional ou, en Corse, du président du conseil exécutif, peuvent assurer le contrôle scientifique et
+technique prévu à l'alinéa précédent.
 
 **Nota:**
 
@@ -3218,7 +3200,7 @@ prévu à l'alinéa précédent.
 
 	**Modifié par**:
 
-	  - Loi n°2008-696  du 15 juillet 2008 - art. 8
+	  - Loi n°2013-403 du 17 mai 2013 - art. 1 (V)
 
 	**Cite**:
 
@@ -3834,7 +3816,7 @@ des collectivités territoriales.
 
 ###### Article L212-35
 
-Le conseil général statue sur l'exercice du droit de préemption prévu par la législation sur les archives.
+Le conseil départemental  statue sur l'exercice du droit de préemption prévu par la législation sur les archives.
 
 **Nota:**
 
@@ -3844,11 +3826,11 @@ Le conseil général statue sur l'exercice du droit de préemption prévu par la
 
 	**Codifié par**:
 
-	  - Ordonnance 2004-178 2004-02-20 JORF 24 février 2004
+	  - Ordonnance n°2004-178 du 20 février 2004
 
-	**Anciens textes**:
+	**Modifié par**:
 
-	  - Code général des collectivités territoriales - art. L1421-4 (M)
+	  - Loi n°2013-403 du 17 mai 2013 - art. 1 (V)
 
 
 ###### Article L212-36
@@ -8795,8 +8777,8 @@ articles L. 621-32 et L. 641-1.
 Elle est présidée par le préfet de région ou son représentant. Elle comprend en outre des représentants de l'Etat, des
 personnes titulaires d'un mandat électif et des personnalités qualifiées nommés par arrêté du préfet de région. 
 
-Les titulaires d'un mandat électif sont deux membres élus par chaque conseil général en son sein et un maire désigné par
-chaque président de l'association départementale des maires. Ils ne siègent qu'à l'occasion de l'examen des affaires
+Les titulaires d'un mandat électif sont deux membres élus par chaque conseil départemental  en son sein et un maire désigné
+par chaque président de l'association départementale des maires. Ils ne siègent qu'à l'occasion de l'examen des affaires
 concernant le département dont ils sont issus. 
 
 Un décret en Conseil d'Etat détermine les conditions de désignation de ses membres et ses modalités de fonctionnement.
@@ -8827,12 +8809,12 @@ Un décret en Conseil d'Etat détermine les conditions de désignation de ses me
 
 	**Modifié par**:
 
-	  - Loi n°2012-387 du 22 mars 2012 - art. 106
+	  - Loi n°2013-403 du 17 mai 2013 - art. 1 (V)
 
 	**Cite**:
 
-	  - Code du patrimoine. - art. L621-32 (V)
-	  - Code du patrimoine. - art. L641-1 (V)
+	  - Code du patrimoine - art. L621-32
+	  - Code du patrimoine - art. L641-1
 
 
 ###### Article L612-2
@@ -16881,55 +16863,22 @@ de l'article L. 132-2 ou par celles qui les confectionnent dans les conditions d
 
 Le dépôt éditeur incombe à la personne qui édite le document mis à la disposition d'un public.
 
-Ce dépôt est effectué en deux exemplaires, au plus tard le jour de la mise en circulation du document, à la Bibliothèque
+Ce dépôt est effectué en un exemplaire, au plus tard le jour de la mise en circulation du document, à la Bibliothèque
 nationale de France.
 
 **Liens relatifs à cet article**
 
-	**Anciens textes**:
-
-	  - Décret n°93-1429 du 31 décembre 1993 - art. 8 (Ab), alinéas 2 à 4.
-
-	**Créé par**:
-
-	  - Décret n°2011-574 du 24 mai 2011  - art.
-
 	**Codifié par**:
 
 	  - Décret n°2011-574 du 24 mai 2011 Annexe - art.
 
-
-###### Article R132-5
-
-Par dérogation à l'article R. 132-4, sont déposés en un seul exemplaire à la Bibliothèque nationale de France : 
-
-1° Les livres, périodiques, cartes et plans dont le tirage est inférieur à 300 exemplaires ; 
-
-2° Les gravures, photographies et estampes dont le tirage est inférieur à 200 exemplaires ; 
-
-3° Les partitions musicales et chorégraphies manuscrites ou reproduites ou éditées à moins de dix exemplaires.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°93-1429 du 31 décembre 1993 - art. 8 (Ab), alinéa 5.
-
-	**Créé par**:
-
-	  - Décret n°2011-574 du 24 mai 2011  - art.
-
-	**Codifié par**:
-
-	  - Décret n°2011-574 du 24 mai 2011 Annexe - art.
-
-	**Abrogé par**:
+	**Modifié par**:
 
 	  - Décret n°2015-318 du 19 mars 2015 - art. 1
 
-	**Cite**:
+	**Cité par**:
 
-	  - Code du patrimoine - art. R132-4 (V)
+	  - Code du patrimoine - art. R132-5 (Ab)
 
 
 ###### Article R132-6
@@ -21957,7 +21906,7 @@ département ;
 ###### Article R212-63
 
 Les documents mentionnés à l'article R. 212-8 et provenant des services, organismes et établissements sis hors de Paris
-peuvent être déposés par les archives nationales aux archives départementales avec l'accord du conseil général du
+peuvent être déposés par les archives nationales aux archives départementales avec l'accord du conseil départemental du
 département.
 
 **Nota:**
@@ -21966,17 +21915,13 @@ département.
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
-
-	  - Décret n°2011-574 du 24 mai 2011  - art.
-
 	**Codifié par**:
 
 	  - Décret n°2011-574 du 24 mai 2011 Annexe - art.
 
-	**Anciens textes**:
+	**Modifié par**:
 
-	  - Code général des collectivités territoriales - art. R1421-15 (Ab)
+	  - Décret n°2013-938 du 18 octobre 2013 - art. 1 (VD)
 
 
 ###### Article R212-64
@@ -23908,8 +23853,8 @@ territoriale de Corse.
 Les attributions dévolues au préfet par les articles R. 310-4 à R. 310-11 sont exercées, en ce qui concerne les régions, par
 le préfet de région. 
 
-Les attributions dévolues au maire sont exercées selon le cas par le président du conseil général ou du conseil régional ou,
-en Corse, par le président du conseil exécutif.
+Les attributions dévolues au maire sont exercées selon le cas par le président du conseil départemental ou du conseil
+régional ou, en Corse, par le président du conseil exécutif.
 
 **Nota:**
 
@@ -23917,21 +23862,17 @@ en Corse, par le président du conseil exécutif.
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
-
-	  - Décret n°2011-574 du 24 mai 2011  - art.
-
 	**Codifié par**:
 
 	  - Décret n°2011-574 du 24 mai 2011 Annexe - art.
 
-	**Anciens textes**:
+	**Modifié par**:
 
-	  - Code général des collectivités territoriales - art. R1422-14 (Ab)
+	  - Décret n°2013-938 du 18 octobre 2013 - art. 1 (VD)
 
 	**Cite**:
 
-	  - Code du patrimoine. - art. R310-4 (V)
+	  - Code du patrimoine - art. R310-4
 
 
 ###### Article R320-2
@@ -24988,7 +24929,7 @@ e) Un directeur régional des affaires culturelles ;
 a) Trois maires ou présidents d'établissement public de coopération intercommunale désignés par le président de l'Association
 des maires de France ; 
 
-b) Un président de conseil général désigné par le président de l'Assemblée des départements de France ; 
+b) Un président de conseil départemental désigné par le président de l'Assemblée des départements de France ; 
 
 c) Un président de conseil régional désigné par le président de l'Association des régions de France ; 
 
@@ -25019,24 +24960,20 @@ c) Une personnalité désignée sur proposition du ministre chargé de l'éducat
 
 **Liens relatifs à cet article**
 
-	**Anciens textes**:
-
-	  - Décret n°2002-628 du 25 avril 2002 - art. 1 (Ab)
-
-	**Créé par**:
-
-	  - Décret n°2011-574 du 24 mai 2011  - art.
-
 	**Codifié par**:
 
 	  - Décret n°2011-574 du 24 mai 2011 Annexe - art.
 
+	**Modifié par**:
+
+	  - Décret n°2013-938 du 18 octobre 2013 - art. 1 (VD)
+
 	**Cite**:
 
-	  - Code du patrimoine. - art. L430-1 (V)
-	  - Code du patrimoine. - art. L442-8 (V)
-	  - Code du patrimoine. - art. L452-1 (V)
-	  - Code du patrimoine. - art. R452-10 (V)
+	  - Code du patrimoine - art. L430-1
+	  - Code du patrimoine - art. L442-8
+	  - Code du patrimoine - art. L452-1
+	  - Code du patrimoine - art. R452-10
 
 
 ###### Article R430-2
@@ -30045,9 +29982,9 @@ La commission chargée de définir les critères d'éligibilité à l'attributio
 2° Quatre représentants de l'Etat, dont trois désignés sur proposition respectivement du ministre chargé du budget, du
 ministre chargé de l'urbanisme et du ministre chargé de la recherche ; 
 
-3° Quatre représentants des collectivités territoriales, dont deux maires, un président de conseil général et un président de
-conseil régional désignés sur proposition respectivement de l'Association des maires de France, de l'Assemblée des
-départements de France et de l'Association des régions de France ; 
+3° Quatre représentants des collectivités territoriales, dont deux maires, un président de conseil départemental et un
+président de conseil régional désignés sur proposition respectivement de l'Association des maires de France, de l'Assemblée
+des départements de France et de l'Association des régions de France ; 
 
 4° Quatre représentants des personnes publiques ou privées assujetties à la redevance d'archéologie préventive prévue par
 l'article L. 524-2, dont un désigné sur proposition du ministre chargé de l'industrie, un sur celle du ministre chargé du
@@ -30065,17 +30002,13 @@ une durée de trois ans renouvelable.
 
 **Liens relatifs à cet article**
 
-	**Anciens textes**:
-
-	  - Décret n°2004-490 du 3 juin 2004 - art. 90 (Ab)
-
-	**Créé par**:
-
-	  - Décret n°2011-574 du 24 mai 2011  - art.
-
 	**Codifié par**:
 
 	  - Décret n°2011-574 du 24 mai 2011 Annexe - art.
+
+	**Modifié par**:
+
+	  - Décret n°2013-938 du 18 octobre 2013 - art. 1 (VD)
 
 	**Cité par**:
 
@@ -30084,7 +30017,7 @@ une durée de trois ans renouvelable.
 
 	**Cite**:
 
-	  - Code du patrimoine. - art. L524-2 (V)
+	  - Code du patrimoine - art. L524-2
 
 
 ###### Article R524-12
@@ -34732,13 +34665,13 @@ onze membres nommés par arrêté du préfet de région :
 2° Pour chacun des départements de la région, trois titulaires d'un mandat électif qui ne siègent qu'à l'occasion de l'examen
 des affaires concernant le département dans le ressort duquel ils sont élus : 
 
-a) Deux membres élus par le conseil général en son sein ; 
+a) Deux membres élus par le conseil départemental en son sein ; 
 
 b) Un maire désigné par le président de l'Association départementale des maires ; 
 
 3° Six personnalités qualifiées choisies pour leur compétence en matière d'architecture ou de patrimoine ou pour leur action
 en vue de favoriser la connaissance, la protection et la conservation du patrimoine ou la qualité de l'architecture et des
-espaces, dont au moins trois désignées parmi les membres de la commission mentionnés au f ou g du 2° de l'article R. 612-4. 
+espaces, dont au moins trois désignées parmi les membres de la commission mentionnés au f ou g du 2° de l'article R. 612-4.
 
 Pour chacun des membres mentionnés aux 1° et 2°, un suppléant est désigné ou élu dans les mêmes conditions ; il siège en cas
 d'absence ou d'empêchement du titulaire.
@@ -34755,12 +34688,17 @@ d'absence ou d'empêchement du titulaire.
 
 	**Modifié par**:
 
+	  - Décret n°2013-938 du 18 octobre 2013 - art. 1 (VD)
 	  - Décret n°2014-1314 du 31 octobre 2014 - art. 8
+
+	**Abrogé par**:
+
+	  - Décret n°2017-456 du 29 mars 2017 - art. 3
 
 	**Cite**:
 
 	  - Code du patrimoine - art. R612-3
-	  - Code du patrimoine - art. R612-4
+	  - Code du patrimoine - art. R612-4 (Ab)
 
 	**Cité par**:
 
@@ -34934,41 +34872,41 @@ la conservation des objets mobiliers.
 ###### Article R612-11
 
 Dans les départements autres que la Haute-Corse et la Corse-du-Sud, la commission départementale des objets mobiliers
-comprend vingt-cinq membres. Elle est composée :
+comprend vingt-cinq membres. Elle est composée : 
 
-1° De membres de droit :
+1° De membres de droit : 
 
-a) Le préfet ou son représentant, président ;
+a) Le préfet ou son représentant, président ; 
 
-b) Le directeur régional des affaires culturelles ou son représentant ;
+b) Le directeur régional des affaires culturelles ou son représentant ; 
 
-c) Le conservateur régional des monuments historiques ou son représentant ;
+c) Le conservateur régional des monuments historiques ou son représentant ; 
 
-d) Le conservateur du patrimoine, chargé des monuments historiques territorialement compétent ;
+d) Le conservateur du patrimoine, chargé des monuments historiques territorialement compétent ; 
 
-e) Le chef de service des opérations d'inventaire du patrimoine culturel ou son représentant ;
+e) Le chef de service des opérations d'inventaire du patrimoine culturel ou son représentant ; 
 
-f) Le conservateur des antiquités et objets d'art et l'un de ses délégués ou leurs représentants ;
+f) Le conservateur des antiquités et objets d'art et l'un de ses délégués ou leurs représentants ; 
 
-g) L'architecte des Bâtiments de France ou son représentant ;
+g) L'architecte des Bâtiments de France ou son représentant ; 
 
-h) Le directeur des services d'archives du département ou son représentant ;
+h) Le directeur des services d'archives du département ou son représentant ; 
 
-i) Le directeur départemental de la sécurité publique ou son représentant ;
+i) Le directeur départemental de la sécurité publique ou son représentant ; 
 
-j) Le commandant de groupement de la gendarmerie ou son représentant ;
+j) Le commandant de groupement de la gendarmerie ou son représentant ; 
 
-2° De membres désignés :
+2° De membres désignés : 
 
-a) Un conservateur de musée ou son suppléant désignés par le préfet ;
+a) Un conservateur de musée ou son suppléant désignés par le préfet ; 
 
-b) Un conservateur de bibliothèque ou son suppléant désignés par le préfet ;
+b) Un conservateur de bibliothèque ou son suppléant désignés par le préfet ; 
 
-c) Deux conseillers généraux ou leurs suppléants désignés par le conseil général ;
+c) Deux conseillers départementaux ou leurs suppléants désignés par le conseil départemental ; 
 
-d) Trois maires ou leurs suppléants désignés par le préfet ;
+d) Trois maires ou leurs suppléants désignés par le préfet ; 
 
-e) Cinq personnalités désignées par le préfet ;
+e) Cinq personnalités désignées par le préfet ; 
 
 f) Deux représentants d'associations ou fondations ayant pour objet de favoriser la connaissance, la protection et la
 conservation du patrimoine ou leurs suppléants.
@@ -34979,31 +34917,31 @@ conservation du patrimoine ou leurs suppléants.
 
 **Liens relatifs à cet article**
 
-	**Anciens textes**:
-
-	  - Décret n°71-858 du 19 octobre 1971 - art. 3 (Ab), alinéas1 à 19.
-
-	**Créé par**:
-
-	  - Décret n°2011-574 du 24 mai 2011  - art.
-
 	**Codifié par**:
 
 	  - Décret n°2011-574 du 24 mai 2011 Annexe - art.
 
+	**Modifié par**:
+
+	  - Décret n°2013-938 du 18 octobre 2013 - art. 1 (VD)
+
+	**Abrogé par**:
+
+	  - Décret n°2017-456 du 29 mars 2017 - art. 3
+
 	**Cité par**:
 
+	  - Code du patrimoine - art. R612-12 (Ab)
 	  - Code du patrimoine - art. R710-9 (Ab)
 	  - Code du patrimoine - art. R730-9 (Ab)
-	  - Code du patrimoine. - art. R612-12 (V)
 
 
 ###### Article R612-12
 
 Dans les départements de Haute-Corse et de Corse-du-Sud, la commission départementale des objets mobiliers comprend les
 membres mentionnés à l'article R. 612-11 à l'exception de ceux prévus au c du 2°. Elle comprend en outre un conseiller
-général ou son suppléant désignés par le conseil général et trois représentants de la collectivité territoriale de Corse ou
-leurs suppléants désignés par l'assemblée de Corse.
+départemental ou son suppléant désignés par le conseil départemental et trois représentants de la collectivité territoriale
+de Corse ou leurs suppléants désignés par l'assemblée de Corse.
 
 **Nota:**
 
@@ -35011,21 +34949,21 @@ leurs suppléants désignés par l'assemblée de Corse.
 
 **Liens relatifs à cet article**
 
-	**Anciens textes**:
-
-	  - Décret n°71-858 du 19 octobre 1971 - art. 3 (Ab), alinéa 20.
-
-	**Créé par**:
-
-	  - Décret n°2011-574 du 24 mai 2011  - art.
-
 	**Codifié par**:
 
 	  - Décret n°2011-574 du 24 mai 2011 Annexe - art.
 
+	**Modifié par**:
+
+	  - Décret n°2013-938 du 18 octobre 2013 - art. 1 (VD)
+
+	**Abrogé par**:
+
+	  - Décret n°2017-456 du 29 mars 2017 - art. 3
+
 	**Cite**:
 
-	  - Code du patrimoine. - art. R612-11 (V)
+	  - Code du patrimoine - art. R612-11 (Ab)
 
 
 ###### Article R612-13
@@ -42352,22 +42290,22 @@ Les articles D. 113-1 à D. 113-30 sont applicables de plein droit en Nouvelle-C
 
 ###### Article R740-1
 
-Les dispositions applicables en Nouvelle-Calédonie en vertu du présent titre sont celles en vigueur dans leur rédaction issue
-du décret n° 2014-119 du 11 février 2014 relatif au livre VII de la partie réglementaire du code du patrimoine.
+Les dispositions applicables en Nouvelle-Calédonie en vertu du présent titre sont celles en vigueur dans leur rédaction
+résultant du décret n° 2015-318 du 19 mars 2015.
 
 **Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - Décret n°2014-119 du 11 février 2014 (V)
 
 	**Codifié par**:
 
 	  - Décret n°2014-119 du 11 février 2014 - art.
 
-	**Créé par**:
+	**Cite**:
 
-	  - Décret n°2014-119 du 11 février 2014 - art.
+	  - Décret n°2015-318 du 19 mars 2015
+
+	**Modifié par**:
+
+	  - Décret n°2015-318 du 19 mars 2015 - art. 1
 
 
 ###### Article R740-3
@@ -42986,22 +42924,22 @@ relevant de la compétence de l'Etat.
 ###### Article R760-1
 
 Les dispositions applicables dans les îles Wallis et Futuna en vertu du présent titre sont celles en vigueur dans leur
-rédaction issue du décret n° 2014-119 du 11 février 2014 relatif au livre VII de la partie réglementaire du code du
-patrimoine.
+rédaction résultant du décret n° 2015-318 du 19 mars 2015.
 
 **Liens relatifs à cet article**
 
 	**Cite**:
 
-	  - Décret n°2014-119 du 11 février 2014 (V)
+	  - Décret n°2014-119 du 11 février 2014
+	  - Décret n°2015-318 du 19 mars 2015
 
 	**Codifié par**:
 
 	  - Décret n°2014-119 du 11 février 2014 - art.
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2014-119 du 11 février 2014 - art.
+	  - Décret n°2015-318 du 19 mars 2015 - art. 1
 
 
 ###### Article R760-3
@@ -43284,22 +43222,22 @@ Les articles D. 113-1 à D. 113-30 sont applicables dans les Terres australes et
 ###### Article R770-1
 
 Les dispositions applicables dans les Terres australes et antarctiques françaises en vertu du présent titre sont celles en
-vigueur dans leur rédaction issue du décret n° 2014-119 du 11 février 2014 relatif au livre VII de la partie réglementaire du
-code du patrimoine.
+vigueur dans leur rédaction résultant du décret n° 2015-318 du 19 mars 2015.
 
 **Liens relatifs à cet article**
 
 	**Cite**:
 
-	  - Décret n°2014-119 du 11 février 2014 (V)
+	  - Décret n°2014-119 du 11 février 2014
+	  - Décret n°2015-318 du 19 mars 2015
 
 	**Codifié par**:
 
 	  - Décret n°2014-119 du 11 février 2014 - art.
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2014-119 du 11 février 2014 - art.
+	  - Décret n°2015-318 du 19 mars 2015 - art. 1
 
 
 ###### Article R770-3
