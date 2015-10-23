@@ -1,5 +1,5 @@
 # Code du patrimoine  
-Version Consolidée au 2015-07-11
+Version Consolidée au 2015-10-24
 
 # Partie législative
 
@@ -18540,8 +18540,8 @@ privées intéressées.
 ###### Article R141-10
 
 Le Centre des monuments nationaux est dirigé par un président, nommé par décret sur proposition du ministre chargé de la
-culture pour une durée de trois ans renouvelable. Il est administré par un conseil d'administration présidé par le président
-de l'établissement.
+culture pour une durée de trois ans renouvelable deux fois. Il est administré par un conseil d'administration présidé par le
+président de l'établissement.
 
 Le conseil d'administration comprend, outre son président :
 
@@ -18570,17 +18570,13 @@ l'établissement, désignées par le ministre chargé de la culture ;
 
 **Liens relatifs à cet article**
 
-	**Anciens textes**:
-
-	  - Décret n°95-462 du 26 avril 1995 - art. 8 (Ab), alinéas 1 à 10.
-
-	**Créé par**:
-
-	  - Décret n°2011-574 du 24 mai 2011  - art.
-
 	**Codifié par**:
 
 	  - Décret n°2011-574 du 24 mai 2011 Annexe - art.
+
+	**Modifié par**:
+
+	  - Décret n°2015-1331 du 22 octobre 2015 - art. 2
 
 
 ###### Article R141-11
@@ -19112,7 +19108,7 @@ b) Le directeur, adjoint au directeur général des patrimoines au ministère ch
 
 c) Le secrétaire général du ministère chargé de la culture ou son représentant ;
 
-d) Le directeur général des finances publiques au ministère chargé du budget ou son représentant ;
+d) Le directeur du budget ou son représentant ;
 
 e) Le directeur général de l'aménagement, du logement et de la nature au ministère chargé de l'urbanisme ou son
 représentant ;
@@ -19128,15 +19124,7 @@ chapitre III de ce titre.
 
 	**Cite**:
 
-	  - Loi n°83-675 du 26 juillet 1983 -  Chapitre II : Election des représentants des sa... (V)
-
-	**Anciens textes**:
-
-	  - Décret n°2004-683 du 9 juillet 2004 - art. 5 (Ab)
-
-	**Créé par**:
-
-	  - Décret n°2011-574 du 24 mai 2011  - art.
+	  - Loi n°83-675 du 26 juillet 1983
 
 	**Codifié par**:
 
@@ -19146,6 +19134,10 @@ chapitre III de ce titre.
 
 	  - Arrêté du 21 mars 2014 (V)
 	  - Arrêté du 28 avril 2015 (V)
+
+	**Modifié par**:
+
+	  - Décret n°2015-1331 du 22 octobre 2015 - art. 2
 
 
 ###### Article R142-6
@@ -19379,21 +19371,17 @@ faire l'objet d'une approbation expresse des ministres chargés de la culture et
 ###### Article R142-13
 
 Le président de la Cité de l'architecture et du patrimoine est nommé par décret pris sur proposition du ministre chargé de la
-culture, pour une durée de cinq ans renouvelable.
+culture, pour une durée de trois ans renouvelable deux fois.
 
 **Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°2004-683 du 9 juillet 2004 - art. 12 (Ab), alinéa 1, première phrase.
-
-	**Créé par**:
-
-	  - Décret n°2011-574 du 24 mai 2011  - art.
 
 	**Codifié par**:
 
 	  - Décret n°2011-574 du 24 mai 2011 Annexe - art.
+
+	**Modifié par**:
+
+	  - Décret n°2015-1331 du 22 octobre 2015 - art. 2
 
 
 ###### Article R142-14
@@ -19666,7 +19654,8 @@ Les ressources de la Cité de l'architecture et du patrimoine comprennent :
 4° Les recettes provenant des activités pédagogiques et de formation professionnelle, y compris les droits de scolarité du
 Centre des hautes études de Chaillot ;
 
-5° Le produit de ses opérations commerciales ;
+5° Le produit de ses opérations commerciales et, de façon générale, toutes autres recettes provenant de l'exercice de ses
+activités ;
 
 6° Le produit de la concession à des tiers d'activités liées à son fonctionnement ;
 
@@ -19679,23 +19668,19 @@ d'occupation temporaires du domaine public de l'Etat qui lui a été remis en do
 
 10° Les subventions de l'Etat, des collectivités territoriales et de toutes autres personnes publiques et privées ;
 
-11° Le produit des emprunts ;
+11° Le produit des emprunts dont le terme est inférieur à douze mois ;
 
-12° D'une façon générale, toute autre recette provenant de l'exercice de ses activités.
+12° Toutes autres recettes autorisées par les lois et règlements.
 
 **Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°2004-683 du 9 juillet 2004 - art. 23 (Ab)
-
-	**Créé par**:
-
-	  - Décret n°2011-574 du 24 mai 2011  - art.
 
 	**Codifié par**:
 
 	  - Décret n°2011-574 du 24 mai 2011 Annexe - art.
+
+	**Modifié par**:
+
+	  - Décret n°2015-1331 du 22 octobre 2015 - art. 2
 
 
 ###### Article R142-26
@@ -33340,24 +33325,20 @@ d'administration.
 ###### Article R545-40
 
 Le directeur général de l'établissement est nommé par décret pour trois ans, sur proposition conjointe du ministre chargé de
-la culture et du ministre chargé de la recherche, après avis du président. Il ne peut exercer plus de deux mandats
+la culture et du ministre chargé de la recherche, après avis du président. Il ne peut exercer plus de trois mandats
 consécutifs.
 
 Il est assisté d'un directeur chargé des questions scientifiques et techniques, qu'il nomme sur avis conforme du président.
 
 **Liens relatifs à cet article**
 
-	**Anciens textes**:
-
-	  - Décret n°2002-90 du 16 janvier 2002 - art. 12 (Ab)
-
-	**Créé par**:
-
-	  - Décret n°2011-574 du 24 mai 2011  - art.
-
 	**Codifié par**:
 
 	  - Décret n°2011-574 du 24 mai 2011 Annexe - art.
+
+	**Modifié par**:
+
+	  - Décret n°2015-1331 du 22 octobre 2015 - art. 2
 
 
 ###### Article R545-41
@@ -33732,23 +33713,15 @@ Outre celles mentionnées à l'article L. 524-1, les ressources de l'établissem
 
 3° Les revenus des biens meubles et immeubles ; 
 
-4° Le produit des avances, emprunts, participations et aliénations ; 
+4° Le produit des avances, emprunts dont le terme est inférieur à douze mois, participations et aliénations ; 
 
 5° D'une manière générale, toutes les recettes autorisées par les lois et règlements.
 
 **Liens relatifs à cet article**
 
-	**Anciens textes**:
+	**Modifié par**:
 
-	  - Décret n°2002-90 du 16 janvier 2002 - art. 23 (Ab)
-
-	**Créé par**:
-
-	  - Décret n°2011-574 du 24 mai 2011  - art.
-
-	**Codifié par**:
-
-	  - Décret n°2011-574 du 24 mai 2011 Annexe - art.
+	  - Décret n°2015-1331 du 22 octobre 2015 - art. 2
 
 	**Cite**:
 
@@ -36736,11 +36709,15 @@ l'Etat est déduite du montant de l'indemnité d'expropriation ainsi fixé.
 
 ###### Article R621-52
 
-En cas de projet d'aliénation d'un immeuble classé appartenant à l'Etat,        à une collectivité territoriale ou à un
+En cas de projet d'aliénation d'un immeuble classé appartenant à l'Etat, à une collectivité territoriale ou à un
 établissement public, l'autorité compétente pour présenter ses observations dans le délai de deux mois suivant la
 notification, en application de l'article L. 621-22, est le ministre chargé de la culture quand l'immeuble appartient à
 l'Etat ou à l'un de ses établissements publics et le préfet de région quand l'immeuble appartient à une collectivité
 territoriale ou à l'un de ses établissements publics.
+
+Lorsque l'immeuble classé au titre des monuments historiques appartenant à l'Etat est mis à la disposition du Centre des
+monuments nationaux, les observations du ministre chargé de la culture sont présentées après avis de la Commission nationale
+des monuments historiques.
 
 **Liens relatifs à cet article**
 
@@ -36750,7 +36727,7 @@ territoriale ou à l'un de ses établissements publics.
 
 	**Modifié par**:
 
-	  - Décret n°2014-1314 du 31 octobre 2014 - art. 15
+	  - Décret n°2015-1331 du 22 octobre 2015 - art. 2
 
 	**Cite**:
 
