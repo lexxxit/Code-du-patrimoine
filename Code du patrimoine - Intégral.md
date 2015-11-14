@@ -1,5 +1,5 @@
 # Code du patrimoine  
-Version Consolidée au 2015-10-24
+Version Consolidée au 2015-11-15
 
 # Partie législative
 
@@ -7146,11 +7146,6 @@ l'édiction d'une prescription de fouille d'archéologie préventive conforméme
 interventions de ce fonds visent à faciliter la conciliation entre la préservation du patrimoine archéologique et le
 développement des territoires, en particulier ruraux. 
 
-Les subventions sont attribuées par décision de l'autorité administrative, conformément aux critères définis par une
-commission comprenant un député et un sénateur désignés par leur assemblée respective et, en nombre égal, des représentants
-de l'Etat, des représentants des collectivités territoriales, des représentants des personnes mentionnées à l'article L.
-524-2 et des personnalités qualifiées. La commission élit son président en son sein. 
-
 Les travaux de fouilles archéologiques induits par la construction de logements mentionnés au 1° de l'article L. 331-12 du
 code de l'urbanisme, au prorata de la surface de construction effectivement destinée à usage locatif, ainsi que par la
 construction de logements réalisée par une personne physique pour elle-même, y compris lorsque ces constructions sont
@@ -7182,13 +7177,13 @@ totale ou partielle.
 
 	**Modifié par**:
 
-	  - Loi n°2012-1509 du 29 décembre 2012 - art. 39 (VD)
+	  - Décret n°2015-1469 du 13 novembre 2015 - art. 35 (V)
 
 	**Cite**:
 
 	  - Code de l'urbanisme - art. L331-12
-	  - Code du patrimoine - art. L523-1 (V)
-	  - Code du patrimoine - art. L524-2 (V)
+	  - Code du patrimoine - art. L523-1
+	  - Code du patrimoine - art. L524-2
 
 
 ###### Article L524-15
@@ -26943,8 +26938,7 @@ Peuvent procéder à la restauration d'un bien faisant partie des collections de
 1° Les personnes titulaires d'un diplôme français à finalité professionnelle dans le domaine de la restauration du
 patrimoine, délivré après cinq années de formation de l'enseignement supérieur spécialisée dans le même domaine, soit
 conférant le grade de master, soit répondant à des conditions définies par un arrêté du ministre chargé de la culture. Dans
-ce second cas, un arrêté du ministre chargé de la culture constate la conformité du diplôme à ces conditions, après avis
-d'une commission scientifique ; 
+ce second cas, un arrêté du ministre chargé de la culture constate la conformité du diplôme à ces conditions ; 
 
 2° Les personnes dont les acquis de l'expérience en matière de restauration du patrimoine ont été validés dans les conditions
 prévues aux articles L. 335-5, L. 335-6, 
@@ -26962,17 +26956,13 @@ assurer des opérations de restauration sur les biens des musées de France ;
 
 **Liens relatifs à cet article**
 
-	**Anciens textes**:
-
-	  - Décret n°2002-628 du 25 avril 2002 - art. 13 (Ab), alinéas 2 à 7.
-
-	**Créé par**:
-
-	  - Décret n°2011-574 du 24 mai 2011  - art.
-
 	**Codifié par**:
 
 	  - Décret n°2011-574 du 24 mai 2011 Annexe - art.
+
+	**Modifié par**:
+
+	  - Décret n°2015-1469 du 13 novembre 2015 - art. 33 (V)
 
 	**Cité par**:
 
@@ -26984,8 +26974,8 @@ assurer des opérations de restauration sur les biens des musées de France ;
 
 	**Cite**:
 
-	  - Code de l'éducation - art. L335-5 (V)
-	  - Code de l'éducation - art. L613-3 (V)
+	  - Code de l'éducation - art. L335-5
+	  - Code de l'éducation - art. L613-3
 
 
 ###### Article R452-11
@@ -27017,23 +27007,18 @@ Dans les cas prévus au présent article, l'intéressé adresse au ministre char
 ses qualifications professionnelles. Si, au cours de l'instruction de cette demande, apparaissent des différences
 substantielles entre sa formation et celle requise en France, le ministre vérifie que les connaissances qu'il a acquises au
 cours de son expérience professionnelle sont de nature à combler, en tout ou en partie, ces différences. Si tel n'est pas le
-cas, le ministre peut, après avis de la commission scientifique mentionnée au 1° de l'article R. 452-10, soumettre le
-demandeur à une mesure de compensation, consistant, au choix de ce dernier, soit en un stage d'adaptation, soit en une
-épreuve d'aptitude.
+cas, le ministre peut soumettre le demandeur à une mesure de compensation, consistant, au choix de ce dernier, soit en un
+stage d'adaptation, soit en une épreuve d'aptitude.
 
 **Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°2002-628 du 25 avril 2002 - art. 13 (Ab), alinéas 8 à 12.
-
-	**Créé par**:
-
-	  - Décret n°2011-574 du 24 mai 2011  - art.
 
 	**Codifié par**:
 
 	  - Décret n°2011-574 du 24 mai 2011 Annexe - art.
+
+	**Modifié par**:
+
+	  - Décret n°2015-1469 du 13 novembre 2015 - art. 33 (V)
 
 	**Cité par**:
 
@@ -27074,34 +27059,6 @@ dans l'Etat d'établissement, le prestataire fait mention de son titre de format
 	**Codifié par**:
 
 	  - Décret n°2011-574 du 24 mai 2011 Annexe - art.
-
-
-###### Article R452-13
-
-La composition et les modalités de fonctionnement de la commission scientifique mentionnée aux articles R. 452-10 et R.
-452-11 sont fixées par voie réglementaire.
-
-La procédure d'instruction des demandes visées aux articles R. 452-10 et R. 452-11, le déroulement et le contenu du stage
-d'adaptation et de l'épreuve d'aptitude visés au cinquième alinéa de l'article R. 452-11 ainsi que le contenu et les
-modalités de dépôt de la déclaration visée à l'article R. 452-12 sont fixés par arrêté du ministre chargé de la culture.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°2002-628 du 25 avril 2002 - art. 13 (Ab), alinéas 17 et 18.
-
-	**Créé par**:
-
-	  - Décret n°2011-574 du 24 mai 2011  - art.
-
-	**Codifié par**:
-
-	  - Décret n°2011-574 du 24 mai 2011 Annexe - art.
-
-	**Abrogé par**:
-
-	  - Décret n°2015-1469 du 13 novembre 2015 - art. 33 (V)
 
 
 ## LIVRE V : ARCHÉOLOGIE
@@ -29950,32 +29907,11 @@ comporte deux décimales après la virgule. La valeur est arrondie au centième 
 	  - Code du patrimoine. - art. L524-7 (V)
 
 
-##### Section 2 : Dispositions relatives  au Fonds national pour l'archéologie préventive
-
-##### Sous-section 1 : La commission du Fonds national  pour l'archéologie préventive
-
 ###### Article R524-11
 
-La commission chargée de définir les critères d'éligibilité à l'attribution d'une subvention comprend : 
-
-1° Un député et un sénateur ; 
-
-2° Quatre représentants de l'Etat, dont trois désignés sur proposition respectivement du ministre chargé du budget, du
-ministre chargé de l'urbanisme et du ministre chargé de la recherche ; 
-
-3° Quatre représentants des collectivités territoriales, dont deux maires, un président de conseil départemental et un
-président de conseil régional désignés sur proposition respectivement de l'Association des maires de France, de l'Assemblée
-des départements de France et de l'Association des régions de France ; 
-
-4° Quatre représentants des personnes publiques ou privées assujetties à la redevance d'archéologie préventive prévue par
-l'article L. 524-2, dont un désigné sur proposition du ministre chargé de l'industrie, un sur celle du ministre chargé du
-logement et deux sur celle du ministre chargé de l'urbanisme ; 
-
-5° Quatre personnalités qualifiées, compétentes en matière d'archéologie, dont deux désignées sur proposition du ministre
-chargé de la recherche. 
-
-Les membres de la commission autres que ceux mentionnés au 1° sont nommés par arrêté du ministre chargé de la culture pour
-une durée de trois ans renouvelable.
+La part du produit de la redevance d'archéologie préventive affectée au Fonds national pour l'archéologie préventive,
+conformément à l'article L. 524-14, est fixée par arrêté conjoint du ministre chargé de la culture, du ministre chargé de
+l'urbanisme et du ministre chargé du budget.
 
 **Nota:**
 
@@ -29989,146 +29925,23 @@ une durée de trois ans renouvelable.
 
 	**Modifié par**:
 
-	  - Décret n°2013-938 du 18 octobre 2013 - art. 1 (VD)
+	  - Décret n°2015-1469 du 13 novembre 2015 - art. 35 (V)
 
 	**Cité par**:
 
 	  - Décret n°2015-1469 du 13 novembre 2015 - art. 36 (V)
 	  - Code du patrimoine - art. R524-12 (Ab)
 
-	**Cite**:
-
-	  - Code du patrimoine - art. L524-2
-
-
-###### Article R524-12
-
-Un suppléant est désigné dans les mêmes conditions pour chaque membre titulaire, à l'exception des membres désignés au titre
-du 5° de l'article R. 524-11.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°2004-490 du 3 juin 2004 - art. 91 (Ab)
-
-	**Créé par**:
-
-	  - Décret n°2011-574 du 24 mai 2011  - art.
-
-	**Codifié par**:
-
-	  - Décret n°2011-574 du 24 mai 2011 Annexe - art.
-
 	**Abrogé par**:
 
-	  - Décret n°2015-1469 du 13 novembre 2015 - art. 35 (V)
-
-	**Cite**:
-
-	  - Code du patrimoine - art. R524-11
-
-
-###### Article R524-13
-
-La commission élit son président en son sein.
-
-Le secrétariat de la commission est assuré par les services du ministère chargé de la culture.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°2004-490 du 3 juin 2004 - art. 92 (Ab)
-
-	**Créé par**:
-
-	  - Décret n°2011-574 du 24 mai 2011  - art.
-
-	**Codifié par**:
-
-	  - Décret n°2011-574 du 24 mai 2011 Annexe - art.
-
-	**Abrogé par**:
-
-	  - Décret n°2015-1469 du 13 novembre 2015 - art. 35 (V)
-
-
-###### Article R524-14
-
-La commission se réunit au moins une fois par an. Elle est tenue informée du bilan annuel des subventions attribuées.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°2004-490 du 3 juin 2004 - art. 93 (Ab)
-
-	**Créé par**:
-
-	  - Décret n°2011-574 du 24 mai 2011  - art.
-
-	**Codifié par**:
-
-	  - Décret n°2011-574 du 24 mai 2011 Annexe - art.
-
-	**Abrogé par**:
-
-	  - Décret n°2015-1469 du 13 novembre 2015 - art. 35 (V)
-
-
-###### Article R524-15
-
-Les membres de la commission exercent leurs fonctions à titre gratuit. Toutefois, leurs frais de séjour et de déplacement
-supportés à l'occasion des réunions de la commission sont pris en charge dans les conditions prévues par la réglementation
-applicable aux personnels civils de l'Etat.
-
-Les crédits nécessaires au fonctionnement de la commission, et notamment à la prise en charge des frais de séjour et de
-déplacement de ses membres, sont inscrits au budget du ministère chargé de la culture.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°2004-490 du 3 juin 2004 - art. 94 (Ab)
-
-	**Créé par**:
-
-	  - Décret n°2011-574 du 24 mai 2011  - art.
-
-	**Codifié par**:
-
-	  - Décret n°2011-574 du 24 mai 2011 Annexe - art.
-
-	**Abrogé par**:
-
-	  - Décret n°2015-1469 du 13 novembre 2015 - art. 35 (V)
-
-
-###### Article R524-16
-
-La part du produit de la redevance d'archéologie préventive affectée au Fonds national pour l'archéologie préventive,
-conformément à l'article L. 524-14, est fixée par arrêté conjoint du ministre chargé de la culture, du ministre chargé de
-l'urbanisme et du ministre chargé du budget.
-
-**Liens relatifs à cet article**
-
-	**Créé par**:
-
-	  - Décret n°2011-574 du 24 mai 2011  - art.
-
-	**Codifié par**:
-
-	  - Décret n°2011-574 du 24 mai 2011 Annexe - art.
-
-	**Abrogé par**:
-
-	  - Décret n°2015-1469 du 13 novembre 2015 - art. 35 (V)
+	  - Décret n°2016-1485 du 2 novembre 2016 - art. 1
 
 	**Cite**:
 
 	  - Code du patrimoine - art. L524-14
 
+
+##### Section 2 : Dispositions relatives  au Fonds national pour l'archéologie préventive
 
 ##### Sous-section 2 : Les subventions du Fonds national  pour l'archéologie préventive
 
