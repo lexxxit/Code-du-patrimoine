@@ -1,5 +1,5 @@
 # Code du patrimoine  
-Version Consolidée au 2015-11-15
+Version Consolidée au 2015-12-30
 
 # Partie législative
 
@@ -37778,10 +37778,10 @@ régionale du patrimoine et des sites sont alors portés à la connaissance de l
 L'organe délibérant de la collectivité territoriale compétente émet un avis sur le projet de périmètre en même temps qu'il
 arrête le projet de plan local d'urbanisme, dans les conditions fixées par l'article L. 123-9 du code de l'urbanisme
 . Lorsque cet avis est favorable, l'enquête publique prévue par l'article L. 123-10 du code de l'urbanisme porte à la fois
-sur le projet de plan local d'urbanisme et sur le projet de périmètre de protection. 
+sur le projet de plan local d'urbanisme et sur le projet de périmètre de protection.
 
-Lors de l'élaboration d'une carte communale, l'organe délibérant de la collectivité territoriale compétente émet un avis sur
-le projet de périmètre de protection. Lorsque cet avis est favorable, l'enquête publique prévue par l'
+Lors de l'élaboration ou de la révision d'une carte communale, l'organe délibérant de la collectivité territoriale compétente
+émet un avis sur le projet de périmètre de protection. Lorsque cet avis est favorable, l'enquête publique prévue par l'
 article L. 124-2 du code de l'urbanisme
 porte à la fois sur le projet de carte communale et sur le projet de périmètre de protection.
 
@@ -37791,13 +37791,13 @@ porte à la fois sur le projet de carte communale et sur le projet de périmètr
 
 	  - Décret n°2011-574 du 24 mai 2011 Annexe - art.
 
-	**Modifié par**:
-
-	  - Décret n°2014-1314 du 31 octobre 2014 - art. 21
-
 	**Cité par**:
 
 	  - Décret n°2015-1782 du 28 décembre 2015 (V)
+
+	**Modifié par**:
+
+	  - Décret n°2015-1782 du 28 décembre 2015 - art. 8
 
 	**Cite**:
 
