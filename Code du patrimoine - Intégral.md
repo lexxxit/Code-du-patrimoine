@@ -1,5 +1,5 @@
 # Code du patrimoine  
-Version Consolidée au 2015-12-31
+Version Consolidée au 2016-01-01
 
 # Partie législative
 
@@ -3883,11 +3883,10 @@ décret en Conseil d'Etat.
 
 ###### Article L213-1
 
-Les archives publiques sont, sous réserve des dispositions de l'article L. 213-2, communicables de plein droit.
+Les archives publiques sont, sous réserve des dispositions de l'article L. 213-2, communicables de plein droit. 
 
-L'accès à ces archives s'exerce dans les conditions définies pour les documents administratifs à l'article 4 de la loi n°
-78-753 du 17 juillet 1978 portant diverses mesures d'amélioration des relations entre l'administration et le public et
-diverses dispositions d'ordre administratif, social et fiscal.
+L'accès à ces archives s'exerce dans les conditions définies pour les documents administratifs à l'article L. 311-9 du code
+des relations entre le public et l'administration.
 
 **Liens relatifs à cet article**
 
@@ -3911,17 +3910,17 @@ diverses dispositions d'ordre administratif, social et fiscal.
 	  - Code du patrimoine. - art. L213-7 (V)
 	  - Code du patrimoine. - art. R212-18 (V)
 
-	**Cite**:
-
-	  - Loi n°78-753 du 17 juillet 1978 - art. 4
-
 	**Anciens textes**:
 
 	  - Loi n°79-18 du 3 janvier 1979 - art. 6 (Ab)
 
 	**Modifié par**:
 
-	  - Loi n°2008-696  du 15 juillet 2008 - art. 17
+	  - ORDONNANCE n°2015-1341 du 23 octobre 2015 - art. 3 (V)
+
+	**Cite**:
+
+	  - Code des relations entre le public et l'adminis... - art. L311-9 (V)
 
 
 ###### Article L213-2
@@ -3938,10 +3937,10 @@ secret en matière commerciale et industrielle, à la recherche par les services
 douanières ou au secret en matière de statistiques sauf lorsque sont en cause des données collectées au moyen de
 questionnaires ayant trait aux faits et comportements d'ordre privé mentionnées aux 4° et 5° ; 
 
-b) Pour les documents mentionnés au 1° du I de l'article 6 de la loi n° 78-753 du 17 juillet 1978, à l'exception des
-documents produits dans le cadre d'un contrat de prestation de services exécuté pour le compte d'une ou de plusieurs
-personnes déterminées lorsque ces documents entrent, du fait de leur contenu, dans le champ d'application des 3° ou 4° du
-présent I ; 
+b) Pour les documents mentionnés au 1° du I de l'article L. 311-5 du code des relations entre le public et l'administration,
+à l'exception des documents produits dans le cadre d'un contrat de prestation de services exécuté pour le compte d'une ou de
+plusieurs personnes déterminées lorsque ces documents entrent, du fait de leur contenu, dans le champ d'application des 3° ou
+4° du présent I ; 
 
 2° Vingt-cinq ans à compter de la date du décès de l'intéressé, pour les documents dont la communication porte atteinte au
 secret médical. Si la date du décès n'est pas connue, le délai est de cent vingt ans à compter de la date de naissance de la
@@ -4020,7 +4019,11 @@ toutes autres armes ayant des effets directs ou indirects de destruction d'un ni
 
 	**Modifié par**:
 
-	  - Ordonnance n°2009-483 du 29 avril 2009 - art. 13
+	  - ORDONNANCE n°2015-1341 du 23 octobre 2015 - art. 3 (V)
+
+	**Cite**:
+
+	  - Code des relations entre le public et l'adminis... - art. L311-5 (V)
 
 
 ###### Article L213-3
@@ -10069,7 +10072,7 @@ l'établissement public de coopération intercommunale compétent, en même temp
 communale. L'approbation du plan ou de la carte emporte modification du périmètre. 
 
 Le tracé du périmètre prévu au présent article est annexé au plan local d'urbanisme dans les conditions prévues à l'article
-L. 126-1 du code de l'urbanisme. 
+L. 153-60 du code de l'urbanisme. 
 
 Les enquêtes publiques conduites pour l'application du présent article sont réalisées conformément au chapitre III du titre
 II du livre Ier du code de l'environnement.
@@ -10132,11 +10135,11 @@ II du livre Ier du code de l'environnement.
 
 	**Modifié par**:
 
-	  - Loi n°2012-387 du 22 mars 2012 - art. 106
+	  - ORDONNANCE n°2015-1174 du 23 septembre 2015 - art. 9
 
 	**Cite**:
 
-	  - Code de l'urbanisme - art. L126-1 (VT)
+	  - Code de l'urbanisme - art. L153-60 (VD)
 
 
 ###### Article L621-31
@@ -11838,7 +11841,7 @@ patrimoine.
 
 Lorsque l'autorité administrative et, au cas où il est compétent pour délivrer les autorisations, le maire ou le président de
 l'établissement public de coopération intercommunale compétent ont connaissance d'une infraction de la nature de celles que
-prévoient les articles L. 160-1 et L. 480-4, ils sont tenus d'en faire dresser procès verbal. 
+prévoient les articles L. 610-1 et L. 480-4, ils sont tenus d'en faire dresser procès verbal. 
 
 Copie du procès-verbal constatant une infraction est transmise sans délai au ministère public. 
 
@@ -11855,12 +11858,12 @@ les droits reconnus à la partie civile, en ce qui concerne les faits commis sur
 
 	**Modifié par**:
 
-	  - Loi n°2012-387 du 22 mars 2012 - art. 117
+	  - ORDONNANCE n°2015-1174 du 23 septembre 2015 - art. 9
 
 	**Cite**:
 
-	  - Code de l'urbanisme - art. L480-1
 	  - Code de l'urbanisme - art. L480-4
+	  - Code de l'urbanisme - art. L610-1 (VD)
 	  - Code de l'environnement - art. L141-1
 	  - Code du patrimoine - art. L522-1
 
@@ -12003,14 +12006,13 @@ du décret en Conseil d'Etat prévu à l'article L. 123-19 du code de l'environn
 
 La mise à l'étude de la création ou de la révision de l'aire de mise en valeur de l'architecture et du patrimoine est décidée
 par délibération de l'organe délibérant de l'autorité mentionnée au premier alinéa de l'article L. 642-1. La délibération
-mentionne les modalités de la concertation prévue à l'article L. 300-2 du code de l'urbanisme. 
+mentionne les modalités de la concertation prévue à l'article L. 103-3 du code de l'urbanisme. 
 
 Le projet de création ou de révision de l'aire de mise en valeur de l'architecture et du patrimoine est arrêté par
 délibération de cette autorité. Le projet arrêté est soumis à l'avis de la commission régionale du patrimoine et des sites
 prévue à l'article L. 612-1 du présent code. 
 
-Ce projet donne lieu à un examen conjoint des personnes publiques mentionnées à l'article L. 123-14-2 du code de
-l'urbanisme. 
+Ce projet donne lieu à un examen conjoint des personnes publiques mentionnées à l'article L. 153-54 du code de l'urbanisme. 
 
 Il fait l'objet d'une enquête publique conduite par les autorités compétentes concernées. L'organe délibérant de l'autorité
 mentionnée au premier alinéa de l'article L. 642-1 du présent code peut, par délibération, désigner à cette fin l'une de ces
@@ -12018,24 +12020,12 @@ autorités compétentes concernées.
 
 Lorsque le projet n'est pas compatible avec les dispositions du plan local d'urbanisme, l'aire de mise en valeur de
 l'architecture et du patrimoine ne peut être créée que si celui-ci a été mis en compatibilité avec ses dispositions selon la
-procédure définie à l'article L. 123-14-2 du code de l'urbanisme. 
+procédure définie aux articles L. 153-54 à L. 153-59 du code de l'urbanisme. 
 
 Après accord du préfet, l'aire de mise en valeur de l'architecture et du patrimoine est créée ou révisée par délibération de
 l'autorité mentionnée au premier alinéa de l'article L. 642-1 du présent code. Lorsque l'enquête publique précitée a porté à
 la fois sur l'aire et sur un plan local d'urbanisme, l'acte portant création ou révision de l'aire prononce également la
 révision ou la modification du plan local d'urbanisme.
-
-**Nota:**
-
-Ordonnance n° 2012-11 du 5 janvier 2012 article 19 : Les présentes dispositions entrent en vigueur à une date déterminée par
-décret en Conseil d'Etat et au plus tard le 1er janvier 2013. Toutefois, les dispositions en vigueur antérieurement à
-l'entrée en vigueur de l'ordonnance demeurent applicables :
-
-- aux procédures d'élaboration et de révision des schémas de cohérence territoriale et des plans locaux d'urbanisme
-prescrites à cette même date ;
-
-- aux procédures de modification des schémas de cohérence territoriale et des plans locaux d'urbanisme lorsque le projet de
-modification a été notifié aux personnes publiques associées à la date d'entrée en vigueur de l'ordonnance.
 
 **Liens relatifs à cet article**
 
@@ -12059,19 +12049,22 @@ modification a été notifié aux personnes publiques associées à la date d'en
 	  - Code du patrimoine - art. D642-7 (Ab)
 	  - Code du patrimoine - art. D642-8 (Ab)
 	  - Code du patrimoine - art. D642-9 (Ab)
-	  - Code du patrimoine. - art. L612-1 (VD)
+	  - Code du patrimoine - art. L612-1 (V)
 	  - Code du patrimoine. - art. L642-2 (V)
 	  - Code du patrimoine. - art. L642-4 (V)
 
 	**Modifié par**:
 
-	  - Ordonnance n°2012-11 du 5 janvier 2012 - art. 12
+	  - ORDONNANCE n°2015-1174 du 23 septembre 2015 - art. 9
+
+	**Abrogé par**:
+
+	  - Loi n°2016-925 du 7 juillet 2016 - art. 77
 
 	**Cite**:
 
-	  - Code de l'urbanisme - art. L123-14-2
-	  - Code de l'urbanisme - art. L300-2
-	  - Code du patrimoine - art. L642-1
+	  - Code de l'urbanisme - art. L153-54
+	  - Code du patrimoine - art. L642-1 (V)
 
 
 ###### Article L642-4
@@ -35089,25 +35082,21 @@ les affectataires ou occupants successifs.
 
 Cette décision est notifiée avec l'indication de l'étendue de la servitude de protection au maire et, le cas échéant, au
 président de l'établissement public de coopération intercommunale compétent en matière de plan local d'urbanisme, qui
-l'annexe à ce plan, lorsqu'il existe, dans les conditions prévues à l'article L. 126-1 du code de l'urbanisme.
+l'annexe à ce plan, lorsqu'il existe, dans les conditions prévues à l'article L. 153-60 du code de l'urbanisme.
 
 **Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°2007-487 du 30 mars 2007 - art. 16 (Ab)
-
-	**Créé par**:
-
-	  - Décret n°2011-574 du 24 mai 2011  - art.
 
 	**Codifié par**:
 
 	  - Décret n°2011-574 du 24 mai 2011 Annexe - art.
 
+	**Modifié par**:
+
+	  - Décret n°2015-1783 du 28 décembre 2015 - art. 9
+
 	**Cite**:
 
-	  - Code de l'urbanisme - art. L126-1 (V)
+	  - Code de l'urbanisme - art. L153-60
 
 	**Cité par**:
 
@@ -35262,9 +35251,9 @@ au précédent alinéa, à défaut de réception de ces pièces dans un délai d
 tacite de rejet. 
 
 L'accord de l'autorité compétente pour statuer sur les demandes de permis de construire, portant le cas échéant dérogation
-aux règles du plan local d'urbanisme, en application de l'article L. 123-5 du code de l'urbanisme, est transmis au préfet de
-région dans le délai de deux mois à compter de la réception du dossier complet par cette autorité. Faute de réponse de cette
-autorité à l'expiration du délai fixé, son accord est réputé donné.
+aux règles du plan local d'urbanisme, en application              de l'article L. 152-4 du code de l'urbanisme, est transmis
+au préfet de région dans le délai de deux mois à compter de la réception du dossier complet par cette autorité. Faute de
+réponse de cette autorité à l'expiration du délai fixé, son accord est réputé donné. 
 
 Toute modification de la nature et de l'importance des travaux doit faire l'objet d'une demande d'autorisation nouvelle.
 
@@ -35276,7 +35265,7 @@ Toute modification de la nature et de l'importance des travaux doit faire l'obje
 
 	**Modifié par**:
 
-	  - Décret n°2014-1314 du 31 octobre 2014 - art. 11
+	  - Décret n°2015-1783 du 28 décembre 2015 - art. 9
 
 	**Cite**:
 
@@ -36651,25 +36640,21 @@ les affectataires ou occupants successifs.
 
 Cette décision est notifiée avec l'indication de l'étendue de la servitude de protection au maire et, le cas échéant, au
 président de l'établissement public de coopération intercommunale compétent en matière de plan local d'urbanisme qui l'annexe
-à ce plan, lorsqu'il existe, dans les conditions prévues à l'article L. 126-1 du code de l'urbanisme.
+à ce plan, lorsqu'il existe, dans les conditions prévues à l'article L. 153-60 du code de l'urbanisme.
 
 **Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°2007-487 du 30 mars 2007 - art. 39 (Ab)
-
-	**Créé par**:
-
-	  - Décret n°2011-574 du 24 mai 2011  - art.
 
 	**Codifié par**:
 
 	  - Décret n°2011-574 du 24 mai 2011 Annexe - art.
 
+	**Modifié par**:
+
+	  - Décret n°2015-1783 du 28 décembre 2015 - art. 9
+
 	**Cite**:
 
-	  - Code de l'urbanisme - art. L126-1 (V)
+	  - Code de l'urbanisme - art. L126-1
 
 	**Cité par**:
 
@@ -37741,14 +37726,14 @@ région pour recueillir l'avis de la commission régionale du patrimoine et des 
 régionale du patrimoine et des sites sont alors portés à la connaissance de la collectivité territoriale. 
 
 L'organe délibérant de la collectivité territoriale compétente émet un avis sur le projet de périmètre en même temps qu'il
-arrête le projet de plan local d'urbanisme, dans les conditions fixées par l'article L. 123-9 du code de l'urbanisme
-. Lorsque cet avis est favorable, l'enquête publique prévue par l'article L. 123-10 du code de l'urbanisme porte à la fois
-sur le projet de plan local d'urbanisme et sur le projet de périmètre de protection.
+arrête le projet de plan local d'urbanisme, dans les conditions fixées par l'article L. 153-14 du code de l'urbanisme.
+Lorsque cet avis est favorable, l'enquête publique prévue par l'article L. 153-19 du code de l'urbanisme porte à la fois sur
+le projet de plan local d'urbanisme et sur le projet de périmètre de protection.
 
 Lors de l'élaboration ou de la révision d'une carte communale, l'organe délibérant de la collectivité territoriale compétente
-émet un avis sur le projet de périmètre de protection. Lorsque cet avis est favorable, l'enquête publique prévue par l'
-article L. 124-2 du code de l'urbanisme
-porte à la fois sur le projet de carte communale et sur le projet de périmètre de protection.
+émet un avis sur le projet de périmètre de protection. Lorsque cet avis est favorable, l'enquête publique prévue par
+l'article L. 163-5 du code de l'urbanisme porte à la fois sur le projet de carte communale et sur le projet de périmètre de
+protection.
 
 **Liens relatifs à cet article**
 
@@ -37762,12 +37747,13 @@ porte à la fois sur le projet de carte communale et sur le projet de périmètr
 
 	**Modifié par**:
 
-	  - Décret n°2015-1782 du 28 décembre 2015 - art. 8
+	  - Décret n°2015-1783 du 28 décembre 2015 - art. 9
 
 	**Cite**:
 
-	  - Code de l'urbanisme - art. L123-9
-	  - Code de l'urbanisme - art. L124-2
+	  - Code de l'urbanisme - art. L153-14
+	  - Code de l'urbanisme - art. L153-19
+	  - Code de l'urbanisme - art. L163-5
 
 
 ###### Article R621-95
@@ -37778,9 +37764,7 @@ arrêté du préfet de département publié au recueil des actes administratifs 
 Le préfet notifie l'arrêté aux maires des communes concernées et, le cas échéant, au président de l'établissement public de
 coopération intercommunale compétent en matière de plan local d'urbanisme ou de carte communale. Lorsque le territoire
 concerné est soumis à un plan local d'urbanisme ou à une carte communale, l'autorité compétente annexe le tracé des nouveaux
-périmètres à ce plan, dans les conditions prévues à l'
-article L. 126-1 du code de l'urbanisme
-.
+périmètres à ce plan, dans les conditions prévues à l'article L. 153-60 du code de l'urbanisme.
 
 **Liens relatifs à cet article**
 
@@ -37790,7 +37774,7 @@ article L. 126-1 du code de l'urbanisme
 
 	**Modifié par**:
 
-	  - Décret n°2014-1314 du 31 octobre 2014 - art. 21
+	  - Décret n°2015-1783 du 28 décembre 2015 - art. 9
 
 	**Cite**:
 
