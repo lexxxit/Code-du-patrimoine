@@ -1,5 +1,5 @@
 # Code du patrimoine  
-Version Consolidée au 2016-01-01
+Version Consolidée au 2016-02-06
 
 # Partie législative
 
@@ -26938,35 +26938,47 @@ assurer des opérations de restauration sur les biens des musées de France ;
 
 ###### Article R452-11
 
-Peuvent également procéder à la restauration d'un bien faisant partie des collections des musées de France, pour des
-prestations effectuées dans le cadre d'un établissement en France, les ressortissants d'un Etat membre de l'Union européenne
-ou d'un autre Etat partie à l'accord sur l'Espace économique européen qui sont titulaires ou attestent :
+I. - Peuvent demander la reconnaissance de leur qualification professionnelle en vue de procéder à la restauration d'un bien
+faisant partie des collections des musées de France, pour des prestations effectuées dans le cadre d'un établissement en
+France, les ressortissants d'un Etat membre de l'Union européenne ou d'un autre Etat partie à l'accord sur l'Espace
+économique européen qui sont titulaires ou attestent :
 
-1° D'un diplôme sanctionnant une formation de l'enseignement supérieur d'une durée minimale de trois ans, délivré par les
-autorités compétentes d'un Etat membre ou d'un autre Etat partie à l'accord sur l'Espace économique européen, autre que la
-France, qui réglemente l'accès à l'activité de restauration des biens de collections de musées d'intérêt général ou son
-exercice, et permettant d'exercer légalement cette activité dans cet Etat ;
+1° D'un diplôme sanctionnant une formation de l'enseignement supérieur, délivré par les autorités compétentes d'un Etat
+membre ou d'un autre Etat partie à l'accord sur l'Espace économique européen, autre que la France, qui réglemente l'accès à
+l'activité de restauration des biens de collections de musées d'intérêt général ou son exercice, et permettant d'exercer
+légalement cette activité dans cet Etat ;
 
 2° D'un titre de formation délivré par un Etat tiers, qui a été reconnu dans un Etat membre ou dans un autre Etat partie à
 l'accord sur l'Espace économique européen et qui leur a permis d'exercer légalement l'activité de restauration de biens de
 collections de musées d'intérêt général dans cet Etat pendant une période minimale de trois ans, à condition que cette
 expérience professionnelle soit certifiée par l'Etat dans lequel elle a été acquise ;
 
-3° De l'exercice à temps plein de l'activité de restauration de biens de collections de musées d'intérêt général pendant deux
-ans au moins au cours des dix années précédentes, dans un Etat membre ou Etat partie à l'accord sur l'Espace économique
-européen, autre que la France, qui ne réglemente pas l'accès ou l'exercice de cette activité, à condition que les demandeurs
-détiennent un diplôme sanctionnant une formation de l'enseignement supérieur d'une durée minimale de trois ans, délivré par
-les autorités compétentes d'un Etat membre ou d'un autre Etat partie à l'Espace économique européen et attestant de leur
-préparation à l'exercice de cette activité. La condition d'exercice à temps plein pendant deux ans de l'activité de
+3° De l'exercice de l'activité de restauration de biens de collections de musées d'intérêt général à temps plein pendant une
+année ou à temps partiel pendant une durée totale équivalente au cours des dix années précédentes, dans un Etat membre ou
+Etat partie à l'accord sur l'Espace économique européen, autre que la France, qui ne réglemente pas l'accès ou l'exercice de
+cette activité, à condition que les demandeurs détiennent un diplôme sanctionnant une formation de l'enseignement supérieur,
+délivré par les autorités compétentes d'un Etat membre ou d'un autre Etat partie à l'Espace économique européen et attestant
+de leur préparation à l'exercice de cette activité. La condition d'exercice à temps plein pendant un an  de l'activité de
 restauration des biens de collections d'intérêt général n'est pas exigée lorsque le diplôme détenu par le demandeur
 sanctionne une formation réglementée dans l'Etat d'origine.
 
-Dans les cas prévus au présent article, l'intéressé adresse au ministre chargé de la culture une demande de reconnaissance de
-ses qualifications professionnelles. Si, au cours de l'instruction de cette demande, apparaissent des différences
-substantielles entre sa formation et celle requise en France, le ministre vérifie que les connaissances qu'il a acquises au
-cours de son expérience professionnelle sont de nature à combler, en tout ou en partie, ces différences. Si tel n'est pas le
-cas, le ministre peut soumettre le demandeur à une mesure de compensation, consistant, au choix de ce dernier, soit en un
-stage d'adaptation, soit en une épreuve d'aptitude.
+II. - Dans les cas prévus au présent article, l'intéressé adresse au ministre chargé de la culture une demande de
+reconnaissance de ses qualifications professionnelles.
+
+1° Si, au cours de l'instruction de cette demande, apparaissent des différences substantielles entre sa formation et celle
+requise en France, le ministre vérifie que les connaissances, aptitudes et compétences acquises par le demandeur au cours de
+son expérience professionnelle ou de l'apprentissage tout au long de la vie, et ayant fait l'objet, à cette fin, d'une
+validation en bonne et due forme par un organisme compétent, dans un Etat membre ou dans un pays tiers sont de nature à
+combler, en tout ou en partie, ces différences. Si tel n'est pas le cas, le ministre peut soumettre le demandeur à une mesure
+de compensation, consistant, au choix de ce dernier, soit en un stage d'adaptation, soit en une épreuve d'aptitude ;
+
+2° Si le demandeur est titulaire d'un certificat sanctionnant un cycle d'études secondaires au sens du b de l'article 11 de
+la directive 2005/36/CE du 7 septembre 2005 relative à la reconnaissance des qualifications professionnelles, le ministre
+peut prescrire le stage d'adaptation ou l'épreuve d'aptitude ;
+
+3° Si l'intéressé est titulaire d'une attestation de compétence au sens du a de l'article 11 de la directive 2005/36/CE du 7
+septembre 2005 relative à la reconnaissance des qualifications professionnelles, le ministre peut refuser l'accès à la
+profession et son exercice au titulaire.
 
 **Liens relatifs à cet article**
 
@@ -26976,7 +26988,7 @@ stage d'adaptation, soit en une épreuve d'aptitude.
 
 	**Modifié par**:
 
-	  - Décret n°2015-1469 du 13 novembre 2015 - art. 33 (V)
+	  - Décret n°2016-112 du 3 février 2016 - art. 2
 
 	**Cité par**:
 
@@ -26990,15 +27002,15 @@ stage d'adaptation, soit en une épreuve d'aptitude.
 Peuvent également procéder à la restauration d'un bien faisant partie des collections des musées de France, pour des
 prestations effectuées à titre temporaire et occasionnel, les ressortissants d'un Etat membre de l'Union européenne ou d'un
 autre Etat partie à l'accord sur l'Espace économique européen légalement établis dans un de ces Etats pour exercer l'activité
-de restauration des biens de collections de musées d'intérêt général.
+de restauration des biens de collections de musées d'intérêt général. 
 
 Lorsque ni l'activité ni la formation conduisant à cette activité ne sont réglementées dans l'Etat dans lequel ils sont
-légalement établis, ils doivent l'avoir exercée dans cet Etat pendant au moins deux ans au cours des dix années qui précèdent
-la prestation.
+légalement établis, ils doivent l'avoir exercée dans cet Etat pendant au moins une année, à temps plein ou à temps partiel,
+au cours des dix années qui précèdent la prestation. 
 
 L'intéressé souscrit, préalablement à sa première prestation, une déclaration auprès du ministre chargé de la culture. Cette
 déclaration est renouvelée une fois par an si le prestataire envisage d'exercer son activité professionnelle de façon
-occasionnelle au cours de l'année concernée ou en cas de changement matériel dans sa situation.
+occasionnelle au cours de l'année concernée ou en cas de changement matériel dans sa situation. 
 
 La prestation est effectuée sous le titre professionnel de l'Etat d'établissement lorsqu'un tel titre existe dans cet Etat.
 Ce titre est indiqué dans la langue officielle de l'Etat d'établissement. Dans les cas où n'existe pas de titre professionnel
@@ -27006,17 +27018,68 @@ dans l'Etat d'établissement, le prestataire fait mention de son titre de format
 
 **Liens relatifs à cet article**
 
-	**Anciens textes**:
+	**Codifié par**:
 
-	  - Décret n°2002-628 du 25 avril 2002 - art. 13 (Ab), alinéas 13 à 16.
+	  - Décret n°2011-574 du 24 mai 2011 Annexe - art.
+
+	**Modifié par**:
+
+	  - Décret n°2016-112 du 3 février 2016 - art. 3
+
+
+###### Article R452-12-1
+
+I. - Un accès partiel à une activité professionnelle relevant de la  profession de restaurateur d'un bien faisant partie des
+collections des  musées de France, profession réglementée au sens de la directive  2005/36/CE du Parlement européen et du
+Conseil du 7 septembre 2005  relative à la reconnaissance des qualifications professionnelles, en  application des
+dispositions du présent code, peut être accordé au cas  par cas aux ressortissants d'un Etat membre de l'Union européenne ou
+d'un autre Etat partie à l'accord sur l'Espace économique européen  lorsque les trois conditions suivantes sont remplies :
+
+1° Le professionnel est pleinement qualifié  pour exercer, dans l'Etat d'origine, l'activité professionnelle pour  laquelle
+l'accès partiel est sollicité ;
+
+2° Les différences entre l'activité  professionnelle légalement exercée dans l'Etat d'origine et la  profession réglementée
+en France de restaurateur d'un bien faisant  partie des collections des musées de France sont si importantes que
+l'application de mesures de compensation reviendrait à imposer au  demandeur de suivre le programme complet d'enseignement et
+de formation  requis en France pour avoir pleinement accès à cette profession  réglementée ;
+
+3° L'activité professionnelle est distincte  de la ou des autres activités relevant de la profession réglementée,  notamment
+dans la mesure où elle est exercée de manière autonome dans  l'Etat d'origine.
+
+II. - L'accès partiel peut être refusé pour  des raisons impérieuses d'intérêt général, si ce refus est proportionné  à la
+protection de cet intérêt.
+
+III. - Les demandes aux fins d'accès  partiel sont examinées, selon le cas, comme des demandes à fin  d'établissement ou de
+libre prestation de services temporaire et  occasionnelle de la profession concernée.
+
+**Liens relatifs à cet article**
 
 	**Créé par**:
 
-	  - Décret n°2011-574 du 24 mai 2011  - art.
+	  - Décret n°2016-112 du 3 février 2016 - art. 4
+
+
+###### Article R452-13
+
+La procédure d'instruction des demandes mentionnées aux articles R. 452-10 et R. 452-11, les conditions auxquelles doit
+répondre le diplôme mentionné au 1° de l'article R. 452-10, le déroulement et le contenu du stage d'adaptation et de
+l'épreuve d'aptitude visés au cinquième alinéa de l'article R. 452-11 ainsi que le contenu et les modalités de dépôt de la
+déclaration visée à l'article R. 452-12 sont fixés par arrêté du ministre chargé de la culture.
+
+**Liens relatifs à cet article**
 
 	**Codifié par**:
 
 	  - Décret n°2011-574 du 24 mai 2011 Annexe - art.
+
+	**Modifié par**:
+
+	  - Décret n°2016-112 du 3 février 2016 - art. 5
+
+	**Cite**:
+
+	  - Code du patrimoine - art. R452-10
+	  - Code du patrimoine - art. R452-11
 
 
 ## LIVRE V : ARCHÉOLOGIE
