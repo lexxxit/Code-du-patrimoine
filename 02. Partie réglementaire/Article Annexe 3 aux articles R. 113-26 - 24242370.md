@@ -23,7 +23,8 @@ l'Orangerie.
 
 Décret n° 2003-1301 du 26 décembre 2003 portant création de l'Etablissement public du musée des arts asiatiques Guimet. 
 
-Décret n° 2004-1350 du 9 décembre 2004 relatif au statut de l'Etablissement public du musée du quai Branly. 
+Décret n° 2004-1350 du 9 décembre 2004 relatif au statut de l'      Etablissement public du musée du quai Branly - Jacques
+Chirac. 
 
 Décret n° 2005-538 du 23 mai 2005 relatif à l'Etablissement public du musée national Jean-Jacques Henner. 
 
@@ -48,31 +49,31 @@ Cette annexe peut être modifiée par arrêté du ministre chargé de la culture
 
 	**Cite**:
 
-	  - Loi n°75-1 du 3 janvier 1975 (V)
-	  - Décret n°82-883 du 15 octobre 1982 (V)
-	  - Décret n°92-1338 du 22 décembre 1992 (V)
-	  - Décret n°92-1351 du 24 décembre 1992 (V)
-	  - Décret n°93-163 du 2 février 1993 (V)
-	  - Décret n°94-3 du 3 janvier 1994 (V)
-	  - Décret n°2003-1300 du 26 décembre 2003 (M)
-	  - Décret n°2003-1301 du 26 décembre 2003 (V)
-	  - Décret n°2004-1350 du 9 décembre 2004 (V)
-	  - Décret n°2005-538 du 23 mai 2005 (V)
-	  - Décret n°2006-1388 du 16 novembre 2006 (M)
-	  - Décret n°2009-279 du 11 mars 2009 (V)
-	  - Décret n°2009-1643 du 24 décembre 2009 (M)
-	  - Décret n°2010-669  du 18 juin 2010 (V)
-	  - Décret n°2010-1367 du 11 novembre 2010 (V)
-	  - Décret n°2011-52  du 13 janvier 2011 (V)
-	  - Code du patrimoine. - art. D132-23 (Ab)
-	  - Code du patrimoine. - art. D421-5 (V)
-	  - Code du patrimoine. - art. R113-26 (V)
-	  - Code du patrimoine. - art. R423-3 (V)
-
-	**Créé par**:
-
-	  - Décret n°2011-574 du 24 mai 2011  - art.
+	  - Loi n°75-1 du 3 janvier 1975
+	  - Décret n°82-883 du 15 octobre 1982
+	  - Décret n°92-1338 du 22 décembre 1992
+	  - Décret n°92-1351 du 24 décembre 1992
+	  - Décret n°93-163 du 2 février 1993
+	  - Décret n°94-3 du 3 janvier 1994
+	  - Décret n°2003-1300 du 26 décembre 2003
+	  - Décret n°2003-1301 du 26 décembre 2003
+	  - Décret n°2004-1350 du 9 décembre 2004
+	  - Décret n°2005-538 du 23 mai 2005
+	  - Décret n°2006-1388 du 16 novembre 2006
+	  - Décret n°2009-279 du 11 mars 2009
+	  - Décret n°2009-1643 du 24 décembre 2009
+	  - Décret n°2010-669 du 18 juin 2010
+	  - Décret n°2010-1367 du 11 novembre 2010
+	  - Décret n°2011-52 du 13 janvier 2011
+	  - Code du patrimoine - art. D132-23
+	  - Code du patrimoine - art. D421-5
+	  - Code du patrimoine - art. R113-26
+	  - Code du patrimoine - art. R423-3
 
 	**Codifié par**:
 
 	  - Décret n°2011-574 du 24 mai 2011 Annexe - art.
+
+	**Modifié par**:
+
+	  - Décret n°2016-818 du 20 juin 2016 - art. 1
