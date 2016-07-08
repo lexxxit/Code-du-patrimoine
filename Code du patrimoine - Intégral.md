@@ -1,5 +1,5 @@
 # Code du patrimoine  
-Version Consolidée au 2016-06-25
+Version Consolidée au 2016-07-09
 
 # Partie législative
 
@@ -8,11 +8,18 @@ Version Consolidée au 2016-06-25
 Le patrimoine s'entend, au sens du présent code, de l'ensemble des biens, immobiliers ou mobiliers, relevant de la propriété
 publique ou privée, qui présentent un intérêt historique, artistique, archéologique, esthétique, scientifique ou technique.
 
+Il s'entend également des éléments du patrimoine culturel immatériel, au sens de l'article 2 de la convention internationale
+pour la sauvegarde du patrimoine culturel immatériel, adoptée à Paris le 17 octobre 2003.
+
 **Liens relatifs à cet article**
 
 	**Codifié par**:
 
-	  - Ordonnance 2004-178 2004-02-20 JORF 24 février 2004
+	  - Ordonnance n°2004-178 du 20 février 2004
+
+	**Modifié par**:
+
+	  - Loi n°2016-925 du 7 juillet 2016 - art. 55
 
 	**Cité par**:
 
@@ -251,35 +258,132 @@ A l'occasion de la sortie du territoire douanier d'un trésor national mentionn�
 sortie temporaire doit être présentée à toute réquisition des agents des douanes. 
 
 Dès l'expiration de l'autorisation, le propriétaire ou le détenteur du bien est tenu de le présenter sur requête des agents
-habilités par l'Etat. 
-
-Un décret en Conseil d'Etat fixe les modalités d'application du présent article.
+habilités par l'Etat.
 
 **Liens relatifs à cet article**
 
 	**Anciens textes**:
 
-	  - Loi n°92-1477 1992-12-31 art. 10
 	  - Loi n°92-1477 du 31 décembre 1992 - art. 10 (Ab)
 
 	**Codifié par**:
 
-	  - Ordonnance 2004-178 2004-02-20 JORF 24 février 2004
+	  - Ordonnance n°2004-178 du 20 février 2004
 
 	**Cité par**:
 
 	  - Arrêté du 30 décembre 2004 - art. 5 (V)
 	  - Code du patrimoine - art. L112-11 (V)
+	  - Code du patrimoine - art. L114-1 (V)
 	  - Code du patrimoine - art. L212-28 (V)
 	  - Code du patrimoine - art. L622-18 (VD)
 	  - Code du patrimoine - art. L622-19 (VD)
 	  - Code du patrimoine. - art. L111-2 (V)
-	  - Code du patrimoine. - art. L114-1 (M)
 	  - Code du patrimoine. - art. R111-20 (V)
+
+	**Modifié par**:
+
+	  - Loi n°2016-925 du 7 juillet 2016 - art. 56
 
 	**Cite**:
 
-	  - Code du patrimoine. - art. L111-1 (V)
+	  - Code du patrimoine - art. L111-1
+
+
+###### Article L111-8
+
+L'importation de biens culturels appartenant à l'une des catégories prévues à l'article 1er de la Convention concernant les
+mesures à prendre pour interdire et empêcher l'importation, l'exportation et le transfert de propriété illicites des biens
+culturels, faite à Paris le 17 novembre 1970, en provenance directe d'un Etat non membre de l'Union européenne et partie à
+cette convention est subordonnée à la production d'un certificat ou de tout autre document équivalent autorisant
+l'exportation du bien établi par l'Etat d'exportation lorsque la législation de cet Etat le prévoit. A défaut de présentation
+dudit document, l'importation est interdite.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°2016-925 du 7 juillet 2016 - art. 56
+
+	**Cité par**:
+
+	  - Code du patrimoine - art. L114-1 (V)
+
+
+###### Article L111-9
+
+Sous réserve de l'article L. 111-11, il est interdit d'importer, d'exporter, de faire transiter, de transporter, de détenir,
+de vendre, d'acquérir et d'échanger des biens culturels présentant un intérêt archéologique, artistique, historique ou
+scientifique lorsqu'ils ont quitté illicitement le territoire d'un Etat dans les conditions fixées par une résolution du
+Conseil de sécurité de l'Organisation des Nations Unies adoptée en ce sens.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°2016-925 du 7 juillet 2016 - art. 56
+
+	**Cite**:
+
+	  - Code du patrimoine - art. L111-11 (V)
+
+	**Cité par**:
+
+	  - Code du patrimoine - art. L114-1 (V)
+
+
+###### Article L111-10
+
+Les biens culturels saisis en douane en raison de leur sortie illicite d'un Etat non membre de l'Union européenne peuvent
+être déposés dans un musée de France en vue de leur conservation et de leur présentation au public pour le temps de la
+recherche, par les autorités compétentes, de leur propriétaire légitime.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°2016-925 du 7 juillet 2016 - art. 56
+
+
+###### Article L111-11
+
+Dans le cas où les biens culturels se trouvent dans une situation d'urgence et de grave danger en raison d'un conflit armé ou
+d'une catastrophe sur le territoire de l'Etat qui les possède ou les détient, l'Etat peut, à la demande de l'Etat
+propriétaire ou détenteur ou lorsqu'une résolution du Conseil de sécurité des Nations Unies a été prise en ce sens, mettre
+provisoirement à disposition des locaux sécurisés pour les recevoir en dépôt et en informe l'Organisation des Nations Unies
+pour l'éducation, la science et la culture.
+
+L'Etat rend les biens culturels à l'Etat propriétaire ou détenteur après cessation de la situation ayant occasionné leur mise
+à l'abri ou à tout moment, à la demande de ce dernier.
+
+Les biens culturels accueillis dans les conditions prévues au présent article sont insaisissables pendant la durée de leur
+séjour sur le territoire national.
+
+Pendant leur mise en dépôt sur le territoire national, des prêts peuvent être consentis, après accord de l'Etat qui les a
+confiés, pour faire circuler ces biens culturels dans le cadre de l'organisation d'expositions nationales ou internationales
+destinées à faire connaître ce patrimoine en danger. En cas de sortie du territoire national, l'Etat qui accueille
+l'exposition garantit l'insaisissabilité des biens concernés pendant la durée de l'exposition.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°2016-925 du 7 juillet 2016 - art. 56
+
+	**Cité par**:
+
+	  - Code du patrimoine - art. L111-9 (V)
+
+
+###### Article L111-12
+
+Les modalités d'application du présent chapitre sont fixées par décret en Conseil d'Etat.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°2016-925 du 7 juillet 2016 - art. 56
 
 
 #### Chapitre 2 : Restitution des biens culturels
@@ -908,7 +1012,7 @@ Un décret en Conseil d'Etat fixe les conditions d'application du présent chapi
 
 ###### Article L114-1
 
-Est puni de deux années d'emprisonnement et d'une amende de 450 000 euros le fait, pour toute personne, d'exporter ou de
+I.-Est puni de deux années d'emprisonnement et d'une amende de 450 000 euros le fait, pour toute personne, d'exporter ou de
 tenter d'exporter : 
 
 a) Définitivement, un bien culturel mentionné à l'article L. 111-1 ; 
@@ -919,18 +1023,29 @@ b) Temporairement, un bien culturel mentionné à l'article L. 111-1 sans avoir 
 c) Définitivement, un bien culturel mentionné à l'article L. 111-2 sans avoir obtenu le certificat prévu au même article ; 
 
 d) Temporairement, un bien culturel mentionné à l'article L. 111-2 sans avoir obtenu soit le certificat, soit l'autorisation
-de sortie temporaire prévus au même article.
+de sortie temporaire prévus au même article. 
+
+II.-Est puni des mêmes peines le fait, pour toute personne, d'importer un bien culturel en infraction à l'article L. 111-8. 
+
+III.-Est puni des mêmes peines le fait, pour toute personne, d'importer, d'exporter, de faire transiter, de vendre,
+d'acquérir ou d'échanger un bien culturel en infraction à l'article L. 111-9. 
+
+Les auteurs des infractions aux interdictions définies au même article L. 111-9 encourent, en outre, la confiscation des
+biens en cause.
 
 **Liens relatifs à cet article**
 
 	**Anciens textes**:
 
-	  - Loi n°92-1477 1992-12-31 art. 13
 	  - Loi n°92-1477 du 31 décembre 1992 - art. 13 (Ab)
 
 	**Codifié par**:
 
-	  - Ordonnance 2004-178 2004-02-20 JORF 24 février 2004
+	  - Ordonnance n°2004-178 du 20 février 2004
+
+	**Modifié par**:
+
+	  - Loi n°2016-925 du 7 juillet 2016 - art. 56
 
 	**Cité par**:
 
@@ -938,9 +1053,11 @@ de sortie temporaire prévus au même article.
 
 	**Cite**:
 
-	  - Code du patrimoine. - art. L111-1 (V)
-	  - Code du patrimoine. - art. L111-2 (V)
-	  - Code du patrimoine. - art. L111-7 (V)
+	  - Code du patrimoine - art. L111-1
+	  - Code du patrimoine - art. L111-2
+	  - Code du patrimoine - art. L111-7 (V)
+	  - Code du patrimoine - art. L111-8 (V)
+	  - Code du patrimoine - art. L111-9 (V)
 
 
 ###### Article L114-2
@@ -1106,14 +1223,10 @@ des arts plastiques ;
 3° Donne son avis sur les décisions de déclassement de biens culturels appartenant aux autres collections qui relèvent du
 domaine public ; 
 
-4° Peut être saisie pour avis par les personnes privées gestionnaires de fonds régionaux d'art contemporain, lorsque les
-collections n'appartiennent pas au domaine public, sur les décisions de cession portant sur les biens qui les constituent.
+4° Donne son avis sur les décisions de cession des biens appartenant aux collections des personnes privées gestionnaires de
+fonds régionaux d'art contemporain.
 
 **Liens relatifs à cet article**
-
-	**Créé par**:
-
-	  - Loi n°2010-501 du 18 mai 2010 - art. 2
 
 	**Cité par**:
 
@@ -1123,6 +1236,10 @@ collections n'appartiennent pas au domaine public, sur les décisions de cession
 	  - Code du patrimoine. - art. L451-5 (V)
 	  - Code du patrimoine. - art. R115-1 (V)
 	  - Code du patrimoine. - art. R115-4 (V)
+
+	**Modifié par**:
+
+	  - Loi n°2016-925 du 7 juillet 2016 - art. 57
 
 
 ###### Article L115-2
@@ -1142,6 +1259,65 @@ Un décret en Conseil d'Etat précise sa composition et fixe ses modalités de f
 	**Anciens textes**:
 
 	  - Décret n°2011-160 du 8 février 2011 - art. 1 (Ab)
+
+
+#### Chapitre 6 : Fonds régionaux d'art contemporain 
+
+
+###### Article L116-1
+
+Le label “fonds régional d'art contemporain”, dit “FRAC”, peut être attribué à la personne morale de droit public ou de droit
+privé à but non lucratif qui en ferait la demande, dès lors que celle-ci justifie détenir une collection constituée d'œuvres
+d'art contemporain :
+
+1° Acquises, sauf exception, du vivant de l'artiste, avec des concours publics et sur proposition d'une instance composée de
+personnalités qualifiées dans le domaine de l'art contemporain ou par dons et legs ;
+
+2° Représentatives de la création contemporaine française et étrangère dans le domaine des arts graphiques et plastiques
+ainsi que des arts appliqués ;
+
+3° Destinées à la présentation au public dans et hors les murs, notamment en des lieux non dédiés à l'art ;
+
+4° Faisant l'objet d'actions de médiation et d'éducation artistique et culturelle en direction des publics ;
+
+5° Portées sur un inventaire.
+
+**Liens relatifs à cet article**
+
+	**Cité par**:
+
+	  - Loi n°2016-925 du 7 juillet 2016 - art. 111 (V)
+	  - Décret n°2017-432 du 28 mars 2017 - art. 1 (VD)
+	  - Code du patrimoine - art. L710-1 (V)
+
+	**Créé par**:
+
+	  - Loi n°2016-925 du 7 juillet 2016 - art. 57
+
+
+###### Article L116-2
+
+Le label est attribué par décision du ministre chargé de la culture.
+
+Dans le cas où le demandeur du label est une personne morale de droit privé à but non lucratif, il doit justifier de
+l'inscription, dans ses statuts, d'une clause prévoyant l'affectation irrévocable des biens acquis par dons et legs ou avec
+le concours de l'Etat ou d'une collectivité territoriale à la présentation au public. Ces biens ne peuvent être cédés, à
+titre gratuit ou onéreux, qu'aux personnes publiques ou aux personnes morales de droit privé à but non lucratif qui se sont
+engagées, au préalable, à maintenir l'affectation de ces biens à la présentation au public. La cession ne peut intervenir
+qu'après approbation de l'autorité administrative après avis de la Commission scientifique nationale des collections.
+
+Les modalités d'attribution et de retrait du label ainsi que les conditions de conservation et de présentation au public des
+œuvres concernées sont précisées par décret en Conseil d'Etat.
+
+**Liens relatifs à cet article**
+
+	**Cité par**:
+
+	  - Loi n°2016-925 du 7 juillet 2016 - art. 111 (V)
+
+	**Créé par**:
+
+	  - Loi n°2016-925 du 7 juillet 2016 - art. 57
 
 
 ### TITRE II : ACQUISITION DE BIENS CULTURELS
@@ -1568,6 +1744,34 @@ Les conditions d'application des articles L. 123-1 et L. 123-2 sont fixées par 
 	**Anciens textes**:
 
 	  - Loi n°1921-12-31 art. 38
+
+
+#### Chapitre 4 : Annulation de l'acquisition d'un bien culturel en raison de son origine illicite
+
+###### Article L124-1
+
+La personne publique propriétaire d'un bien culturel appartenant au domaine public mobilier, au sens de l'article L. 2112-1
+du code général de la propriété des personnes publiques, peut agir en nullité de la vente, de la donation entre vifs ou du
+legs de ce bien lorsqu'il lui est apporté la preuve qu'il a été volé ou illicitement exporté après l'entrée en vigueur, à
+l'égard de l'Etat d'origine et de la France, de la convention concernant les mesures à prendre pour interdire et empêcher
+l'importation, l'exportation et le transfert de propriété illicites des biens culturels, faite à Paris le 17 novembre 1970.
+
+La personne publique propriétaire demande, en outre, au juge d'ordonner la restitution du bien à l'Etat d'origine ou au
+propriétaire légitime s'il en a fait la demande.
+
+La personne publique propriétaire a droit au remboursement du prix d'acquisition par le vendeur.
+
+Un décret en Conseil d'Etat fixe les conditions d'application du présent article.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°2016-925 du 7 juillet 2016 - art. 56
+
+	**Cite**:
+
+	  - Code général de la propriété des personnes publiques. - art. L2112-1
 
 
 ### TITRE III : DÉPÔT LÉGAL
@@ -2558,20 +2762,15 @@ Fondation du patrimoine " par les mots : " la fondation ou l'association ".
 
 ###### Article L211-1
 
-Les archives sont l'ensemble des documents, quels que soient leur date, leur lieu de conservation, leur forme et leur
-support, produits ou reçus par toute personne physique ou morale et par tout service ou organisme public ou privé dans
-l'exercice de leur activité.
+Les archives sont l'ensemble des documents, y compris les données, quels que soient leur date, leur lieu de conservation,
+leur forme et leur support, produits ou reçus par toute personne physique ou morale et par tout service ou organisme public
+ou privé dans l'exercice de leur activité.
 
 **Liens relatifs à cet article**
 
 	**Anciens textes**:
 
 	  - Loi n°79-18 du 3 janvier 1979 - art. 1 (Ab)
-
-	**Modifié par**:
-
-	  - Loi n°2008-696  du 15 juillet 2008 - art. 1
-	  - Loi n°2008-696  du 15 juillet 2008 - art. 2
 
 	**Cité par**:
 
@@ -2582,6 +2781,10 @@ l'exercice de leur activité.
 	  - Code du patrimoine - art. L730-1 (V)
 	  - Code du patrimoine - art. L760-2 (V)
 	  - Code du patrimoine - art. L770-1 (V)
+
+	**Modifié par**:
+
+	  - Loi n°2016-925 du 7 juillet 2016 - art. 59
 
 
 ###### Article L211-2
@@ -2643,20 +2846,25 @@ public.
 
 Les archives publiques sont : 
 
-a) Les documents qui procèdent de l'activité, dans le cadre de leur mission de service public, de l'Etat, des collectivités
-territoriales, des établissements publics et des autres personnes morales de droit public ou des personnes de droit privé
-chargées d'une telle mission. Les actes et documents des assemblées parlementaires sont régis par l'ordonnance n° 58-1100 du
-17 novembre 1958 relative au fonctionnement des assemblées parlementaires ; 
+1° Les documents qui procèdent de l'activité de l'Etat, des collectivités territoriales, des établissements publics et des
+autres personnes morales de droit public. Les actes et documents des assemblées parlementaires sont régis par l'ordonnance n°
+58-1100 du 17 novembre 1958 relative au fonctionnement des assemblées parlementaires ; 
 
-b) (Supprimé) ; 
+2° Les documents qui procèdent de la gestion d'un service public ou de l'exercice d'une mission de service public par des
+personnes de droit privé ; 
 
-c) Les minutes et répertoires des officiers publics ou ministériels.
+3° Les minutes et répertoires des officiers publics ou ministériels et les registres de conventions notariées de pacte civil
+de solidarité.
+
+**Nota:**
+
+Loi n° 2016-925 du 7 juillet 2016, article 65-II : Les 1° et 3° du présent article s'appliquent à compter du 1er mai 2009.
 
 **Liens relatifs à cet article**
 
 	**Cite**:
 
-	  - Ordonnance n°58-1100 du 17 novembre 1958
+	  - Ordonnance n°58-1100 du 17 novembre 1958 (V)
 
 	**Cité par**:
 
@@ -2676,7 +2884,7 @@ c) Les minutes et répertoires des officiers publics ou ministériels.
 
 	**Modifié par**:
 
-	  - Ordonnance n°2009-483 du 29 avril 2009 - art. 12
+	  - Loi n°2016-925 du 7 juillet 2016 - art. 65 (V)
 
 
 ###### Article L211-5
@@ -3023,6 +3231,28 @@ public d'archives.
 	  - Code du patrimoine - art. L212-3
 
 
+###### Article L212-4-1
+
+La conservation des archives numériques peut faire l'objet d'une mutualisation entre services publics d'archives, dans des
+conditions déterminées par décret en Conseil d'Etat. Par dérogation aux articles L. 212-6, L. 212-6-1, L. 212-11 et L.
+212-12, le présent article s'applique aux collectivités territoriales et à leurs groupements à fiscalité propre.
+
+**Liens relatifs à cet article**
+
+	**Cité par**:
+
+	  - Loi n°2016-925 du 7 juillet 2016 - art. 115 (V)
+
+	**Créé par**:
+
+	  - Loi n°2016-925 du 7 juillet 2016 - art. 60
+
+	**Cite**:
+
+	  - Code du patrimoine - art. L212-11 (V)
+	  - Code du patrimoine - art. L212-6 (V)
+
+
 ###### Article L212-5
 
 Lorsqu'il est mis fin à l'existence d'un ministère, service, établissement ou organisme détenteur d'archives publiques,
@@ -3216,19 +3446,26 @@ technique prévu à l'alinéa précédent.
 
 ###### Article L212-11
 
-Les documents de l'état civil ayant plus de cent cinquante ans de date, les plans et registres cadastraux ayant cessé d'être
-en service depuis au moins trente ans et les autres documents d'archives ayant plus de cent ans de date, conservés dans les
-archives des communes de moins de 2 000 habitants, sont déposés aux archives du département. 
+Les archives produites ou reçues par les communes de moins de 2 000 habitants : 
 
-Toutefois, après déclaration auprès du représentant de l'Etat dans le département, la commune peut conserver elle-même ces
-documents ou, si elle est membre d'un groupement de collectivités territoriales, les déposer selon les modalités prévues au
-premier alinéa de l'article L. 212-12. Est alors applicable le second alinéa de ce même article.
+1° Peuvent être confiées en dépôt, par convention, au service d'archives du groupement de communes à fiscalité propre dont
+elles sont membres ou au service d'archives de la commune membre désignée par ce groupement pour gérer les archives de celui-
+ci, dans des conditions déterminées par décret en Conseil d'Etat ; 
+
+2° Sont déposées au service départemental d'archives compétent à l'expiration d'un délai de cent vingt ans pour les registres
+de l'état civil et de cinquante ans pour les autres documents n'ayant plus d'utilité administrative et destinés à être
+conservés à titre définitif. Toutefois, après déclaration auprès du représentant de l'Etat dans le département et accord de
+l'administration des archives, la commune peut conserver elle-même ses archives ou les confier au service d'archives du
+groupement de communes à fiscalité propre auquel elle appartient ou au service d'archives de la commune membre désignée par
+ce groupement pour gérer les archives de celui-ci, dans les conditions prévues au 1°. 
+
+Par exception, les archives numériques peuvent être déposées avant l'expiration de leur durée d'utilité administrative.
 
 **Liens relatifs à cet article**
 
 	**Modifié par**:
 
-	  - Loi n°2011-525 du 17 mai 2011 - art. 86
+	  - Loi n°2016-925 du 7 juillet 2016 - art. 61
 
 	**Cité par**:
 
@@ -3251,19 +3488,24 @@ premier alinéa de l'article L. 212-12. Est alors applicable le second alinéa d
 
 ###### Article L212-12
 
-Les documents mentionnés à l'article L. 212-11, conservés dans les archives des communes de 2 000 habitants ou plus, peuvent
-être déposés par le maire, après délibération du conseil municipal, aux archives du groupement de collectivités territoriales
-dont elles sont membres, par convention, aux archives de la commune désignée par ce groupement pour gérer les archives de
-celui-ci ou aux archives du département. 
+Les archives produites ou reçues par les communes de 2 000 habitants ou plus peuvent être déposées par le maire, par
+convention : 
 
-Le dépôt au service départemental d'archives est prescrit d'office par le préfet, après une mise en demeure restée sans
-effet, lorsqu'il est établi que la conservation des archives d'une commune n'est pas convenablement assurée.
+1° Au service d'archives du groupement de communes à fiscalité propre dont elles sont membres ou au service d'archives de la
+commune membre désignée par ce groupement pour gérer les archives de celui-ci, dans des conditions déterminées par décret en
+Conseil d'Etat ; 
+
+2° Au service départemental d'archives compétent à l'expiration d'un délai de cent vingt ans pour les registres de l'état
+civil et de cinquante ans pour les autres documents n'ayant plus d'utilité administrative et destinés à être conservés à
+titre définitif. 
+
+Par exception, les archives numériques peuvent être déposées avant l'expiration de leur durée d'utilité administrative.
 
 **Liens relatifs à cet article**
 
 	**Modifié par**:
 
-	  - Loi n°2008-696  du 15 juillet 2008 - art. 9
+	  - Loi n°2016-925 du 7 juillet 2016 - art. 62
 
 	**Cité par**:
 
@@ -3272,8 +3514,8 @@ effet, lorsqu'il est établi que la conservation des archives d'une commune n'es
 	  - Décret n°2017-890 du 6 mai 2017 - art. 20 (VD)
 	  - Décret n°2017-890 du 6 mai 2017 - art. 22 (VD)
 	  - Décret n°2017-890 du 6 mai 2017 - art. 57
+	  - Code du patrimoine - art. L212-11 (V)
 	  - Code du patrimoine - art. R212-60 (Ab)
-	  - Code du patrimoine. - art. L212-11 (M)
 
 
 ###### Article L212-13
@@ -3531,6 +3773,8 @@ classement.
 Sauf autorisation de l'administration des archives, les archives classées ne peuvent être soumises à aucune opération
 susceptible de les modifier ou de les altérer.
 
+Elles ne peuvent être divisées ou aliénées par lot ou pièce sans l'autorisation de l'administration des archives.
+
 Tous travaux engagés sur des archives classées s'exécutent avec l'autorisation de l'administration des archives et sous son
 contrôle scientifique et technique.
 
@@ -3542,7 +3786,7 @@ contrôle scientifique et technique.
 
 	**Modifié par**:
 
-	  - Loi n°2008-696  du 15 juillet 2008 - art. 11
+	  - Loi n°2016-925 du 7 juillet 2016 - art. 63
 
 	**Cité par**:
 
@@ -4414,8 +4658,8 @@ Sont punis d'une amende de 30 000 € :
 1° L'aliénation d'archives classées sans information de l'acquéreur de l'existence du classement dans les conditions prévues
 à l'article L. 212-24 ; 
 
-2° La réalisation, sans l'autorisation administrative prévue à l'article L. 212-25, de toute opération susceptible de
-modifier ou d'altérer des archives classées ; 
+2° Toute opération susceptible de modifier ou d'altérer des archives classées, ainsi que toute division ou aliénation par lot
+ou pièce d'archives classées, réalisées sans les autorisations administratives prévues à l'article L. 212-25 ; 
 
 3° Le refus de présentation d'archives classées ou en instance de classement aux agents mentionnés à l'article L. 212-22 ; 
 
@@ -4427,9 +4671,9 @@ legs, en infraction aux dispositions du dernier alinéa de l'article L. 212-23.
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Loi n°2008-696  du 15 juillet 2008 - art. 19
+	  - Loi n°2016-925 du 7 juillet 2016 - art. 64
 
 	**Cite**:
 
@@ -4461,10 +4705,10 @@ laquelle l'infraction a été commise.
 
 ###### Article L214-10
 
-Toute personne ayant commis des faits susceptibles d'entraîner sa condamnation sur le fondement des articles 432-15 et 433-4
-du code pénal peut faire l'objet d'une interdiction d'accès aux locaux où sont consultés des documents d'archives publiques.
-Cette mesure est prononcée par l'autorité administrative, pour une durée maximale de cinq ans, dans des conditions fixées par
-décret en Conseil d'Etat.
+Toute personne ayant commis des faits susceptibles d'entraîner sa condamnation sur le fondement des articles 311-4-2, 322-2,
+322-3-1, 322-4, 432-15 et 433-4 du code pénal peut faire l'objet d'une interdiction d'accès aux locaux où sont consultés des
+documents d'archives publiques. Cette mesure est prononcée par l'autorité administrative, pour une durée maximale de cinq
+ans, dans des conditions fixées par décret en Conseil d'Etat.
 
 **Liens relatifs à cet article**
 
@@ -4481,12 +4725,14 @@ décret en Conseil d'Etat.
 	  - Code du patrimoine. - art. R212-33 (V)
 	  - Code du patrimoine. - art. R212-34 (V)
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Loi n°2008-696  du 15 juillet 2008 - art. 19
+	  - Loi n°2016-925 du 7 juillet 2016 - art. 66
 
 	**Cite**:
 
+	  - Code pénal - art. 311-4-2
+	  - Code pénal - art. 322-2
 	  - Code pénal - art. 432-15
 	  - Code pénal - art. 433-4
 
@@ -5052,28 +5298,31 @@ d) De représentants des personnels mentionnés aux articles L. 442-8 et L. 452-
 
 e) De personnalités qualifiées. 
 
-Le Haut Conseil des musées de France est consulté dans les cas prévus aux articles L. 442-1, L. 442-3, L. 451-8 à L. 451-10,
-L. 452-2 et L. 452-3.
+Le Haut Conseil des musées de France est consulté dans les cas prévus aux articles L. 442-1, L. 442-3, L. 451-8 à L. 451-10
+et L. 452-3.
 
 **Liens relatifs à cet article**
 
 	**Anciens textes**:
 
-	  - Loi n°2002-5 2002-01-04 art. 3 al. 1 à al. 6, al. 8
 	  - Loi n°2002-5 du 4 janvier 2002 - art. 3 (V)
 
 	**Codifié par**:
 
-	  - Ordonnance 2004-178 2004-02-20 JORF 24 février 2004
+	  - Ordonnance n°2004-178 du 20 février 2004
+
+	**Modifié par**:
+
+	  - Loi n°2016-925 du 7 juillet 2016 - art. 67
 
 	**Cite**:
 
-	  - Code du patrimoine - art. L442-1 (V)
-	  - Code du patrimoine - art. L442-3 (V)
-	  - Code du patrimoine - art. L442-8 (V)
-	  - Code du patrimoine - art. L451-8 (V)
-	  - Code du patrimoine - art. L452-1 (V)
-	  - Code du patrimoine - art. L452-2 (V)
+	  - Code du patrimoine - art. L442-1
+	  - Code du patrimoine - art. L442-3
+	  - Code du patrimoine - art. L442-8
+	  - Code du patrimoine - art. L451-8
+	  - Code du patrimoine - art. L452-1
+	  - Code du patrimoine - art. L452-3
 
 	**Cité par**:
 
@@ -5143,16 +5392,22 @@ c) Concevoir et mettre en œuvre des actions d'éducation et de diffusion visant
 
 d) Contribuer aux progrès de la connaissance et de la recherche ainsi qu'à leur diffusion.
 
+Ils établissent un projet scientifique et culturel, qui précise la manière dont sont remplies ces missions. Le projet inclut
+un volet éducatif qui précise les activités et partenariats proposés aux établissements d'enseignement scolaire.
+
 **Liens relatifs à cet article**
 
 	**Anciens textes**:
 
-	  - Loi n°2002-5 du 4 janvier 2002 - art. 2, v. init.
 	  - Loi n°2002-5 du 4 janvier 2002 - art. 2 (Ab)
 
 	**Codifié par**:
 
-	  - Ordonnance 2004-178 2004-02-20 JORF 24 février 2004
+	  - Ordonnance n°2004-178 du 20 février 2004
+
+	**Modifié par**:
+
+	  - Loi n°2016-925 du 7 juillet 2016 - art. 58
 
 	**Cité par**:
 
@@ -5751,6 +6006,28 @@ personne privée dans des conditions fixées par décret en Conseil d'Etat.
 	  - Code du patrimoine. - art. R451-29 (V)
 
 
+###### Article L451-12
+
+Des pôles nationaux de référence peuvent être créés pour rassembler, conserver et valoriser des collections publiques non
+présentées dans le musée de France qui en est propriétaire, selon des thématiques précises définies préalablement dans un
+projet scientifique et culturel. 
+
+L'Etat reconnaît, par une labellisation spécifique, les musées de France candidats qui, après avis du Haut Conseil des musées
+de France et en lien avec les grands départements patrimoniaux dont ils relèvent, se constituent en pôle national de
+référence. 
+
+Le label de pôle national de référence est déterminé par l'histoire et la nature particulière des collections du musée
+candidat. La dénomination et la répartition des pôles relève du ministre chargé de la culture. 
+
+Un décret en Conseil d'Etat fixe les modalités d'application du présent article.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°2016-925 du 7 juillet 2016 - art. 69
+
+
 #### Chapitre 2 : Conservation et restauration.
 
 ###### Article L452-1
@@ -5758,14 +6035,20 @@ personne privée dans des conditions fixées par décret en Conseil d'Etat.
 Toute restauration d'un bien faisant partie d'une collection d'un musée de France est précédée de la consultation des
 instances scientifiques prévues à l'article L. 451-1. 
 
-Elle est réalisée par des spécialistes présentant des qualifications ou une expérience professionnelle définies par décret
-sous la responsabilité des professionnels mentionnés à l'article L. 442-8.
+L'instance scientifique consultée peut assortir son avis de prescriptions motivées. Lorsque les travaux sont réalisés alors
+qu'un avis défavorable a été émis par l'instance scientifique ou qu'ils ne sont pas réalisés conformément à ses
+prescriptions, le ministre chargé de la culture peut mettre en demeure le propriétaire de les interrompre et ordonner toute
+mesure conservatoire utile afin d'assurer la préservation du bien. 
+
+La mise en demeure est notifiée au propriétaire.
+
+La restauration est réalisée par des spécialistes présentant des qualifications ou une expérience professionnelle définies
+par décret sous la responsabilité des professionnels mentionnés à l'article L. 442-8.
 
 **Liens relatifs à cet article**
 
 	**Anciens textes**:
 
-	  - Loi n°2002-5 du 4 janvier 2002 - art. 15, v. init.
 	  - Loi n°2002-5 du 4 janvier 2002 - art. 15 (Ab)
 
 	**Cité par**:
@@ -5780,36 +6063,49 @@ sous la responsabilité des professionnels mentionnés à l'article L. 442-8.
 
 	**Codifié par**:
 
-	  - Ordonnance 2004-178 2004-02-20 JORF 24 février 2004
+	  - Ordonnance n°2004-178 du 20 février 2004
+
+	**Modifié par**:
+
+	  - Loi n°2016-925 du 7 juillet 2016 - art. 67
 
 	**Cite**:
 
-	  - Code du patrimoine - art. L442-8 (V)
-	  - Code du patrimoine - art. L451-1 (V)
+	  - Code du patrimoine - art. L442-8
+	  - Code du patrimoine - art. L451-1
 
 
 ###### Article L452-2
 
-Lorsque la conservation ou la sécurité d'un bien faisant partie d'une collection d'un musée de France est mise en péril et
-que le propriétaire de cette collection ne veut ou ne peut prendre immédiatement les mesures jugées nécessaires par l'Etat,
-l'autorité administrative peut, par décision motivée, prise après avis du Haut Conseil des musées de France, mettre en
-demeure le propriétaire de prendre toutes dispositions pour remédier à cette situation. Si le propriétaire s'abstient de
-donner suite à cette mise en demeure, l'autorité administrative peut, dans les mêmes conditions, ordonner les mesures
-conservatoires utiles et notamment le transfert provisoire du bien dans un lieu offrant les garanties voulues.
+Lorsque l'intégrité d'un bien appartenant à la collection d'un musée de France est gravement compromise par l'inexécution ou
+la mauvaise exécution de travaux de conservation ou d'entretien, l'autorité administrative peut mettre en demeure le
+propriétaire de la collection de prendre toute disposition nécessaire ou de procéder aux travaux conformes aux prescriptions
+qu'elle détermine. La mise en demeure indique le délai dans lequel les mesures ou les travaux sont entrepris. Pour les
+travaux, elle précise également la part de dépense supportée par l'Etat, laquelle ne peut être inférieure à 50 %. Elle
+précise en outre les modalités de versement de la part de l'Etat. 
 
-En cas d'urgence, la mise en demeure et les mesures conservatoires peuvent être décidées sans l'avis du Haut Conseil des
-musées de France. Celui-ci est informé sans délai des décisions prises.
+La mise en demeure est notifiée au propriétaire. 
+
+Lorsque le propriétaire ne donne pas suite à la mise en demeure de prendre toute disposition nécessaire, l'autorité
+administrative ordonne les mesures conservatoires utiles et, notamment, le transfert provisoire du bien dans un lieu offrant
+les garanties voulues. 
+
+Lorsque le propriétaire ne donne pas suite à la mise en demeure de réaliser les travaux nécessaires ou conformes, l'autorité
+administrative fait procéder auxdits travaux conformément à la mise en demeure.
 
 **Liens relatifs à cet article**
 
 	**Anciens textes**:
 
-	  - Loi n°2002-5 2002-01-04 art. 16 al. 1, al. 2
 	  - Loi n°2002-5 du 4 janvier 2002 - art. 16 (Ab)
 
 	**Codifié par**:
 
-	  - Ordonnance 2004-178 2004-02-20 JORF 24 février 2004
+	  - Ordonnance n°2004-178 du 20 février 2004
+
+	**Modifié par**:
+
+	  - Loi n°2016-925 du 7 juillet 2016 - art. 67
 
 	**Cité par**:
 
@@ -5817,6 +6113,23 @@ musées de France. Celui-ci est informé sans délai des décisions prises.
 	  - Code du patrimoine - art. L452-4 (V)
 	  - Code du patrimoine. - art. R430-6 (V)
 	  - Code du patrimoine. - art. R452-2 (V)
+
+
+###### Article L452-2-1
+
+En cas d'exécution d'office, le propriétaire est tenu de rembourser à l'Etat le coût des travaux exécutés par celui-ci, dans
+la limite de la moitié de son montant. La créance ainsi née au profit de l'Etat est recouvrée suivant la procédure applicable
+aux créances de l'Etat étrangères à l'impôt et au domaine aux échéances fixées par l'autorité administrative, qui peut les
+échelonner sur une durée de quinze ans au plus, les sommes dues portant intérêt au taux légal à compter de la notification de
+leur montant au propriétaire. 
+
+Le propriétaire peut toujours s'exonérer de sa dette en faisant abandon de son bien à l'Etat.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°2016-925 du 7 juillet 2016 - art. 67
 
 
 ###### Article L452-3
@@ -5869,15 +6182,20 @@ Le propriétaire et l'Etat contribuent aux frais occasionnés par la mise en œu
 
 ###### Article L510-1
 
-Constituent des éléments du patrimoine archéologique tous les vestiges et autres traces de l'existence de l'humanité, dont la
-sauvegarde et l'étude, notamment par des fouilles ou des découvertes, permettent de retracer le développement de l'histoire
-de l'humanité et de sa relation avec l'environnement naturel.
+Constituent des éléments du patrimoine archéologique tous les vestiges, biens et autres traces de l'existence de l'humanité,
+y compris le contexte dans lequel ils s'inscrivent, dont la sauvegarde et l'étude, notamment par des fouilles ou des
+découvertes, permettent de retracer le développement de l'histoire de l'humanité et de sa relation avec l'environnement
+naturel.
 
 **Liens relatifs à cet article**
 
 	**Codifié par**:
 
-	  - Ordonnance 2004-178 2004-02-20 JORF 24 février 2004
+	  - Ordonnance n°2004-178 du 20 février 2004
+
+	**Modifié par**:
+
+	  - Loi n°2016-925 du 7 juillet 2016 - art. 70 (V)
 
 	**Cité par**:
 
@@ -5924,20 +6242,36 @@ archéologique affectés ou susceptibles d'être affectés par les travaux publi
 ###### Article L522-1
 
 L'Etat veille à la conciliation des exigences respectives de la recherche scientifique, de la conservation du patrimoine et
-du développement économique et social. Il prescrit les mesures visant à la détection, à la conservation ou à la sauvegarde
-par l'étude scientifique du patrimoine archéologique, désigne le responsable scientifique de toute opération d'archéologie
-préventive et assure les missions de contrôle et d'évaluation de ces opérations.
+du développement économique et social. 
+
+Il veille à la cohérence et au bon fonctionnement du service public de l'archéologie préventive dans sa dimension
+scientifique, ainsi que dans ses dimensions économique et financière dans le cadre des missions prévues à l'article L.
+523-8-1. 
+
+Il exerce la maîtrise scientifique des opérations d'archéologie préventive et, à ce titre : 
+
+1° Prescrit les mesures visant à la détection, à la conservation ou à la sauvegarde par l'étude scientifique du patrimoine
+archéologique ; 
+
+2° Désigne le responsable scientifique de toute opération ; 
+
+3° Assure le contrôle scientifique et technique et évalue ces opérations ; 
+
+4° Est destinataire de l'ensemble des données scientifiques afférentes aux opérations.
 
 **Liens relatifs à cet article**
 
 	**Anciens textes**:
 
-	  - Loi n°2001-44 2001-01-17 art. 2 al. 1
 	  - Loi n°2001-44 du 17 janvier 2001 - art. 2 (V)
 
 	**Codifié par**:
 
-	  - Ordonnance 2004-178 2004-02-20 JORF 24 février 2004
+	  - Ordonnance n°2004-178 du 20 février 2004
+
+	**Modifié par**:
+
+	  - Loi n°2016-925 du 7 juillet 2016 - art. 70 (V)
 
 	**Cité par**:
 
@@ -5951,15 +6285,18 @@ préventive et assure les missions de contrôle et d'évaluation de ces opérati
 	  - Code du patrimoine. - art. L524-7 (V)
 	  - Code du patrimoine. - art. R545-27 (V)
 
+	**Cite**:
+
+	  - Code du patrimoine - art. L523-8-1 (V)
+
 
 ###### Article L522-2
 
 Les prescriptions de l'Etat concernant les diagnostics et les opérations de fouilles d'archéologie préventive sont motivées.
-Les prescriptions de diagnostic sont délivrées dans un délai   de vingt et un jours à compter de la réception du dossier. Ce
-délai est porté à deux mois lorsque les aménagements, ouvrages ou travaux projetés sont soumis à une étude d'impact en
-application du code de l'environnement. Les prescriptions de fouilles sont délivrées dans un délai de trois mois à compter de
-la réception du rapport de diagnostic. En l'absence de prescriptions dans les délais, l'Etat est réputé avoir renoncé à
-édicter celles-ci.
+Les prescriptions de diagnostic sont délivrées dans un délai    d'un mois à compter de la réception du dossier. Ce délai est
+porté à deux mois lorsque les aménagements, ouvrages ou travaux projetés sont soumis à une étude d'impact en application du
+code de l'environnement. Les prescriptions de fouilles sont délivrées dans un délai de trois mois à compter de la réception
+du rapport de diagnostic. En l'absence de prescriptions dans les délais, l'Etat est réputé avoir renoncé à édicter celles-ci.
 
 **Liens relatifs à cet article**
 
@@ -5969,7 +6306,7 @@ la réception du rapport de diagnostic. En l'absence de prescriptions dans les d
 
 	**Modifié par**:
 
-	  - Loi n°2009-179 du 17 février 2009 - art. 8
+	  - Loi n°2016-925 du 7 juillet 2016 - art. 70 (V)
 
 	**Cité par**:
 
@@ -6103,16 +6440,23 @@ Les services archéologiques des collectivités territoriales sont organisés et
 
 Ces services sont soumis au contrôle scientifique et technique de l'Etat.
 
+Ces services contribuent à l'exploitation scientifique des opérations d'archéologie qu'ils réalisent et à la diffusion de
+leurs résultats et peuvent participer à l'exploitation scientifique des opérations d'archéologie réalisées sur le territoire
+de la collectivité territoriale ou du groupement de collectivités territoriales dont ils relèvent.
+
 **Liens relatifs à cet article**
 
 	**Anciens textes**:
 
-	  - Loi n°2001-44 2001-01-17 art. 3-1 al. 1, al. 2
 	  - Loi n°2001-44 du 17 janvier 2001 - art. 3-1 (V)
 
 	**Codifié par**:
 
-	  - Ordonnance 2004-178 2004-02-20 JORF 24 février 2004
+	  - Ordonnance n°2004-178 du 20 février 2004
+
+	**Modifié par**:
+
+	  - Loi n°2016-925 du 7 juillet 2016 - art. 70 (V)
 
 	**Cité par**:
 
@@ -6125,27 +6469,44 @@ Ces services sont soumis au contrôle scientifique et technique de l'Etat.
 
 Pour pouvoir réaliser des opérations de diagnostic et de fouilles d'archéologie préventive selon les modalités prévues aux
 articles L. 523-4, L. 523-5 et L. 523-7 à L. 523-10, les services mentionnés à l'article L. 522-7 doivent avoir été
-préalablement agréés. 
+préalablement habilités. 
 
-L'agrément est attribué, à la demande de la collectivité territoriale ou du groupement de collectivités territoriales dont
-relève le service, par l'autorité administrative. A défaut de réponse dans un délai de trois mois à compter de la réception
-de la demande de la collectivité territoriale ou du groupement de collectivités territoriales, l'agrément est réputé
-attribué.
+L'habilitation est attribuée, à la demande de la collectivité territoriale ou du groupement de collectivités territoriales
+dont relève le service, après avis du Conseil national de la recherche archéologique, par arrêté des ministres chargés de la
+culture et de la recherche. Elle est délivrée au vu d'un dossier établissant la capacité scientifique et technique du service
+et son organisation administrative. Ce dossier comprend un projet de convention avec l'Etat fixant les modalités de sa
+participation à l'exploitation scientifique des opérations d'archéologie préventive. Cette convention peut traiter d'autres
+sujets sous réserve de l'accord des deux parties.
+
+L'habilitation est valable sur le territoire de la région de rattachement de la collectivité territoriale ou du groupement de
+collectivités territoriales demandeur. Elle permet de réaliser des diagnostics dans les conditions définies à l'article L.
+523-4. L'habilitation permet de réaliser des opérations de fouille dont l'emprise est localisée sur le territoire de la
+région de rattachement de la collectivité ou du groupement. Dans les autres cas, le représentant de l'Etat peut autoriser la
+collectivité ou le groupement habilité à réaliser tout ou partie d'une fouille en dehors de ce territoire.
+
+L'habilitation peut être refusée, suspendue ou retirée par décision motivée, après avis du Conseil national de la recherche
+archéologique.
+
+Le service habilité transmet tous les cinq ans au ministre chargé de la culture un bilan scientifique, technique et financier
+de son activité en matière d'archéologie préventive.
 
 **Liens relatifs à cet article**
 
 	**Anciens textes**:
 
-	  - Loi n°2001-44 2001-01-17 art. 3-1 al. 3, al. 4
 	  - Loi n°2001-44 du 17 janvier 2001 - art. 3-1 (V)
 
 	**Codifié par**:
 
-	  - Ordonnance 2004-178 2004-02-20 JORF 24 février 2004
+	  - Ordonnance n°2004-178 du 20 février 2004
+
+	**Modifié par**:
+
+	  - Loi n°2016-925 du 7 juillet 2016 - art. 70 (V)
 
 	**Cite**:
 
-	  - Code du patrimoine - art. L522-7 (V)
+	  - Code du patrimoine - art. L522-7
 	  - Code du patrimoine - art. L523-4 (V)
 	  - Code du patrimoine - art. L523-7 (V)
 
@@ -6284,7 +6645,9 @@ Les services archéologiques qui dépendent d'une collectivité territoriale ou 
 l'établissement public, les diagnostics d'archéologie préventive relatifs à : 
 
 a) Soit une opération d'aménagement ou de travaux réalisée sur le territoire de la collectivité territoriale ou du groupement
-de collectivités territoriales ; 
+de collectivités territoriales. La collectivité territoriale ou le groupement de collectivités territoriales fait connaître
+au représentant de l'Etat dans la région sa décision relative à l'exécution du diagnostic dans un délai de quatorze jours à
+compter de la réception de la notification du diagnostic ; 
 
 b) Soit, pendant une durée minimale de trois ans, l'ensemble des opérations d'aménagement ou de travaux réalisées sur le
 territoire de la collectivité territoriale ou du groupement de collectivités territoriales. 
@@ -6293,6 +6656,9 @@ Lorsque son organe délibérant en a ainsi décidé, une collectivité territori
 territoriales, doté d'un service archéologique, est compétent pour se livrer aux opérations mentionnées au présent article
 sur son territoire alors même que ce dernier serait inclus dans le ressort d'une autre collectivité territoriale également
 dotée d'un service archéologique. 
+
+Lorsqu'une opération de diagnostic est localisée en partie sur son territoire et que la collectivité ou le groupement le
+demande, le représentant de l'Etat peut lui confier la responsabilité de la totalité de l'opération. 
 
 En application des articles L. 2122-22, L. 3211-2 ou L. 4221-5 du code général des collectivités territoriales, les décisions
 relatives à l'exécution des diagnostics d'archéologie préventive peuvent être déléguées par l'organe délibérant de la
@@ -6308,7 +6674,7 @@ collectivité ou de son groupement à l'organe exécutif.
 
 	  - Décret n°2002-90 du 16 janvier 2002 - art. 3 (Ab)
 	  - Loi n°2009-526 du 12 mai 2009 - art. 100
-	  - Code du patrimoine - art. L522-8 (M)
+	  - Code du patrimoine - art. L522-8 (V)
 	  - Code du patrimoine - art. L523-1 (V)
 	  - Code du patrimoine - art. L524-11 (V)
 	  - Code du patrimoine - art. R523-26 (V)
@@ -6318,7 +6684,7 @@ collectivité ou de son groupement à l'organe exécutif.
 
 	**Modifié par**:
 
-	  - Loi n°2009-526 du 12 mai 2009 - art. 100
+	  - Loi n°2016-925 du 7 juillet 2016 - art. 70 (V)
 
 
 ###### Article L523-5
@@ -6374,15 +6740,12 @@ territoriale ou le groupement de collectivités territoriales dont dépend le se
 d'établir le diagnostic d'archéologie préventive, définit les délais de réalisation des diagnostics et les conditions d'accès
 aux terrains et de fourniture des matériels, équipements et moyens nécessaires à la réalisation des diagnostics. Les délais
 courent à compter de la mise à disposition des terrains dans des conditions permettant de se livrer aux opérations
-archéologiques. Sous réserve des dispositions des troisième et quatrième alinéas applicables en cas d'un dépassement de délai
-imputable à l'opérateur, la convention détermine les conséquences pour les parties du dépassement des délais. 
+archéologiques. Sous réserve des dispositions du troisième alinéa applicables en cas d'un dépassement de délai imputable à
+l'opérateur, la convention détermine les conséquences pour les parties du dépassement des délais. 
 
-Faute d'un accord entre les parties sur les délais de réalisation des diagnostics, ces délais sont fixés, à la demande de la
-partie la plus diligente, par l'Etat. 
-
-Lorsque, du fait de l'opérateur et sous réserve des dispositions prévues par le contrat mentionné au premier alinéa, les
-travaux nécessaires à la réalisation du diagnostic ne sont pas engagés dans un délai de quatre mois suivant la conclusion de
-la convention mentionnée au premier alinéa, la prescription est réputée caduque. 
+Faute d'un accord entre les parties sur les modalités de l'établissement de la convention, ces délais sont fixés, à la
+demande de la partie la plus diligente, par l'Etat. Dans ce cas, lorsque l'Etat ne s'est pas prononcé dans un délai fixé par
+voie réglementaire, la prescription est réputée caduque.
 
 Lorsque, du fait de l'opérateur, le diagnostic n'est pas achevé dans le délai fixé par la convention, la prescription de
 diagnostic est réputée caduque à l'expiration d'un délai fixé par voie réglementaire. 
@@ -6401,11 +6764,11 @@ Les conclusions du diagnostic sont transmises à la personne projetant d'exécut
 
 	**Modifié par**:
 
-	  - Loi n°2009-179 du 17 février 2009 - art. 8
+	  - Loi n°2016-925 du 7 juillet 2016 - art. 70 (V)
 
 	**Cité par**:
 
-	  - Code du patrimoine - art. L522-8 (M)
+	  - Code du patrimoine - art. L522-8 (V)
 	  - Code du patrimoine - art. R523-37 (V)
 
 	**Cite**:
@@ -6415,10 +6778,11 @@ Les conclusions du diagnostic sont transmises à la personne projetant d'exécut
 
 ###### Article L523-8
 
-La réalisation des opérations de fouilles d'archéologie préventive mentionnées à l'article L. 522-1 incombe à la personne
-projetant d'exécuter les travaux ayant donné lieu à la prescription. Celle-ci fait appel, pour leur mise en œuvre, soit à
-l'établissement public mentionné à l'article L. 523-1, soit à un service archéologique territorial, soit, dès lors que sa
-compétence scientifique est garantie par un agrément délivré par l'Etat, à toute autre personne de droit public ou privé. 
+L'Etat assure la maîtrise scientifique des opérations de fouilles d'archéologie préventive mentionnées à l'article L. 522-1.
+Leur réalisation incombe à la personne projetant d'exécuter les travaux ayant donné lieu à la prescription. Celle-ci fait
+appel, pour la mise en œuvre des opérations de fouilles terrestres et subaquatiques, soit à l'établissement public mentionné
+à l'article L. 523-1, soit à un service archéologique territorial, soit, dès lors que sa compétence scientifique est garantie
+par un agrément délivré par l'Etat, à toute autre personne de droit public ou privé. 
 
 Lorsque la personne projetant d'exécuter les travaux est une personne privée, l'opérateur de fouilles ne peut être contrôlé,
 directement ou indirectement, ni par cette personne ni par l'un de ses actionnaires. 
@@ -6430,17 +6794,20 @@ d'aménagement assure les opérations de fouilles pour l'ensemble du projet d'am
 
 	**Anciens textes**:
 
-	  - Loi n°2001-44 2001-01-17 art. 5 al. 1
 	  - Loi n°2001-44 du 17 janvier 2001 - art. 5 (Ab)
 
 	**Codifié par**:
 
-	  - Ordonnance 2004-178 2004-02-20 JORF 24 février 2004
+	  - Ordonnance n°2004-178 du 20 février 2004
+
+	**Modifié par**:
+
+	  - Loi n°2016-925 du 7 juillet 2016 - art. 70 (V)
 
 	**Cite**:
 
 	  - Code du patrimoine - art. L522-1 (V)
-	  - Code du patrimoine - art. L523-1 (V)
+	  - Code du patrimoine - art. L523-1
 
 	**Cité par**:
 
@@ -6450,30 +6817,97 @@ d'aménagement assure les opérations de fouilles pour l'ensemble du projet d'am
 	  - Code du patrimoine - art. L523-9 (V)
 
 
+###### Article L523-8-1
+
+L'agrément pour la réalisation de fouilles prévu à l'article L. 523-8 est délivré par l'Etat pour cinq ans, après avis du
+Conseil national de la recherche archéologique, au vu d'un dossier établissant la capacité scientifique, technique et
+financière ainsi que l'organisation administrative du demandeur et son respect d'exigences en matière sociale, financière et
+comptable. 
+
+L'agrément peut être refusé, suspendu ou retiré par décision motivée, après avis du Conseil national de la recherche
+archéologique. 
+
+La personne agréée transmet chaque année à l'autorité compétente de l'Etat un bilan scientifique, administratif, social,
+technique et financier de son activité en matière d'archéologie préventive.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°2016-925 du 7 juillet 2016 - art. 70 (V)
+
+	**Cité par**:
+
+	  - Code du patrimoine - art. L522-1 (V)
+	  - Code du patrimoine - art. L545-1 (V)
+	  - Code du patrimoine - art. R545-19 (V)
+	  - Code du patrimoine - art. R545-4 (V)
+	  - Code du patrimoine - art. R710-4 (V)
+
+	**Cite**:
+
+	  - Code du patrimoine - art. L523-8 (V)
+
+
+###### Article L523-8-2
+
+Les opérateurs agréés définis à l'article L. 523-8 peuvent contribuer à l'exploitation scientifique des opérations
+d'archéologie préventive qu'ils réalisent et à la diffusion de leurs résultats.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°2016-925 du 7 juillet 2016 - art. 70 (V)
+
+	**Cite**:
+
+	  - Code du patrimoine - art. L523-8 (V)
+
+
 ###### Article L523-9
 
-Le contrat passé entre la personne projetant d'exécuter les travaux et la personne chargée de la réalisation des fouilles
-fixe, notamment, le prix et les délais de réalisation de ces fouilles ainsi que les indemnités dues en cas de dépassement de
-ces délais.
+I.-Lorsqu'une prescription de fouilles est notifiée à la personne qui projette d'exécuter les travaux, celle-ci sollicite les
+offres d'un ou plusieurs opérateurs mentionnés au premier alinéa de l'article L. 523-8. La prescription de fouilles est
+assortie d'un cahier des charges scientifique dont le contenu est fixé par voie réglementaire. 
 
-L'Etat autorise les fouilles après avoir contrôlé la conformité du contrat mentionné au premier alinéa avec les prescriptions
-de fouilles édictées en application de l'article L. 522-2.
+La liste des éléments constitutifs des offres mentionnées au premier alinéa du présent I est définie par arrêté du ministre
+chargé de la culture. Elle comprend le projet scientifique d'intervention, les conditions de sa mise en œuvre et le prix
+proposé. Le projet scientifique d'intervention détermine les modalités de la réalisation archéologique prescrite, les
+méthodes et techniques utilisées, ainsi que les moyens humains et matériels prévus. 
+
+Préalablement au choix de l'opérateur par la personne projetant d'exécuter les travaux, celle-ci transmet à l'Etat l'ensemble
+des offres recevables au titre de la consultation. L'Etat procède à la vérification de leur conformité aux prescriptions de
+fouilles édictées en application de l'article L. 522-2, évalue le volet scientifique et s'assure de l'adéquation entre les
+projets et les moyens prévus par l'opérateur. 
+
+II.-Le contrat passé entre la personne projetant d'exécuter les travaux et la personne chargée de la réalisation des fouilles
+rappelle le prix et les moyens techniques et humains mis en œuvre et fixe les délais de réalisation de ces fouilles, ainsi
+que les indemnités dues en cas de dépassement de ces délais. Le projet scientifique d'intervention est une partie intégrante
+du contrat. La mise en œuvre du contrat est subordonnée à la délivrance de l'autorisation de fouilles par l'Etat. 
 
 L'opérateur exécute les fouilles conformément aux décisions prises et aux prescriptions imposées par l'Etat et sous la
 surveillance de ses représentants, en application des dispositions du présent livre. 
 
-Lorsque, du fait de l'opérateur et sous réserve des dispositions prévues par le contrat mentionné au premier alinéa, les
-travaux nécessaires aux opérations archéologiques ne sont pas engagés dans un délai de six mois suivant la délivrance de
-l'autorisation mentionnée au deuxième alinéa, l'Etat en prononce le retrait. Ce retrait vaut renonciation à la mise en œuvre
-des prescriptions édictées en application de l'article L. 522-2. 
+L'Etat s'assure que les conditions d'emploi du responsable scientifique de l'opération sont compatibles avec la réalisation
+de l'opération jusqu'à la remise du rapport de fouilles. 
+
+La prestation qui fait l'objet du contrat est exécutée sous l'autorité des personnels scientifiques dont les compétences ont
+justifié l'agrément de l'opérateur. Le recours à un sous-traitant pour la réalisation des prestations scientifiques fait
+l'objet d'une déclaration à l'Etat, préalable à son engagement. 
+
+Lorsque, du fait de l'opérateur et sous réserve des dispositions prévues par le contrat, les travaux nécessaires aux
+opérations archéologiques ne sont pas engagés dans un délai de six mois suivant la délivrance de l'autorisation mentionnée au
+premier alinéa du présent II, l'Etat en prononce le retrait. Ce retrait vaut renonciation à la mise en œuvre des
+prescriptions édictées en application de l'article L. 522-2. 
 
 Lorsque, du fait de l'opérateur, les travaux de terrain nécessaires aux opérations archéologiques ne sont pas achevés dans un
-délai de douze mois à compter de la délivrance de l'autorisation mentionnée au deuxième alinéa, délai prorogeable une fois
-pour une période de dix-huit mois par décision motivée de l'autorité administrative prise après avis de la commission
-interrégionale de la recherche archéologique, l'Etat en prononce le retrait. Les prescriptions édictées en application de
-l'article L. 522-2 sont réputées caduques. Les articles L. 531-14 à L. 531-16 sont applicables aux découvertes faites sur le
-terrain d'assiette de l'opération. Les mesures utiles à leur conservation ou à leur sauvegarde sont prescrites conformément
-au présent titre.
+délai de douze mois à compter de la délivrance de l'autorisation mentionnée au premier alinéa du présent II, délai
+prorogeable une fois pour une période de dix-huit mois par décision motivée de l'autorité administrative prise après avis de
+la commission territoriale de la recherche archéologique, l'Etat en prononce le retrait. Les prescriptions édictées en
+application de l'article L. 522-2 sont réputées caduques. Les articles L. 531-14 et L. 531-15 sont applicables aux
+découvertes faites sur le terrain d'assiette de l'opération. Les mesures utiles à leur conservation ou à leur sauvegarde sont
+prescrites conformément au présent titre.
 
 **Liens relatifs à cet article**
 
@@ -6485,20 +6919,21 @@ au présent titre.
 
 	  - Décret n°2007-487 du 30 mars 2007 - art. 19 (Ab)
 	  - Décret n°2007-487 du 30 mars 2007 - art. 41 (Ab)
+	  - Code du patrimoine - art. L523-10 (V)
 	  - Code du patrimoine - art. R523-45 (V)
 	  - Code du patrimoine - art. R545-17 (V)
-	  - Code du patrimoine. - art. L523-10 (M)
 	  - Code du patrimoine. - art. L524-10 (Ab)
 	  - Code du patrimoine. - art. R621-62 (V)
 
 	**Modifié par**:
 
-	  - Loi n°2009-179 du 17 février 2009 - art. 8
+	  - Loi n°2016-925 du 7 juillet 2016 - art. 70 (V)
 
 	**Cite**:
 
-	  - Code du patrimoine - art. L522-2
-	  - Code du patrimoine - art. L531-14
+	  - Code du patrimoine - art. L522-2 (V)
+	  - Code du patrimoine - art. L523-8 (V)
+	  - Code du patrimoine - art. L531-14 (V)
 
 
 ###### Article L523-10
@@ -6509,11 +6944,11 @@ les travaux. En cas de désaccord entre les parties sur les conditions de réali
 différend est réglé selon une procédure d'arbitrage organisée par décret en Conseil d'Etat. 
 
 Lorsque l'établissement public n'a pas engagé les travaux nécessaires aux opérations archéologiques dans un délai de six mois
-suivant la délivrance de l'autorisation visée au deuxième alinéa de l'article L. 523-9, ou qu'il ne les a pas achevés dans un
-délai de dix-huit mois, prorogeable une fois par décision motivée de l'autorité administrative, à compter de la délivrance de
-cette même autorisation, les prescriptions édictées en application de l'article L. 522-2 sont réputées caduques. 
+suivant la délivrance de l'autorisation de fouilles par l'Etat, ou qu'il ne les a pas achevés dans un délai de dix-huit mois,
+prorogeable une fois par décision motivée de l'autorité administrative, à compter de la délivrance de cette même
+autorisation, les prescriptions édictées en application de l'article L. 522-2 sont réputées caduques. 
 
-Les articles L. 531-14 à L. 531-16 sont applicables aux découvertes faites sur le terrain d'assiette de l'opération. Les
+Les articles L. 531-14 et L. 531-15 sont applicables aux découvertes faites sur le terrain d'assiette de l'opération. Les
 mesures utiles à leur conservation ou à leur sauvegarde sont prescrites conformément au présent titre.
 
 **Liens relatifs à cet article**
@@ -6524,14 +6959,14 @@ mesures utiles à leur conservation ou à leur sauvegarde sont prescrites confor
 
 	**Modifié par**:
 
-	  - Loi n°2009-179 du 17 février 2009 - art. 8
+	  - Loi n°2016-925 du 7 juillet 2016 - art. 70 (V)
 
 	**Cite**:
 
 	  - Code du patrimoine - art. L522-2
 	  - Code du patrimoine - art. L523-1
-	  - Code du patrimoine - art. L523-9
-	  - Code du patrimoine - art. L531-14
+	  - Code du patrimoine - art. L523-9 (V)
+	  - Code du patrimoine - art. L531-14 (V)
 
 
 ###### Article L523-11
@@ -6539,122 +6974,72 @@ mesures utiles à leur conservation ou à leur sauvegarde sont prescrites confor
 Les conditions de l'exploitation scientifique des résultats des opérations d'archéologie préventive sont définies par décret
 en Conseil d'Etat. 
 
-Lorsque les opérations de fouilles d'archéologie préventive sont réalisées par un opérateur autre que l'établissement public
-mentionné à l'article L. 523-1, cet opérateur est tenu de remettre à l'Etat et à l'établissement public un exemplaire du
-rapport de fouilles. L'auteur du rapport ne peut s'opposer à son utilisation par l'Etat, par l'établissement public ou par
-les personnes morales dotées de services de recherche archéologique avec lesquelles il est associé en application du
-quatrième alinéa de l'article L. 523-1 ou par des organismes de recherche et des établissements d'enseignement supérieur, à
-des fins d'étude et de diffusion scientifiques à l'exclusion de toute exploitation commerciale. Ce rapport d'opération est
-communicable selon les règles applicables aux documents administratifs. 
-
-La documentation afférente à l'opération est remise à l'Etat.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Loi n°2001-44 2001-01-17 art. 7 al. 1, al. 2, al. 3 (dernière phrase)
-	  - Loi n°2001-44 du 17 janvier 2001 - art. 7 (Ab)
-
-	**Codifié par**:
-
-	  - Ordonnance 2004-178 2004-02-20 JORF 24 février 2004
-
-	**Cite**:
-
-	  - Code du patrimoine - art. L523-1 (V)
-
-	**Cité par**:
-
-	  - Code du patrimoine - art. L523-14 (Ab)
-
-
-###### Article L523-12
-
-Le mobilier archéologique provenant des opérations d'archéologie préventive est confié, sous le contrôle des services de
-l'Etat, à l'opérateur d'archéologie préventive le temps nécessaire à la rédaction du rapport d'opération. Ce délai ne peut
-excéder deux ans. Il est ensuite fait application des dispositions de l'article L. 523-14.
+Lorsque les opérations d'archéologie préventive sont réalisées par un opérateur autre que l'établissement public mentionné à
+l'article L. 523-1, cet opérateur est tenu de remettre à l'Etat et à l'établissement public un exemplaire du rapport
+d'opération. Lorsque les opérations d'archéologie préventive sont réalisées sur le territoire d'une collectivité territoriale
+disposant d'un service archéologique, l'Etat remet à la collectivité territoriale dont relève le service un exemplaire du
+rapport d'opération. L'auteur du rapport ne peut s'opposer à son utilisation par l'Etat, par l'établissement public, par les
+personnes morales dotées de services de recherche archéologique avec lesquelles il est associé en application du quatrième
+alinéa de l'article L. 523-1 ou par des organismes de recherche et des établissements d'enseignement supérieur ou par les
+services de collectivités territoriales mentionnés à l'article L. 522-8 et par tout autre opérateur agréé mentionné à
+l'article L. 523-8, à des fins d'étude et de diffusion scientifiques à l'exclusion de toute exploitation commerciale. Ce
+rapport d'opération est communicable selon les règles applicables aux documents administratifs.
 
 **Liens relatifs à cet article**
 
 	**Anciens textes**:
 
-	  - Loi n°2001-44 2001-01-17 art. 7 al. 3 (deux premières phrases)
 	  - Loi n°2001-44 du 17 janvier 2001 - art. 7 (Ab)
 
 	**Codifié par**:
 
 	  - Ordonnance n°2004-178 du 20 février 2004
 
-	**Abrogé par**:
+	**Modifié par**:
 
 	  - Loi n°2016-925 du 7 juillet 2016 - art. 70 (V)
 
 	**Cite**:
 
-	  - Code du patrimoine - art. L523-14
+	  - Code du patrimoine - art. L522-8 (V)
+	  - Code du patrimoine - art. L523-1
+	  - Code du patrimoine - art. L523-8 (V)
+
+	**Cité par**:
+
+	  - Code du patrimoine - art. L523-14 (Ab)
 
 
 ###### Article L523-13
 
-En cas de cessation d'activité de l'opérateur de fouilles ou de retrait de son agrément, le mobilier archéologique provenant
-des opérations d'archéologie préventive et la documentation qu'il détenait sont remis à l'établissement public mentionné à
-l'article L. 523-1, afin qu'il en achève l'étude scientifique.
+En cas de cessation d'activité de l'opérateur de fouilles ou de retrait de son agrément ou de son habilitation, la poursuite
+des opérations archéologiques inachevées est confiée à l'établissement public mentionné à l'article L. 523-1. Celui-ci
+élabore un projet scientifique d'intervention soumis à la validation de l'Etat. 
+
+Un contrat conclu entre la personne projetant l'exécution des travaux et l'établissement public mentionné au même article L.
+523-1 fixe le prix et les délais de réalisation de l'opération. Faute d'un accord entre les parties sur le prix ou les délais
+de réalisation des fouilles, ce prix ou ces délais sont fixés, à la demande de la partie la plus diligente, par l'Etat. 
+
+Les biens archéologiques mis au jour et la documentation scientifique sont remis à l'Etat, qui les confie à l'établissement
+public mentionné audit article L. 523-1 afin qu'il en achève l'étude scientifique.
 
 **Liens relatifs à cet article**
 
 	**Anciens textes**:
 
-	  - Loi n°2001-44 2001-01-17 art. 7 al. 4
 	  - Loi n°2001-44 du 17 janvier 2001 - art. 7 (Ab)
 
 	**Codifié par**:
 
-	  - Ordonnance 2004-178 2004-02-20 JORF 24 février 2004
+	  - Ordonnance n°2004-178 du 20 février 2004
 
-	**Cite**:
-
-	  - Code du patrimoine - art. L523-1 (V)
-
-
-###### Article L523-14
-
-La propriété du mobilier archéologique issu des opérations d'archéologie préventive est partagée à parts égales entre l'Etat
-et le propriétaire du terrain. 
-
-Si, à l'issue d'un délai d'un an à compter de la réception du rapport de fouilles mentionné à l'article L. 523-11, le
-propriétaire n'a pas exprimé une intention contraire, il est réputé avoir renoncé à la propriété des vestiges qui lui étaient
-échus par le partage. La propriété de ces vestiges est alors transférée à titre gratuit à l'Etat. 
-
-L'Etat peut toutefois transférer à titre gratuit la propriété de ces vestiges à la commune sur le territoire de laquelle ils
-ont été découverts, dès lors qu'elle en fait la demande et qu'elle s'engage à en assurer la bonne conservation. 
-
-Dans le cas où le propriétaire n'a pas renoncé à son droit de propriété, l'Etat peut exercer le droit de revendication prévu
-à l'article L. 531-16.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Loi n°2001-44 du 17 janvier 2001 - art. 7-1 (Ab)
-
-	**Codifié par**:
-
-	  - Ordonnance 2004-178 2004-02-20 JORF 24 février 2004
-
-	**Abrogé par**:
+	**Modifié par**:
 
 	  - Loi n°2016-925 du 7 juillet 2016 - art. 70 (V)
 
 	**Cite**:
 
-	  - Code du patrimoine - art. L523-11
-	  - Code du patrimoine - art. L531-16
-
-	**Cité par**:
-
-	  - Code du patrimoine - art. L523-12 (Ab)
-	  - Code du patrimoine - art. R531-12 (Ab)
+	  - Code du patrimoine - art. L523-1
 
 
 #### Chapitre 4 : Financement de l'archéologie préventive.
@@ -7315,72 +7700,6 @@ Toute découverte de caractère immobilier ou mobilier doit être conservée et 
 	  - Code du patrimoine - art. L544-4 (V)
 
 
-###### Article L531-4
-
-L'autorité administrative statue sur les mesures définitives à prendre à l'égard des découvertes de caractère immobilier
-faites au cours des fouilles. Elle peut, à cet effet, ouvrir pour ces vestiges une instance de classement conformément aux
-dispositions de l'article L. 621-7.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Loi n°41-4011 du 27 septembre 1941 - art. 4 (Ab)
-	  - Loi n°1941-09-27 art. 4
-
-	**Codifié par**:
-
-	  - Ordonnance 2004-178 2004-02-20 JORF 24 février 2004
-
-	**Abrogé par**:
-
-	  - Loi n°2016-925 du 7 juillet 2016 - art. 70 (V)
-
-	**Cite**:
-
-	  - Code du patrimoine - art. L621-7
-
-	**Cité par**:
-
-	  - Code du patrimoine - art. R531-4 (Ab)
-
-
-###### Article L531-5
-
-L'autorité administrative peut, au nom de l'Etat et dans le seul intérêt des collections publiques, revendiquer les pièces
-provenant des fouilles autorisées en vertu de l'article L. 531-1 dans les conditions fixées à l'article L. 531-16 pour la
-revendication des découvertes fortuites.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Loi n°41-4011 du 27 septembre 1941 - art. 5 (Ab)
-	  - Loi n°1941-09-27 art. 5
-
-	**Cité par**:
-
-	  - Décret du 19 avril 1947 - art. 1 (Ab)
-	  - Décret n°94-423 du 27 mai 1994 - art. 2 (Ab)
-	  - Code du patrimoine - art. L531-11 (Ab)
-	  - Code du patrimoine - art. L531-17 (Ab)
-	  - Code du patrimoine - art. L531-8 (V)
-	  - Code du patrimoine - art. R531-12 (Ab)
-
-	**Codifié par**:
-
-	  - Ordonnance 2004-178 2004-02-20 JORF 24 février 2004
-
-	**Abrogé par**:
-
-	  - Loi n°2016-925 du 7 juillet 2016 - art. 70 (V)
-
-	**Cite**:
-
-	  - Code du patrimoine - art. L531-1
-	  - Code du patrimoine - art. L531-16
-
-
 ###### Article L531-6
 
 L'autorité administrative compétente pour la délivrance de l'autorisation peut prononcer, par arrêté pris sur avis conforme
@@ -7446,15 +7765,15 @@ fouilles si celles-ci sont poursuivies par l'Etat.
 
 ###### Article L531-8
 
-Si l'autorisation de fouilles est retirée pour permettre à l'Etat de poursuivre celles-ci sous sa direction ou d'acquérir les
-terrains, l'attribution des objets découverts avant la suspension des fouilles demeure réglée par les dispositions de
-l'article L. 531-5. 
-
 L'auteur des recherches a droit au remboursement total des dépenses qu'il a exposées. Il peut, en outre, obtenir à titre de
 dédommagement pour son éviction une indemnité spéciale dont le montant est fixé par l'autorité administrative compétente pour
 la délivrance de l'autorisation sur la proposition de l'organisme scientifique consultatif compétent.
 
 **Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Loi n°41-4011 du 27 septembre 1941 - art. 8 (Ab)
 
 	**Cité par**:
 
@@ -7463,18 +7782,17 @@ la délivrance de l'autorisation sur la proposition de l'organisme scientifique 
 	  - Code du patrimoine - art. L545-2 (V)
 	  - Code du patrimoine - art. R545-17 (V)
 
-	**Cite**:
-
-	  - Code du patrimoine - art. L531-5 (V)
-
-	**Anciens textes**:
-
-	  - Loi n°1941-09-27 art. 8
-	  - Loi n°41-4011 du 27 septembre 1941 - art. 8 (Ab)
-
 	**Codifié par**:
 
-	  - Ordonnance 2004-178 2004-02-20 JORF 24 février 2004
+	  - Ordonnance n°2004-178 du 20 février 2004
+
+	**Modifié par**:
+
+	  - Loi n°2016-925 du 7 juillet 2016 - art. 70 (V)
+
+	**Cite**:
+
+	  - Code du patrimoine - art. L531-5
 
 
 ##### Section 2 : Exécution de fouilles par l'Etat.
@@ -7545,43 +7863,6 @@ de la loi du 29 décembre 1892 relative aux dommages causés à la propriété p
 	**Cite**:
 
 	  - Loi n°1892-12-29
-
-
-###### Article L531-11
-
-Le mobilier archéologique issu des fouilles exécutées par l'Etat lui est confié pendant le délai nécessaire à son étude
-scientifique. Au terme de ce délai, qui ne peut excéder cinq ans, la propriété des découvertes de caractère mobilier faites
-au cours des fouilles est partagée entre l'Etat et le propriétaire du terrain suivant les règles du droit commun. L'Etat peut
-toujours exercer sur les objets trouvés le droit de revendication prévu aux articles L. 531-5 et L. 531-16.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Loi n°41-4011 du 27 septembre 1941 - art. 11 (Ab)
-	  - Loi n°1941-09-27 art. 11
-
-	**Cité par**:
-
-	  - Décret du 19 avril 1947 - art. 1 (Ab)
-	  - Décret du 19 avril 1947 - art. 4 (Ab)
-	  - Décret n°2002-89 du 16 janvier 2002 - art. 45 (Ab)
-	  - Code du patrimoine - art. L531-17 (Ab)
-	  - Code du patrimoine - art. R531-12 (Ab)
-	  - Code du patrimoine - art. R531-14 (Ab)
-
-	**Codifié par**:
-
-	  - Ordonnance 2004-178 2004-02-20 JORF 24 février 2004
-
-	**Abrogé par**:
-
-	  - Loi n°2016-925 du 7 juillet 2016 - art. 70 (V)
-
-	**Cite**:
-
-	  - Code du patrimoine - art. L531-16
-	  - Code du patrimoine - art. L531-5 (Ab)
 
 
 ###### Article L531-12
@@ -7710,106 +7991,6 @@ classement leur sont applicables.
 	  - Code du patrimoine. - art. R531-9 (V)
 
 
-###### Article L531-16
-
-L'autorité administrative statue sur les mesures définitives à prendre à l'égard des découvertes de caractère immobilier
-faites fortuitement. Elle peut, à cet effet, ouvrir pour ces vestiges une instance de classement conformément à la
-législation sur les monuments historiques. 
-
-Les découvertes de caractère mobilier faites fortuitement sont confiées à l'Etat pendant le délai nécessaire à leur étude
-scientifique. Au terme de ce délai, qui ne peut excéder cinq ans, leur propriété demeure réglée par l'article 716 du code
-civil. Toutefois, l'Etat peut revendiquer ces découvertes moyennant une indemnité fixée à l'amiable ou à dire d'experts. Le
-montant de l'indemnité est réparti entre l'inventeur et le propriétaire, suivant les règles du droit commun, les frais
-d'expertise étant imputés sur elle. 
-
-Dans un délai de deux mois à compter de la fixation de la valeur de l'objet, l'Etat peut renoncer à l'achat. Il reste tenu,
-en ce cas, des frais d'expertise.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Loi n°41-4011 du 27 septembre 1941 - art. 16 (Ab)
-	  - Loi n°1941-09-27 art. 16
-
-	**Cité par**:
-
-	  - Décret du 19 avril 1947 - art. 1 (Ab)
-	  - Décret du 19 avril 1947 - art. 9 (Ab)
-	  - Décret n°94-423 du 27 mai 1994 - art. 2 (Ab)
-	  - Code du patrimoine - art. L523-14 (Ab)
-	  - Code du patrimoine - art. L531-11 (Ab)
-	  - Code du patrimoine - art. L531-17 (Ab)
-	  - Code du patrimoine - art. L531-5 (Ab)
-	  - Code du patrimoine - art. R523-67 (Ab)
-	  - Code du patrimoine - art. R531-10 (Ab)
-	  - Code du patrimoine - art. R531-12 (Ab)
-	  - Code du patrimoine - art. R531-19 (Ab)
-
-	**Codifié par**:
-
-	  - Ordonnance 2004-178 2004-02-20 JORF 24 février 2004
-
-	**Abrogé par**:
-
-	  - Loi n°2016-925 du 7 juillet 2016 - art. 70 (V)
-
-	**Cite**:
-
-	  - Code civil - art. 716
-
-
-##### Section 4 : Objets et vestiges.
-
-###### Article L531-17
-
-Le droit de revendication prévu par les articles L. 531-5, L. 531-11 et L. 531-16 ne peut s'exercer à propos des découvertes
-de caractère mobilier consistant en pièces de monnaie ou d'objets en métaux précieux sans caractère artistique.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Loi n°1941-09-27 art. 17
-	  - Loi n°41-4011 du 27 septembre 1941 - art. 17 (Ab)
-
-	**Codifié par**:
-
-	  - Ordonnance n°2004-178 du 20 février 2004
-
-	**Abrogé par**:
-
-	  - Loi n°2016-925 du 7 juillet 2016 - art. 70 (V)
-
-	**Cite**:
-
-	  - Code du patrimoine - art. L531-11 (Ab)
-	  - Code du patrimoine - art. L531-16 (Ab)
-	  - Code du patrimoine - art. L531-5
-
-
-###### Article L531-18
-
-Depuis le jour de leur découverte et jusqu'à leur attribution définitive, tous les objets donnant lieu à partage sont
-considérés comme provisoirement classés parmi les monuments historiques et tous les effets du classement s'appliquent à eux
-de plein droit.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Loi n°1941-09-27 art. 18
-	  - Loi n°41-4011 du 27 septembre 1941 - art. 18 (Ab)
-
-	**Codifié par**:
-
-	  - Ordonnance n°2004-178 du 20 février 2004
-
-	**Abrogé par**:
-
-	  - Loi n°2016-925 du 7 juillet 2016 - art. 70 (V)
-
-
 ###### Article L531-19
 
 Les modalités d'application du présent chapitre sont fixées par décret en Conseil d'Etat.
@@ -7818,12 +7999,15 @@ Les modalités d'application du présent chapitre sont fixées par décret en Co
 
 	**Anciens textes**:
 
-	  - Loi n°1941-09-27 art. 24 (en ce qui concerne le chapitre 1, titre 3)
 	  - Loi n°41-4011 du 27 septembre 1941 - art. 24 (Ab)
 
 	**Codifié par**:
 
-	  - Ordonnance 2004-178 2004-02-20 JORF 24 février 2004
+	  - Ordonnance n°2004-178 du 20 février 2004
+
+	**Liens**:
+
+	  - DEPLACE: Loi n°2016-925 du 7 juillet 2016 - art. 70 (V)
 
 
 #### Chapitre 2 : Biens culturels maritimes.
@@ -8180,28 +8364,32 @@ Un décret en Conseil d'Etat fixe les conditions d'application du présent chapi
 
 ### TITRE IV : DISPOSITIONS DIVERSES
 
-#### Chapitre 1er : Régime de propriété des vestiges immobiliers.
+#### Chapitre 1er : Régime de propriété du patrimoine archéologique.
+
+##### Section 1 : Biens archéologiques immobiliers
 
 ###### Article L541-1
 
-Les dispositions de l'article 552 du code civil relatives aux droits du propriétaire du sol ne sont pas applicables aux
-vestiges archéologiques immobiliers. 
+Les dispositions de l'article 552 du code civil relatives aux droits du propriétaire du sol ne sont pas applicables aux biens
+archéologiques immobiliers mis au jour à la suite d'opérations archéologiques ou de découvertes fortuites réalisées sur des
+terrains dont la propriété a été acquise après la publication de la loi n° 2001-44 du 17 janvier 2001 relative à
+l'archéologie préventive. Ces biens archéologiques immobiliers appartiennent à l'Etat dès leur mise au jour à la suite
+d'opérations archéologiques ou en cas de découverte fortuite. 
 
-L'Etat verse au propriétaire du fonds où est situé le vestige une indemnité destinée à compenser le dommage qui peut lui être
-occasionné pour accéder audit vestige. A défaut d'accord amiable, l'action en indemnité est portée devant le juge
-judiciaire. 
-
-Lorsque le vestige est découvert fortuitement et qu'il donne lieu à une exploitation, la personne qui assure cette
-exploitation verse à l'inventeur une indemnité forfaitaire ou, à défaut, intéresse ce dernier au résultat de l'exploitation
-du vestige. L'indemnité forfaitaire et l'intéressement sont calculés en relation avec l'intérêt archéologique de la
-découverte et dans des limites et selon des modalités fixées par décret en Conseil d'Etat.
+L'Etat verse au propriétaire du fonds où est situé le bien une indemnité destinée à compenser le dommage qui peut lui être
+occasionné pour accéder audit bien. A défaut d'accord amiable sur le montant de l'indemnité, celle-ci est fixée par le juge
+judiciaire.
 
 **Liens relatifs à cet article**
 
 	**Anciens textes**:
 
 	  - Loi n°41-4011 du 27 septembre 1941 - art. 18-1 (Ab)
-	  - Loi n°1941-09-27 art. 18-1
+
+	**Cite**:
+
+	  - Loi n°2001-44 du 17 janvier 2001 (V)
+	  - Code civil - art. 552 (V)
 
 	**Cité par**:
 
@@ -8215,31 +8403,206 @@ découverte et dans des limites et selon des modalités fixées par décret en C
 
 	**Codifié par**:
 
-	  - Ordonnance 2004-178 2004-02-20 JORF 24 février 2004
+	  - Ordonnance n°2004-178 du 20 février 2004
 
-	**Cite**:
+	**Modifié par**:
 
-	  - Code civil - art. 552 (V)
+	  - Loi n°2016-925 du 7 juillet 2016 - art. 70 (V)
 
 
 ###### Article L541-2
 
-Les modalités d'application du présent chapitre sont fixées par décret en Conseil d'Etat.
+Lorsque les biens archéologiques immobiliers sont mis à jour sur des terrains dont la propriété a été acquise avant la
+promulgation de la loi n° 2001-44 du 17 janvier 2001 relative à l'archéologie préventive, l'autorité administrative statue
+sur les mesures définitives à prendre à l'égard de ces biens. Elle peut, à cet effet, ouvrir pour ces biens une instance de
+classement en application de l'article L. 621-7.
 
 **Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Loi n°41-4011 du 27 septembre 1941 - art. 24 (Ab)
+
+	**Codifié par**:
+
+	  - Ordonnance n°2004-178 du 20 février 2004
+
+	**Modifié par**:
+
+	  - Loi n°2016-925 du 7 juillet 2016 - art. 70 (V)
+
+	**Cite**:
+
+	  - Code du patrimoine - art. L621-7 (V)
 
 	**Cité par**:
 
 	  - Code du patrimoine. - art. L730-1 (M)
 
-	**Anciens textes**:
 
-	  - Loi n°1941-09-27 art. 24 (en ce qui concerne le chapitre 2, titre 4)
-	  - Loi n°41-4011 du 27 septembre 1941 - art. 24 (Ab)
+###### Article L541-3
 
-	**Codifié par**:
+Lorsque le bien est découvert fortuitement et qu'il donne lieu à une exploitation, la personne qui assure cette exploitation
+verse à l'inventeur une indemnité forfaitaire ou, à défaut, intéresse ce dernier au résultat de l'exploitation du bien.
+L'indemnité forfaitaire et l'intéressement sont calculés en relation avec l'intérêt archéologique de la découverte.
 
-	  - Ordonnance 2004-178 2004-02-20 JORF 24 février 2004
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°2016-925 du 7 juillet 2016 - art. 70 (V)
+
+	**Cité par**:
+
+	  - Code du patrimoine - art. L545-1 (V)
+
+
+##### Section 2 : Biens archéologiques mobiliers
+
+##### Sous-section 1 : Propriété
+
+###### Article L541-4
+
+Les articles 552 et 716 du code civil ne sont pas applicables aux biens archéologiques mobiliers mis au jour à la suite
+d'opérations de fouilles archéologiques ou de découvertes fortuites réalisées sur des terrains dont la propriété a été
+acquise après la date d'entrée en vigueur de la loi n° 2016-925 du 7 juillet 2016 relative à la liberté de la création, à
+l'architecture et au patrimoine. Ces biens archéologiques mobiliers sont présumés appartenir à l'Etat dès leur mise au jour
+au cours d'une opération archéologique et, en cas de découverte fortuite, à compter de la reconnaissance de l'intérêt
+scientifique justifiant leur conservation. 
+
+Lors de la déclaration de la découverte fortuite qu'elle doit faire en application de l'article L. 531-14 du présent code, la
+personne déclarante est informée, par les services de l'Etat chargés de l'archéologie, de la procédure de reconnaissance de
+l'intérêt scientifique de l'objet susceptible d'être engagée. L'objet est placé sous la garde des services de l'Etat jusqu'à
+l'issue de la procédure. 
+
+La reconnaissance de l'intérêt scientifique de l'objet est constatée par un acte de l'autorité administrative, pris sur avis
+d'une commission d'experts scientifiques. L'autorité administrative se prononce au plus tard cinq ans après la déclaration de
+la découverte fortuite. La reconnaissance de l'intérêt scientifique de l'objet emporte son appropriation publique. Cette
+appropriation peut être contestée pour défaut d'intérêt scientifique de l'objet devant le juge administratif dans les délais
+réglementaires courant à compter de l'acte de reconnaissance. 
+
+Quel que soit le mode de découverte de l'objet, sa propriété publique, lorsqu'elle a été reconnue, peut être à tout moment
+contestée devant le juge judiciaire par la preuve d'un titre de propriété antérieur à la découverte.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Loi n°2016-925 du 7 juillet 2016 (V)
+	  - Code civil - art. 552 (V)
+	  - Code civil - art. 716 (V)
+	  - Code du patrimoine - art. L531-14 (V)
+
+	**Créé par**:
+
+	  - Loi n°2016-925 du 7 juillet 2016 - art. 70 (V)
+
+	**Cité par**:
+
+	  - Code du patrimoine - art. R545-17 (V)
+
+
+###### Article L541-5
+
+Les biens archéologiques mobiliers mis au jour sur des terrains acquis avant la date d'entrée en vigueur de la loi n°
+2016-925 du 7 juillet 2016 relative à la liberté de la création, à l'architecture et au patrimoine sont confiés, dans
+l'intérêt public, aux services de l'Etat chargés de l'archéologie pendant le délai nécessaire à leur étude scientifique, dont
+le terme ne peut excéder cinq ans. 
+
+L'Etat notifie leurs droits au propriétaire du terrain et, en cas de découverte fortuite, à l'inventeur. Si, à l'issue d'un
+délai d'un an à compter de cette notification, le propriétaire et, en cas de découverte fortuite, l'inventeur n'ont pas fait
+valoir leurs droits, une nouvelle notification leur est adressée dans les mêmes formes. 
+
+Si, à l'issue d'un délai d'un an à compter de cette nouvelle notification, le propriétaire et, en cas de découverte fortuite,
+l'inventeur n'ont pas fait valoir leurs droits, la propriété des biens archéologiques mobiliers mis au jour est transférée à
+titre gratuit à l'Etat. 
+
+Chacune des notifications adressées au propriétaire et, le cas échéant, à l'inventeur comporte la mention du délai dont il
+dispose pour faire valoir ses droits et précise les conséquences juridiques qui s'attachent à son inaction dans ce délai. 
+
+Lorsque seul l'un des deux a fait valoir ses droits, les biens archéologiques mobiliers sont partagés entre l'Etat et celui-
+ci, selon les règles de droit commun. 
+
+Les biens qui sont restitués à leur propriétaire à l'issue de leur étude scientifique peuvent faire l'objet de prescriptions
+destinées à assurer leur bonne conservation et leur accès par les services de l'Etat. Les sujétions anormales qui peuvent en
+résulter sont compensées par une indemnité. A défaut d'accord amiable, l'action en indemnité est portée devant le juge
+judiciaire.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Loi n°2016-925 du 7 juillet 2016 (V)
+
+	**Créé par**:
+
+	  - Loi n°2016-925 du 7 juillet 2016 - art. 70 (V)
+
+
+##### Sous-section 2 : Ensemble archéologique mobilier et aliénation des biens mobiliers
+
+###### Article L541-6
+
+Lorsque les biens archéologiques mobiliers mis au jour constituent un ensemble cohérent dont l'intérêt scientifique justifie
+la conservation dans son intégrité, l'autorité administrative reconnaît celui-ci comme tel. Cette reconnaissance est notifiée
+au propriétaire.
+
+Toute aliénation à titre onéreux ou gratuit d'un bien archéologique mobilier ou d'un ensemble n'appartenant pas à l'Etat
+reconnu comme cohérent sur le plan scientifique en application du premier alinéa, ainsi que toute division par lot ou pièce
+d'un tel ensemble, est soumise à déclaration préalable auprès des services de l'Etat chargés de l'archéologie.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°2016-925 du 7 juillet 2016 - art. 70 (V)
+
+	**Cité par**:
+
+	  - Code du patrimoine - art. L544-4-1 (V)
+
+
+##### Section 3 : Transfert et droit de revendication
+
+###### Article L541-7
+
+L'Etat peut transférer à titre gratuit la propriété des biens archéologiques mobiliers lui appartenant à toute personne
+publique qui s'engage à en assurer la conservation et l'accessibilité sous le contrôle scientifique et technique des services
+chargés de l'archéologie.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°2016-925 du 7 juillet 2016 - art. 70 (V)
+
+
+###### Article L541-8
+
+L'Etat peut revendiquer, dans l'intérêt public, pour son propre compte ou pour le compte de toute personne publique qui en
+fait la demande, la propriété des biens archéologiques mobiliers, moyennant une indemnité fixée à l'amiable ou à dire
+d'expert désigné conjointement.
+
+A défaut d'accord sur la désignation de l'expert, celui-ci est nommé par le juge judiciaire.
+
+A défaut d'accord sur le montant de l'indemnité, celle-ci est fixée par le juge judiciaire.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°2016-925 du 7 juillet 2016 - art. 70 (V)
+
+
+###### Article L541-9
+
+Les modalités d'application du présent chapitre sont fixées par décret en Conseil d'Etat.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°2016-925 du 7 juillet 2016 - art. 70 (V)
 
 
 #### Chapitre 2 : Utilisation de détecteurs de métaux.
@@ -8442,6 +8805,23 @@ pénal.
 	  - Code du patrimoine - art. L531-15 (V)
 	  - Code du patrimoine - art. L531-3 (V)
 	  - Code du patrimoine - art. L531-6 (V)
+
+
+###### Article L544-4-1
+
+Est puni de 3 750 € d'amende le fait, pour toute personne, d'aliéner un bien archéologique mobilier ou de diviser ou aliéner
+par lot ou pièce un ensemble de biens archéologiques mobiliers reconnu comme cohérent sur le plan scientifique sans avoir
+préalablement établi la déclaration mentionnée à l'article L. 541-6.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°2016-925 du 7 juillet 2016 - art. 70 (V)
+
+	**Cite**:
+
+	  - Code du patrimoine - art. L541-6 (V)
 
 
 ##### Section 2 : Dispositions relatives aux biens culturels maritimes.
@@ -8673,184 +9053,73 @@ commise.
 	  - Code du patrimoine - art. L544-12 (V)
 
 
+#### Chapitre 5 : Instances scientifiques
+
+##### Section 1 : Le Conseil national de la recherche archéologique 
+
+
+###### Article L545-1
+
+Le Conseil national de la recherche archéologique est compétent pour les questions relatives aux recherches archéologiques
+sur le territoire national, sous réserve des compétences attribuées aux commissions territoriales de la recherche
+archéologique définies à la section 2 du présent chapitre. 
+
+Il est consulté sur toute question que lui soumet le ministre chargé de la culture et procède notamment à l'évaluation de
+l'intérêt archéologique des découvertes de biens immobiliers dans le cas prévu à l'article L. 541-3. Il émet en outre les
+avis mentionnés aux articles L. 522-8 et L. 523-8-1. 
+
+Le Conseil national de la recherche archéologique comprend des représentants de l'Etat, des personnalités qualifiées choisies
+en raison de leurs compétences scientifiques en matière d'archéologie et des membres élus en leur sein par les commissions
+territoriales de la recherche archéologique. Sa composition assure la représentation des différentes catégories d'opérateurs
+du secteur de l'archéologie préventive. Le conseil est présidé par le ministre chargé de la culture ou, en son absence, par
+le vice-président. Celui-ci est choisi parmi les personnalités qualifiées qui en sont membres. 
+
+Un décret en Conseil d'Etat précise ses missions, sa composition, les conditions de désignation de ses membres et ses
+modalités de fonctionnement.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°2016-925 du 7 juillet 2016 - art. 71
+
+	**Cite**:
+
+	  - Code du patrimoine - art. L522-8 (V)
+	  - Code du patrimoine - art. L523-8-1 (V)
+	  - Code du patrimoine - art. L541-3 (V)
+
+
+##### Section 2 : Les commissions territoriales de la recherche archéologique
+
+###### Article L545-2
+
+La commission territoriale de la recherche archéologique est compétente pour les questions relatives aux recherches
+archéologiques qui relèvent de son ressort territorial. 
+
+Elle est consultée sur toute question que lui soumet le représentant de l'Etat dans la région, notamment dans les cas prévus
+aux articles L. 531-1 et L. 531-8. 
+
+Elle comprend des personnalités qualifiées choisies en raison de leurs compétences scientifiques en matière d'archéologie. Sa
+composition assure la représentation des différentes catégories d'opérateurs du secteur de l'archéologie préventive. Elle est
+présidée par le représentant de l'Etat dans la région. 
+
+Un décret en Conseil d'Etat précise ses missions, sa composition, les conditions de désignation de ses membres et ses
+modalités de fonctionnement.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°2016-925 du 7 juillet 2016 - art. 71
+
+	**Cite**:
+
+	  - Code du patrimoine - art. L531-1 (V)
+	  - Code du patrimoine - art. L531-8 (V)
+
+
 ## LIVRE VI : MONUMENTS HISTORIQUES, SITES ET ESPACES PROTÉGÉS
-
-### TITRE Ier : INSTITUTIONS
-
-#### Chapitre 1er : Institutions nationales.
-
-###### Article L611-1
-
-La Commission nationale des monuments historiques se prononce notamment dans les cas prévus aux articles L. 621-30, L. 621-5,
-L. 621-6, L. 621-12, L. 622-3 et L. 622-4. 
-
-Placée auprès du ministre chargé de la culture, elle comprend des personnes titulaires d'un mandat électif national ou local,
-des représentants de l'Etat et des personnalités qualifiées. 
-
-Un décret en Conseil d'Etat détermine la composition et les modalités de fonctionnement de la commission.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Loi n°1913-12-31 du 31 décembre 1913 - art. 37 (V)
-
-	**Codifié par**:
-
-	  - Ordonnance n°2004-178 du 20 février 2004
-
-	**Modifié par**:
-
-	  - Loi n°2012-387 du 22 mars 2012 - art. 106
-
-	**Cité par**:
-
-	  - Loi n°2016-925 du 7 juillet 2016 - art. 113 (V)
-	  - Décret n°2017-456 du 29 mars 2017 - art. 10
-	  - CODE GENERAL DES IMPOTS ANNEXE 2, CGIAN2. - art. 171 BG (V)
-	  - Code du patrimoine - art. L730-1 (V)
-	  - Code du patrimoine - art. R613-2 (V)
-	  - Code général de la propriété des personnes publ... - art. D3221-12 (V)
-
-	**Cite**:
-
-	  - Code du patrimoine. - art. L621-12 (V)
-	  - Code du patrimoine. - art. L621-30 (V)
-	  - Code du patrimoine. - art. L621-5 (V)
-	  - Code du patrimoine. - art. L621-6 (V)
-	  - Code du patrimoine. - art. L622-3 (V)
-	  - Code du patrimoine. - art. L622-4 (V)
-
-
-#### Chapitre 2 : Institutions locales.
-
-###### Article L612-1
-
-La commission régionale du patrimoine et des sites, placée auprès du représentant de l'Etat dans la région, est compétente
-notamment dans le cas prévu à l'article L. 642-3. 
-
-Elle comprend des personnalités titulaires d'un mandat électif national ou local, des représentants de l'Etat et des
-personnalités qualifiées. 
-
-Sa composition, ses attributions et son mode de fonctionnement sont précisés par décret en Conseil d'Etat. 
-
-Une section de la commission régionale du patrimoine et des sites est instituée pour l'examen des recours prévus par les
-articles L. 621-32 et L. 641-1. 
-
-Elle est présidée par le préfet de région ou son représentant. Elle comprend en outre des représentants de l'Etat, des
-personnes titulaires d'un mandat électif et des personnalités qualifiées nommés par arrêté du préfet de région. 
-
-Les titulaires d'un mandat électif sont deux membres élus par chaque conseil départemental  en son sein et un maire désigné
-par chaque président de l'association départementale des maires. Ils ne siègent qu'à l'occasion de l'examen des affaires
-concernant le département dont ils sont issus. 
-
-Un décret en Conseil d'Etat détermine les conditions de désignation de ses membres et ses modalités de fonctionnement.
-
-**Nota:**
-
-
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Loi n°97-179 du 28 février 1997 - art. 1 (Ab)
-
-	**Cité par**:
-
-	  - Décret n°99-78 du 5 février 1999 - art. 2-1 (Ab)
-	  - Décret n°2017-456 du 29 mars 2017 - art. 13
-	  - Code de l'environnement - art. L350-2 (M)
-	  - Code de l'urbanisme - art. R151-53 (V)
-	  - Code du patrimoine - art. L642-3 (Ab)
-	  - Code du patrimoine - art. R612-2 (V)
-	  - Code du patrimoine - art. R612-3 (Ab)
-	  - Code du patrimoine - art. R720-11 (Ab)
-	  - Code du patrimoine. - art. L642-2 (M)
-	  - Code général des collectivités territoriales - art. L4421-4 (M)
-	  - Code général des collectivités territoriales - art. L4433-27 (VD)
-
-	**Modifié par**:
-
-	  - Loi n°2013-403 du 17 mai 2013 - art. 1 (V)
-
-	**Cite**:
-
-	  - Code du patrimoine - art. L621-32
-	  - Code du patrimoine - art. L641-1
-
-
-###### Article L612-2
-
-Une commission, placée auprès du préfet, est compétente dans le cas prévu à l'article L. 622-10 en matière d'objets
-mobiliers. 
-
-Elle comprend des représentants de l'Etat, des titulaires d'un mandat électif local et des personnalités qualifiées. 
-
-Sa composition et son mode de fonctionnement sont précisés par décret en Conseil d'Etat.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Loi n°1913-12-31 du 31 décembre 1913 - art. 26 (V)
-
-	**Codifié par**:
-
-	  - Ordonnance 2004-178 2004-02-20 JORF 24 février 2004
-
-	**Cité par**:
-
-	  - Décret n°2007-487 du 30 mars 2007 - art. 69 (Ab)
-	  - Code du patrimoine. - art. L730-1 (M)
-	  - Code du patrimoine. - art. R622-27 (V)
-
-	**Abrogé par**:
-
-	  - Loi n°2016-925 du 7 juillet 2016 - art. 74
-
-	**Cite**:
-
-	  - Code du patrimoine - art. L622-10 (V)
-
-
-###### Article L612-3
-
-Les règles relatives au conseil des sites de Corse sont fixées à l'article L. 4421-4 du code général des collectivités
-territoriales ci-après reproduit : 
-
-" Art. L. 4421-4.-Le conseil des sites de Corse exerce en Corse les attributions dévolues à la commission régionale du
-patrimoine et des sites prévue à l'article L. 612-1 du code du patrimoine, à la commission spécialisée des unités
-touristiques nouvelles prévue par l'article 7 de la loi n° 85-30 du 9 janvier 1985 relative au développement et à la
-protection de la montagne et à la commission départementale compétente en matière de nature, de paysages et de sites,
-perspectives et paysages prévue par l'article L. 341-16 du code de l'environnement. 
-
-La composition du conseil des sites de Corse, qui comprend des membres nommés pour moitié par le représentant de l'Etat et
-pour moitié par le président du conseil exécutif, est fixée par décret en Conseil d'Etat. 
-
-Le conseil est coprésidé par le représentant de l'Etat et le président du conseil exécutif de Corse lorsqu'il siège en
-formation de commission régionale du patrimoine et des sites. "
-
-**Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - Loi n°85-30 du 9 janvier 1985 - art. 7
-	  - Code de l'environnement - art. L341-16
-	  - Code du patrimoine - art. L612-1 (V)
-
-	**Modifié par**:
-
-	  - Ordonnance n°2004-637 du 1 juillet 2004 - art. 28
-
-	**Abrogé par**:
-
-	  - Loi n°2016-925 du 7 juillet 2016 - art. 74
-
-	**Liens**:
-
-	  - PILOTE_SUIVEUR: Code général des collectivités territoriales - art. L4421-4 (V)
-
 
 ### TITRE II : MONUMENTS HISTORIQUES
 
@@ -8939,18 +9208,21 @@ b) Les immeubles ayant fait l'objet d'arrêtés ou de décrets de classement, co
 ###### Article L621-4
 
 L'immeuble appartenant à l'Etat ou à un établissement public de l'Etat est classé au titre des monuments historiques par
-décision de l'autorité administrative.
+décision de l'autorité administrative, après avis de la Commission nationale du patrimoine et de l'architecture.
 
 **Liens relatifs à cet article**
 
 	**Anciens textes**:
 
 	  - Loi n°1913-12-31 du 31 décembre 1913 - art. 3 (V)
-	  - Loi n°1913-12-31 art. 3 al. 1
 
 	**Codifié par**:
 
-	  - Ordonnance 2004-178 2004-02-20 JORF 24 février 2004
+	  - Ordonnance n°2004-178 du 20 février 2004
+
+	**Modifié par**:
+
+	  - Loi n°2016-925 du 7 juillet 2016 - art. 75
 
 	**Cité par**:
 
@@ -8961,10 +9233,11 @@ décision de l'autorité administrative.
 ###### Article L621-5
 
 L'immeuble appartenant à une collectivité territoriale ou à un de ses établissements publics est classé au titre des
-monuments historiques par décision de l'autorité administrative, s'il y a consentement du propriétaire.
+monuments historiques par décision de l'autorité administrative, après avis de la Commission nationale du patrimoine et de
+l'architecture, s'il y a consentement du propriétaire.
 
 En cas de désaccord, le classement d'office est prononcé par décret en Conseil d'Etat, pris après avis de la Commission
-nationale des monuments historiques.
+nationale du patrimoine et de l'architecture.
 
 **Liens relatifs à cet article**
 
@@ -8972,16 +9245,10 @@ nationale des monuments historiques.
 
 	  - Loi n°1913-12-31 du 31 décembre 1913 - art. 2 (V)
 	  - Loi n°1913-12-31 du 31 décembre 1913 - art. 4 (Ab)
-	  - Loi n°1913-12-31 art. 4
 
 	**Codifié par**:
 
-	  - Ordonnance 2004-178 2004-02-20 JORF 24 février 2004
-
-	**Modifié par**:
-
-	  - Ordonnance n°2005-1128 du 8 septembre 2005 - art. 2 () JORF 9 septembre 2005
-	  - Ordonnance n°2005-1128 du 8 septembre 2005 - art. 5 () JORF 9 septembre 2005
+	  - Ordonnance n°2004-178 du 20 février 2004
 
 	**Cité par**:
 
@@ -8993,16 +9260,20 @@ nationale des monuments historiques.
 	  - Code du patrimoine. - art. L611-1 (M)
 	  - Code du patrimoine. - art. L621-6 (M)
 
+	**Modifié par**:
+
+	  - Loi n°2016-925 du 7 juillet 2016 - art. 75
+
 
 ###### Article L621-6
 
 L'immeuble appartenant à toute personne autre que celles énumérées aux articles L. 621-4 et L. 621-5 est classé au titre des
-monuments historiques par décision de l'autorité administrative, s'il y a consentement du propriétaire. La décision détermine
-les conditions du classement. 
+monuments historiques par décision de l'autorité administrative, après avis de la Commission nationale du patrimoine et de
+l'architecture, s'il y a consentement du propriétaire. La décision détermine les conditions du classement. 
 
 A défaut du consentement du propriétaire, le classement d'office est prononcé par décret en Conseil d'Etat, pris après avis
-de la Commission nationale des monuments historiques, qui détermine les conditions de classement et notamment les servitudes
-et obligations qui en découlent. 
+de la Commission nationale du patrimoine et de l'architecture, qui détermine les conditions de classement et notamment les
+servitudes et obligations qui en découlent. 
 
 Le classement d'office peut donner droit à indemnité au profit du propriétaire s'il résulte, des servitudes et obligations
 dont il s'agit, une modification à l'état ou à l'utilisation des lieux déterminant un préjudice direct, matériel et certain.
@@ -9018,16 +9289,10 @@ l'expropriation de l'immeuble.
 	**Anciens textes**:
 
 	  - Loi n°1913-12-31 du 31 décembre 1913 - art. 5 (Ab)
-	  - Loi n°1913-12-31 art. 5
 
 	**Codifié par**:
 
-	  - Ordonnance 2004-178 2004-02-20 JORF 24 février 2004
-
-	**Modifié par**:
-
-	  - Ordonnance n°2005-1128 du 8 septembre 2005 - art. 2 () JORF 9 septembre 2005
-	  - Ordonnance n°2005-1128 du 8 septembre 2005 - art. 5 () JORF 9 septembre 2005
+	  - Ordonnance n°2004-178 du 20 février 2004
 
 	**Cité par**:
 
@@ -9036,6 +9301,10 @@ l'expropriation de l'immeuble.
 	  - Code de l'énergie - art. R234-3 (VD)
 	  - Code du patrimoine - art. R621-9 (VD)
 	  - Code du patrimoine. - art. L611-1 (M)
+
+	**Modifié par**:
+
+	  - Loi n°2016-925 du 7 juillet 2016 - art. 75
 
 	**Cite**:
 
@@ -9102,10 +9371,14 @@ l'autorité administrative, soit à la demande du propriétaire.
 ###### Article L621-9
 
 L'immeuble classé au titre des monuments historiques ne peut être détruit ou déplacé, même en partie, ni être l'objet d'un
-travail de restauration, de réparation ou de modification quelconque, sans autorisation de l'autorité administrative.
+travail de restauration, de réparation ou de modification quelconque, sans autorisation de l'autorité administrative. 
+
+Les effets mobiliers attachés à perpétuelle demeure, au sens des articles 524 et 525 du code civil, à un immeuble classé ou à
+une partie d'immeuble classée au titre des monuments historiques ne peuvent en être détachés sans autorisation de l'autorité
+administrative. 
 
 Les travaux autorisés en application du premier alinéa s'exécutent sous le contrôle scientifique et technique des services de
-l'Etat chargés des monuments historiques.
+l'Etat chargés des monuments historiques. 
 
 Un décret en Conseil d'Etat précise les catégories de professionnels auxquels le propriétaire ou l'affectataire d'un immeuble
 classé au titre des monuments historiques est tenu de confier la maîtrise d'œuvre des travaux.
@@ -9115,11 +9388,10 @@ classé au titre des monuments historiques est tenu de confier la maîtrise d'œ
 	**Anciens textes**:
 
 	  - Loi n°1913-12-31 du 31 décembre 1913 - art. 9 (V)
-	  - Loi n°1913-12-31 art. 9 al. 1 (1ère phrase), al. 2
 
 	**Codifié par**:
 
-	  - Ordonnance 2004-178 2004-02-20 JORF 24 février 2004
+	  - Ordonnance n°2004-178 du 20 février 2004
 
 	**Cité par**:
 
@@ -9158,7 +9430,11 @@ classé au titre des monuments historiques est tenu de confier la maîtrise d'œ
 
 	**Modifié par**:
 
-	  - Ordonnance n°2005-1128 du 8 septembre 2005 - art. 7 ()en vigueur le 1er octobre 2007
+	  - Loi n°2016-925 du 7 juillet 2016 - art. 75
+
+	**Cite**:
+
+	  - Code civil - art. 524 (V)
 
 
 ###### Article L621-10
@@ -9256,8 +9532,8 @@ des monuments classés au titre des monuments historiques n'appartenant pas à l
 
 Indépendamment des dispositions de l'article L. 621-11, lorsque la conservation d'un immeuble classé au titre des monuments
 historiques est gravement compromise par l'inexécution de travaux de réparation ou d'entretien, l'autorité administrative
-peut, après avis de la Commission nationale des monuments historiques, mettre en demeure le propriétaire de faire procéder
-auxdits travaux, en lui indiquant le délai dans lequel ceux-ci devront être entrepris et la part de dépense qui sera
+peut, après avis de la Commission nationale du patrimoine et de l'architecture, mettre en demeure le propriétaire de faire
+procéder auxdits travaux, en lui indiquant le délai dans lequel ceux-ci devront être entrepris et la part de dépense qui sera
 supportée par l'Etat, laquelle ne pourra être inférieure à 50 %. La mise en demeure précisera les modalités de versement de
 la part de l'Etat. 
 
@@ -9271,16 +9547,11 @@ Le recours au tribunal administratif est suspensif.
 
 	**Anciens textes**:
 
-	  - Loi n°1913-12-31 art. 9-1 al. 1 à 3
 	  - Loi n°1913-12-31 du 31 décembre 1913 - art. 9-1 (Ab)
 
 	**Codifié par**:
 
-	  - Ordonnance 2004-178 2004-02-20 JORF 24 février 2004
-
-	**Modifié par**:
-
-	  - Ordonnance n°2005-1128 du 8 septembre 2005 - art. 2 () JORF 9 septembre 2005
+	  - Ordonnance n°2004-178 du 20 février 2004
 
 	**Cité par**:
 
@@ -9290,9 +9561,13 @@ Le recours au tribunal administratif est suspensif.
 	  - Code du patrimoine - art. R621-46 (V)
 	  - Code du patrimoine. - art. R621-51 (V)
 
+	**Modifié par**:
+
+	  - Loi n°2016-925 du 7 juillet 2016 - art. 75
+
 	**Cite**:
 
-	  - Code du patrimoine - art. L621-11 (V)
+	  - Code du patrimoine - art. L621-11
 
 
 ###### Article L621-13
@@ -9563,22 +9838,21 @@ dispositions du premier alinéa du présent article.
 
 ###### Article L621-22
 
-L'immeuble classé au titre des monuments historiques qui appartient à l'Etat, à une collectivité territoriale ou à un
-établissement public, ne peut être aliéné qu'après que l'autorité administrative compétente a été appelée à présenter ses
-observations. Elle devra les présenter dans le délai de deux mois après la notification. L'autorité administrative compétente
-pourra, dans le délai de cinq ans, faire prononcer la nullité de l'aliénation consentie sans l'accomplissement de cette
-formalité.
+L'immeuble classé au titre des monuments historiques qui appartient              à une collectivité territoriale ou à l'un de
+ses établissements publics ne peut être aliéné qu'après que l'autorité administrative compétente a été appelée à présenter
+ses observations. Elle devra les présenter dans le délai de deux mois après la notification. L'autorité administrative
+compétente pourra, dans le délai de cinq ans, faire prononcer la nullité de l'aliénation consentie sans l'accomplissement de
+cette formalité.
 
 **Liens relatifs à cet article**
 
 	**Anciens textes**:
 
 	  - Loi n°1913-12-31 du 31 décembre 1913 - art. 8 (V)
-	  - Loi n°1913-12-31 art. 8 al. 4
 
 	**Codifié par**:
 
-	  - Ordonnance 2004-178 2004-02-20 JORF 24 février 2004
+	  - Ordonnance n°2004-178 du 20 février 2004
 
 	**Cité par**:
 
@@ -9588,6 +9862,10 @@ formalité.
 	  - Code du patrimoine - art. L622-24 (VD)
 	  - Code du patrimoine - art. L642-1 (V)
 	  - Code du patrimoine - art. R621-52 (V)
+
+	**Modifié par**:
+
+	  - Loi n°2016-925 du 7 juillet 2016 - art. 76
 
 
 ###### Article L621-23
@@ -9715,16 +9993,20 @@ préhistoire, l'histoire, l'art ou l'archéologie.
 
 L'inscription au titre des monuments historiques est notifiée aux propriétaires et entraînera pour eux l'obligation de ne
 procéder à aucune modification de l'immeuble ou partie de l'immeuble inscrit, sans avoir, quatre mois auparavant, avisé
-l'autorité administrative de leur intention et indiqué les travaux qu'ils se proposent de réaliser.
+l'autorité administrative de leur intention et indiqué les travaux qu'ils se proposent de réaliser. 
 
 Lorsque les constructions ou les travaux envisagés sur les immeubles inscrits au titre des monuments historiques sont soumis
 à permis de construire, à permis de démolir, à permis d'aménager ou à déclaration préalable, la décision accordant le permis
 ou la décision de non-opposition ne peut intervenir sans l'accord de l'autorité administrative chargée des monuments
-historiques.
+historiques. 
+
+Les effets mobiliers attachés à perpétuelle demeure, au sens des articles 524 et 525 du code civil, à un immeuble inscrit ou
+à une partie d'immeuble inscrite au titre des monuments historiques ne peuvent en être détachés sans autorisation de
+l'autorité administrative. 
 
 Les autres travaux envisagés sur les immeubles inscrits au titre des monuments historiques ne peuvent être entrepris sans la
 déclaration prévue au premier alinéa. L'autorité administrative ne peut s'opposer à ces travaux qu'en engageant la procédure
-de classement au titre des monuments historiques prévue par le présent titre.
+de classement au titre des monuments historiques prévue par le présent titre. 
 
 Les travaux sur les immeubles inscrits sont exécutés sous le contrôle scientifique et technique des services de l'Etat
 chargés des monuments historiques.
@@ -9745,15 +10027,10 @@ l'ordonnance au 1er octobre 2007.
 	**Anciens textes**:
 
 	  - Loi n°1913-12-31 du 31 décembre 1913 - art. 2 (V)
-	  - Loi n°1913-12-31 art. 2 al. 6 à 8
 
 	**Codifié par**:
 
-	  - Ordonnance 2004-178 2004-02-20 JORF 24 février 2004
-
-	**Modifié par**:
-
-	  - Ordonnance n°2005-1527 du 8 décembre 2005 - art. 38 () JORF 9 décembre 2005 en vigueur le 1er octobre 2007
+	  - Ordonnance n°2004-178 du 20 février 2004
 
 	**Cité par**:
 
@@ -9778,6 +10055,14 @@ l'ordonnance au 1er octobre 2007.
 	  - Code du patrimoine. - art. R621-60 (V)
 	  - Code du patrimoine. - art. R621-61 (V)
 	  - Code du patrimoine. - art. R621-63 (V)
+
+	**Modifié par**:
+
+	  - Loi n°2016-925 du 7 juillet 2016 - art. 75
+
+	**Cite**:
+
+	  - Code civil - art. 524 (V)
 
 
 ###### Article L621-28
@@ -10038,44 +10323,57 @@ Les modalités d'application du présent article sont fixées par décret en Con
 	  - Code de l'environnement - art. L581-2
 
 
-##### Section 4 : Dispositions relatives aux immeubles adossés aux immeubles classés et aux immeubles situés dans le champ de visibilité des immeubles classés ou inscrits
+###### Article L621-29-9
+
+L'immeuble classé ou inscrit au titre des monuments historiques appartenant à l'Etat ou à l'un de ses établissements publics
+ne peut être aliéné qu'après observations du ministre chargé de la culture prises après avis de la Commission nationale du
+patrimoine et de l'architecture.
+
+Dans un délai de cinq ans, l'autorité administrative peut faire prononcer la nullité de l'aliénation consentie sans
+l'accomplissement de la formalité mentionnée au premier alinéa.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°2016-925 du 7 juillet 2016 - art. 76
+
+	**Abrogé par**:
+
+	  - Ordonnance n°2017-651 du 27 avril 2017 - art. 4
+
+	**Cité par**:
+
+	  - Code du patrimoine - art. L611-1 (VD)
+	  - Code du patrimoine - art. R621-84-1 (V)
+
+
+##### Section 4 : Abords
 
 ###### Article L621-30
 
-Est considéré, pour l'application du présent titre, comme immeuble adossé à un immeuble classé : 
+I.-Les immeubles ou ensembles d'immeubles qui forment avec un monument historique un ensemble cohérent ou qui sont
+susceptibles de contribuer à sa conservation ou à sa mise en valeur sont protégés au titre des abords. 
 
-1° Tout immeuble en contact avec un immeuble classé au titre des monuments historiques, en élévation, au sol ou en sous-
-sol ; 
+La protection au titre des abords a le caractère de servitude d'utilité publique affectant l'utilisation des sols dans un but
+de protection, de conservation et de mise en valeur du patrimoine culturel. 
 
-2° Toute partie non protégée au titre des monuments historiques d'un immeuble partiellement classé. 
+II.-La protection au titre des abords s'applique à tout immeuble, bâti ou non bâti, situé dans un périmètre délimité par
+l'autorité administrative dans les conditions fixées à l'article L. 621-31. Ce périmètre peut être commun à plusieurs
+monuments historiques. 
 
-Est considéré, pour l'application du présent titre, comme étant situé dans le champ de visibilité d'un immeuble classé ou
-inscrit au titre des monuments historiques tout autre immeuble, nu ou bâti, visible du premier ou visible en même temps que
-lui et situé dans un périmètre déterminé par une distance de 500 mètres du monument. 
+En l'absence de périmètre délimité, la protection au titre des abords s'applique à tout immeuble, bâti ou non bâti, visible
+du monument historique ou visible en même temps que lui et situé à moins de cinq cents mètres de celui-ci. 
 
-Lorsqu'un immeuble non protégé au titre des monuments historiques fait l'objet d'une procédure d'inscription ou de classement
-ou d'une instance de classement, l'architecte des Bâtiments de France peut proposer, en fonction de la nature de l'immeuble
-et de son environnement, un périmètre de protection adapté. La distance de 500 mètres peut alors être dépassée avec l'accord
-de la commune ou des communes intéressées. Ce périmètre est créé par l'autorité administrative après enquête publique. 
+La protection au titre des abords s'applique à toute partie non protégée au titre des monuments historiques d'un immeuble
+partiellement protégé. 
 
-Les périmètres prévus aux quatrième et cinquième alinéas peuvent être modifiés par l'autorité administrative, sur proposition
-de l'architecte des Bâtiments de France, après accord de la commune ou des communes intéressées et enquête publique, de façon
-à désigner des ensembles d'immeubles, bâtis ou non, qui participent de l'environnement d'un monument historique, pour en
-préserver le caractère ou contribuer à en améliorer la qualité. 
+La protection au titre des abords n'est pas applicable aux immeubles ou parties d'immeubles protégés au titre des monuments
+historiques ou situés dans le périmètre d'un site patrimonial remarquable classé en application des articles L. 631-1 et L.
+631-2. 
 
-En cas de désaccord de la commune ou des communes intéressées, la décision est prise par décret en Conseil d'Etat après avis
-de la Commission nationale des monuments historiques. 
-
-Lorsque la modification du périmètre est réalisée à l'occasion de l'élaboration, de la modification ou de la révision d'un
-plan local d'urbanisme ou d'une carte communale, elle est soumise à enquête publique par le maire ou le président de
-l'établissement public de coopération intercommunale compétent, en même temps que le plan local d'urbanisme ou la carte
-communale. L'approbation du plan ou de la carte emporte modification du périmètre. 
-
-Le tracé du périmètre prévu au présent article est annexé au plan local d'urbanisme dans les conditions prévues à l'article
-L. 153-60 du code de l'urbanisme. 
-
-Les enquêtes publiques conduites pour l'application du présent article sont réalisées conformément au chapitre III du titre
-II du livre Ier du code de l'environnement.
+Les servitudes d'utilité publique instituées en application de l'article L. 341-1 du code de l'environnement ne sont pas
+applicables aux immeubles protégés au titre des abords.
 
 **Liens relatifs à cet article**
 
@@ -10135,36 +10433,37 @@ II du livre Ier du code de l'environnement.
 
 	**Modifié par**:
 
-	  - ORDONNANCE n°2015-1174 du 23 septembre 2015 - art. 9
+	  - Loi n°2016-925 du 7 juillet 2016 - art. 75
 
 	**Cite**:
 
-	  - Code de l'urbanisme - art. L153-60 (VD)
+	  - Code de l'urbanisme - art. L153-60
+	  - Code de l'environnement - art. L341-1 (V)
+	  - Code du patrimoine - art. L631-1 (V)
 
 
 ###### Article L621-31
 
-Lorsqu'un immeuble est adossé à un immeuble classé ou situé dans le champ de visibilité d'un édifice classé ou inscrit au
-titre des monuments historiques, il ne peut faire l'objet, tant de la part des propriétaires privés que des collectivités et
-établissements publics, d'aucune construction nouvelle, d'aucune démolition, d'aucun déboisement, d'aucune transformation ou
-modification de nature à en affecter l'aspect, sans une autorisation préalable. 
+Le périmètre délimité des abords prévu au premier alinéa du II de l'article L. 621-30 est créé par décision de l'autorité
+administrative, sur proposition de l'architecte des Bâtiments de France, après enquête publique, consultation du propriétaire
+ou de l'affectataire domanial du monument historique et, le cas échéant, de la ou des communes concernées et accord de
+l'autorité compétente en matière de plan local d'urbanisme, de document en tenant lieu ou de carte communale. 
 
-Lorsque les travaux concernent un immeuble adossé à un immeuble classé, cette autorisation est également délivrée au regard
-de l'atteinte qu'ils sont susceptibles de porter à la conservation de l'immeuble classé. 
+A défaut d'accord de l'autorité compétente en matière de plan local d'urbanisme, de document en tenant lieu ou de carte
+communale, la décision est prise soit par l'autorité administrative, après avis de la commission régionale du patrimoine et
+de l'architecture, lorsque le périmètre ne dépasse pas la distance de cinq cents mètres à partir d'un monument historique,
+soit par décret en Conseil d'Etat, après avis de la Commission nationale du patrimoine et de l'architecture, lorsque le
+périmètre dépasse la distance de cinq cents mètres à partir d'un monument historique. 
 
-La même autorisation est nécessaire lorsque l'immeuble est situé dans le champ de visibilité d'un parc ou d'un jardin classé
-ou inscrit ne comportant pas d'édifice, si le périmètre de protection de ce parc ou de ce jardin a été délimité dans les
-conditions fixées aux cinquième ou sixième alinéas de l'article L. 621-30. 
+Lorsque le projet de périmètre délimité des abords est instruit concomitamment à l'élaboration, à la révision ou à la
+modification du plan local d'urbanisme, du document d'urbanisme en tenant lieu ou de la carte communale, l'autorité
+compétente en matière de plan local d'urbanisme, de document en tenant lieu ou de carte communale diligente une enquête
+publique unique portant à la fois sur le projet de document d'urbanisme et sur le projet de périmètre délimité des abords. 
 
-Si les travaux concernent un immeuble lui-même classé ou inscrit au titre des monuments historiques, l'autorisation est celle
-prévue à l'article L. 621-9 et au deuxième alinéa de l'article L. 621-27. 
+Les enquêtes publiques conduites pour l'application du présent article sont réalisées dans les formes prévues au chapitre III
+du titre II du livre Ier du code de l'environnement.
 
-Toutefois, si les travaux concernent un immeuble inscrit au titre des monuments historiques et ne relèvent pas du permis de
-construire, du permis de démolir, du permis d'aménager ou de la déclaration préalable prévus au livre IV du code de
-l'urbanisme, l'autorisation est délivrée conformément au II de l'article L. 621-32 du présent code. 
-
-Si les travaux concernent un immeuble qui n'est ni classé, ni inscrit au titre des monuments historiques, l'autorisation est
-délivrée conformément au même article L. 621-32.
+Le périmètre délimité des abords peut être modifié dans les mêmes conditions.
 
 **Liens relatifs à cet article**
 
@@ -10203,54 +10502,24 @@ délivrée conformément au même article L. 621-32.
 
 	**Modifié par**:
 
-	  - Loi n°2012-387 du 22 mars 2012 - art. 106
+	  - Loi n°2016-925 du 7 juillet 2016 - art. 75
 
 	**Cite**:
 
-	  - Code du patrimoine. - art. L621-27 (V)
-	  - Code du patrimoine. - art. L621-9 (V)
+	  - Code de l'environnement -  Chapitre III : Enquêtes publiques relatives aux... (VT)
 
 
 ###### Article L621-32
 
-I. ― Le permis de construire, le permis de démolir, le permis d'aménager ou l'absence d'opposition à déclaration préalable
-tient lieu de l'autorisation prévue au premier alinéa de l'article L. 621-31 si l'architecte des Bâtiments de France a donné
-son accord. 
+Les travaux susceptibles de modifier l'aspect extérieur d'un immeuble, bâti ou non bâti, protégé au titre des abords sont
+soumis à une autorisation préalable. 
 
-En cas de désaccord soit du maire ou de l'autorité administrative compétente pour délivrer le permis de construire, le permis
-d'aménager ou le permis de démolir ou pour ne pas s'opposer à la déclaration préalable, soit du pétitionnaire avec l'avis
-émis par l'architecte des Bâtiments de France, le représentant de l'Etat dans la région émet, après consultation de la
-section de la commission régionale du patrimoine et des sites, un avis qui se substitue à celui de l'architecte des Bâtiments
-de France. Le recours du pétitionnaire s'exerce à l'occasion du refus d'autorisation ou de l'opposition à la déclaration
-préalable. Si le représentant de l'Etat dans la région exprime son désaccord à l'encontre de l'avis de l'architecte des
-Bâtiments de France, le maire ou l'autorité administrative compétente peut délivrer le permis de construire, le permis de
-démolir ou le permis d'aménager initialement refusé ou ne pas s'opposer à la déclaration préalable. En l'absence de décision
-expresse du représentant de l'Etat dans la région dans le délai de deux mois à compter de sa saisine par le maire, l'autorité
-administrative compétente ou le pétitionnaire, le recours est réputé admis. 
+L'autorisation peut être refusée ou assortie de prescriptions lorsque les travaux sont susceptibles de porter atteinte à la
+conservation ou à la mise en valeur d'un monument historique ou des abords. 
 
-Le délai de saisine du représentant de l'Etat dans la région ainsi que les délais impartis au maire ou à l'autorité
-administrative compétente pour statuer sont fixés par décret. 
-
-Dans la collectivité territoriale de Corse, les compétences dévolues au représentant de l'Etat dans la région par le présent
-article sont exercées par le préfet de Corse. 
-
-II. ― Lorsqu'elle ne concerne pas des travaux pour lesquels le permis de construire, le permis de démolir, le permis
-d'aménager ou la déclaration préalable est nécessaire au titre du code de l'urbanisme, la demande d'autorisation prévue à
-l'article L. 621-31 du présent code est adressée à l'autorité administrative. Celle-ci statue après avoir recueilli l'avis de
-l'architecte des Bâtiments de France. Toutefois, si le ministre chargé de la culture a décidé d'évoquer le dossier,
-l'autorisation ne peut être délivrée qu'avec son accord exprès. 
-
-Si l'autorité administrative n'a pas notifié sa réponse aux intéressés dans le délai de quarante jours à dater du dépôt de
-leur demande ou si cette réponse ne leur donne pas satisfaction, ils peuvent former un recours hiérarchique dans les deux
-mois suivant la notification de la réponse de l'autorité administrative ou l'expiration du délai de quarante jours imparti à
-l'autorité administrative pour procéder à ladite notification. 
-
-L'autorité administrative statue. Si sa décision n'a pas été notifiée aux intéressés dans un délai fixé par voie
-réglementaire à partir de la réception de leur demande, cette demande est considérée comme rejetée. 
-
-Les auteurs de la demande sont tenus de se conformer aux prescriptions qui leur sont imposées pour la protection de
-l'immeuble classé ou inscrit par l'autorité administrative dans le cas prévu au troisième alinéa de l'article L. 621-31 et
-dans les cas prévus aux trois premiers alinéas du présent II.
+Lorsqu'elle porte sur des travaux soumis à formalité au titre du code de l'urbanisme ou au titre du code de l'environnement,
+l'autorisation prévue au présent article est délivrée dans les conditions et selon les modalités de recours prévues à
+l'article L. 632-2 du présent code
 
 **Nota:**
 
@@ -10283,6 +10552,7 @@ dans les cas prévus aux trois premiers alinéas du présent II.
 	  - Code de l'environnement - art. R181-32 (VD)
 	  - Code de l'urbanisme - art. L313-2-1 (Ab)
 	  - Code de l'urbanisme - art. R*425-1 (V)
+	  - Code du patrimoine - art. L612-1 (V)
 	  - Code du patrimoine - art. L624-3 (V)
 	  - Code du patrimoine - art. L641-1 (VD)
 	  - Code du patrimoine - art. R612-3 (Ab)
@@ -10291,42 +10561,267 @@ dans les cas prévus aux trois premiers alinéas du présent II.
 	  - Code du patrimoine - art. R621-96-12 (Ab)
 	  - Code du patrimoine - art. R621-96-18 (Ab)
 	  - Code du patrimoine - art. R621-96-9 (M)
-	  - Code du patrimoine. - art. L612-1 (VD)
 	  - Code du patrimoine. - art. L621-31 (M)
 	  - Code du patrimoine. - art. L642-5 (V)
 
 	**Modifié par**:
 
-	  - Loi n°2012-387 du 22 mars 2012 - art. 106
+	  - Loi n°2016-925 du 7 juillet 2016 - art. 75
+
+	**Cite**:
+
+	  - Code du patrimoine - art. L632-2 (V)
 
 
 ##### Section 5 : Dispositions diverses.
 
 ###### Article L621-33
 
-Quand un immeuble ou une partie d'immeuble a été morcelé ou dépecé en violation du présent titre, l'autorité administrative
-peut faire rechercher, partout où ils se trouvent, l'édifice ou les parties de l'édifice détachées et en ordonner la remise
-en place, sous la direction et la surveillance de l'administration, aux frais des délinquants vendeurs et acheteurs pris
-solidairement.
+Lorsqu'un immeuble ou une partie d'immeuble protégé au titre des monuments historiques a été morcelé ou lorsqu'un effet
+mobilier qui lui était attaché à perpétuelle demeure a été détaché d'un immeuble protégé au titre des monuments historiques
+en violation des articles L. 621-9 ou L. 621-27, l'autorité administrative peut mettre en demeure l'auteur du morcellement ou
+du détachement illicite de procéder, dans un délai qu'elle détermine, à la remise en place, sous sa direction et sa
+surveillance, aux frais des auteurs des faits, vendeurs et acheteurs pris solidairement. 
+
+En cas d'urgence, l'autorité administrative met en demeure l'auteur du morcellement ou du détachement illicite de prendre,
+dans un délai qu'elle détermine, les mesures nécessaires pour prévenir la détérioration, la dégradation et la destruction des
+biens concernés. 
+
+L'acquisition d'un fragment d'immeuble protégé au titre des monuments historiques ou d'un effet mobilier détaché en violation
+des mêmes articles L. 621-9 ou L. 621-27 est nulle. L'autorité administrative et le propriétaire originaire peuvent exercer
+les actions en nullité ou en revendication dans un délai de cinq ans à compter de la date à laquelle ils ont eu connaissance
+de l'acquisition. Elles s'exercent sans préjudice des demandes en dommages-intérêts qui peuvent être dirigées soit contre les
+parties contractantes solidairement responsables, soit contre l'officier public qui a prêté son concours à l'aliénation.
+Lorsque l'aliénation illicite a été consentie par une personne publique ou par un établissement d'utilité publique, cette
+action en dommages-intérêts est exercée par l'autorité administrative au nom et au profit de l'Etat. 
+
+L'acquéreur ou le sous-acquéreur de bonne foi entre les mains duquel l'objet est revendiqué a droit au remboursement de son
+prix d'acquisition. Si la revendication est exercée par l'autorité administrative, celle-ci a recours contre le vendeur
+originaire pour le montant intégral de l'indemnité qu'elle aura dû payer à l'acquéreur ou au sous-acquéreur.
 
 **Liens relatifs à cet article**
 
 	**Anciens textes**:
 
 	  - Loi n°1913-12-31 du 31 décembre 1913 - art. additionnel (Ab)
-	  - Loi n°1913-12-31 article additionnel
 
 	**Codifié par**:
 
-	  - Ordonnance 2004-178 2004-02-20 JORF 24 février 2004
+	  - Ordonnance n°2004-178 du 20 février 2004
 
 	**Modifié par**:
 
-	  - Ordonnance n°2005-1128 du 8 septembre 2005 - art. 15 () JORF 9 septembre 2005
+	  - Loi n°2016-925 du 7 juillet 2016 - art. 75
+
+	**Cite**:
+
+	  - Code du patrimoine - art. L621-27 (V)
+	  - Code du patrimoine - art. L621-9 (V)
 
 	**Cité par**:
 
 	  - Code du patrimoine - art. R621-97 (V)
+
+
+##### Section 6 : Domaines nationaux 
+
+
+
+##### Sous-section 1 : Définition, liste et délimitation 
+
+
+
+###### Article L621-34
+
+Les domaines nationaux sont des ensembles immobiliers présentant un lien exceptionnel avec l'histoire de la Nation et dont
+l'Etat est, au moins pour partie, propriétaire. 
+
+Ces biens ont vocation à être conservés et restaurés par l'Etat dans le respect de leur caractère historique, artistique,
+paysager et écologique.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°2016-925 du 7 juillet 2016 - art. 75
+
+	**Cité par**:
+
+	  - Code du patrimoine - art. L621-1 (VD)
+	  - Code du patrimoine - art. L621-5 (VD)
+	  - Code du patrimoine - art. R621-98 (V)
+
+
+###### Article L621-35
+
+La liste des domaines nationaux et leur périmètre sont déterminés par décret en Conseil d'Etat sur proposition du ministre
+chargé de la culture, après avis de la Commission nationale du patrimoine et de l'architecture et du ministre chargé des
+domaines. Les propositions du ministre chargé de la culture et les avis de la Commission nationale du patrimoine et de
+l'architecture formulés en application de la première phrase sont rendus publics. 
+
+Les domaines nationaux peuvent comprendre des biens immobiliers appartenant à l'Etat, à des collectivités territoriales, à
+des établissements publics ou à des personnes privées.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°2016-925 du 7 juillet 2016 - art. 75
+
+	**Cité par**:
+
+	  - Décret n°2017-720 du 2 mai 2017 (V)
+	  - Code du patrimoine - art. L611-1 (V)
+
+
+##### Sous-section 2 : Protection au titre des monuments historiques 
+
+###### Article L621-36
+
+Les parties des domaines nationaux qui appartiennent à l'Etat ou à l'un de ses établissements publics sont inaliénables et
+imprescriptibles. Leur gestion est exercée dans le respect de l'ordre public et de la dignité humaine. Les parties
+appartenant à un établissement public de l'Etat peuvent toutefois être cédées à une autre personne publique, sans que cette
+cession puisse remettre en cause le caractère inconstructible attaché à ces parties, sous réserve des exceptions prévues à
+l'article L. 621-37.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°2016-925 du 7 juillet 2016 - art. 75
+
+	**Cite**:
+
+	  - Code du patrimoine - art. L621-37 (V)
+
+
+###### Article L621-37
+
+Les parties d'un domaine national qui appartiennent à l'Etat ou à l'un de ses établissements publics sont de plein droit
+intégralement classées au titre des monuments historiques dès l'entrée en vigueur du décret délimitant le domaine national.
+
+Elles sont inconstructibles, à l'exception des bâtiments ou structures nécessaires à leur entretien ou à leur visite par le
+public ou s'inscrivant dans un projet de restitution architecturale, de création artistique ou de mise en valeur.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°2016-925 du 7 juillet 2016 - art. 75
+
+	**Cité par**:
+
+	  - Code du patrimoine - art. L621-36 (V)
+
+
+###### Article L621-38
+
+A l'exception de celles qui sont déjà classées au titre des monuments historiques, les parties d'un domaine national qui
+appartiennent à une personne publique autre que l'Etat ou l'un de ses établissements publics ou à une personne privée sont de
+plein droit intégralement inscrites au titre des monuments historiques dès l'entrée en vigueur du décret délimitant le
+domaine national. Elles peuvent être classées au titre des monuments historiques dans les conditions définies à la section 1
+du présent chapitre.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°2016-925 du 7 juillet 2016 - art. 75
+
+
+##### Sous-section 3 : Droit de préemption 
+
+###### Article L621-39
+
+L'Etat est informé avant toute cession de l'une des parties d'un domaine national appartenant à une personne autre que lui ou
+l'un de ses établissements publics. Il peut exercer un droit de préemption. 
+
+Un décret en Conseil d'Etat définit les modalités d'application du présent article
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°2016-925 du 7 juillet 2016 - art. 75
+
+	**Cité par**:
+
+	  - Code du patrimoine - art. R621-98 (V)
+	  - Code du patrimoine - art. R621-99 (V)
+
+
+##### Sous-section 4 : Gestion des parties des domaines nationaux appartenant à l'Etat
+
+###### Article L621-40
+
+Par dérogation aux articles L. 3211-5, L. 3211-5-1 et L. 3211-21 du code général de la propriété des personnes publiques, les
+parties des domaines nationaux gérées par l'Office national des forêts en application du 1° du I de l'article L. 211-1 du
+code forestier ne peuvent faire l'objet d'aucune aliénation, même sous forme d'échange.
+
+**Nota:**
+
+Conformément à l'article 75 II de la loi n° 2016-925 du 7 juillet 2016, les présentes dispositions ne sont pas applicables
+aux opérations de cessions engagées avant la publication de ladite loi, dont la liste est fixée par décret.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°2016-925 du 7 juillet 2016 - art. 75
+
+	**Abrogé par**:
+
+	  - Ordonnance n°2017-651 du 27 avril 2017 - art. 5
+
+	**Cite**:
+
+	  - Code général de la propriété des personnes publiques. - art. L3211-21
+	  - Code général de la propriété des personnes publiques. - art. L3211-5
+	  - Code forestier (nouveau) - art. L211-1
+
+
+###### Article L621-41
+
+Afin de faciliter leur conservation, leur mise en valeur et leur développement, l'établissement public du domaine national de
+Chambord peut se voir confier, par décret en Conseil d'Etat, la gestion d'autres domaines nationaux ainsi que de domaines et
+d'immeubles appartenant à l'Etat.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°2016-925 du 7 juillet 2016 - art. 75
+
+	**Abrogé par**:
+
+	  - Ordonnance n°2017-651 du 27 avril 2017 - art. 5
+
+
+##### Sous-section 5 : Gestion et exploitation de la marque et du droit à l'image des domaines nationaux
+
+###### Article L621-42
+
+L'utilisation à des fins commerciales de l'image des immeubles qui constituent les domaines nationaux, sur tout support, est
+soumise à l'autorisation préalable du gestionnaire de la partie concernée du domaine national. Cette autorisation peut
+prendre la forme d'un acte unilatéral ou d'un contrat, assorti ou non de conditions financières. 
+
+La redevance tient compte des avantages de toute nature procurés au titulaire de l'autorisation. 
+
+L'autorisation mentionnée au premier alinéa n'est pas requise lorsque l'image est utilisée dans le cadre de l'exercice de
+missions de service public ou à des fins culturelles, artistiques, pédagogiques, d'enseignement, de recherche, d'information
+et d'illustration de l'actualité. 
+
+Un décret en Conseil d'Etat définit les modalités d'application du présent article.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°2016-925 du 7 juillet 2016 - art. 75
+
+	**Abrogé par**:
+
+	  - Ordonnance n°2017-651 du 27 avril 2017 - art. 5
 
 
 #### Chapitre 2 : Objets mobiliers
@@ -10371,21 +10866,91 @@ meubles.
 	  - Code du patrimoine - art. L621-1 (V)
 
 
+###### Article L622-1-1
+
+Un ensemble ou une collection d'objets mobiliers dont la conservation dans son intégrité et sa cohérence présente un intérêt
+public au point de vue de l'histoire, de l'art, de l'architecture, de l'archéologie, de l'ethnologie, de la science ou de la
+technique peut être classé au titre des monuments historiques comme ensemble historique mobilier par décision de l'autorité
+administrative, après avis de la Commission nationale du patrimoine et de l'architecture. 
+
+Cet ensemble ne peut être divisé ou aliéné par lot ou pièce sans autorisation de cette autorité. 
+
+Les effets du classement s'appliquent à chaque élément de l'ensemble historique mobilier classé et subsistent pour un élément
+s'il est dissocié de l'ensemble. Toutefois, lorsque l'élément dissocié ne bénéficie pas d'un classement en application de
+l'article L. 622-1, les effets du classement peuvent être levés pour cet élément par l'autorité administrative.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°2016-925 du 7 juillet 2016 - art. 75
+
+	**Abrogé par**:
+
+	  - Ordonnance n°2017-651 du 27 avril 2017 - art. 6
+
+	**Cite**:
+
+	  - Code du patrimoine - art. L622-1
+
+	**Cité par**:
+
+	  - Code du patrimoine - art. L641-2 (V)
+	  - Code du patrimoine - art. R622-8 (V)
+
+
+###### Article L622-1-2
+
+Lorsque des objets mobiliers classés ou un ensemble historique mobilier classé sont attachés, par des liens historiques ou
+artistiques remarquables, à un immeuble classé et forment avec lui un ensemble d'une qualité et d'une cohérence dont la
+conservation dans son intégrité présente un intérêt public, ces objets mobiliers ou cet ensemble historique mobilier peuvent
+être grevés d'une servitude de maintien dans les lieux par décision de l'autorité administrative, après avis de la Commission
+nationale du patrimoine et de l'architecture et accord du propriétaire. Cette servitude peut être levée dans les mêmes
+conditions. En cas de refus de l'autorité administrative de lever la servitude, les sujétions anormales qui peuvent en
+résulter sont compensées par une indemnité. A défaut d'accord amiable, l'action en indemnité est portée devant le juge
+judiciaire. 
+
+Le déplacement de cet objet mobilier ou de tout ou partie de cet ensemble historique mobilier classé est subordonné à une
+autorisation de l'autorité administrative. 
+
+La servitude de maintien dans les lieux peut être prononcée en même temps que la décision de classement des objets mobiliers
+ou de l'ensemble historique mobilier, ou postérieurement à celle-ci.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°2016-925 du 7 juillet 2016 - art. 75
+
+	**Abrogé par**:
+
+	  - Ordonnance n°2017-651 du 27 avril 2017 - art. 6
+
+	**Cité par**:
+
+	  - Code du patrimoine - art. L641-2 (V)
+	  - Code du patrimoine - art. R622-1-2 (V)
+
+
 ###### Article L622-2
 
 Les objets mobiliers appartenant à l'Etat ou à un établissement public de l'Etat sont classés au titre des monuments
-historiques par décision de l'autorité administrative.
+historiques par décision de l'autorité administrative, après avis de la Commission nationale du patrimoine et de
+l'architecture.
 
 **Liens relatifs à cet article**
 
 	**Anciens textes**:
 
 	  - Loi n°1913-12-31 du 31 décembre 1913 - art. 15 (V)
-	  - Loi n°1913-12-31 art. 15 (en ce qui concerne l'Etat, exceptée la 2ème phrase du 2ème alinéa)
 
 	**Codifié par**:
 
-	  - Ordonnance 2004-178 2004-02-20 JORF 24 février 2004
+	  - Ordonnance n°2004-178 du 20 février 2004
+
+	**Modifié par**:
+
+	  - Loi n°2016-925 du 7 juillet 2016 - art. 75
 
 	**Cité par**:
 
@@ -10395,25 +10960,23 @@ historiques par décision de l'autorité administrative.
 ###### Article L622-3
 
 Les objets mobiliers appartenant à une collectivité territoriale ou à l'un de ses établissements publics sont classés au
-titre des monuments historiques par décision de l'autorité administrative, s'il y a consentement du propriétaire. En cas de
-désaccord, le classement d'office est prononcé par décret en Conseil d'Etat après avis de la Commission nationale des
-monuments historiques.
+titre des monuments historiques par décision de l'autorité administrative, après avis de la Commission nationale du
+patrimoine et de l'architecture, s'il y a consentement du propriétaire. En cas de désaccord, le classement d'office est
+prononcé par décret en Conseil d'Etat après avis de la Commission nationale du patrimoine et de l'architecture.
 
 **Liens relatifs à cet article**
 
 	**Anciens textes**:
 
-	  - Loi n°1913-12-31 art. 15 (en ce qui concerne les collectivités territoriales)
 	  - Loi n°1913-12-31 du 31 décembre 1913 - art. 15 (V)
 
 	**Codifié par**:
 
-	  - Ordonnance 2004-178 2004-02-20 JORF 24 février 2004
+	  - Ordonnance n°2004-178 du 20 février 2004
 
 	**Modifié par**:
 
-	  - Ordonnance n°2005-1128 du 8 septembre 2005 - art. 1 (V) JORF 9 septembre 2005
-	  - Ordonnance n°2005-1128 du 8 septembre 2005 - art. 5 () JORF 9 septembre 2005
+	  - Loi n°2016-925 du 7 juillet 2016 - art. 75
 
 	**Cité par**:
 
@@ -10423,10 +10986,11 @@ monuments historiques.
 ###### Article L622-4
 
 Les objets mobiliers appartenant à une personne privée peuvent être classés au titre des monuments historiques, avec le
-consentement du propriétaire, par décision de l'autorité administrative. 
+consentement du propriétaire, par décision de l'autorité administrative, après avis de la Commission nationale du patrimoine
+et de l'architecture. 
 
 A défaut de consentement du propriétaire, le classement d'office est prononcé par un décret en Conseil d'Etat pris après avis
-de la Commission nationale des monuments historiques. 
+de la Commission nationale du patrimoine et de l'architecture. 
 
 Le classement pourra donner lieu au paiement d'une indemnité représentative du préjudice résultant pour le propriétaire de
 l'application de la servitude de classement d'office. La demande d'indemnité devra être produite dans les six mois à dater de
@@ -10445,13 +11009,37 @@ par le tribunal d'instance ou de grande instance.
 
 	**Modifié par**:
 
-	  - Loi n°2011-1862 du 13 décembre 2011 - art. 10
+	  - Loi n°2016-925 du 7 juillet 2016 - art. 75
 
 	**Cité par**:
 
 	  - CODE GENERAL DES IMPOTS, CGI. - art. 238 bis-0 AB (V)
 	  - Code de l'organisation judiciaire - art. R221-21 (Ab)
 	  - Code du patrimoine. - art. L611-1 (M)
+
+
+###### Article L622-4-1
+
+Les ensembles ou collections d'objets mobiliers appartenant à un propriétaire autre que l'Etat ou qu'un établissement public
+de l'Etat sont classés au titre des monuments historiques comme ensembles historiques mobiliers par décision de l'autorité
+administrative, après avis de la Commission nationale du patrimoine et de l'architecture et accord du propriétaire. 
+
+En cas de désaccord, le classement d'office est prononcé par décret en Conseil d'Etat, sous les mêmes conditions et dans les
+mêmes formes que celles prévues à l'article L. 622-4.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°2016-925 du 7 juillet 2016 - art. 75
+
+	**Modifié par**:
+
+	  - Ordonnance n°2017-651 du 27 avril 2017 - art. 6
+
+	**Cite**:
+
+	  - Code du patrimoine - art. L622-4 (VD)
 
 
 ###### Article L622-5
@@ -10627,29 +11215,29 @@ dans un musée ou autre lieu public de l'Etat ou d'une collectivité territorial
 et, autant que possible, situé dans le voisinage de son emplacement primitif. 
 
 Dans un délai de trois mois à compter de ce transfert provisoire, les conditions nécessaires pour la garde et la conservation
-de l'objet dans son emplacement primitif devront être déterminées par la commission mentionnée à l'article L. 612-2.
+de l'objet dans son emplacement primitif devront être déterminées par la commission mentionnée à l'article L. 611-2.
 
 **Liens relatifs à cet article**
 
 	**Anciens textes**:
 
 	  - Loi n°1913-12-31 du 31 décembre 1913 - art. 26 (V)
-	  - Loi n°1913-12-31 art. 26 al. 1, al. 2
 
 	**Codifié par**:
 
-	  - Ordonnance 2004-178 2004-02-20 JORF 24 février 2004
+	  - Ordonnance n°2004-178 du 20 février 2004
 
 	**Cité par**:
 
 	  - Décret n°2007-487 du 30 mars 2007 - art. 69 (Ab)
 	  - Code du patrimoine - art. L611-1 (V)
 	  - Code du patrimoine - art. L611-2 (V)
+	  - Code du patrimoine - art. L612-2 (Ab)
 	  - Code du patrimoine. - art. R622-27 (V)
 
-	**Cite**:
+	**Modifié par**:
 
-	  - Code du patrimoine - art. L612-2 (V)
+	  - Loi n°2016-925 du 7 juillet 2016 - art. 75
 
 
 ###### Article L622-11
@@ -10809,7 +11397,7 @@ l'autorité administrative au nom et au profit de l'Etat.
 
 L'acquéreur ou sous-acquéreur de bonne foi, entre les mains duquel l'objet est revendiqué, a droit au remboursement de son
 prix d'acquisition. Si la revendication est exercée par l'autorité administrative, celle-ci aura recours contre le vendeur
-originaire pour le montant intégral de l'indemnité qu'il aura dû payer à l'acquéreur ou sous-acquéreur. 
+originaire pour le montant intégral de l'indemnité qu'elle aura dû payer à l'acquéreur ou sous-acquéreur. 
 
 Les dispositions du présent article sont applicables aux objets perdus ou volés.
 
@@ -10818,11 +11406,10 @@ Les dispositions du présent article sont applicables aux objets perdus ou volé
 	**Anciens textes**:
 
 	  - Loi n°1913-12-31 du 31 décembre 1913 - art. 20 (Ab)
-	  - Loi n°1913-12-31 art. 20
 
 	**Codifié par**:
 
-	  - Ordonnance 2004-178 2004-02-20 JORF 24 février 2004
+	  - Ordonnance n°2004-178 du 20 février 2004
 
 	**Cité par**:
 
@@ -10832,9 +11419,13 @@ Les dispositions du présent article sont applicables aux objets perdus ou volé
 	  - Code du patrimoine - art. L642-2 (V)
 	  - Code du patrimoine. - art. R622-31 (V)
 
+	**Modifié par**:
+
+	  - Loi n°2016-925 du 7 juillet 2016 - art. 75
+
 	**Cite**:
 
-	  - Code du patrimoine - art. L622-14 (V)
+	  - Code du patrimoine - art. L622-14
 
 
 ###### Article L622-18
@@ -11175,218 +11766,45 @@ impôts.
 	  - Code du patrimoine - art. L720-1 (VD)
 
 
-#### Chapitre 4 : Dispositions pénales.
+## LIVRE VI : MONUMENTS HISTORIQUES, SITES PATRIMONIAUX REMARQUABLES ET QUALITE ARCHITECTURALE
 
-###### Article L624-1
+### TITRE Ier : DISPOSITIONS GÉNÉRALES
 
-Est puni d'une amende de 3 750 euros le fait, pour toute personne, d'enfreindre les dispositions de l'article L. 621-27
-relatif à la modification, sans avis préalable, d'un immeuble inscrit sur l'inventaire supplémentaire, de l'article L. 621-24
-relatif à l'aliénation d'un immeuble classé au titre des monuments historiques, de l'article L. 622-16 relatif à l'aliénation
-d'un objet mobilier classé au titre des monuments historiques, de l'article L. 622-8 relatif à la présentation des objets
-mobiliers classés au titre des monuments historiques et de l'article L. 622-21 relatif au transfert, à la cession, à la
-modification, sans avis préalable, d'un objet mobilier inscrit à l'inventaire supplémentaire à la liste des objets mobiliers
-classés au titre des monuments historiques.
+#### Chapitre Ier : Institutions
 
-**Liens relatifs à cet article**
+###### Article L611-1
 
-	**Anciens textes**:
+La Commission nationale du patrimoine et de l'architecture est consultée en matière de création, de gestion et de suivi de
+servitudes d'utilité publique et de documents d'urbanisme institués dans un but de protection, de conservation et de mise en
+valeur du patrimoine culturel, notamment dans les cas prévus aux articles L. 621-4, L. 621-5, L. 621-6, L. 621-8, L. 621-12,
+L. 621-29-9, L. 621-31, L. 621-35, L. 622-1, L. 622-1-1, L. 622-1-2, L. 622-3, L. 622-4, L. 622-4-1 et L. 631-2 du présent
+code et à l'article L. 313-1 du code de l'urbanisme. Elle est également consultée sur tout projet de vente ou d'aliénation du
+patrimoine français de l'Etat situé à l'étranger présentant une valeur historique ou culturelle particulière. 
 
-	  - Loi n°1913-12-31 du 31 décembre 1913 - art. 29 (Ab)
-	  - Loi n°1913-12-31 art. 29
+Elle peut proposer toutes mesures propres à assurer la protection, la conservation et la mise en valeur du patrimoine et de
+l'architecture. Elle peut demander à l'Etat d'engager une procédure de classement ou d'inscription au titre des monuments
+historiques ou de classement au titre des sites patrimoniaux remarquables en application des articles L. 621-1, L. 621-25, L.
+622-1, L. 622-20, L. 631-1 ou L. 631-2 du présent code. 
 
-	**Codifié par**:
+Elle procède à l'évaluation des politiques de protection, de conservation et de mise en valeur du patrimoine culturel. 
 
-	  - Ordonnance 2004-178 2004-02-20 JORF 24 février 2004
+En outre, elle peut être consultée sur les études, sur les travaux et sur toute question relative au patrimoine et à
+l'architecture en application du présent livre et de la sous-section 2 de la section 4 du chapitre Ier du titre V du livre
+Ier et du chapitre III du titre Ier du livre III du code de l'urbanisme. 
 
-	**Abrogé par**:
+Placée auprès du ministre chargé de la culture, elle comprend des personnes titulaires d'un mandat électif national, des
+personnes titulaires d'un mandat électif local, des représentants de l'Etat, des représentants d'associations ou de
+fondations ayant pour objet de favoriser la connaissance, la protection, la conservation et la mise en valeur du patrimoine
+et des personnalités qualifiées. 
 
-	  - Loi n°2016-925 du 7 juillet 2016 - art. 75
+Son président est choisi parmi les titulaires d'un mandat électif national qui en sont membres. En cas d'empêchement du
+président, la présidence de la commission est assurée par un représentant désigné à cet effet par le ministre chargé de la
+culture. 
 
-	**Cité par**:
+Un décret en Conseil d'Etat précise sa composition, les conditions de désignation de ses membres et ses modalités de
+fonctionnement.
 
-	  - Code de l'environnement - art. L331-18 (VD)
-	  - Code du patrimoine - art. L624-5 (V)
-
-	**Cite**:
-
-	  - Code du patrimoine - art. L621-24 (Ab)
-	  - Code du patrimoine - art. L621-27 (V)
-	  - Code du patrimoine - art. L622-16 (V)
-	  - Code du patrimoine - art. L622-21 (V)
-	  - Code du patrimoine - art. L622-8 (V)
-
-
-###### Article L624-2
-
-Est puni d'une amende de 3 750 euros le fait, pour toute personne, d'enfreindre les dispositions de l'article L. 621-7
-relatif aux effets de la proposition de classement au titre des monuments historiques d'un immeuble, de l'article L. 621-19
-relatif aux effets de la notification d'une demande d'expropriation, de l'article L. 621-9 relatif aux modifications d'un
-immeuble classé au titre des monuments historiques, des articles L. 621-16 et L. 621-31 relatifs aux constructions neuves et
-aux servitudes ou de l'article L. 622-7 relatif à la modification d'un objet mobilier classé au titre des monuments
-historiques, sans préjudice de l'action en dommages-intérêts qui pourra être exercée contre ceux qui auront ordonné les
-travaux exécutés ou les mesures prises en violation desdits articles. 
-
-En outre, le ministre chargé de la culture ou son délégué peut prescrire la remise en état des lieux aux frais des
-délinquants. Il peut également demander de prescrire ladite remise en état à la juridiction compétente, laquelle peut
-éventuellement soit fixer une astreinte, soit ordonner l'exécution d'office par l'administration aux frais des délinquants.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Loi n°1913-12-31 du 31 décembre 1913 - art. 30 (Ab)
-
-	**Codifié par**:
-
-	  - Ordonnance n°2004-178 du 20 février 2004
-
-	**Modifié par**:
-
-	  - Loi n°2012-387 du 22 mars 2012 - art. 106
-
-	**Abrogé par**:
-
-	  - Loi n°2016-925 du 7 juillet 2016 - art. 75
-
-	**Cite**:
-
-	  - Code du patrimoine. - art. L621-16 (V)
-	  - Code du patrimoine. - art. L621-19 (V)
-	  - Code du patrimoine. - art. L621-31 (V)
-	  - Code du patrimoine. - art. L621-7 (V)
-	  - Code du patrimoine. - art. L621-9 (V)
-	  - Code du patrimoine. - art. L622-7 (V)
-
-
-###### Article L624-3
-
-Sont punies des peines prévues à l'article L. 480-4 du code de l'urbanisme : 
-
-1° La réalisation, sans l'autorisation prévue par l'article L. 621-31, de toute opération de nature à affecter l'aspect d'un
-immeuble situé dans le champ de visibilité d'un édifice classé ou inscrit parmi les monuments historiques ; 
-
-2° Les infractions aux prescriptions visées par l'article L. 621-32 imposées pour la protection de l'immeuble classé ou
-inscrit. 
-
-Les dispositions des articles L. 480-1, L. 480-2, L. 480-3 et L. 480-5 à L. 480-9 du code de l'urbanisme sont applicables aux
-infractions prévues aux précédents alinéas, sous la seule réserve des conditions suivantes : 
-
-a) Les infractions sont constatées en outre par les fonctionnaires et agents commissionnés à cet effet par le ministre chargé
-de la culture et assermentés ; 
-
-b) Pour l'application de l'article L. 480-5 du code de l'urbanisme, le tribunal statue soit sur la mise en conformité des
-lieux avec les prescriptions formulées par le ministre chargé de la culture, soit sur leur rétablissement dans l'état
-antérieur ; 
-
-c) Le droit de visite prévu à l'article L. 460-1 du code de l'urbanisme est ouvert aux représentants du ministre chargé de la
-culture ; l'article L. 480-12 du code de l'urbanisme est applicable.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Loi n°1913-12-31 art. 30 bis
-	  - Loi n°1913-12-31 du 31 décembre 1913 - art. 30 bis (Ab)
-
-	**Codifié par**:
-
-	  - Ordonnance 2004-178 2004-02-20 JORF 24 février 2004
-
-	**Abrogé par**:
-
-	  - Loi n°2016-925 du 7 juillet 2016 - art. 75
-
-	**Cite**:
-
-	  - Code de l'urbanisme - art. L480-1 (V)
-	  - Code de l'urbanisme - art. L480-12 (V)
-	  - Code de l'urbanisme - art. L480-4 (V)
-	  - Code de l'urbanisme - art. L480-5 (V)
-	  - Code du patrimoine - art. L621-31 (V)
-	  - Code du patrimoine - art. L621-32 (V)
-
-
-###### Article L624-4
-
-Le fait, pour toute personne, d'aliéner ou d'acquérir un objet mobilier classé au titre des monuments historiques, en
-violation de l'article L. 622-13, de l'article L. 622-14 ou de l'article L. 622-18, est puni d'une amende de 6 000 euros et
-d'un emprisonnement de trois mois sans préjudice des actions en dommages-intérêts prévues à l'article L. 622-17.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Loi n°1913-12-31 du 31 décembre 1913 - art. 31 (Ab)
-
-	**Codifié par**:
-
-	  - Ordonnance 2004-178 2004-02-20 JORF 24 février 2004
-
-	**Abrogé par**:
-
-	  - Loi n°2016-925 du 7 juillet 2016 - art. 75
-
-	**Cite**:
-
-	  - Code du patrimoine - art. L622-13 (V)
-	  - Code du patrimoine - art. L622-14 (V)
-	  - Code du patrimoine - art. L622-17 (V)
-	  - Code du patrimoine - art. L622-18 (V)
-
-
-###### Article L624-5
-
-Les infractions prévues aux articles L. 624-1 à L. 624-4 sont constatées à la diligence du ministre chargé de la culture.
-Elles peuvent l'être par des procès-verbaux dressés par les conservateurs ou les gardiens d'immeubles ou d'objets mobiliers
-classés au titre des monuments historiques dûment assermentés à cet effet.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Ordonnance 2004-178 2004-02-20 JORF 24 février 2004
-
-	**Abrogé par**:
-
-	  - Loi n°2016-925 du 7 juillet 2016 - art. 75
-
-	**Cite**:
-
-	  - Code du patrimoine - art. L624-1 (V)
-
-	**Anciens textes**:
-
-	  - Loi n°1913-12-31 art. 33
-
-
-###### Article L624-6
-
-Le fait, pour tout conservateur ou gardien, par suite de négligence grave, de laisser détruire, abattre, mutiler, dégrader ou
-soustraire soit un immeuble, soit un objet mobilier classé au titre des monuments historiques est puni d'un emprisonnement de
-trois mois et d'une amende de 3 750 euros.
-
-**Liens relatifs à cet article**
-
-	**Abrogé par**:
-
-	  - Loi n°2016-925 du 7 juillet 2016 - art. 75
-
-	**Anciens textes**:
-
-	  - Loi n°1913-12-31 art. 34
-	  - Loi n°1913-12-31 du 31 décembre 1913 - art. 34 (Ab)
-
-	**Codifié par**:
-
-	  - Ordonnance 2004-178 2004-02-20 JORF 24 février 2004
-
-
-###### Article L624-7
-
-Un décret en Conseil d'Etat détermine les conditions d'application du présent titre, à l'exception des articles L. 621-26, L.
-621-28, L. 621-34 et L. 623-1. Il définit notamment les conditions dans lesquelles est dressé de manière périodique, dans
-chaque région et dans la collectivité territoriale de Corse, un état de l'avancement de l'instruction des demandes
-d'autorisation prévues à l'article L. 621-9.
+.
 
 **Liens relatifs à cet article**
 
@@ -11396,476 +11814,699 @@ d'autorisation prévues à l'article L. 621-9.
 
 	**Codifié par**:
 
-	  - Ordonnance 2004-178 2004-02-20 JORF 24 février 2004
-
-	**Abrogé par**:
-
-	  - Loi n°2016-925 du 7 juillet 2016 - art. 75
-
-	**Cite**:
-
-	  - Code du patrimoine - art. L621-26 (V)
-	  - Code du patrimoine - art. L621-28 (Ab)
-	  - Code du patrimoine - art. L621-34 (Ab)
-	  - Code du patrimoine - art. L621-9 (V)
-	  - Code du patrimoine - art. L623-1 (V)
-
-
-### TITRE III : SITES.
-
-###### Article L630-1
-
-Les règles relatives à la protection des monuments naturels et des sites sont fixées par les articles L. 341-1 à L. 341-22 du
-code de l'environnement ci-après reproduits : 
-
-" Section 1 
-
-" Inventaire et classement 
-
-" Art. L. 341-1. - Il est établi dans chaque département une liste des monuments naturels et des sites dont la conservation
-ou la préservation présente, au point de vue artistique, historique, scientifique, légendaire ou pittoresque, un intérêt
-général.
-
-"Après l'enquête publique réalisée conformément au chapitre III du titre II du livre Ier, l'inscription sur la liste est
-prononcée par arrêté du ministre chargé des sites et, en Corse, par délibération de l'Assemblée de Corse après avis du
-représentant de l'Etat. 
-
-"L'inscription entraîne, sur les terrains compris dans les limites fixées par l'arrêté, l'obligation pour les intéressés de
-ne pas procéder à des travaux autres que ceux d'exploitation courante en ce qui concerne les fonds ruraux et d'entretien
-normal en ce qui concerne les constructions sans avoir avisé, quatre mois d'avance, l'administration de leur intention."
-
-" Art. L. 341-2. - Les monuments naturels et les sites inscrits ou non sur la liste dressée par la commission départementale
-peuvent être classés dans les conditions et selon les distinctions établies par la présente section. 
-
-"Lorsque la commission supérieure des sites, perspectives et paysages est saisie directement d'une demande de classement,
-celle-ci est renvoyée à la commission départementale aux fins d'instruction et, le cas échéant, de proposition de classement.
-En cas d'urgence, le ministre chargé des sites fixe à la commission départementale un délai pour émettre son avis. Faute par
-elle de se prononcer dans ce délai, le ministre consulte la commission supérieure et donne à la demande la suite qu'elle
-comporte. 
-
-"Dans les zones de montagne, la décision de classement est prise après consultation du comité de massif concerné." 
-
-" Art. L. 341-3. - Le projet de classement est soumis à une enquête publique réalisée conformément au chapitre III du titre
-II du livre Ier." 
-
-" Art. L. 341-4. - Le monument naturel ou le site compris dans le domaine public ou privé de l'Etat est classé par arrêté du
-ministre chargé des sites, en cas d'accord avec le ministre dans les attributions duquel le monument naturel ou le site se
-trouve placé ainsi qu'avec le ministre chargé du domaine. 
-
-" Il en est de même toutes les fois qu'il s'agit de classer un lac ou un cours d'eau susceptible de produire une puissance
-permanente de 50 kilowatts d'énergie électrique. 
-
-" Dans le cas contraire, le classement est prononcé par décret en Conseil d'Etat. " 
-
-" Art. L. 341-5. - Le monument naturel ou le site compris dans le domaine public ou privé d'un département ou d'une commune
-ou appartenant à un établissement public est classé par arrêté du ministre chargé des sites s'il y a consentement de la
-personne publique propriétaire. 
-
-" Dans le cas contraire, le classement est prononcé, après avis de la Commission supérieure des sites, perspectives et
-paysages, par décret en Conseil d'Etat. " 
-
-" Art. L. 341-6. - Le monument naturel ou le site appartenant à toute autre personne que celles énumérées aux articles L.
-341-4 et L. 341-5 est classé par arrêté du ministre chargé des sites, s'il y a consentement du propriétaire. L'arrêté
-détermine les conditions du classement. 
-
-" A défaut du consentement du propriétaire, le classement est prononcé, après avis de la commission supérieure, par décret en
-Conseil d'Etat. Le classement peut donner droit à indemnité au profit du propriétaire s'il entraîne une modification à l'état
-ou à l'utilisation des lieux déterminant un préjudice direct, matériel et certain. 
-
-" La demande d'indemnité doit être produite dans le délai de six mois à dater de la mise en demeure faite au propriétaire de
-modifier l'état ou l'utilisation des lieux en application des prescriptions particulières de la décision de classement. A
-défaut d'accord amiable, l'indemnité est fixée par le juge de l'expropriation. 
-
-" Si le Gouvernement entend ne pas donner suite au classement d'office dans les conditions ainsi fixées, il peut, à tout
-moment de la procédure et au plus tard dans le délai de trois mois à compter de la notification de la décision judiciaire,
-abroger le décret de classement. 
-
-" Le classement d'un lac ou d'un cours d'eau pouvant produire une énergie électrique permanente d'au moins 50 kilowatts ne
-peut être prononcé qu'après avis des ministres intéressés. Cet avis doit être formulé dans le délai de trois mois, à
-l'expiration duquel il peut être passé outre. 
-
-" En cas d'accord avec les ministres intéressés, le classement peut être prononcé par arrêté du ministre chargé des sites.
-Dans le cas contraire, il est prononcé par décret en Conseil d'Etat. " 
-
-" Art. L. 341-7. - A compter du jour où l'administration chargée des sites notifie au propriétaire d'un monument naturel ou
-d'un site son intention d'en poursuivre le classement, aucune modification ne peut être apportée à l'état des lieux ou à leur
-aspect pendant un délai de douze mois, sauf autorisation spéciale et sous réserve de l'exploitation courante des fonds ruraux
-et de l'entretien normal des constructions. 
-
-" Lorsque l'identité ou le domicile du propriétaire sont inconnus, la notification est valablement faite au maire qui en
-assure l'affichage et, le cas échéant, à l'occupant des lieux. " 
-
-" Art. L. 341-8. - Tout arrêté ou décret prononçant un classement est publié, par les soins de l'administration chargée des
-sites, au fichier immobilier. 
-
-Cette publication, qui ne donne lieu à aucune perception au profit du Trésor, est faite dans les formes et de la manière
-prescrites par les lois et règlements concernant la publicité foncière." 
-
-" Art. L. 341-9. - Les effets du classement suivent le monument naturel ou le site classé, en quelques mains qu'il passe. 
-
-" Quiconque aliène un monument naturel ou un site classé est tenu de faire connaître à l'acquéreur l'existence de ce
-classement. 
-
-" Toute aliénation d'un monument naturel ou d'un site classé doit, dans les quinze jours de sa date, être notifiée au
-ministre chargé des sites par celui qui l'a consentie. " 
-
-" Art. L. 341-10. - Les monuments naturels ou les sites classés ne peuvent ni être détruits ni être modifiés dans leur état
-ou leur aspect sauf autorisation spéciale. " 
-
-" Art. L. 341-11. - Sur le territoire d'un site classé au titre du présent chapitre, il est fait obligation d'enfouissement
-des réseaux électriques ou téléphoniques ou, pour les lignes électriques d'une tension inférieure à 19 000 volts,
-d'utilisation de techniques de réseaux torsadés en façade d'habitation, lors de la création de lignes électriques nouvelles
-ou de réseaux téléphoniques nouveaux. 
-
-" Lorsque des nécessités techniques impératives ou des contraintes topographiques rendent l'enfouissement impossible, ou bien
-lorsque les impacts de cet enfouissement sont jugés supérieurs à ceux d'une pose de ligne aérienne, il peut être dérogé à
-titre exceptionnel à cette interdiction par arrêté conjoint du ministre chargé de l'énergie ou des télécommunications et du
-ministre chargé de l'environnement. " 
-
-" Art. L. 341-12. - A compter du jour où l'administration chargée des sites notifie au propriétaire d'un monument naturel ou
-d'un site non classé son intention d'en poursuivre l'expropriation, tous les effets du classement s'appliquent de plein droit
-à ce monument naturel ou à ce site. Ils cessent de s'appliquer si la déclaration d'utilité publique n'intervient pas dans les
-douze mois de cette notification. Lorsque l'utilité publique a été déclarée, l'immeuble peut être classé sans autre formalité
-par arrêté du ministre chargé des sites. " 
-
-" Art. L. 341-13. - Le déclassement total ou partiel d'un monument ou d'un site classé est prononcé, après avis de la
-commission supérieure des sites, par décret en Conseil d'Etat. Le déclassement est notifié aux intéressés et publié au
-fichier immobilier, dans les mêmes conditions que le classement. 
-
-Le décret de déclassement détermine, sur avis conforme du Conseil d'Etat, s'il y a lieu ou non à la restitution de
-l'indemnité prévue à l'article L. 341-6. " 
-
-" Art. L. 341-14. - Aucun monument naturel ou site classé ou proposé pour le classement ne peut être compris dans une enquête
-aux fins d'expropriation pour cause d'utilité publique qu'après que le ministre chargé des sites a été appelé à présenter ses
-observations. 
-
-" Nul ne peut acquérir par prescription, sur un monument naturel ou sur un site classé, de droit de nature à modifier son
-caractère ou à changer l'aspect des lieux. 
-
-" Aucune servitude ne peut être établie par convention sur un monument naturel ou un site classé qu'avec l'agrément du
-ministre chargé des sites. " 
-
-" Art. L. 341-15. - La liste des sites et monuments naturels classés est tenue à jour. Dans le courant du premier trimestre
-de chaque année est publiée au Journal officiel la nomenclature des monuments naturels et des sites classés ou protégés au
-cours de l'année précédente. " 
-
-" Section 2 
-
-" Organismes 
-
-" Art. L. 341-16. - Une commission départementale compétente en matière de nature, de paysages et de sites siège dans chaque
-département. 
-
-" Cette commission est présidée par le représentant de l'Etat dans le département. Lorsqu'elle intervient dans les cas prévus
-aux articles L. 111-1-4, L. 122-2, L. 145-3, L. 145-5, L. 145-11, L. 146-4, L. 146-6, L. 146-6-1, L. 146-7 et L. 156-2 du
-code de l'urbanisme, elle siège dans une formation comprenant des représentants de l'Etat, des représentants élus des
-collectivités territoriales et des établissements publics de coopération intercommunale et des personnalités qualifiées en
-matière de sciences de la nature ou de protection des sites ou du cadre de vie. 
-
-" En Corse, les attributions dévolues à la commission des sites, perspectives et paysages sont exercées par le conseil des
-sites de Corse prévu à l'article L. 4421-4 du code général des collectivités territoriales. " 
-
-" Art. L. 341-17. - Une commission supérieure des sites, perspectives et paysages est placée auprès du ministre chargé des
-sites. 
-
-" Cette commission, présidée par le ministre chargé des sites, est composée de représentants des ministres concernés, de
-députés et de sénateurs désignés par chacune des assemblées, de personnalités qualifiées en matière de protection des sites,
-du cadre de vie et des sciences de la nature désignées par le ministre chargé des sites. " 
-
-" Art. L. 341-18. - Un décret en Conseil d'Etat fixe les conditions d'application du présent chapitre, notamment la
-composition, le mode de désignation et les modalités de fonctionnement des commissions prévues aux articles L. 341-16 et L.
-341-17. " 
-
-" Section 3 
-
-" Dispositions pénales 
-
-" Art. L. 341-19. - I. - Est puni de six mois d'emprisonnement et de 30 000 euros d'amende : 
-
-"1° Le fait de procéder à des travaux sur un monument naturel ou un site inscrit sans en aviser l'administration dans les
-conditions prévues au dernier alinéa de l'article L. 341-1 ; 
-
-"2° Le fait d'aliéner un monument naturel ou un site classé sans faire connaître à l'acquéreur l'existence du classement ou
-sans notifier cette aliénation à l'administration dans les conditions prévues à l'article L. 341-9 ; 
-
-"3° Le fait d'établir une servitude sur un monument naturel ou un site classé sans l'agrément de l'administration dans les
-conditions prévues à l'article L. 341-14. 
-
-"II. - Est puni d'un an d'emprisonnement et de 150 000 euros d'amende le fait de modifier l'état ou l'aspect d'un monument
-naturel ou d'un site en instance de classement ou classé, en méconnaissance des prescriptions édictées par les autorisations
-prévues aux articles L. 341-7 et L. 341-10. 
-
-"III. - Est puni de deux ans d'emprisonnement et de 300 000 euros d'amende : 
-
-"1° Le fait de modifier l'état ou l'aspect d'un monument naturel ou d'un site en instance de classement sans l'autorisation
-prévue à l'article L. 341-7 ; 
-
-"2° Le fait de détruire un monument naturel ou un site classé ou d'en modifier l'état ou l'aspect sans l'autorisation prévue
-à l'article L. 341-10 ; 
-
-"3° Le fait de ne pas se conformer aux prescriptions fixées par un décret de création d'une zone de protection pris en
-application de l'article 19 de la loi du 2 mai 1930 ayant pour objet de réorganiser la protection des monuments naturels et
-des sites de caractère artistique, historique, scientifique, légendaire ou pittoresque et continuant à produire ses effets en
-application de l'article L. 642-9 du code du patrimoine." 
-
-" Art. L. 341-20. - Outre les officiers et agents de police judiciaire et les inspecteurs de l'environnement mentionnés à
-l'article L. 172-1, sont habilités à rechercher et constater les infractions au présent titre : 
-
-"1° Les agents des services de l'Etat chargés des forêts commissionnés à raison de leurs compétences en matière forestière et
-assermentés à cet effet ; 
-
-"2° Les agents de l'Office national des forêts commissionnés à raison de leurs compétences en matière forestière et
-assermentés à cet effet ; 
-
-"3° Les gardes du littoral mentionnés à l'article L. 322-10-1, agissant dans les conditions prévues à cet article ; 
-
-"4° Les agents des réserves naturelles mentionnés à l'article L. 332-20, agissant dans les conditions prévues à cet
-article." 
-
-" Art. L. 341-21. - (Abrogé).
-
-" Art. L. 341-22. - Les dispositions du présent chapitre sont applicables aux monuments naturels et aux sites régulièrement
-classés avant le 2 mai 1930 conformément aux dispositions de la loi du 21 avril 1906 organisant la protection des sites et
-monuments naturels de caractère artistique. "
-
-**Liens relatifs à cet article**
-
-	**Modifié par**:
-
-	  - Ordonnance n°2012-34 du 11 janvier 2012 - art. 8
-
-	**Abrogé par**:
-
-	  - Loi n°2016-925 du 7 juillet 2016 - art. 75
-
-	**Cite**:
-
-	  - Code pénal - art. 322-2
-	  - Code de l'urbanisme
-	  - Code de l'urbanisme - art. L460-1
-	  - Code de l'urbanisme - art. L480-1 (V)
-	  - Code de l'urbanisme - art. L480-12
-	  - Code de l'urbanisme - art. L480-2 (V)
-	  - Code de l'urbanisme - art. L480-3
-	  - Code de l'urbanisme - art. L480-4
-	  - Code de l'urbanisme - art. L480-5
-	  - Code du patrimoine
-	  - Loi n°1930-05-02 art. 19
+	  - Ordonnance n°2004-178 du 20 février 2004
 
 	**Cité par**:
 
-	  - Code du patrimoine - art. L143-8 (M)
-	  - Code du patrimoine. - art. L642-5 (M)
-	  - Code du patrimoine. - art. L730-1 (M)
-
-
-### TITRE IV : ESPACES PROTÉGÉS
-
-#### Chapitre 1er : Secteurs sauvegardés.
-
-###### Article L641-1
-
-Les règles relatives aux secteurs sauvegardés sont fixées aux articles L. 313-1 à L. 313-3 et L. 313-11 à L. 313-15 du code
-de l'urbanisme, ci-après reproduits : 
-
-" Art. L. 313-1. - I. - Des secteurs dits " secteurs sauvegardés " peuvent être créés lorsqu'ils présentent un caractère
-historique, esthétique ou de nature à justifier la conservation, la restauration et la mise en valeur de tout ou partie d'un
-ensemble d'immeubles bâtis ou non. 
-
-" Le secteur sauvegardé est créé par l'autorité administrative sur demande ou avec l'accord de la commune ou, le cas échéant,
-de l'établissement public de coopération intercommunale compétent en matière de plan local d'urbanisme après avis de la
-Commission nationale des secteurs sauvegardés. 
-
-" II. - L'acte qui crée le secteur sauvegardé prescrit l'élaboration d'un plan de sauvegarde et de mise en valeur et met en
-révision le plan local d'urbanisme lorsqu'il existe. Jusqu'à l'approbation du plan de sauvegarde et de mise en valeur, le
-plan local d'urbanisme mis en révision peut être modifié dans les conditions prévues à l'article L. 123-13-1 ou faire l'objet
-de révisions dans les conditions définies par le deuxième alinéa du II de l'article L. 123-13.
-
-" Le plan de sauvegarde et de mise en valeur est élaboré conjointement par l'Etat et la commune ou l'établissement public de
-coopération intercommunale compétent en matière de plan local d'urbanisme. Le projet de plan de sauvegarde et de mise en
-valeur est soumis pour avis à une commission locale du secteur sauvegardé. Après avis du conseil municipal ou de l'organe
-délibérant de l'établissement public de coopération intercommunale et de la Commission nationale des secteurs sauvegardés, le
-projet de plan de sauvegarde et de mise en valeur est mis à l'enquête par l'autorité administrative. Il est approuvé par
-l'autorité administrative si l'avis du conseil municipal ou de l'organe délibérant de l'établissement public de coopération
-intercommunale compétent est favorable, par décret en Conseil d'Etat dans le cas contraire. 
-
-" III. - Les dispositions applicables aux plans locaux d'urbanisme le sont également aux plans de sauvegarde et de mise en
-valeur à l'exception de l'article L. 123-1-3, du premier alinéa de l'article L. 123-6, des articles L. 123-7 à L. 123-16 et
-des trois derniers alinéas de l'article L. 130-2. 
-
-" Le plan de sauvegarde et de mise en valeur peut en outre comporter l'indication des immeubles ou parties intérieures ou
-extérieures d'immeubles : 
-
-" a) Dont la démolition, l'enlèvement ou l'altération sont interdits et dont la modification est soumise à des conditions
-spéciales ; 
-
-" b) Dont la démolition ou la modification pourra être imposée par l'autorité administrative à l'occasion d'opérations
-d'aménagement publiques ou privées. 
-
-" IV. - Le plan de sauvegarde et de mise en valeur doit être compatible avec le projet d'aménagement et de développement
-durables du plan local d'urbanisme lorsqu'il existe. Lorsque le projet de plan de sauvegarde et de mise en valeur comporte
-des dispositions qui ne sont pas compatibles avec le projet d'aménagement et de développement durables du plan local
-d'urbanisme il ne peut être approuvé que si l'enquête publique, organisée par le préfet conformément aux dispositions du
-chapitre III du titre II du livre Ier du code de l'environnement, après accord de la commune ou de l'établissement public de
-coopération intercommunale compétent, a porté à la fois sur le projet de plan de sauvegarde et de mise en valeur et sur la
-modification ou la révision du plan local d'urbanisme. L'approbation du plan de sauvegarde et de mise en valeur emporte alors
-modification ou révision du plan local d'urbanisme. 
-
-" La révision du plan de sauvegarde et de mise en valeur a lieu dans les formes prévues pour son établissement. 
-
-" Le plan de sauvegarde et de mise en valeur peut également être modifié à condition que la modification envisagée ne porte
-pas atteinte à son économie générale ou ne réduise pas un espace boisé classé. 
-
-" La modification est approuvée par l'autorité administrative, à la demande ou après consultation du conseil municipal de la
-commune ou de l'organe délibérant de l'établissement public de coopération intercommunale compétent, après avis de la
-commission locale du secteur sauvegardé et enquête publique réalisée conformément aux dispositions du chapitre III du titre
-II du livre Ier du code de l'environnement. " 
-
-" Art. L. 313-2. - A compter de la publication de la décision administrative créant le secteur sauvegardé, tout travail ayant
-pour effet de modifier l'état des immeubles est soumis à permis de construire ou à déclaration, dans les conditions prévues
-par le livre IV, après accord de l'architecte des Bâtiments de France. Cet accord est réputé donné à l'expiration d'un délai
-fixé par décret en Conseil d'Etat. L'autorisation délivrée énonce les prescriptions auxquelles le pétitionnaire doit se
-conformer.
-
-" A compter de la publication de la décision prescrivant l'élaboration d'un plan de sauvegarde et de mise en valeur ou sa
-révision, les travaux de la nature de ceux qui sont indiqués ci-dessus peuvent faire l'objet d'un sursis à statuer dans les
-conditions et délais prévus à l'article L. 111-8. 
-
-" En cas de désaccord entre, d'une part, l'architecte des Bâtiments de France et, d'autre part, soit le maire ou l'autorité
-compétente pour délivrer l'autorisation, soit le pétitionnaire, sur la compatibilité des travaux avec le plan de sauvegarde
-et de mise en valeur ou sur les prescriptions imposées au propriétaire, le représentant de l'Etat dans la région émet, après
-consultation de la section de la commission régionale du patrimoine et des sites, un avis qui se substitue à celui de
-l'architecte des Bâtiments de France. Le recours du pétitionnaire s'exerce à l'occasion du refus d'autorisation de travaux.
-En l'absence de décision expresse du représentant de l'Etat dans la région dans le délai de deux mois à compter de sa
-saisine, le recours est réputé admis. 
-
-" Un décret détermine le délai de saisine du représentant de l'Etat dans la région. 
-
-" Les prescriptions imposées en application du présent article ne peuvent faire obstacle à l'application des règles
-d'accessibilité d'un immeuble bâti aux personnes handicapées mentionnées à l'article L. 111-7-2 du code de la construction et
-de l'habitation, sauf pour prévenir la dégradation du patrimoine concerné." 
-
-" Art. L. 313-2-1. - Les immeubles situés dans le périmètre d'un secteur sauvegardé dont le plan de sauvegarde et de mise en
-valeur a été approuvé ne sont pas soumis aux servitudes d'utilité publique instituées en application de l'article L. 621-30,
-des articles L. 621-31 et L. 621-32 du code du patrimoine et de l'article L. 341-1 du code de l'environnement. " 
-
-" Art. L. 313-3. - Les opérations de conservation, de restauration et de mise en valeur des secteurs sauvegardés peuvent être
-menées soit à l'initiative des collectivités publiques, soit à l'initiative d'un ou plusieurs propriétaires, groupés ou non
-en association syndicale. Dans ce dernier cas, ce ou ces propriétaires y sont spécialement autorisés dans les conditions
-fixées par un décret en Conseil d'Etat qui précise notamment les engagements exigés d'eux quant à la nature et à l'importance
-des travaux. (1) " 
-
-" Art. L. 313-11. - En cas d'infraction aux dispositions du présent chapitre, les articles L. 480-2 à L. 480-9 sont
-applicables. " 
-
-" Art. L. 313-12. - Les infractions aux dispositions du présent chapitre sont constatées, d'une part, par les personnes
-visées à l'article L. 480-1 (alinéa premier), et, d'autre part, par les fonctionnaires et les agents commissionnés à cet
-effet par le ministre chargé des monuments historiques et des sites, et assermentés. Les procès-verbaux dressés par ces
-personnes font foi jusqu'à preuve du contraire. " 
-
-" Art. L. 313-14. - Les dispositions du présent chapitre, des articles 3 et 12 de la loi n° 48-1360 du 1er septembre 1948
-modifiée, des articles L. 145-6, L. 145-7, L. 145-18, L. 145-28, L. 145-29 et L. 145-30 du code de commerce sont applicables
-aux collectivités publiques, qu'elles soient propriétaires ou locataires des immeubles situés dans les secteurs et périmètres
-visés aux articles L. 313-3 et L. 313-4. " 
-
-" Art. L. 313-15. - Un décret en Conseil d'Etat fixe les conditions d'application du présent chapitre et, notamment, les
-conditions dans lesquelles s'appliquent la loi du 31 décembre 1913 sur les monuments historiques et les articles L. 341-1 à
-L. 341-22 du code de l'environnement, dans le cas où des immeubles relevant de l'une ou de l'autre de ces législations sont
-compris dans les secteurs sauvegardés. "
-
-**Nota:**
-
-Ordonnance n° 2012-11 du 5 janvier 2012 article 19 : Les présentes dispositions entrent en vigueur à une date déterminée par
-décret en Conseil d'Etat et au plus tard le 1er janvier 2013. Toutefois, les dispositions en vigueur antérieurement à
-l'entrée en vigueur de l'ordonnance demeurent applicables :
-
-- aux procédures d'élaboration et de révision des schémas de cohérence territoriale et des plans locaux d'urbanisme
-prescrites à cette même date ;
-
-- aux procédures de modification des schémas de cohérence territoriale et des plans locaux d'urbanisme lorsque le projet de
-modification a été notifié aux personnes publiques associées à la date d'entrée en vigueur de l'ordonnance.
-
-**Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - Loi n°48-1360 du 1er septembre 1948 - art. 12
-	  - Loi n°48-1360 du 1er septembre 1948 - art. 2
-	  - Code de commerce - art. L145-18
-	  - Code de commerce - art. L145-28
-	  - Code de commerce - art. L145-6
-	  - Code de l'urbanisme - art. L111-8
-	  - Code de l'urbanisme - art. L123-1-3
-	  - Code de l'urbanisme - art. L123-6
-	  - Code de l'urbanisme - art. L123-7
-	  - Code de l'urbanisme - art. L130-2
-	  - Code de l'urbanisme - art. L313-1
-	  - Code de l'urbanisme - art. L313-11
-	  - Code de l'urbanisme - art. L313-12
-	  - Code de l'urbanisme - art. L313-14
-	  - Code de l'urbanisme - art. L313-15
-	  - Code de l'urbanisme - art. L313-2
-	  - Code de l'urbanisme - art. L313-2-1
-	  - Code de l'urbanisme - art. L313-3
-	  - Code de la construction et de l'habitation. - art. L111-7-2
+	  - Loi n°2016-925 du 7 juillet 2016 - art. 113 (V)
+	  - Décret n°2017-456 du 29 mars 2017 - art. 10
+	  - CODE GENERAL DES IMPOTS ANNEXE 2, CGIAN2. - art. 171 BG (V)
+	  - Code du patrimoine - art. L730-1 (V)
+	  - Code du patrimoine - art. R613-2 (V)
+	  - Code général de la propriété des personnes publ... - art. D3221-12 (V)
 
 	**Modifié par**:
 
-	  - Ordonnance n°2012-11 du 5 janvier 2012 - art. 12
+	  - Loi n°2016-925 du 7 juillet 2016 - art. 74
+
+	**Cite**:
+
+	  - Code de l'urbanisme - art. L151-17 (V)
+	  - Code de l'urbanisme - art. L313-1 (V)
+	  - Code du patrimoine - art. L621-1 (V)
+	  - Code du patrimoine - art. L621-12 (V)
+	  - Code du patrimoine - art. L621-25 (V)
+	  - Code du patrimoine - art. L621-29-9 (V)
+	  - Code du patrimoine - art. L621-31 (V)
+	  - Code du patrimoine - art. L621-35 (V)
+	  - Code du patrimoine - art. L621-4 (V)
+	  - Code du patrimoine - art. L621-8 (V)
+	  - Code du patrimoine - art. L622-1 (V)
+	  - Code du patrimoine - art. L622-10 (V)
+	  - Code du patrimoine - art. L631-1 (V)
+	  - Code du patrimoine - art. L631-2 (V)
+
+
+###### Article L611-2
+
+La commission régionale du patrimoine et de l'architecture est consultée en matière de création, de gestion et de suivi de
+servitudes d'utilité publique et de documents d'urbanisme institués dans un but de protection, de conservation et de mise en
+valeur du patrimoine culturel, notamment dans les cas prévus aux articles L. 621-31, L. 622-10, L. 631-4, L. 632-2 et L.
+650-1 du présent code et aux articles L. 151-29-1 et L. 152-6 du code de l'urbanisme. 
+
+Elle peut proposer toutes mesures propres à assurer la protection, la conservation et la mise en valeur du patrimoine et de
+l'architecture. 
+
+En outre, elle peut être consultée sur les études et sur les travaux ainsi que sur toute question relative au patrimoine et à
+l'architecture en application du présent livre et de la sous-section 2 de la section 4 du chapitre Ier du titre V du livre
+Ier du code de l'urbanisme. 
+
+Placée auprès du représentant de l'Etat dans la région, elle comprend des personnes titulaires d'un mandat électif national
+ou local, des représentants de l'Etat, des représentants d'associations ou de fondations ayant pour objet de favoriser la
+connaissance, la protection, la conservation et la mise en valeur du patrimoine et des personnalités qualifiées. 
+
+Son président est choisi parmi les titulaires d'un mandat électif qui en sont membres. En cas d'empêchement du président, la
+présidence est assurée par le représentant de l'Etat dans la région. 
+
+Un décret en Conseil d'Etat détermine la composition, les conditions de désignation des membres et les modalités de
+fonctionnement de la commission.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°2016-925 du 7 juillet 2016 - art. 74
+
+	**Cité par**:
+
+	  - Décret n°2017-254 du 27 février 2017 (V)
+	  - Décret n°2017-254 du 27 février 2017 - art. 2 (V)
+	  - Décret n°2017-456 du 29 mars 2017 - art. 9
+	  - Code de l'urbanisme - art. L151-29-1 (V)
+	  - Code de l'urbanisme - art. L152-6 (V)
+	  - Code du patrimoine - art. L622-10 (VD)
+	  - Code du patrimoine - art. R720-10 (V)
+	  - Code général des collectivités territoriales - art. L4421-4 (V)
+	  - Code général des collectivités territoriales - art. R4421-1 (V)
+
+	**Cite**:
+
+	  - Code de l'urbanisme - art. L151-17 (V)
+	  - Code du patrimoine - art. L621-31 (V)
+	  - Code du patrimoine - art. L631-4 (V)
+	  - Code du patrimoine - art. L632-2 (V)
+	  - Code du patrimoine - art. L650-1 (V)
+
+
+###### Article L611-3
+
+Les règles relatives au conseil des sites de Corse sont fixées à l'article L. 4421-4 du code général des collectivités
+territoriales.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°2016-925 du 7 juillet 2016 - art. 74
+
+	**Cite**:
+
+	  - Code général des collectivités territoriales - art. L4421-4 (V)
+
+
+#### Chapitre II : Dispositions relatives aux biens inscrits au patrimoine mondial
+
+###### Article L612-1
+
+L'Etat et ses établissements publics, les collectivités territoriales et leurs groupements assurent, au titre de leurs
+compétences dans les domaines du patrimoine, de l'environnement et de l'urbanisme, la protection, la conservation et la mise
+en valeur du bien reconnu en tant que bien du patrimoine mondial en application de la convention concernant la protection du
+patrimoine mondial, culturel et naturel, adoptée par la Conférence générale de l'Organisation des Nations unies pour
+l'éducation, la science et la culture, le 16 novembre 1972, lors de sa XVIIe session. 
+
+Pour assurer la protection du bien, une zone, dite " zone tampon ", incluant son environnement immédiat, les perspectives
+visuelles importantes et d'autres aires ou attributs ayant un rôle fonctionnel important en tant que soutien apporté au bien
+et à sa protection est, sauf s'il est justifié qu'elle n'est pas nécessaire, délimitée autour de celui-ci en concertation
+avec les collectivités territoriales concernées puis arrêtée par l'autorité administrative. 
+
+Pour assurer la préservation de la valeur universelle exceptionnelle du bien, un plan de gestion comprenant les mesures de
+protection, de conservation et de mise en valeur à mettre en œuvre est élaboré conjointement par l'Etat et les collectivités
+territoriales concernées, pour le périmètre de ce bien et, le cas échéant, de sa zone tampon, puis arrêté par l'autorité
+administrative. 
+
+Lorsque l'autorité compétente en matière de schéma de cohérence territoriale ou de plan local d'urbanisme engage
+l'élaboration ou la révision d'un schéma de cohérence territoriale ou d'un plan local d'urbanisme, le représentant de l'Etat
+dans le département porte à sa connaissance les dispositions du plan de gestion du bien afin d'assurer la protection, la
+conservation et la mise en valeur du bien et la préservation de sa valeur exceptionnelle. 
+
+Un décret en Conseil d'Etat fixe les modalités d'application du présent article.
+
+**Nota:**
+
+
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Loi n°97-179 du 28 février 1997 - art. 1 (Ab)
+
+	**Cité par**:
+
+	  - Décret n°99-78 du 5 février 1999 - art. 2-1 (Ab)
+	  - Décret n°2017-456 du 29 mars 2017 - art. 13
+	  - Code de l'environnement - art. L350-2 (M)
+	  - Code de l'urbanisme - art. R151-53 (V)
+	  - Code du patrimoine - art. L612-3 (Ab)
+	  - Code du patrimoine - art. L642-3 (Ab)
+	  - Code du patrimoine - art. R612-2 (V)
+	  - Code du patrimoine - art. R612-3 (Ab)
+	  - Code du patrimoine - art. R720-11 (Ab)
+	  - Code du patrimoine. - art. L642-2 (M)
+	  - Code général des collectivités territoriales - art. L4421-4 (M)
+	  - Code général des collectivités territoriales - art. L4433-27 (VD)
+
+	**Modifié par**:
+
+	  - Loi n°2016-925 du 7 juillet 2016 - art. 74
+
+	**Cite**:
+
+	  - Code du patrimoine - art. L621-32 (V)
+	  - Code du patrimoine - art. L641-1 (V)
+
+
+#### Chapitre  III : Dispositions diverses
+
+###### Article L613-1
+
+Les règles relatives à la protection des monuments naturels et des sites sont fixées au titre IV du livre III du code de
+l'environnement.
+
+**Liens relatifs à cet article**
+
+	**Cité par**:
+
+	  - Loi n°2016-925 du 7 juillet 2016 - art. 119 (V)
+
+	**Créé par**:
+
+	  - Loi n°2016-925 du 7 juillet 2016 - art. 74
+
+	**Cite**:
+
+	  - Code de l'environnement -  Titre IV : Sites (V)
+
+
+### TITRE II : MONUMENTS HISTORIQUES
+
+### TITRE III : SITES PATRIMONIAUX REMARQUABLES
+
+#### Chapitre Ier : Classement au titre des sites patrimoniaux remarquables 
+
+###### Article L631-1
+
+Sont classés au titre des sites patrimoniaux remarquables les villes, villages ou quartiers dont la conservation, la
+restauration, la réhabilitation ou la mise en valeur présente, au point de vue historique, architectural, archéologique,
+artistique ou paysager, un intérêt public. 
+
+Peuvent être classés, au même titre, les espaces ruraux et les paysages qui forment avec ces villes, villages ou quartiers un
+ensemble cohérent ou qui sont susceptibles de contribuer à leur conservation ou à leur mise en valeur. 
+
+Le classement au titre des sites patrimoniaux remarquables a le caractère de servitude d'utilité publique affectant
+l'utilisation des sols dans un but de protection, de conservation et de mise en valeur du patrimoine culturel. Les sites
+patrimoniaux remarquables sont dotés d'outils de médiation et de participation citoyenne.
+
+**Liens relatifs à cet article**
+
+	**Cité par**:
+
+	  - Loi n°2016-925 du 7 juillet 2016 - art. 112 (V)
+	  - Loi n°2016-925 du 7 juillet 2016 - art. 114 (V)
+	  - Loi n°2016-925 du 7 juillet 2016 - art. 119 (V)
+	  - Décret n°2017-456 du 29 mars 2017 - art. 13
+	  - Décret n°2017-456 du 29 mars 2017 - art. 14
+	  - Décret n°2017-456 du 29 mars 2017 - art. 15
+	  - Décret n°2017-456 du 29 mars 2017 - art. 7
+	  - Décret n°2017-456 du 29 mars 2017 - art. 8
+	  - Décret n°2017-919 du 9 mai 2017 - art. 1
+	  - Code de l'environnement - art. L581-8 (V)
+	  - Code de l'environnement - art. R581-16 (V)
+	  - Code de l'urbanisme - art. (V)
+	  - Code de l'urbanisme - art. L152-5 (V)
+	  - Code de l'urbanisme - art. L480-13 (V)
+	  - Code de l'urbanisme - art. R*421-12 (V)
+	  - Code de l'urbanisme - art. R*421-17-1 (V)
+	  - Code de l'urbanisme - art. R*421-28 (V)
+	  - Code de l'urbanisme - art. R111-33 (V)
+	  - Code de l'urbanisme - art. R313-29 (V)
+	  - Code de l'urbanisme - art. R462-7 (V)
+	  - Code de la construction et de l'habitation. - art. D511-13-1 (V)
+	  - Code de la construction et de l'habitation. - art. R*111-18-10 (V)
+	  - Code de la construction et de l'habitation. - art. R111-19-10 (V)
+	  - Code de la construction et de l'habitation. - art. R511-2 (V)
+	  - Code de la santé publique - art. R1331-4 (V)
+	  - Code du patrimoine - art. L611-1 (VD)
+	  - Code du patrimoine - art. L621-30 (V)
+	  - Code du patrimoine - art. L730-1 (V)
+
+	**Créé par**:
+
+	  - Loi n°2016-925 du 7 juillet 2016 - art. 75
+
+
+###### Article L631-2
+
+Les sites patrimoniaux remarquables sont classés par décision du ministre chargé de la culture, après avis de la Commission
+nationale du patrimoine et de l'architecture et enquête publique conduite par l'autorité administrative, sur proposition ou
+après accord de l'autorité compétente en matière de plan local d'urbanisme, de document en tenant lieu ou de carte communale
+et, le cas échéant, consultation de la ou des communes concernées. La Commission nationale du patrimoine et de l'architecture
+et les commissions régionales du patrimoine et de l'architecture peuvent proposer le classement au titre des sites
+patrimoniaux remarquables. Cette faculté est également ouverte aux communes membres d'un établissement public de coopération
+intercommunale lorsque le projet de classement concerne une zone intégralement ou partiellement située sur leur territoire. 
+
+A défaut d'accord de l'autorité compétente en matière de plan local d'urbanisme, de document en tenant lieu ou de carte
+communale, le site patrimonial remarquable est classé par décret en Conseil d'Etat, après avis de la Commission nationale du
+patrimoine et de l'architecture. 
+
+L'acte classant le site patrimonial remarquable en délimite le périmètre. 
+
+Le périmètre d'un site patrimonial remarquable peut être modifié selon la procédure prévue aux deux premiers alinéas du
+présent article. 
+
+Les enquêtes publiques conduites pour l'application du présent article sont réalisées dans les formes prévues au chapitre III
+du titre II du livre Ier du code de l'environnement.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°2016-925 du 7 juillet 2016 - art. 75
+
+	**Cite**:
+
+	  - Code de l'environnement -  Chapitre III : Enquêtes publiques relatives aux... (VT)
+
+	**Cité par**:
+
+	  - Code du patrimoine - art. L611-1 (VD)
+	  - Code du patrimoine - art. L631-3 (V)
+	  - Code du patrimoine - art. R631-1 (V)
+
+
+###### Article L631-3
+
+I.-Un plan de sauvegarde et de mise en valeur peut être établi sur tout ou partie du site patrimonial remarquable, dans les
+conditions prévues au chapitre III du titre Ier du livre III du code de l'urbanisme. 
+
+Sur les parties du site patrimonial remarquable non couvertes par un plan de sauvegarde et de mise en valeur, un plan de
+valorisation de l'architecture et du patrimoine est établi dans les conditions prévues à l'article L. 631-4 du présent code. 
+
+Le plan de sauvegarde et de mise en valeur ou le plan de valorisation de l'architecture et du patrimoine couvrant le
+périmètre du site patrimonial remarquable est élaboré, révisé ou modifié en concertation avec l'architecte des Bâtiments de
+France qui veille à la cohérence du projet de plan avec l'objectif de conservation, de restauration, de réhabilitation et de
+mise en valeur du site patrimonial remarquable. 
+
+L'Etat apporte son assistance technique et financière à l'autorité compétente pour l'élaboration et la révision du plan de
+valorisation de l'architecture et du patrimoine. 
+
+Dans son avis rendu en application des deux premiers alinéas de l'article L. 631-2, la Commission nationale du patrimoine et
+de l'architecture indique le document d'urbanisme permettant, sur tout ou partie du périmètre, la protection, la conservation
+et la mise en valeur effectives du patrimoine culturel. Elle peut assortir son avis de recommandations et d'orientations. 
+
+II.-A compter de la publication de la décision de classement d'un site patrimonial remarquable, il est institué une
+commission locale du site patrimonial remarquable, composée de représentants locaux permettant d'assurer la représentation de
+la ou des communes concernées, de représentants de l'Etat, de représentants d'associations ayant pour objet la protection, la
+promotion ou la mise en valeur du patrimoine et de personnalités qualifiées. 
+
+Elle est consultée au moment de l'élaboration, de la révision ou de la modification du plan de valorisation de l'architecture
+et du patrimoine et, le cas échéant, sur le projet de plan de sauvegarde et de mise en valeur et assure le suivi de sa mise
+en œuvre après son adoption. Elle peut également proposer la modification ou la mise en révision du plan de valorisation de
+l'architecture et du patrimoine ou du plan de sauvegarde et de mise en valeur.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°2016-925 du 7 juillet 2016 - art. 75
+
+	**Cité par**:
+
+	  - Décret n°2017-456 du 29 mars 2017 - art. 14
+	  - Code de l'urbanisme - art. L313-1 (V)
+	  - Code de l'urbanisme - art. R313-1 (V)
+	  - Code du patrimoine - art. D631-5 (V)
+
+	**Cite**:
+
+	  - Code du patrimoine - art. L631-2 (V)
+	  - Code du patrimoine - art. L631-4 (V)
+
+
+###### Article L631-4
+
+I.-Le plan de valorisation de l'architecture et du patrimoine a le caractère de servitude d'utilité publique. Il comprend : 
+
+1° Un rapport de présentation des objectifs du plan, fondé sur un diagnostic comprenant un inventaire du patrimoine et des
+éléments paysagers sur le périmètre couvert par le plan ; 
+
+2° Un règlement comprenant : 
+
+a) Des prescriptions relatives à la qualité architecturale des constructions neuves ou existantes, notamment aux matériaux
+ainsi qu'à leur implantation, leur volumétrie et leurs abords ; 
+
+b) Des règles relatives à la conservation ou à la mise en valeur du patrimoine bâti et des espaces naturels ou urbains ; 
+
+c) La délimitation des immeubles, espaces publics, monuments, sites, cours et jardins, l'identification des plantations et
+mobiliers urbains à protéger et à conserver, à mettre en valeur ou à requalifier pour des motifs d'ordre culturel, historique
+ou architectural et les prescriptions permettant d'assurer leur conservation ou leur restauration ; 
+
+d) Un document graphique faisant apparaître le périmètre couvert par le plan, une typologie des constructions, les immeubles
+protégés, bâtis ou non, dont la conservation, la restauration, la mise en valeur ou la requalification est imposée et, le cas
+échéant, les conditions spéciales relatives à l'implantation, à la morphologie, aux dimensions des constructions et aux
+matériaux du clos et couvert. 
+
+II.-Le projet de plan de valorisation de l'architecture et du patrimoine est arrêté par l'organe délibérant de l'autorité
+compétente en matière de plan local d'urbanisme, de document en tenant lieu ou de carte communale et, le cas échéant, après
+avis de l'organe délibérant de la ou des communes concernées. En cas de désaccord, l'avis de la Commission nationale du
+patrimoine et de l'architecture est sollicité. 
+
+Le projet de plan de valorisation de l'architecture et du patrimoine arrêté par l'organe délibérant de l'autorité compétente
+en matière de plan local d'urbanisme, de document en tenant lieu ou de carte communale est soumis pour avis à la commission
+régionale du patrimoine et de l'architecture. 
+
+L'élaboration, la révision ou la modification du projet de plan de valorisation de l'architecture et du patrimoine peut être
+déléguée par l'autorité compétente en matière de plan local d'urbanisme, de document en tenant lieu ou de carte communale aux
+communes qui en font la demande par délibération de leur organe délibérant. Cette délégation s'accompagne de la mise à
+disposition de moyens techniques et financiers. 
+
+Il donne lieu à un examen conjoint des personnes publiques mentionnées aux articles L. 132-7 et L. 132-9 du code de
+l'urbanisme. 
+
+Il fait l'objet d'une enquête publique dans les conditions définies au chapitre III du titre II du livre Ier du code de
+l'environnement.
+
+Il est adopté par l'organe délibérant de l'autorité compétente en matière de plan local d'urbanisme, de document en tenant
+lieu ou de carte communale, après accord de l'autorité administrative. 
+
+L'élaboration, la révision ou la modification du plan de valorisation de l'architecture et du patrimoine et l'élaboration, la
+révision ou la modification du plan local d'urbanisme peuvent faire l'objet d'une procédure unique et d'une même enquête
+publique dans les conditions définies au chapitre III du titre II du livre Ier du même code. 
+
+Le plan de valorisation de l'architecture et du patrimoine est annexé au plan local d'urbanisme en application de l'article
+L. 151-43 du code de l'urbanisme. 
+
+III.-La révision du plan de valorisation de l'architecture et du patrimoine a lieu dans les mêmes conditions que celles
+prévues au II du présent article. 
+
+Le plan de valorisation de l'architecture et du patrimoine peut également être modifié lorsqu'il n'est pas porté atteinte à
+l'économie générale de ses dispositions relatives à la protection du patrimoine bâti et des espaces. La modification est
+prononcée, après enquête publique, consultation de l'architecte des Bâtiments de France puis accord de l'autorité
+administrative, par délibération de l'organe délibérant de l'autorité mentionnée au premier alinéa du même II. 
+
+La modification du plan de valorisation de l'architecture et du patrimoine emporte, le cas échéant, la modification du plan
+local d'urbanisme.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°2016-925 du 7 juillet 2016 - art. 75
+
+	**Cité par**:
+
+	  - Décret n°2017-456 du 29 mars 2017 - art. 14
+	  - Décret n°2017-456 du 29 mars 2017 - art. 8
+	  - Code de l'environnement - art. R122-17 (VD)
+	  - Code de l'urbanisme - art. (V)
+	  - Code de l'urbanisme - art. L300-6-1 (V)
+	  - Code de l'urbanisme - art. R313-5 (V)
+	  - Code du patrimoine - art. D631-10 (V)
+	  - Code du patrimoine - art. D631-12 (V)
+	  - Code du patrimoine - art. D631-13 (V)
+	  - Code du patrimoine - art. D631-14 (V)
+	  - Code du patrimoine - art. D631-7 (V)
+	  - Code du patrimoine - art. D631-8 (V)
+	  - Code du patrimoine - art. D631-9 (V)
+	  - Code du patrimoine - art. L611-2 (VD)
+	  - Code du patrimoine - art. L631-3 (V)
+	  - Code du patrimoine - art. R631-6 (V)
+
+	**Cite**:
+
+	  - Code de l'urbanisme - art. L132-7 (V)
+	  - Code de l'urbanisme - art. L132-9 (V)
+	  - Code de l'urbanisme - art. L151-43 (V)
+	  - Code de l'environnement -  Chapitre III : Enquêtes publiques relatives aux... (VT)
+
+
+###### Article L631-5
+
+La Commission nationale du patrimoine et de l'architecture peut, à tout moment, demander un rapport ou émettre un avis sur
+l'état de conservation du site patrimonial remarquable. Ses avis sont transmis pour débat à l'organe délibérant de l'autorité
+compétente en matière de plan local d'urbanisme, de document en tenant lieu ou de carte communale. Elle peut également
+émettre des recommandations sur l'évolution du plan de sauvegarde et de mise en valeur ou du plan de valorisation de
+l'architecture et du patrimoine.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°2016-925 du 7 juillet 2016 - art. 75
+
+
+#### Chapitre II : Régime des travaux
+
+###### Article L632-1
+
+Dans le périmètre d'un site patrimonial remarquable, sont soumis à une autorisation préalable les travaux susceptibles de
+modifier l'état des parties extérieures des immeubles bâtis, y compris du second œuvre, ou des immeubles non bâtis. 
+
+Sont également soumis à une autorisation préalable les travaux susceptibles de modifier l'état des éléments d'architecture et
+de décoration, immeubles par nature ou effets mobiliers attachés à perpétuelle demeure, au sens des articles 524 et 525 du
+code civil, lorsque ces éléments, situés à l'extérieur ou à l'intérieur d'un immeuble, sont protégés par le plan de
+sauvegarde et de mise en valeur. Pendant la phase de mise à l'étude du plan de sauvegarde et de mise en valeur, sont soumis à
+une autorisation préalable les travaux susceptibles de modifier l'état des parties intérieures du bâti. 
+
+L'autorisation peut être refusée ou assortie de prescriptions lorsque les travaux sont susceptibles de porter atteinte à la
+conservation ou à la mise en valeur du site patrimonial remarquable.
+
+**Liens relatifs à cet article**
+
+	**Cité par**:
+
+	  - Loi n°2016-925 du 7 juillet 2016 - art. 112 (V)
+	  - Décret n°2017-81 du 26 janvier 2017 - art. 1
+	  - Décret n°2017-82 du 26 janvier 2017 - art. 2
+	  - Décret n°2017-456 du 29 mars 2017 - art. 18
+	  - Code de l'environnement - art. D181-15-2 (V)
+	  - Code de l'environnement - art. L181-2 (VD)
+	  - Code de l'environnement - art. R181-32 (VD)
+	  - Code de l'urbanisme - art. R*425-2 (V)
+	  - Code de l'urbanisme - art. R313-5 (V)
+	  - Code du patrimoine - art. D631-13 (V)
+	  - Code du patrimoine - art. D632-1 (V)
+	  - Code du patrimoine - art. L632-2 (VD)
+	  - Code du patrimoine - art. L632-3 (V)
+	  - Code du patrimoine - art. L641-1 (VD)
+	  - Code du patrimoine - art. L720-1 (VD)
+	  - Code du patrimoine - art. L730-1 (V)
+
+	**Créé par**:
+
+	  - Loi n°2016-925 du 7 juillet 2016 - art. 75
+
+	**Cite**:
+
+	  - Code civil - art. 524 (V)
+
+
+###### Article L632-2
+
+I.-Le permis de construire, le permis de démolir, le permis d'aménager, l'absence d'opposition à déclaration préalable ou
+l'autorisation prévue au titre des sites classés en application de l'article L. 341-10 du code de l'environnement tient lieu
+de l'autorisation prévue à l'article L. 632-1 du présent code si l'architecte des Bâtiments de France a donné son accord, le
+cas échéant assorti de prescriptions motivées. A ce titre, il s'assure du respect de l'intérêt public attaché au patrimoine,
+à l'architecture, au paysage naturel ou urbain, à la qualité des constructions et à leur insertion harmonieuse dans le milieu
+environnant. Il s'assure, le cas échéant, du respect des règles du plan de sauvegarde et de mise en valeur ou du plan de
+valorisation de l'architecture et du patrimoine. 
+
+En cas de silence de l'architecte des Bâtiments de France, cet accord est réputé donné. 
+
+L'autorisation délivrée énonce, le cas échéant, les prescriptions motivées auxquelles le demandeur doit se conformer. 
+
+II.-En cas de désaccord avec l'architecte des Bâtiments de France, l'autorité compétente pour délivrer l'autorisation
+transmet le dossier accompagné de son projet de décision à l'autorité administrative, qui statue après avis de la commission
+régionale du patrimoine et de l'architecture. En cas de silence, l'autorité administrative est réputée avoir rejeté ce projet
+de décision. 
+
+III.-Un recours peut être exercé par le demandeur à l'occasion du refus d'autorisation de travaux. Il est alors adressé à
+l'autorité administrative, qui statue. En cas de silence, l'autorité administrative est réputée avoir confirmé la décision de
+l'autorité compétente pour délivrer l'autorisation. 
+
+IV.-Un décret en Conseil d'Etat détermine les conditions d'application du présent article.
+
+**Liens relatifs à cet article**
+
+	**Cité par**:
+
+	  - Loi n°2016-925 du 7 juillet 2016 - art. 112 (V)
+	  - Code du patrimoine - art. L611-2 (VD)
+	  - Code du patrimoine - art. L621-32 (V)
+
+	**Créé par**:
+
+	  - Loi n°2016-925 du 7 juillet 2016 - art. 75
+
+	**Cite**:
+
+	  - Code de l'environnement - art. L341-10 (V)
+	  - Code du patrimoine - art. L632-1 (V)
+
+
+###### Article L632-3
+
+Les articles L. 632-1 et L. 632-2 ne sont pas applicables aux immeubles ou parties d'immeubles protégés au titre des
+monuments historiques. 
+
+Les servitudes d'utilité publique instituées en application de l'article L. 341-1 du code de l'environnement ne sont pas
+applicables aux immeubles situés dans le périmètre d'un site patrimonial remarquable.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°2016-925 du 7 juillet 2016 - art. 75
+
+	**Cite**:
+
+	  - Code de l'environnement - art. L341-1 (V)
+	  - Code du patrimoine - art. L632-1 (V)
+
+
+#### Chapitre III : Dispositions fiscales
+
+###### Article L633-1
+
+I.-Les règles fiscales relatives à la détermination du revenu net des personnes propriétaires d'un immeuble situé dans un
+site patrimonial remarquable pour lequel une demande de permis de construire ou une déclaration de travaux a été déposée au
+plus tard le 31 décembre 2008 sont fixées au b ter du 1° du I de l'article 31 et au I de l'article 156 du code général des
+impôts. 
+
+II.-Les règles fiscales relatives à la réduction d'impôt dont peuvent bénéficier les personnes propriétaires d'un immeuble
+situé dans un site patrimonial remarquable pour lequel une demande de permis de construire ou une déclaration de travaux a
+été déposée à compter du 1er janvier 2009 sont fixées à l'article 199 tervicies du même code.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°2016-925 du 7 juillet 2016 - art. 75
+
+	**Cite**:
+
+	  - Code général des impôts, CGI. - art. 156 (VT)
+	  - Code général des impôts, CGI. - art. 199 tervicies (V)
+	  - Code général des impôts, CGI. - art. 31 (VT)
+
+	**Cité par**:
+
+	  - Code du patrimoine - art. L720-1 (VD)
+
+
+### TITRE IV : DISPOSITIONS PÉNALES ET SANCTIONS ADMINISTRATIVES
+
+#### Chapitre 1er : Dispositions pénales
+
+###### Article L641-1
+
+I.-Est puni des peines prévues à l'article L. 480-4 du code de l'urbanisme le fait de réaliser des travaux : 
+
+1° Sans l'autorisation prévue à l'article L. 621-9 du présent code relatif aux travaux sur les immeubles classés au titre des
+monuments historiques et au détachement d'un effet mobilier attaché à perpétuelle demeure à l'immeuble ; 
+
+2° Sans la déclaration ou l'accord prévu à l'article L. 621-27 relatif aux travaux sur les immeubles ou les parties
+d'immeuble inscrits au titre des monuments historiques et au détachement d'un effet mobilier attaché à perpétuelle demeure à
+l'immeuble ; 
+
+3° Sans l'autorisation prévue à l'article L. 621-32 relatif aux travaux sur les immeubles situés en abords ; 
+
+4° Sans l'autorisation prévue aux articles L. 632-1 et L. 632-2 relatifs aux travaux sur les immeubles situés en site
+patrimonial remarquable. 
+
+II.-Les articles L. 480-1, L. 480-2, L. 480-3 et L. 480-5 à L. 480-9 du code de l'urbanisme sont applicables aux infractions
+prévues au I du présent article, sous la seule réserve des conditions suivantes : 
+
+1° Les infractions peuvent être constatées par les agents publics commissionnés à cet effet par le ministre chargé de la
+culture et assermentés ; 
+
+2° Pour l'application de l'article L. 480-2 du code de l'urbanisme, le représentant de l'Etat dans la région ou le ministre
+chargé de la culture peut saisir l'autorité judiciaire d'une demande d'interruption des travaux et, dès qu'un procès-verbal
+relevant l'une des infractions prévues au I du présent article a été dressé, ordonner, par arrêté motivé, l'interruption des
+travaux si l'autorité judiciaire ne s'est pas encore prononcée ; 
+
+3° Pour l'application de l'article L. 480-5 du code de l'urbanisme, le tribunal statue soit sur la mise en conformité des
+lieux ou des ouvrages avec les prescriptions formulées par le ministre chargé de la culture, soit sur la démolition des
+ouvrages ou la réaffectation du sol en vue du rétablissement des lieux dans leur état antérieur. Le tribunal peut soit fixer
+une astreinte, soit ordonner l'exécution d'office aux frais de l'auteur de l'infraction ; 
+
+4° Le droit de visite et de communication prévu à l'article L. 461-1 du code de l'urbanisme est ouvert aux agents publics
+commissionnés à cet effet par le ministre chargé de la culture et assermentés. L'article L. 480-12 du même code est
+applicable.
+
+**Nota:**
+
+
+
+**Liens relatifs à cet article**
+
+	**Modifié par**:
+
+	  - Loi n°2016-925 du 7 juillet 2016 - art. 77
+
+	**Cite**:
+
+	  - Code de l'urbanisme - art. L461-1 (V)
+	  - Code de l'urbanisme - art. L480-1 (V)
+	  - Code de l'urbanisme - art. L480-12 (V)
+	  - Code de l'urbanisme - art. L480-4 (V)
+	  - Code de l'urbanisme - art. L480-5 (V)
+	  - Code du patrimoine - art. L621-27 (V)
+	  - Code du patrimoine - art. L621-32 (V)
+	  - Code du patrimoine - art. L621-9 (V)
+	  - Code du patrimoine - art. L632-1 (V)
 
 	**Cité par**:
 
 	  - Code de l'environnement - art. L331-18 (V)
+	  - Code du patrimoine - art. L612-1 (V)
 	  - Code du patrimoine - art. L622-1 (VD)
 	  - Code du patrimoine - art. L720-1 (VD)
-	  - Code du patrimoine. - art. L612-1 (VD)
 
 
 ###### Article L641-2
 
-Les règles relatives aux sanctions fixées par l'article L. 480-1 du code de l'urbanisme sont applicables au présent titre et
-ci-après reproduites : 
+I.-Est puni de six mois d'emprisonnement et de 7 500 € d'amende le fait d'enfreindre les dispositions : 
 
-" Art. L. 480-1.-Les infractions aux dispositions des titres Ier, II, III, IV et VI du présent livre sont constatées par tous
-officiers ou agents de police judiciaire ainsi que par tous les fonctionnaires et agents de l'Etat et des collectivités
-publiques commissionnés à cet effet par le maire ou le ministre chargé de l'urbanisme suivant l'autorité dont ils relèvent et
-assermentés. Les procès-verbaux dressés par ces agents font foi jusqu'à preuve du contraire. 
+1° De l'article L. 622-1-1 relatif à la division ou à l'aliénation par lot ou pièce d'un ensemble historique mobilier
+classé ; 
 
-Les infractions visées à l'article L. 480-4 peuvent être constatées par les agents commissionnés à cet effet par le ministre
-chargé des monuments historiques et des sites, et assermentés, lorsqu'elles affectent des immeubles compris dans un secteur
-sauvegardé ou soumis aux dispositions législatives du code du patrimoine relatives aux monuments historiques ou aux
-dispositions législatives du code de l'environnement relatives aux sites et qu'elles consistent, soit dans le défaut de
-permis de construire, soit dans la non-conformité de la construction ou des travaux au permis de construire accordé. Il en
-est de même des infractions aux prescriptions établies en application des articles L. 522-1 à L. 522-4 du code du
-patrimoine. 
+2° De l'article L. 622-1-2 relatif au déplacement d'un objet mobilier classé ou de tout ou partie d'un ensemble historique
+mobilier classé grevé d'une servitude de maintien dans les lieux dans un immeuble classé ; 
 
-Lorsque l'autorité administrative et, au cas où il est compétent pour délivrer les autorisations, le maire ou le président de
-l'établissement public de coopération intercommunale compétent ont connaissance d'une infraction de la nature de celles que
-prévoient les articles L. 610-1 et L. 480-4, ils sont tenus d'en faire dresser procès verbal. 
+3° De l'article L. 622-7 relatif à la modification, à la réparation ou à la restauration d'un objet mobilier classé au titre
+des monuments historiques ou d'un ou plusieurs éléments d'un ensemble historique mobilier classé au titre des monuments
+historiques ; 
 
-Copie du procès-verbal constatant une infraction est transmise sans délai au ministère public. 
+4° De l'article L. 622-22 relatif à la modification, à la réparation ou à la restauration d'un objet mobilier inscrit au
+titre des monuments historiques. 
 
-Toute association agréée de protection de l'environnement en application des dispositions de l'article L. 141-1 du code de
-l'environnement peut exercer les droits reconnus à la partie civile en ce qui concerne les faits constituant une infraction à
-l'alinéa 1er du présent article et portant un préjudice direct ou indirect aux intérêts collectifs qu'elle a pour objet de
-défendre. 
+II.-Dès qu'un procès-verbal relevant que des travaux ont été engagés en infraction aux articles L. 622-7 et L. 622-22 a été
+dressé, le ministre chargé de la culture ou son délégué peut, si l'autorité judiciaire ne s'est pas encore prononcée,
+prescrire leur interruption et la remise en état de l'objet mobilier aux frais de l'auteur de l'infraction, par une décision
+motivée. 
 
-La commune ainsi que l'établissement public de coopération intercommunale compétent en matière d'urbanisme peuvent exercer
-les droits reconnus à la partie civile, en ce qui concerne les faits commis sur leur territoire et constituant une infraction
-à l'alinéa premier du présent article. "
+L'interruption des travaux et la remise en état de l'objet mobilier aux frais de l'auteur de l'infraction peuvent être
+ordonnées soit sur réquisition du ministère public agissant à la requête du ministre, soit même d'office par la juridiction
+compétente, laquelle peut fixer une astreinte ou ordonner l'exécution d'office par l'administration aux frais des
+délinquants. 
+
+III.-La poursuite de l'infraction prévue au 3° du I du présent article s'exerce sans préjudice de l'action en dommages et
+intérêts pouvant être introduite contre ceux qui ont ordonné les travaux exécutés ou les mesures prises en violation de
+l'article L. 622-7.
 
 **Liens relatifs à cet article**
 
 	**Modifié par**:
 
-	  - ORDONNANCE n°2015-1174 du 23 septembre 2015 - art. 9
+	  - Loi n°2016-925 du 7 juillet 2016 - art. 77
 
 	**Cite**:
 
-	  - Code de l'urbanisme - art. L480-4
-	  - Code de l'urbanisme - art. L610-1 (VD)
-	  - Code de l'environnement - art. L141-1
-	  - Code du patrimoine - art. L522-1
+	  - Code du patrimoine - art. L622-1-1 (V)
+	  - Code du patrimoine - art. L622-1-2 (V)
+	  - Code du patrimoine - art. L622-22 (V)
+	  - Code du patrimoine - art. L622-7 (V)
 
 	**Cité par**:
 
@@ -11873,21 +12514,52 @@ les droits reconnus à la partie civile, en ce qui concerne les faits commis sur
 	  - Code du patrimoine. - art. L720-1 (V)
 
 
-#### Chapitre 2 : Aires de mise en valeur de l'architecture et du patrimoine.
+###### Article L641-3
+
+Les infractions prévues à l'article L. 641-2 sont constatées à la diligence du ministre chargé de la culture. Elles peuvent
+l'être par des procès-verbaux dressés par les agents publics du ministère chargé de la culture commissionnés à cet effet et
+assermentés.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°2016-925 du 7 juillet 2016 - art. 77
+
+	**Cite**:
+
+	  - Code du patrimoine - art. L641-2 (V)
+
+
+###### Article L641-4
+
+Est puni de six mois d'emprisonnement et de 7 500 € d'amende le fait, pour toute personne chargée de la conservation ou de la
+surveillance d'un immeuble ou d'un objet mobilier protégé au titre des monuments historiques, par négligence grave ou par
+manquement grave à une obligation professionnelle, de le laisser détruire, abattre, mutiler, dégrader ou soustraire.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°2016-925 du 7 juillet 2016 - art. 77
+
+
+#### Chapitre 2 : Sanctions administratives
 
 ###### Article L642-1
 
-Une aire de mise en valeur de l'architecture et du patrimoine peut être créée à l'initiative de la ou des communes ou d'un
-établissement public de coopération intercommunale lorsqu'il est compétent en matière d'élaboration du plan local
-d'urbanisme, sur un ou des territoires présentant un intérêt culturel, architectural, urbain, paysager, historique ou
-archéologique.
+Est passible d'une amende administrative dont le montant ne peut excéder 6 000 € pour une personne physique et 30 000 € pour
+une personne morale, le fait d'enfreindre les dispositions : 
 
-Elle a pour objet de promouvoir la mise en valeur du patrimoine bâti et des espaces dans le respect du développement durable.
-Elle est fondée sur un diagnostic architectural, patrimonial et environnemental, prenant en compte les orientations du projet
-d'aménagement et de développement durables du plan local d'urbanisme, afin de garantir la qualité architecturale des
-constructions existantes et à venir ainsi que l'aménagement des espaces.
+1° Des articles L. 621-22 et L. 621-29-6 relatifs à l'aliénation d'un immeuble classé ou inscrit au titre des monuments
+historiques ; 
 
-L'aire de mise en valeur de l'architecture et du patrimoine a le caractère de servitude d'utilité publique.
+2° De l'article L. 622-8 relatif à la présentation des objets mobiliers classés au titre des monuments historiques ; 
+
+3° Des articles L. 622-16 et L. 622-23 relatifs à l'aliénation d'un objet mobilier classé ou inscrit au titre des monuments
+historiques ; 
+
+4° De l'article L. 622-28 relatif au déplacement d'un objet mobilier classé ou inscrit au titre des monuments historiques.
 
 **Liens relatifs à cet article**
 
@@ -11920,54 +12592,39 @@ L'aire de mise en valeur de l'architecture et du patrimoine a le caractère de s
 	  - Code de la construction et de l'habitation. - art. R511-2 (M)
 	  - Code de la santé publique - art. R1331-4 (M)
 	  - Code du patrimoine - art. D642-4 (Ab)
+	  - Code du patrimoine - art. L642-3 (Ab)
 	  - Code du patrimoine - art. L642-4 (Ab)
 	  - Code du patrimoine - art. L642-5 (Ab)
 	  - Code du patrimoine - art. L642-6 (Ab)
 	  - Code du patrimoine - art. R642-1 (V)
 	  - Code du patrimoine. - art. L642-2 (M)
-	  - Code du patrimoine. - art. L642-3 (VD)
 	  - Code général des impôts, CGI. - art. 199 tervicies (V)
 	  - Code général des impôts, CGI. - art. 31 (VT)
 
 	**Modifié par**:
 
-	  - Loi n°2010-788 du 12 juillet 2010 - art. 28
+	  - Loi n°2016-925 du 7 juillet 2016 - art. 77
 
 	**Liens**:
 
 	  - PILOTE_SUIVEUR: Code de l'environnement - art. L350-2 (Ab)
 
+	**Cite**:
+
+	  - Code du patrimoine - art. L621-22 (V)
+	  - Code du patrimoine - art. L621-29-6 (V)
+	  - Code du patrimoine - art. L622-16 (V)
+	  - Code du patrimoine - art. L622-23 (V)
+	  - Code du patrimoine - art. L622-28 (V)
+	  - Code du patrimoine - art. L622-8 (V)
+
 
 ###### Article L642-2
 
-Le dossier relatif à la création de l'aire de mise en valeur de l'architecture et du patrimoine comporte : 
-
-― un rapport de présentation des objectifs de l'aire. Ces objectifs sont fondés sur le diagnostic mentionné au deuxième
-alinéa de l'article L. 642-1 et déterminés en fonction du projet d'aménagement et de développement durables du plan local
-d'urbanisme s'il est entré en vigueur ; 
-
-― un règlement comprenant des prescriptions ; 
-
-― et un document graphique faisant apparaître le périmètre de l'aire, une typologie des constructions, les immeubles
-protégés, bâtis ou non, dont la conservation est imposée et, le cas échéant, les conditions spéciales relatives à
-l'implantation, à la morphologie et aux dimensions des constructions. 
-
-Le règlement de l'aire de mise en valeur de l'architecture et du patrimoine contient des règles relatives : 
-
-― à la qualité architecturale des constructions nouvelles ou des aménagements de constructions existantes ainsi qu'à la
-conservation ou à la mise en valeur du patrimoine bâti et des espaces naturels ou urbains ; 
-
-― à l'intégration architecturale et à l'insertion paysagère des constructions, ouvrages, installations ou travaux visant tant
-à l'exploitation des énergies renouvelables ou aux économies d'énergie qu'à la prise en compte d'objectifs environnementaux.
-
-**Nota:**
-
-L'article 240 de la loi n° 2010-788 modifie l'article L. 642-2 du code du patrimoine, or celui-ci a été réécrit par l'article
-28 de ladite loi.
-
-Ces dispositions s'appliquent aux projets, plans, programmes ou autres documents de planification pour lesquels l'arrêté
-d'ouverture et d'organisation de l'enquête publique est publié à compter du premier jour du sixième mois après la publication
-du décret en Conseil d'Etat prévu à l'article L. 123-19 du code de l'environnement.
+Le fait, pour toute personne, d'aliéner ou d'acquérir un objet mobilier classé au titre des monuments historiques, en
+violation de l'article L. 622-14, est passible d'une amende administrative dont le montant ne peut excéder 6 000 € pour une
+personne physique et 30 000 € pour une personne morale, sans préjudice des actions en dommages et intérêts prévues à
+l'article L. 622-17.
 
 **Liens relatifs à cet article**
 
@@ -11990,8 +12647,7 @@ du décret en Conseil d'Etat prévu à l'article L. 123-19 du code de l'environn
 
 	**Modifié par**:
 
-	  - Loi n°2010-788 du 12 juillet 2010 - art. 28
-	  - Loi n°2010-788 du 12 juillet 2010 - art. 240
+	  - Loi n°2016-925 du 7 juillet 2016 - art. 77
 
 	**Liens**:
 
@@ -11999,372 +12655,115 @@ du décret en Conseil d'Etat prévu à l'article L. 123-19 du code de l'environn
 
 	**Cite**:
 
-	  - Code du patrimoine. - art. L642-1 (V)
+	  - Code du patrimoine - art. L622-14 (V)
+	  - Code du patrimoine - art. L622-17 (V)
 
 
-###### Article L642-3
+### TITRE V : QUALITÉ ARCHITECTURALE 
 
-La mise à l'étude de la création ou de la révision de l'aire de mise en valeur de l'architecture et du patrimoine est décidée
-par délibération de l'organe délibérant de l'autorité mentionnée au premier alinéa de l'article L. 642-1. La délibération
-mentionne les modalités de la concertation prévue à l'article L. 103-3 du code de l'urbanisme. 
 
-Le projet de création ou de révision de l'aire de mise en valeur de l'architecture et du patrimoine est arrêté par
-délibération de cette autorité. Le projet arrêté est soumis à l'avis de la commission régionale du patrimoine et des sites
-prévue à l'article L. 612-1 du présent code. 
 
-Ce projet donne lieu à un examen conjoint des personnes publiques mentionnées à l'article L. 153-54 du code de l'urbanisme. 
+###### Article L650-1
 
-Il fait l'objet d'une enquête publique conduite par les autorités compétentes concernées. L'organe délibérant de l'autorité
-mentionnée au premier alinéa de l'article L. 642-1 du présent code peut, par délibération, désigner à cette fin l'une de ces
-autorités compétentes concernées. 
+I.-Les immeubles, les ensembles architecturaux, les ouvrages d'art et les aménagements, parmi les réalisations de moins de
+cent ans d'âge, dont la conception présente un intérêt architectural ou technique suffisant reçoivent un label par décision
+motivée de l'autorité administrative, après avis de la commission régionale du patrimoine et de l'architecture. 
 
-Lorsque le projet n'est pas compatible avec les dispositions du plan local d'urbanisme, l'aire de mise en valeur de
-l'architecture et du patrimoine ne peut être créée que si celui-ci a été mis en compatibilité avec ses dispositions selon la
-procédure définie aux articles L. 153-54 à L. 153-59 du code de l'urbanisme. 
+Le label disparaît de plein droit si l'immeuble est classé ou inscrit au titre des monuments historiques, ou cent ans après
+sa construction. 
 
-Après accord du préfet, l'aire de mise en valeur de l'architecture et du patrimoine est créée ou révisée par délibération de
-l'autorité mentionnée au premier alinéa de l'article L. 642-1 du présent code. Lorsque l'enquête publique précitée a porté à
-la fois sur l'aire et sur un plan local d'urbanisme, l'acte portant création ou révision de l'aire prononce également la
-révision ou la modification du plan local d'urbanisme.
+II.-Lorsque l'immeuble, l'ensemble architectural, l'ouvrage d'art ou l'aménagement bénéficiant de ce label n'est pas protégé
+au titre des abords et des sites patrimoniaux remarquables ou identifié en application de l'article L. 151-19 du code de
+l'urbanisme, son propriétaire informe l'autorité compétente pour attribuer le label, préalablement au dépôt de la demande de
+permis ou de la déclaration préalable, qu'il envisage de réaliser des travaux susceptibles de le modifier. 
 
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Loi n°83-8 du 7 janvier 1983 - art. 71 (Ab)
-
-	**Cité par**:
-
-	  - Décret n°84-304 du 25 avril 1984 - art. 9 (Ab)
-	  - Décret n°99-78 du 5 février 1999 - art. 2-1 (Ab)
-	  - Code de l'environnement - art. L350-2 (M)
-	  - Code de l'urbanisme - art. R*315-18 (Ab)
-	  - Code de l'urbanisme - art. R*421-38-6 (Ab)
-	  - Code de l'urbanisme - art. R*425-2 (V)
-	  - Code de l'urbanisme - art. R*430-13 (Ab)
-	  - Code de l'urbanisme - art. R*442-11-1 (Ab)
-	  - Code du patrimoine - art. D642-1 (Ab)
-	  - Code du patrimoine - art. D642-10 (Ab)
-	  - Code du patrimoine - art. D642-5 (Ab)
-	  - Code du patrimoine - art. D642-7 (Ab)
-	  - Code du patrimoine - art. D642-8 (Ab)
-	  - Code du patrimoine - art. D642-9 (Ab)
-	  - Code du patrimoine - art. L612-1 (V)
-	  - Code du patrimoine. - art. L642-2 (V)
-	  - Code du patrimoine. - art. L642-4 (V)
-
-	**Modifié par**:
-
-	  - ORDONNANCE n°2015-1174 du 23 septembre 2015 - art. 9
-
-	**Abrogé par**:
-
-	  - Loi n°2016-925 du 7 juillet 2016 - art. 77
-
-	**Cite**:
-
-	  - Code de l'urbanisme - art. L153-54
-	  - Code du patrimoine - art. L642-1 (V)
-
-
-###### Article L642-4
-
-Une aire de mise en valeur de l'architecture et du patrimoine peut également être modifiée lorsqu'il n'est pas porté atteinte
-à l'économie générale de ses dispositions relatives à la protection du patrimoine bâti et des espaces. La modification est
-prononcée, après enquête publique puis accord du préfet, par délibération de l'organe délibérant de l'autorité mentionnée au
-premier alinéa de l'article L. 642-1. 
-
-La modification de l'aire de mise en valeur de l'architecture et du patrimoine emporte, le cas échéant, la modification du
-plan local d'urbanisme. 
-
-Une aire de mise en valeur de l'architecture et du patrimoine peut être adaptée dans les conditions définies à l'article L.
-300-6-1 du code de l'urbanisme.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Loi n°83-8 du 7 janvier 1983 - art. 71 (Ab)
-
-	**Modifié par**:
-
-	  - Ordonnance n°2013-888 du 3 octobre 2013 - art. 5
-
-	**Abrogé par**:
-
-	  - Loi n°2016-925 du 7 juillet 2016 - art. 77
-
-	**Cite**:
-
-	  - Code de l'urbanisme - art. L300-6-1 (M)
-	  - Code du patrimoine - art. L642-1
-
-	**Cité par**:
-
-	  - Code de l'urbanisme - art. R*315-18 (Ab)
-	  - Code de l'urbanisme - art. R*442-11-1 (Ab)
-
-
-###### Article L642-5
-
-Une instance consultative, associant : 
-
-― des représentants de la ou des collectivités territoriales et des établissements publics de coopération intercommunale
-intéressés ; 
-
-― le préfet ou son représentant ; 
-
-― le directeur régional de l'environnement, de l'aménagement et du logement ou son représentant ; 
-
-― le directeur régional des affaires culturelles ou son représentant ; 
-
-― ainsi que des personnes qualifiées, d'une part, au titre de la protection du patrimoine et, d'autre part, au titre des
-intérêts économiques concernés, 
-
-est constituée par délibération de l'organe délibérant de l'autorité mentionnée au premier alinéa de l'article L. 642-1 lors
-de la mise à l'étude de la création ou de la révision d'une aire de mise en valeur de l'architecture et du patrimoine. 
-
-Cette instance consultative a pour mission d'assurer le suivi de la conception et de la mise en œuvre des règles applicables
-à l'aire de mise en valeur de l'architecture et du patrimoine. Dans le cadre de l'instruction des demandes d'autorisation de
-travaux, elle peut être consultée par l'autorité compétente pour délivrer l'autorisation sur tout projet d'opération
-d'aménagement, de construction ou de démolition, notamment lorsque celui-ci nécessite une adaptation mineure des dispositions
-de l'aire de mise en valeur de l'architecture et du patrimoine. 
-
-Lorsque l'aire de mise en valeur de l'architecture et du patrimoine intéresse, en tout ou partie, une commune sur le
-territoire de laquelle un secteur sauvegardé a été créé en application de l'article L. 313-1 du code de l'urbanisme, le
-préfet peut décider, après délibération de la ou des collectivités territoriales, l'extension des compétences de la
-commission locale du secteur sauvegardé, constituée en application du même article L. 313-1, aux compétences mentionnées au
-huitième alinéa du présent article.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Loi n°83-8 du 7 janvier 1983 - art. 72 (Ab)
-
-	**Modifié par**:
-
-	  - Loi n°2010-788 du 12 juillet 2010 - art. 28
-
-	**Abrogé par**:
-
-	  - Loi n°2016-925 du 7 juillet 2016 - art. 77
-
-	**Cite**:
-
-	  - Code de l'urbanisme - art. L313-1 (V)
-	  - Code du patrimoine - art. L642-1
-
-	**Cité par**:
-
-	  - Code de l'urbanisme - art. R*423-68 (V)
-	  - Code du patrimoine - art. D642-2 (Ab)
-	  - Code du patrimoine - art. L642-6 (Ab)
-
-
-###### Article L642-6
-
-Tous travaux, à l'exception des travaux sur un monument historique classé, ayant pour objet ou pour effet de transformer ou
-de modifier l'aspect d'un immeuble, bâti ou non, compris dans le périmètre d'une aire de mise en valeur de l'architecture et
-du patrimoine instituée en application de l'article L. 642-1, sont soumis à une autorisation préalable délivrée par
-l'autorité compétente mentionnée aux articles L. 422-1 à L. 422-8 du code de l'urbanisme. Cette autorisation peut être
-assortie de prescriptions particulières destinées à rendre le projet conforme aux prescriptions du règlement de l'aire. 
-
-L'autorité compétente transmet le dossier à l'architecte des Bâtiments de France. A compter de sa saisine, l'architecte des
-Bâtiments de France statue dans un délai d'un mois. En cas de silence à l'expiration de ce délai, l'architecte des Bâtiments
-de France est réputé avoir approuvé le permis ou la décision de non-opposition à déclaration préalable, qui vaut alors
-autorisation préalable au titre du présent article. Dans le cas contraire, l'architecte des Bâtiments de France transmet son
-avis défavorable motivé ou sa proposition de prescriptions motivées à l'autorité compétente. 
-
-En cas de désaccord avec l'avis ou la proposition de l'architecte des Bâtiments de France, l'autorité compétente transmet le
-dossier accompagné de son projet de décision au préfet de région qui instruit le projet. A compter de sa saisine, ce dernier
-statue : 
-
-― dans un délai de quinze jours s'il s'agit d'une autorisation spéciale ou d'une déclaration préalable ; 
-
-― dans un délai d'un mois s'il s'agit d'un permis et, après avoir entendu, le cas échéant, l'instance consultative prévue à
-l'article L. 642-5. 
-
-En cas de silence à l'expiration des délais précités, le préfet de région est réputé avoir approuvé le projet de décision. 
-
-Toutefois, le ministre chargé des monuments historiques et des espaces protégés peut évoquer les dossiers relevant d'un
-intérêt national dont le préfet de région est saisi en application du présent article. Dans ce cas, il émet, dans un délai de
-quatre mois à compter de l'enregistrement de la demande d'autorisation préalable, une décision qui s'impose à l'autorité
-compétente pour la délivrance de ladite autorisation. Cette décision ne peut être contestée que par voie juridictionnelle. A
-défaut, le silence gardé par le ministre vaut approbation implicite de la demande d'autorisation. 
-
-Le présent article est applicable aux zones de protection du patrimoine architectural, urbain et paysager prévues par
-l'article L. 642-8 pour les demandes de permis ou de déclaration préalable de travaux déposées à compter du premier jour du
-troisième mois suivant l'entrée en vigueur de la loi n° 2010-788 du 12 juillet 2010 portant engagement national pour
-l'environnement.
-
-**Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - Loi n°2010-788 du 12 juillet 2010
-	  - Code de l'urbanisme - art. L422-1
-	  - Code du patrimoine - art. L642-1
-	  - Code du patrimoine - art. L642-5
-	  - Code du patrimoine - art. L642-8 (Ab)
-
-	**Modifié par**:
-
-	  - Loi n°2010-788 du 12 juillet 2010 - art. 28
-
-	**Cité par**:
-
-	  - Décret n°2014-1271 du 23 octobre 2014 - art. (VD)
-	  - Décret n°2014-1299 du 23 octobre 2014 - art. (V)
-	  - Décret n°2015-1461 du 10 novembre 2015 - art. (V)
-	  - Code de l'environnement - art. L341-19 (V)
-	  - Code de l'environnement - art. R581-16 (M)
-	  - Code de l'urbanisme - art. R*423-68-1 (Ab)
-	  - Code de l'urbanisme - art. R*425-2 (M)
-	  - Code du patrimoine - art. D642-11 (Ab)
-	  - Code du patrimoine - art. D642-15 (Ab)
-	  - Code du patrimoine - art. D642-19 (Ab)
-	  - Code du patrimoine - art. D642-21 (Ab)
-	  - Code du patrimoine - art. R642-22 (Ab)
-	  - Code du patrimoine - art. R642-29 (Ab)
-
-	**Abrogé par**:
-
-	  - Loi n°2016-925 du 7 juillet 2016 - art. 77
-
-
-###### Article L642-7
-
-Les servitudes d'utilité publique, instituées en application des articles L. 621-30, L. 621-31 et L. 621-32 du présent code
-pour la protection du champ de visibilité des immeubles inscrits ou classés au titre des monuments historiques et de
-l'article L. 341-1 du code de l'environnement relatif aux sites inscrits, ne sont pas applicables dans l'aire de mise en
-valeur de l'architecture et du patrimoine.
-
-**Liens relatifs à cet article**
-
-	**Modifié par**:
-
-	  - Loi n°2012-387 du 22 mars 2012 - art. 106
-
-	**Abrogé par**:
-
-	  - Loi n°2016-925 du 7 juillet 2016 - art. 77
-
-	**Cite**:
-
-	  - Code de l'environnement - art. L341-1
-	  - Code du patrimoine - art. L621-30
-	  - Code du patrimoine - art. L621-31
-
-
-###### Article L642-8
-
-Les zones de protection du patrimoine architectural, urbain et paysager mises en place avant la date d'entrée en vigueur de
-la loi n° 2010-788 du 12 juillet 2010 portant engagement national pour l'environnement continuent à produire leurs effets de
-droit jusqu'à ce que s'y substituent des aires de mise en valeur de l'architecture et du patrimoine et, au plus tard, dans un
-délai de six ans à compter de l'entrée en vigueur de cette même loi.
-
-**Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - Loi n°2010-788 du 12 juillet 2010
-
-	**Cité par**:
-
-	  - Décret n°2011-1903 du 19 décembre 2011 (V)
-	  - Code de la construction et de l'habitation. - art. D511-13-1 (M)
-	  - Code du patrimoine - art. L642-6 (Ab)
-
-	**Modifié par**:
-
-	  - Loi n°2014-366 du 24 mars 2014 - art. 162
-
-	**Abrogé par**:
-
-	  - Loi n°2016-925 du 7 juillet 2016 - art. 77
-
-
-###### Article L642-9
-
-Les zones de protection créées en application des articles 17 à 20 et 28 de la loi du 2 mai 1930 ayant pour objet de
-réorganiser la protection des monuments naturels et des sites de caractère artistique, historique, scientifique, légendaire
-ou pittoresque continuent à produire leurs effets jusqu'à leur suppression ou leur remplacement par des zones de protection
-du patrimoine architectural, urbain et paysager ou des aires de mise en valeur de l'architecture et du patrimoine.
+Les modalités d'application du présent article sont fixées par décret en Conseil d'Etat.
 
 **Liens relatifs à cet article**
 
 	**Créé par**:
 
-	  - Loi n°2010-788 du 12 juillet 2010 - art. 28
-
-	**Abrogé par**:
-
-	  - Loi n°2016-925 du 7 juillet 2016 - art. 77
+	  - Loi n°2016-925 du 7 juillet 2016 - art. 78
 
 	**Cité par**:
 
-	  - Code de l'environnement - art. L341-19 (VT)
-	  - Code de l'urbanisme - art. (M)
-	  - Code de l'urbanisme - art. R*111-42 (VT)
-	  - Code de l'urbanisme - art. R111-33 (M)
+	  - Décret n°2017-433 du 28 mars 2017 - art. 2 (V)
+	  - Décret n°2017-919 du 9 mai 2017 - art. 1
+	  - Code du patrimoine - art. L611-2 (VD)
+	  - Code du patrimoine - art. R650-1 (V)
+	  - Code du patrimoine - art. R650-7 (V)
 
 	**Cite**:
 
-	  - Loi du 2 mai 1930
+	  - Code de l'urbanisme - art. L151-19 (V)
 
 
-###### Article L642-10
+###### Article L650-2
 
-Les modalités d'application du présent chapitre sont définies par décret.
+Le nom de l'architecte auteur du projet architectural d'un bâtiment et la date d'achèvement de l'ouvrage sont apposés sur
+l'une de ses façades extérieures.
 
 **Liens relatifs à cet article**
 
 	**Créé par**:
 
-	  - Loi n°2010-788 du 12 juillet 2010 - art. 28
-
-	**Abrogé par**:
-
-	  - Loi n°2016-925 du 7 juillet 2016 - art. 77
+	  - Loi n°2016-925 du 7 juillet 2016 - art. 78
 
 
-#### Chapitre 3 : Dispositions fiscales.
+###### Article L650-3
 
-###### Article L643-1
-
-Les règles fiscales relatives à la détermination du revenu net des personnes propriétaires d'un immeuble situé en secteur
-sauvegardé ou en zone de protection du patrimoine architectural, urbain et paysager sont fixées au b ter du 1° du I de
-l'article 31 et au 3° du I de l'article 156 du code général des impôts.
+Le nom de l'architecte auteur du projet architectural est affiché sur le terrain avec l'autorisation d'urbanisme délivrée par
+l'autorité compétente.
 
 **Liens relatifs à cet article**
 
-	**Codifié par**:
+	**Créé par**:
 
-	  - Ordonnance 2004-178 2004-02-20 JORF 24 février 2004
-
-	**Abrogé par**:
-
-	  - Loi n°2016-925 du 7 juillet 2016 - art. 77
-
-	**Cite**:
-
-	  - Code général des impôts, CGI. - art. 156
-	  - Code général des impôts, CGI. - art. 31
-
-	**Cité par**:
-
-	  - Code du patrimoine. - art. L720-1 (M)
+	  - Loi n°2016-925 du 7 juillet 2016 - art. 78
 
 
 ## LIVRE VII : DISPOSITIONS RELATIVES À L'OUTRE-MER
+
+### TITRE Ier : DISPOSITIONS PARTICULIERES AUX DEPARTEMENTS D'OUTRE-MER
+
+###### Article L710-1
+
+Pour l'application en Guyane, en Martinique et à Mayotte des articles L. 116-1 et L. 116-2, les mots : “ fonds régional ”
+sont remplacés par les mots : “ fonds territorial ”.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°2016-925 du 7 juillet 2016 - art. 92
+
+	**Cite**:
+
+	  - Code du patrimoine - art. L116-1 (V)
+
 
 ### TITRE II : DISPOSITIONS PARTICULIÈRES À SAINT-PIERRE-ET-MIQUELON.
 
 ###### Article L720-1
 
-Les articles L. 122-1 à L. 122-10, L. 543-1, L. 621-30 à L. 621-32, L. 623-1, L. 641-1, L. 641-2 et L. 643-1 ne sont pas
-applicables à Saint-Pierre-et-Miquelon.
+I.-Les articles L. 122-1 à L. 122-10, L. 543-1, L. 621-30 à L. 621-32, L. 623-1, L. 633-1 et L. 641-1 ne sont pas applicables
+à Saint-Pierre-et-Miquelon. 
+
+II.-A Saint-Pierre-et-Miquelon, est punie d'une amende comprise entre 1 200 € et un montant qui ne peut excéder soit, dans le
+cas de la construction d'une surface de plancher, 6 000 € par mètre carré de surface construite, démolie ou rendue
+inutilisable, soit, dans les autres cas, 300 000 €, la réalisation de travaux : 
+
+1° Sans l'autorisation prévue à l'article L. 621-9 relatif aux travaux sur immeuble classé au titre des monuments historiques
+et au détachement d'un effet mobilier attaché à perpétuelle demeure à l'immeuble ; 
+
+2° Sans la déclaration ou l'accord prévu à l'article L. 621-27 relatif aux travaux sur l'immeuble ou partie d'immeuble
+inscrit au titre des monuments historiques et au détachement d'un effet mobilier attaché à perpétuelle demeure à
+l'immeuble ; 
+
+3° Sans l'autorisation prévue à l'article L. 632-1 relatif aux travaux sur les immeubles situés dans un site patrimonial
+remarquable. 
+
+En cas de récidive, outre l'amende prévue au premier alinéa du présent II, un emprisonnement de six mois peut être prononcé.
 
 **Liens relatifs à cet article**
 
@@ -12374,16 +12773,19 @@ applicables à Saint-Pierre-et-Miquelon.
 
 	**Modifié par**:
 
-	  - Loi n°2012-387 du 22 mars 2012 - art. 111
+	  - Loi n°2016-925 du 7 juillet 2016 - art. 92
 
 	**Cite**:
 
-	  - Code du patrimoine - art. L122-1
-	  - Code du patrimoine - art. L543-1
-	  - Code du patrimoine - art. L621-30
-	  - Code du patrimoine - art. L623-1
-	  - Code du patrimoine - art. L641-1
-	  - Code du patrimoine - art. L643-1
+	  - Code du patrimoine - art. L122-1 (V)
+	  - Code du patrimoine - art. L543-1 (V)
+	  - Code du patrimoine - art. L621-27 (V)
+	  - Code du patrimoine - art. L621-30 (V)
+	  - Code du patrimoine - art. L621-9 (V)
+	  - Code du patrimoine - art. L623-1 (V)
+	  - Code du patrimoine - art. L632-1 (V)
+	  - Code du patrimoine - art. L633-1 (V)
+	  - Code du patrimoine - art. L641-1 (V)
 
 
 ###### Article L720-2
@@ -12429,33 +12831,57 @@ Les articles L. 112-1 à L. 112-25, L. 114-2 à L. 114-5, L. 123-1 à L. 123-3, 
 133-1, L. 143-1 à L. 143-14, L. 211-1 à L. 211-6, L. 212-1 à L. 212-28, L. 212-30 à L. 212-37, L. 213-1 à L. 213-8, L. 214-1
 à L. 214-10, L. 221-1 à L. 221-5, L. 222-1 à L. 222-3, L. 310-1 à L. 310-6, L. 320-1 à L. 320-4, L. 410-1 à L. 410-4, L.
 430-1, L. 430-2, L. 441-1, L. 441-2, L. 442-1 à L. 442-11, L. 451-1 à L. 451-10, L. 452-1 à L. 452-4, L. 510-1, L. 521-1, L.
-522-1 à L. 522-8, L. 523-1 à L. 523-14, L. 524-1 à L. 524-16, L. 531-1 à L. 531-19, L. 532-1 à L. 532-14, L. 541-1, L. 541-2,
-L. 542-1 à L. 542-3, L. 544-1 à L. 544-13, L. 611-1, L. 612-2, L. 621-1 à L. 621-9, L. 621-11 à L. 621-27, L. 621-29 à L.
-621-33, L. 622-1 à L. 622-21, L. 624-1 à L. 624-7, L. 630-1 et L. 642-1 à L. 642-7 sont applicables à Mayotte.
+522-1 à L. 522-8, L. 523-1 à L. 523-14, L. 524-1 à L. 524-16, L. 531-1 à L. 531-19, L. 532-1 à L. 532-14, L. 541-1 à L.
+541-3, L. 542-1 à L. 542-3, L. 544-1 à L. 544-13, L. 611-1, L. 611-2, L. 621-1 à L. 621-9, L. 621-11 à L. 621-27, L. 621-29 à
+L. 621-33, L. 622-1 à L. 622-21, L. 631-1 à L. 631-5 et L. 632-1 à L. 632-3 sont applicables à Mayotte.
 
 **Liens relatifs à cet article**
 
 	**Modifié par**:
 
-	  - Loi n°2008-696  du 15 juillet 2008 - art. 20
+	  - Loi n°2016-925 du 7 juillet 2016 - art. 92
 
 	**Cite**:
 
-	  - Code du patrimoine - art. L131-1
-	  - Code du patrimoine - art. L131-2
-	  - Code du patrimoine - art. L133-1
-	  - Code du patrimoine - art. L214-10
-	  - Code du patrimoine - art. L430-1
-	  - Code du patrimoine - art. L430-2
-	  - Code du patrimoine - art. L441-1
-	  - Code du patrimoine - art. L441-2
-	  - Code du patrimoine - art. L510-1
-	  - Code du patrimoine - art. L521-1
-	  - Code du patrimoine - art. L541-1
-	  - Code du patrimoine - art. L541-2
-	  - Code du patrimoine - art. L611-1
-	  - Code du patrimoine - art. L612-2
-	  - Code du patrimoine - art. L630-1
+	  - Code du patrimoine - art. L112-1 (V)
+	  - Code du patrimoine - art. L114-2 (V)
+	  - Code du patrimoine - art. L123-1 (V)
+	  - Code du patrimoine - art. L131-1 (V)
+	  - Code du patrimoine - art. L132-1 (V)
+	  - Code du patrimoine - art. L133-1 (V)
+	  - Code du patrimoine - art. L143-1 (V)
+	  - Code du patrimoine - art. L211-1 (V)
+	  - Code du patrimoine - art. L212-1 (V)
+	  - Code du patrimoine - art. L212-30 (V)
+	  - Code du patrimoine - art. L213-1 (V)
+	  - Code du patrimoine - art. L214-1 (V)
+	  - Code du patrimoine - art. L221-1 (V)
+	  - Code du patrimoine - art. L222-1 (V)
+	  - Code du patrimoine - art. L310-1 (V)
+	  - Code du patrimoine - art. L320-1 (V)
+	  - Code du patrimoine - art. L410-1 (V)
+	  - Code du patrimoine - art. L430-1 (V)
+	  - Code du patrimoine - art. L441-1 (V)
+	  - Code du patrimoine - art. L442-1 (V)
+	  - Code du patrimoine - art. L451-1 (V)
+	  - Code du patrimoine - art. L452-1 (V)
+	  - Code du patrimoine - art. L510-1 (V)
+	  - Code du patrimoine - art. L521-1 (V)
+	  - Code du patrimoine - art. L522-1 (V)
+	  - Code du patrimoine - art. L523-1 (V)
+	  - Code du patrimoine - art. L524-1 (V)
+	  - Code du patrimoine - art. L531-1 (V)
+	  - Code du patrimoine - art. L532-1 (V)
+	  - Code du patrimoine - art. L541-1 (V)
+	  - Code du patrimoine - art. L542-1 (V)
+	  - Code du patrimoine - art. L544-1 (V)
+	  - Code du patrimoine - art. L611-1 (V)
+	  - Code du patrimoine - art. L621-1 (V)
+	  - Code du patrimoine - art. L621-11 (V)
+	  - Code du patrimoine - art. L621-29 (V)
+	  - Code du patrimoine - art. L622-1 (V)
+	  - Code du patrimoine - art. L631-1 (V)
+	  - Code du patrimoine - art. L632-1 (V)
 
 
 ###### Article L730-3
