@@ -1,5 +1,5 @@
 # Code du patrimoine  
-Version Consolidée au 2016-07-09
+Version Consolidée au 2016-08-10
 
 # Partie législative
 
@@ -2579,8 +2579,7 @@ Lorsqu'elle possède des parts ou actions de sociétés détenues ou contrôlée
 
 Dans les conditions prévues par le code de l'expropriation pour cause d'utilité publique, peuvent être menées par l'Etat, sur
 demande ou avec l'accord de la " Fondation du patrimoine ", au bénéfice et à la charge de celle-ci, la procédure
-d'expropriation prévue par l'article L. 621-18 et par les dispositions du code de l'environnement reproduites à l'article L.
-630-1, ainsi que la procédure de préemption prévue par les articles L. 123-1 à L. 123-3.
+d'expropriation prévue par l'article L. 621-18 et la procédure de préemption prévue par les articles L. 123-1 à L. 123-3.
 
 La " Fondation du patrimoine " gère les biens mentionnés au précédent alinéa aux fins et dans les conditions définies par un
 cahier des charges. Elle peut les céder de gré à gré à des personnes publiques ou privées dans les conditions prévues à
@@ -2593,23 +2592,21 @@ patrimoine " en application du présent article.
 
 	**Anciens textes**:
 
-	  - Loi n°96-590 du 2 juillet 1996 - art. 8 (M)
 	  - Loi n°96-590 du 2 juillet 1996 - art. 8 (Ab)
 
 	**Codifié par**:
 
-	  - Ordonnance 2004-178 2004-02-20 JORF 24 février 2004
+	  - Ordonnance n°2004-178 du 20 février 2004
 
 	**Modifié par**:
 
-	  - Loi n°2004-1343 du 9 décembre 2004 - art. 78 (V) JORF 10 décembre 2004
+	  - Loi n°2016-1087 du 8 août 2016 - art. 168
 
 	**Cite**:
 
-	  - Code du patrimoine - art. L123-1 (V)
-	  - Code du patrimoine - art. L621-18 (V)
-	  - Code du patrimoine - art. L621-21 (V)
-	  - Code du patrimoine - art. L630-1 (V)
+	  - Code du patrimoine - art. L123-1
+	  - Code du patrimoine - art. L621-18
+	  - Code du patrimoine - art. L621-21
 
 
 ###### Article L143-9
@@ -9119,7 +9116,237 @@ modalités de fonctionnement.
 	  - Code du patrimoine - art. L531-8 (V)
 
 
-## LIVRE VI : MONUMENTS HISTORIQUES, SITES ET ESPACES PROTÉGÉS
+## LIVRE VI : MONUMENTS HISTORIQUES, SITES PATRIMONIAUX REMARQUABLES ET QUALITE ARCHITECTURALE
+
+### TITRE Ier : DISPOSITIONS GÉNÉRALES
+
+#### Chapitre Ier : Institutions
+
+###### Article L611-1
+
+La Commission nationale du patrimoine et de l'architecture est consultée en matière de création, de gestion et de suivi de
+servitudes d'utilité publique et de documents d'urbanisme institués dans un but de protection, de conservation et de mise en
+valeur du patrimoine culturel, notamment dans les cas prévus aux articles L. 621-4, L. 621-5, L. 621-6, L. 621-8, L. 621-12,
+L. 621-29-9, L. 621-31, L. 621-35, L. 622-1, L. 622-1-1, L. 622-1-2, L. 622-3, L. 622-4, L. 622-4-1 et L. 631-2 du présent
+code et à l'article L. 313-1 du code de l'urbanisme. Elle est également consultée sur tout projet de vente ou d'aliénation du
+patrimoine français de l'Etat situé à l'étranger présentant une valeur historique ou culturelle particulière. 
+
+Elle peut proposer toutes mesures propres à assurer la protection, la conservation et la mise en valeur du patrimoine et de
+l'architecture. Elle peut demander à l'Etat d'engager une procédure de classement ou d'inscription au titre des monuments
+historiques ou de classement au titre des sites patrimoniaux remarquables en application des articles L. 621-1, L. 621-25, L.
+622-1, L. 622-20, L. 631-1 ou L. 631-2 du présent code. 
+
+Elle procède à l'évaluation des politiques de protection, de conservation et de mise en valeur du patrimoine culturel. 
+
+En outre, elle peut être consultée sur les études, sur les travaux et sur toute question relative au patrimoine et à
+l'architecture en application du présent livre et de la sous-section 2 de la section 4 du chapitre Ier du titre V du livre
+Ier et du chapitre III du titre Ier du livre III du code de l'urbanisme. 
+
+Placée auprès du ministre chargé de la culture, elle comprend des personnes titulaires d'un mandat électif national, des
+personnes titulaires d'un mandat électif local, des représentants de l'Etat, des représentants d'associations ou de
+fondations ayant pour objet de favoriser la connaissance, la protection, la conservation et la mise en valeur du patrimoine
+et des personnalités qualifiées. 
+
+Son président est choisi parmi les titulaires d'un mandat électif national qui en sont membres. En cas d'empêchement du
+président, la présidence de la commission est assurée par un représentant désigné à cet effet par le ministre chargé de la
+culture. 
+
+Un décret en Conseil d'Etat précise sa composition, les conditions de désignation de ses membres et ses modalités de
+fonctionnement.
+
+.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Loi n°1913-12-31 du 31 décembre 1913 - art. 37 (V)
+
+	**Codifié par**:
+
+	  - Ordonnance n°2004-178 du 20 février 2004
+
+	**Cité par**:
+
+	  - Loi n°2016-925 du 7 juillet 2016 - art. 113 (V)
+	  - Décret n°2017-456 du 29 mars 2017 - art. 10
+	  - CODE GENERAL DES IMPOTS ANNEXE 2, CGIAN2. - art. 171 BG (V)
+	  - Code du patrimoine - art. L730-1 (V)
+	  - Code du patrimoine - art. R613-2 (V)
+	  - Code général de la propriété des personnes publ... - art. D3221-12 (V)
+
+	**Modifié par**:
+
+	  - Loi n°2016-925 du 7 juillet 2016 - art. 74
+
+	**Cite**:
+
+	  - Code de l'urbanisme - art. L151-17 (V)
+	  - Code de l'urbanisme - art. L313-1 (V)
+	  - Code du patrimoine - art. L621-1 (V)
+	  - Code du patrimoine - art. L621-12 (V)
+	  - Code du patrimoine - art. L621-25 (V)
+	  - Code du patrimoine - art. L621-29-9 (V)
+	  - Code du patrimoine - art. L621-31 (V)
+	  - Code du patrimoine - art. L621-35 (V)
+	  - Code du patrimoine - art. L621-4 (V)
+	  - Code du patrimoine - art. L621-8 (V)
+	  - Code du patrimoine - art. L622-1 (V)
+	  - Code du patrimoine - art. L622-10 (V)
+	  - Code du patrimoine - art. L631-1 (V)
+	  - Code du patrimoine - art. L631-2 (V)
+
+
+###### Article L611-2
+
+La commission régionale du patrimoine et de l'architecture est consultée en matière de création, de gestion et de suivi de
+servitudes d'utilité publique et de documents d'urbanisme institués dans un but de protection, de conservation et de mise en
+valeur du patrimoine culturel, notamment dans les cas prévus aux articles L. 621-31, L. 622-10, L. 631-4, L. 632-2 et L.
+650-1 du présent code et aux articles L. 151-29-1 et L. 152-6 du code de l'urbanisme. 
+
+Elle peut proposer toutes mesures propres à assurer la protection, la conservation et la mise en valeur du patrimoine et de
+l'architecture. 
+
+En outre, elle peut être consultée sur les études et sur les travaux ainsi que sur toute question relative au patrimoine et à
+l'architecture en application du présent livre et de la sous-section 2 de la section 4 du chapitre Ier du titre V du livre
+Ier du code de l'urbanisme. 
+
+Placée auprès du représentant de l'Etat dans la région, elle comprend des personnes titulaires d'un mandat électif national
+ou local, des représentants de l'Etat, des représentants d'associations ou de fondations ayant pour objet de favoriser la
+connaissance, la protection, la conservation et la mise en valeur du patrimoine et des personnalités qualifiées. 
+
+Son président est choisi parmi les titulaires d'un mandat électif qui en sont membres. En cas d'empêchement du président, la
+présidence est assurée par le représentant de l'Etat dans la région. 
+
+Un décret en Conseil d'Etat détermine la composition, les conditions de désignation des membres et les modalités de
+fonctionnement de la commission.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°2016-925 du 7 juillet 2016 - art. 74
+
+	**Cité par**:
+
+	  - Décret n°2017-254 du 27 février 2017 (V)
+	  - Décret n°2017-254 du 27 février 2017 - art. 2 (V)
+	  - Décret n°2017-456 du 29 mars 2017 - art. 9
+	  - Code de l'urbanisme - art. L151-29-1 (V)
+	  - Code de l'urbanisme - art. L152-6 (V)
+	  - Code du patrimoine - art. L622-10 (VD)
+	  - Code du patrimoine - art. R720-10 (V)
+	  - Code général des collectivités territoriales - art. L4421-4 (V)
+	  - Code général des collectivités territoriales - art. R4421-1 (V)
+
+	**Cite**:
+
+	  - Code de l'urbanisme - art. L151-17 (V)
+	  - Code du patrimoine - art. L621-31 (V)
+	  - Code du patrimoine - art. L631-4 (V)
+	  - Code du patrimoine - art. L632-2 (V)
+	  - Code du patrimoine - art. L650-1 (V)
+
+
+###### Article L611-3
+
+Les règles relatives au conseil des sites de Corse sont fixées à l'article L. 4421-4 du code général des collectivités
+territoriales.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°2016-925 du 7 juillet 2016 - art. 74
+
+	**Cite**:
+
+	  - Code général des collectivités territoriales - art. L4421-4 (V)
+
+
+#### Chapitre II : Dispositions relatives aux biens inscrits au patrimoine mondial
+
+###### Article L612-1
+
+L'Etat et ses établissements publics, les collectivités territoriales et leurs groupements assurent, au titre de leurs
+compétences dans les domaines du patrimoine, de l'environnement et de l'urbanisme, la protection, la conservation et la mise
+en valeur du bien reconnu en tant que bien du patrimoine mondial en application de la convention concernant la protection du
+patrimoine mondial, culturel et naturel, adoptée par la Conférence générale de l'Organisation des Nations unies pour
+l'éducation, la science et la culture, le 16 novembre 1972, lors de sa XVIIe session. 
+
+Pour assurer la protection du bien, une zone, dite " zone tampon ", incluant son environnement immédiat, les perspectives
+visuelles importantes et d'autres aires ou attributs ayant un rôle fonctionnel important en tant que soutien apporté au bien
+et à sa protection est, sauf s'il est justifié qu'elle n'est pas nécessaire, délimitée autour de celui-ci en concertation
+avec les collectivités territoriales concernées puis arrêtée par l'autorité administrative. 
+
+Pour assurer la préservation de la valeur universelle exceptionnelle du bien, un plan de gestion comprenant les mesures de
+protection, de conservation et de mise en valeur à mettre en œuvre est élaboré conjointement par l'Etat et les collectivités
+territoriales concernées, pour le périmètre de ce bien et, le cas échéant, de sa zone tampon, puis arrêté par l'autorité
+administrative. 
+
+Lorsque l'autorité compétente en matière de schéma de cohérence territoriale ou de plan local d'urbanisme engage
+l'élaboration ou la révision d'un schéma de cohérence territoriale ou d'un plan local d'urbanisme, le représentant de l'Etat
+dans le département porte à sa connaissance les dispositions du plan de gestion du bien afin d'assurer la protection, la
+conservation et la mise en valeur du bien et la préservation de sa valeur exceptionnelle. 
+
+Un décret en Conseil d'Etat fixe les modalités d'application du présent article.
+
+**Nota:**
+
+
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Loi n°97-179 du 28 février 1997 - art. 1 (Ab)
+
+	**Cité par**:
+
+	  - Décret n°99-78 du 5 février 1999 - art. 2-1 (Ab)
+	  - Décret n°2017-456 du 29 mars 2017 - art. 13
+	  - Code de l'environnement - art. L350-2 (M)
+	  - Code de l'urbanisme - art. R151-53 (V)
+	  - Code du patrimoine - art. L612-3 (Ab)
+	  - Code du patrimoine - art. L642-3 (Ab)
+	  - Code du patrimoine - art. R612-2 (V)
+	  - Code du patrimoine - art. R612-3 (Ab)
+	  - Code du patrimoine - art. R720-11 (Ab)
+	  - Code du patrimoine. - art. L642-2 (M)
+	  - Code général des collectivités territoriales - art. L4421-4 (M)
+	  - Code général des collectivités territoriales - art. L4433-27 (VD)
+
+	**Modifié par**:
+
+	  - Loi n°2016-925 du 7 juillet 2016 - art. 74
+
+	**Cite**:
+
+	  - Code du patrimoine - art. L621-32 (V)
+	  - Code du patrimoine - art. L641-1 (V)
+
+
+#### Chapitre  III : Dispositions diverses
+
+###### Article L613-1
+
+Les règles relatives à la protection des monuments naturels et des sites sont fixées au titre IV du livre III du code de
+l'environnement.
+
+**Liens relatifs à cet article**
+
+	**Cité par**:
+
+	  - Loi n°2016-925 du 7 juillet 2016 - art. 119 (V)
+
+	**Créé par**:
+
+	  - Loi n°2016-925 du 7 juillet 2016 - art. 74
+
+	**Cite**:
+
+	  - Code de l'environnement -  Titre IV : Sites (V)
+
 
 ### TITRE II : MONUMENTS HISTORIQUES
 
@@ -11766,241 +11993,25 @@ impôts.
 	  - Code du patrimoine - art. L720-1 (VD)
 
 
-## LIVRE VI : MONUMENTS HISTORIQUES, SITES PATRIMONIAUX REMARQUABLES ET QUALITE ARCHITECTURALE
-
-### TITRE Ier : DISPOSITIONS GÉNÉRALES
-
-#### Chapitre Ier : Institutions
-
-###### Article L611-1
-
-La Commission nationale du patrimoine et de l'architecture est consultée en matière de création, de gestion et de suivi de
-servitudes d'utilité publique et de documents d'urbanisme institués dans un but de protection, de conservation et de mise en
-valeur du patrimoine culturel, notamment dans les cas prévus aux articles L. 621-4, L. 621-5, L. 621-6, L. 621-8, L. 621-12,
-L. 621-29-9, L. 621-31, L. 621-35, L. 622-1, L. 622-1-1, L. 622-1-2, L. 622-3, L. 622-4, L. 622-4-1 et L. 631-2 du présent
-code et à l'article L. 313-1 du code de l'urbanisme. Elle est également consultée sur tout projet de vente ou d'aliénation du
-patrimoine français de l'Etat situé à l'étranger présentant une valeur historique ou culturelle particulière. 
-
-Elle peut proposer toutes mesures propres à assurer la protection, la conservation et la mise en valeur du patrimoine et de
-l'architecture. Elle peut demander à l'Etat d'engager une procédure de classement ou d'inscription au titre des monuments
-historiques ou de classement au titre des sites patrimoniaux remarquables en application des articles L. 621-1, L. 621-25, L.
-622-1, L. 622-20, L. 631-1 ou L. 631-2 du présent code. 
-
-Elle procède à l'évaluation des politiques de protection, de conservation et de mise en valeur du patrimoine culturel. 
-
-En outre, elle peut être consultée sur les études, sur les travaux et sur toute question relative au patrimoine et à
-l'architecture en application du présent livre et de la sous-section 2 de la section 4 du chapitre Ier du titre V du livre
-Ier et du chapitre III du titre Ier du livre III du code de l'urbanisme. 
-
-Placée auprès du ministre chargé de la culture, elle comprend des personnes titulaires d'un mandat électif national, des
-personnes titulaires d'un mandat électif local, des représentants de l'Etat, des représentants d'associations ou de
-fondations ayant pour objet de favoriser la connaissance, la protection, la conservation et la mise en valeur du patrimoine
-et des personnalités qualifiées. 
-
-Son président est choisi parmi les titulaires d'un mandat électif national qui en sont membres. En cas d'empêchement du
-président, la présidence de la commission est assurée par un représentant désigné à cet effet par le ministre chargé de la
-culture. 
-
-Un décret en Conseil d'Etat précise sa composition, les conditions de désignation de ses membres et ses modalités de
-fonctionnement.
-
-.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Loi n°1913-12-31 du 31 décembre 1913 - art. 37 (V)
-
-	**Codifié par**:
-
-	  - Ordonnance n°2004-178 du 20 février 2004
-
-	**Cité par**:
-
-	  - Loi n°2016-925 du 7 juillet 2016 - art. 113 (V)
-	  - Décret n°2017-456 du 29 mars 2017 - art. 10
-	  - CODE GENERAL DES IMPOTS ANNEXE 2, CGIAN2. - art. 171 BG (V)
-	  - Code du patrimoine - art. L730-1 (V)
-	  - Code du patrimoine - art. R613-2 (V)
-	  - Code général de la propriété des personnes publ... - art. D3221-12 (V)
-
-	**Modifié par**:
-
-	  - Loi n°2016-925 du 7 juillet 2016 - art. 74
-
-	**Cite**:
-
-	  - Code de l'urbanisme - art. L151-17 (V)
-	  - Code de l'urbanisme - art. L313-1 (V)
-	  - Code du patrimoine - art. L621-1 (V)
-	  - Code du patrimoine - art. L621-12 (V)
-	  - Code du patrimoine - art. L621-25 (V)
-	  - Code du patrimoine - art. L621-29-9 (V)
-	  - Code du patrimoine - art. L621-31 (V)
-	  - Code du patrimoine - art. L621-35 (V)
-	  - Code du patrimoine - art. L621-4 (V)
-	  - Code du patrimoine - art. L621-8 (V)
-	  - Code du patrimoine - art. L622-1 (V)
-	  - Code du patrimoine - art. L622-10 (V)
-	  - Code du patrimoine - art. L631-1 (V)
-	  - Code du patrimoine - art. L631-2 (V)
-
-
-###### Article L611-2
-
-La commission régionale du patrimoine et de l'architecture est consultée en matière de création, de gestion et de suivi de
-servitudes d'utilité publique et de documents d'urbanisme institués dans un but de protection, de conservation et de mise en
-valeur du patrimoine culturel, notamment dans les cas prévus aux articles L. 621-31, L. 622-10, L. 631-4, L. 632-2 et L.
-650-1 du présent code et aux articles L. 151-29-1 et L. 152-6 du code de l'urbanisme. 
-
-Elle peut proposer toutes mesures propres à assurer la protection, la conservation et la mise en valeur du patrimoine et de
-l'architecture. 
-
-En outre, elle peut être consultée sur les études et sur les travaux ainsi que sur toute question relative au patrimoine et à
-l'architecture en application du présent livre et de la sous-section 2 de la section 4 du chapitre Ier du titre V du livre
-Ier du code de l'urbanisme. 
-
-Placée auprès du représentant de l'Etat dans la région, elle comprend des personnes titulaires d'un mandat électif national
-ou local, des représentants de l'Etat, des représentants d'associations ou de fondations ayant pour objet de favoriser la
-connaissance, la protection, la conservation et la mise en valeur du patrimoine et des personnalités qualifiées. 
-
-Son président est choisi parmi les titulaires d'un mandat électif qui en sont membres. En cas d'empêchement du président, la
-présidence est assurée par le représentant de l'Etat dans la région. 
-
-Un décret en Conseil d'Etat détermine la composition, les conditions de désignation des membres et les modalités de
-fonctionnement de la commission.
-
-**Liens relatifs à cet article**
-
-	**Créé par**:
-
-	  - Loi n°2016-925 du 7 juillet 2016 - art. 74
-
-	**Cité par**:
-
-	  - Décret n°2017-254 du 27 février 2017 (V)
-	  - Décret n°2017-254 du 27 février 2017 - art. 2 (V)
-	  - Décret n°2017-456 du 29 mars 2017 - art. 9
-	  - Code de l'urbanisme - art. L151-29-1 (V)
-	  - Code de l'urbanisme - art. L152-6 (V)
-	  - Code du patrimoine - art. L622-10 (VD)
-	  - Code du patrimoine - art. R720-10 (V)
-	  - Code général des collectivités territoriales - art. L4421-4 (V)
-	  - Code général des collectivités territoriales - art. R4421-1 (V)
-
-	**Cite**:
-
-	  - Code de l'urbanisme - art. L151-17 (V)
-	  - Code du patrimoine - art. L621-31 (V)
-	  - Code du patrimoine - art. L631-4 (V)
-	  - Code du patrimoine - art. L632-2 (V)
-	  - Code du patrimoine - art. L650-1 (V)
-
-
-###### Article L611-3
-
-Les règles relatives au conseil des sites de Corse sont fixées à l'article L. 4421-4 du code général des collectivités
-territoriales.
-
-**Liens relatifs à cet article**
-
-	**Créé par**:
-
-	  - Loi n°2016-925 du 7 juillet 2016 - art. 74
-
-	**Cite**:
-
-	  - Code général des collectivités territoriales - art. L4421-4 (V)
-
-
-#### Chapitre II : Dispositions relatives aux biens inscrits au patrimoine mondial
-
-###### Article L612-1
-
-L'Etat et ses établissements publics, les collectivités territoriales et leurs groupements assurent, au titre de leurs
-compétences dans les domaines du patrimoine, de l'environnement et de l'urbanisme, la protection, la conservation et la mise
-en valeur du bien reconnu en tant que bien du patrimoine mondial en application de la convention concernant la protection du
-patrimoine mondial, culturel et naturel, adoptée par la Conférence générale de l'Organisation des Nations unies pour
-l'éducation, la science et la culture, le 16 novembre 1972, lors de sa XVIIe session. 
-
-Pour assurer la protection du bien, une zone, dite " zone tampon ", incluant son environnement immédiat, les perspectives
-visuelles importantes et d'autres aires ou attributs ayant un rôle fonctionnel important en tant que soutien apporté au bien
-et à sa protection est, sauf s'il est justifié qu'elle n'est pas nécessaire, délimitée autour de celui-ci en concertation
-avec les collectivités territoriales concernées puis arrêtée par l'autorité administrative. 
-
-Pour assurer la préservation de la valeur universelle exceptionnelle du bien, un plan de gestion comprenant les mesures de
-protection, de conservation et de mise en valeur à mettre en œuvre est élaboré conjointement par l'Etat et les collectivités
-territoriales concernées, pour le périmètre de ce bien et, le cas échéant, de sa zone tampon, puis arrêté par l'autorité
-administrative. 
-
-Lorsque l'autorité compétente en matière de schéma de cohérence territoriale ou de plan local d'urbanisme engage
-l'élaboration ou la révision d'un schéma de cohérence territoriale ou d'un plan local d'urbanisme, le représentant de l'Etat
-dans le département porte à sa connaissance les dispositions du plan de gestion du bien afin d'assurer la protection, la
-conservation et la mise en valeur du bien et la préservation de sa valeur exceptionnelle. 
-
-Un décret en Conseil d'Etat fixe les modalités d'application du présent article.
-
-**Nota:**
-
-
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Loi n°97-179 du 28 février 1997 - art. 1 (Ab)
-
-	**Cité par**:
-
-	  - Décret n°99-78 du 5 février 1999 - art. 2-1 (Ab)
-	  - Décret n°2017-456 du 29 mars 2017 - art. 13
-	  - Code de l'environnement - art. L350-2 (M)
-	  - Code de l'urbanisme - art. R151-53 (V)
-	  - Code du patrimoine - art. L612-3 (Ab)
-	  - Code du patrimoine - art. L642-3 (Ab)
-	  - Code du patrimoine - art. R612-2 (V)
-	  - Code du patrimoine - art. R612-3 (Ab)
-	  - Code du patrimoine - art. R720-11 (Ab)
-	  - Code du patrimoine. - art. L642-2 (M)
-	  - Code général des collectivités territoriales - art. L4421-4 (M)
-	  - Code général des collectivités territoriales - art. L4433-27 (VD)
-
-	**Modifié par**:
-
-	  - Loi n°2016-925 du 7 juillet 2016 - art. 74
-
-	**Cite**:
-
-	  - Code du patrimoine - art. L621-32 (V)
-	  - Code du patrimoine - art. L641-1 (V)
-
-
-#### Chapitre  III : Dispositions diverses
-
-###### Article L613-1
-
-Les règles relatives à la protection des monuments naturels et des sites sont fixées au titre IV du livre III du code de
-l'environnement.
-
-**Liens relatifs à cet article**
-
-	**Cité par**:
-
-	  - Loi n°2016-925 du 7 juillet 2016 - art. 119 (V)
-
-	**Créé par**:
-
-	  - Loi n°2016-925 du 7 juillet 2016 - art. 74
-
-	**Cite**:
-
-	  - Code de l'environnement -  Titre IV : Sites (V)
-
-
-### TITRE II : MONUMENTS HISTORIQUES
-
 ### TITRE III : SITES PATRIMONIAUX REMARQUABLES
+
+###### Article L630-1
+
+Les règles relatives à la protection des monuments naturels et des sites sont fixées aux articles L. 341-1 à L. 341-22 du
+code de l'environnement.
+
+**Liens relatifs à cet article**
+
+	**Modifié par**:
+
+	  - Loi n°2016-1087 du 8 août 2016 - art. 168
+
+	**Cité par**:
+
+	  - Code du patrimoine - art. L143-8 (M)
+	  - Code du patrimoine. - art. L642-5 (M)
+	  - Code du patrimoine. - art. L730-1 (M)
+
 
 #### Chapitre Ier : Classement au titre des sites patrimoniaux remarquables 
 
