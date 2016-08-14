@@ -1,5 +1,5 @@
 # Code du patrimoine  
-Version Consolidée au 2016-08-10
+Version Consolidée au 2016-08-15
 
 # Partie législative
 
@@ -32350,19 +32350,17 @@ Le Conseil national de la recherche archéologique est placé auprès du ministr
 Il est présidé par le ministre chargé de la culture ou, en son absence, par le vice-président désigné dans les conditions
 prévues à l'article R. 545-4.
 
+Le vice-président émet l'avis mentionné à l'article R. 545-42 du présent code.
+
 **Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°2007-823 du 11 mai 2007 - art. 1 (Ab)
-
-	**Créé par**:
-
-	  - Décret n°2011-574 du 24 mai 2011  - art.
 
 	**Codifié par**:
 
 	  - Décret n°2011-574 du 24 mai 2011 Annexe - art.
+
+	**Modifié par**:
+
+	  - Décret n°2016-1126 du 11 août 2016 - art. 21
 
 
 ###### Article R545-2
@@ -33171,6 +33169,22 @@ publics de recherche ou d'enseignement supérieur ou à d'autres personnes moral
 	  - Code du patrimoine. - art. R545-55 (V)
 
 
+###### Article R545-25-1
+
+La politique scientifique et culturelle de l'Institut national de recherches archéologiques préventives, ses activités et ses
+investissements font l'objet d'un contrat pluriannuel conclu avec l'Etat. 
+
+Ce contrat fixe des objectifs de performance à l'établissement au regard des missions qui lui sont assignées et des moyens
+que l'Etat s'engage à mettre à sa disposition. Un rapport de performance rend compte chaque année de l'état d'avancement dans
+la réalisation de ces objectifs.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2016-1126 du 11 août 2016 - art. 2
+
+
 ###### Article R545-26
 
 L'Institut national de recherches archéologiques préventives réalise les opérations de diagnostic qui lui sont confiées et
@@ -33265,84 +33279,114 @@ supérieur.
 
 ###### Article R545-30
 
-Le président de l'Institut national de recherches archéologiques préventives, le conseil d'administration, le directeur
-général et le conseil scientifique assurent le fonctionnement de l'établissement dans les conditions définies au présent
-chapitre.
+L'Institut national de recherches archéologiques préventives est administré par un conseil d'administration et doté d'un
+conseil scientifique. Il est dirigé par un président assisté d'un directeur général délégué. 
+
+Le conseil scientifique assiste le président et le conseil d'administration. 
+
+Le président préside le conseil d'administration et le conseil scientifique. Il assure la direction générale de
+l'établissement.
 
 **Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°2002-90 du 16 janvier 2002 - art. 5 (Ab)
-
-	**Créé par**:
-
-	  - Décret n°2011-574 du 24 mai 2011  - art.
 
 	**Codifié par**:
 
 	  - Décret n°2011-574 du 24 mai 2011 Annexe - art.
+
+	**Modifié par**:
+
+	  - Décret n°2016-1126 du 11 août 2016 - art. 3
 
 
 ###### Article R545-31
 
-Le président de l'Institut national de recherches archéologiques préventives est choisi parmi les personnalités ayant une
-compétence dans le domaine de l'archéologie. Il est nommé sur proposition conjointe du ministre chargé de la culture et du
-ministre chargé de la recherche.
+Le président de l'Institut national de recherches archéologiques préventives est choisi après appel à candidatures, parmi les
+personnalités ayant une compétence dans le domaine de l'archéologie, sur la base d'un projet scientifique tenant compte, le
+cas échéant et pour la durée d'exécution restant à courir, des engagements pris par l'établissement dans le contrat
+pluriannuel conclu avec l'Etat. Il est nommé par décret sur proposition conjointe du ministre chargé de la culture et du
+ministre chargé de la recherche pour un mandat de trois ans renouvelable deux fois. 
 
-Il ne peut exercer plus de deux mandats consécutifs.
+Dans le cas d'un renouvellement de mandat, il n'est pas procédé à un appel à candidatures. 
+
+Un arrêté conjoint du ministre chargé de la culture et du ministre chargé de la recherche précise les modalités
+d'organisation de l'appel à candidatures.
 
 **Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°2002-90 du 16 janvier 2002 - art. 6 (Ab)
-
-	**Créé par**:
-
-	  - Décret n°2011-574 du 24 mai 2011  - art.
 
 	**Codifié par**:
 
 	  - Décret n°2011-574 du 24 mai 2011 Annexe - art.
+
+	**Modifié par**:
+
+	  - Décret n°2016-1126 du 11 août 2016 - art. 4
 
 
 ###### Article R545-32
 
-Le président de l'Institut national de recherches archéologiques préventives préside le conseil d'administration ainsi que le
-conseil scientifique de l'établissement. Il convoque les deux conseils et fixe l'ordre du jour de leurs réunions.
+Le président dirige l'Institut national de recherches archéologiques préventives. A ce titre : 
 
-Il anime et coordonne la réflexion conduisant à la définition de la politique générale de l'établissement et de ses relations
-avec les autres institutions scientifiques régionales, nationales et internationales. Il veille à l'accomplissement par
-celui-ci de ses missions.
+1° Il convoque le conseil d'administration, fixe son ordre du jour, prépare ses délibérations et en assure l'exécution ; 
 
-Sur la base des travaux du conseil scientifique, il présente au conseil d'administration le programme scientifique de
+2° Il prépare et exécute le budget de l'établissement ; 
+
+3° Il est ordonnateur des recettes et des dépenses ; il peut nommer des ordonnateurs secondaires et leur déléguer ses
+pouvoirs, dans les limites qu'il détermine, en matière de passation des marchés publics ; 
+
+4° Il a autorité sur l'ensemble des services et des personnels de l'établissement. Il gère le personnel. Il recrute les
+personnels contractuels. Il donne son avis sur l'affectation des personnels titulaires, lorsque ceux-ci sont affectés à
+l'établissement, sauf lorsque l'affectation est consécutive à un concours. Il affecte les personnels dans les différents
+services de l'établissement ; 
+
+5° Il anime et coordonne la réflexion conduisant à la définition de la politique générale de l'établissement et de ses
+relations avec les autres institutions scientifiques régionales, nationales et internationales. Il veille à l'accomplissement
+par celui-ci de ses missions ; 
+
+6° Il présente au conseil d'administration, sur la base des travaux du conseil scientifique, le programme scientifique de
 l'établissement et son programme de coopération, notamment avec les collectivités territoriales et les établissements publics
-de recherche ou d'enseignement supérieur.
+de recherche ou d'enseignement supérieur ; 
+
+7° Il représente l'établissement en justice et dans tous les actes de la vie civile ; 
+
+8° Il signe les contrats engageant l'établissement ; 
+
+9° Il conclut les transactions, dans le respect des modalités fixées par le conseil d'administration ; 
+
+10° Il fixe le prix des prestations et services rendus par l'établissement, dans le respect des modalités fixées par le
+conseil d'administration ; 
+
+11° Il procède à l'exécution des décisions d'attribution de subventions de l'Etat et des décisions de prise en charge
+financées par le Fonds national pour l'archéologie préventive, ainsi que toute autre décision afférente à la gestion du
+fonds ; 
+
+12° Il préside le comité technique et le comité d'hygiène, de sécurité et des conditions de travail ; 
+
+13° Il rend compte de sa gestion au conseil d'administration.
 
 **Liens relatifs à cet article**
-
-	**Créé par**:
-
-	  - Décret n°2011-574 du 24 mai 2011  - art.
 
 	**Codifié par**:
 
 	  - Décret n°2011-574 du 24 mai 2011 Annexe - art.
+
+	**Modifié par**:
+
+	  - Décret n°2016-1126 du 11 août 2016 - art. 5
 
 	**Cité par**:
 
 	  - Code du patrimoine - art. R545-33 (V)
 
-	**Anciens textes**:
-
-	  - Décret n°2002-90 du 16 janvier 2002 - art. 7 (V), alinéas 1 à 3.
-
 
 ###### Article R545-33
 
-Le président de l'Institut national de recherches archéologiques préventives préside le comité technique paritaire et le
-comité d'hygiène, de sécurité et des conditions de travail, et peut s'y faire représenter par le directeur général.
+Sauf en ce qui concerne le 1° de l'article R. 545-32, le président peut, dans les limites qu'il détermine, déléguer sa
+signature au directeur général délégué et aux autres agents placés sous son autorité. Il en informe le conseil
+d'administration. 
+
+En cas de vacance ou d'empêchement du président, pour quelque cause que ce soit, les fonctions d'ordonnateur sont
+provisoirement exercées par le directeur général délégué pour l'exécution courante des recettes et des dépenses de
+l'établissement.
 
 **Liens relatifs à cet article**
 
@@ -33350,59 +33394,58 @@ comité d'hygiène, de sécurité et des conditions de travail, et peut s'y fair
 
 	  - Décret n°2011-574 du 24 mai 2011 Annexe - art.
 
-	**Anciens textes**:
-
-	  - Décret n°2002-90 du 16 janvier 2002 - art. 7 (V), alinéa 4.
-
 	**Modifié par**:
 
-	  - Décret n°2011-774 du 28 juin 2011 - art. 30 (V)
+	  - Décret n°2016-1126 du 11 août 2016 - art. 6
+
+	**Cite**:
+
+	  - Code du patrimoine - art. R545-32
 
 
 ###### Article R545-34
 
-Le conseil d'administration comprend, outre le président : 
+Le conseil d'administration comprend, outre le président :
 
-1° Sept représentants de l'Etat : 
+1° Sept représentants de l'Etat :
 
-a) Le secrétaire général du ministère chargé de la culture ou son représentant ; 
+a) Le secrétaire général du ministère chargé de la culture ou son représentant ;
 
-b) Le directeur général des patrimoines au ministère chargé de la culture ou son représentant ; 
+b) Le directeur général des patrimoines au ministère chargé de la culture ou son représentant ;
 
-c) Le directeur chargé de la recherche au ministère chargé de la recherche ou son représentant ; 
+c) Le directeur chargé de la recherche au ministère chargé de la recherche ou son représentant ;
 
-d) Le directeur chargé de l'enseignement supérieur au ministère chargé de l'enseignement supérieur ou son représentant ; 
+d) Le directeur chargé de l'enseignement supérieur au ministère chargé de l'enseignement supérieur ou son représentant ;
 
-e) Le directeur chargé du budget au ministère chargé du budget ou son représentant ; 
+e) Le directeur chargé du budget au ministère chargé du budget ou son représentant ;
 
 f) Le directeur général de l'aménagement, du logement et de la nature au ministère chargé de l'urbanisme ou son
-représentant ; 
+représentant ;
 
-g) Un conservateur régional de l'archéologie désigné par le ministre chargé de la culture ; 
+g) Un conservateur régional de l'archéologie désigné par le ministre chargé de la culture ;
 
-2° Deux représentants des organismes de recherche et d'enseignement supérieur : 
+2° Deux représentants des organismes de recherche et d'enseignement supérieur :
 
-a) Le directeur général du Centre national de la recherche scientifique ou son représentant ; 
+a) Le directeur général du Centre national de la recherche scientifique ou son représentant ;
 
-b) Le premier vice-président de la conférence des présidents d'université ou un autre membre de cette instance désigné par
-lui ; 
+b) Le président de la conférence des présidents d'université ou un autre membre de cette instance désigné par lui ;
 
 3° Deux représentants des collectivités territoriales, désignés conjointement par le ministre chargé de la culture et le
-ministre chargé de la recherche ; 
+ministre chargé de la recherche ;
 
 4° Deux représentants des personnes publiques et privées concernées par l'archéologie préventive, désignés conjointement par
-les mêmes ministres ; 
+les mêmes ministres ;
 
 5° Quatre membres élus par les personnels de l'établissement et parmi eux ; 
 
-6° Quatre personnalités qualifiées dans le domaine de l'archéologie : 
+6° Quatre personnalités qualifiées dans le domaine de l'archéologie :
 
-a) Deux désignées par le ministre chargé de la culture ; 
+a) Deux désignées par le ministre chargé de la culture ;
 
-b) Deux désignées par le ministre chargé de la recherche. 
+b) Deux désignées par le ministre chargé de la recherche.
 
-Le directeur général, le directeur chargé des questions scientifiques et techniques, le        contrôleur budgétaire, l'agent
-comptable ainsi que toute personne dont la présence est jugée utile par le président assistent aux séances avec voix
+Le directeur général délégué, le directeur chargé des questions scientifiques et techniques, le contrôleur budgétaire,
+l'agent comptable ainsi que toute personne dont la présence est jugée utile par le président assistent aux séances avec voix
 consultative.
 
 **Liens relatifs à cet article**
@@ -33413,7 +33456,7 @@ consultative.
 
 	**Modifié par**:
 
-	  - Décret n°2012-1247 du 7 novembre 2012 - art. 2 (V)
+	  - Décret n°2016-1126 du 11 août 2016 - art. 7
 
 	**Cité par**:
 
@@ -33423,59 +33466,62 @@ consultative.
 
 ###### Article R545-35
 
-Le conseil d'administration délibère notamment sur : 
+Le conseil d'administration règle par ses délibérations les affaires de l'établissement. Il délibère notamment sur :
 
 1° La politique générale de l'établissement et, sur proposition du conseil scientifique, son programme d'activité
 scientifique ainsi que les conditions générales de mise en œuvre des conventions prévues au quatrième alinéa de l'article L.
-523-1 ; 
+523-1 ;
 
-2° L'organisation générale de l'établissement, notamment son organisation territoriale, et son règlement intérieur ; 
+2° L'organisation générale de l'établissement, notamment son organisation territoriale, et son règlement intérieur ;
 
-3° Le budget et ses modifications ; 
+3° Le budget et ses modifications ;
 
-4° Le compte financier et l'affectation des résultats de l'exercice ; 
+4° Le compte financier et l'affectation des résultats de l'exercice ;
 
-5° Les conditions générales de passation des conventions et marchés ; 
+5° Les conditions générales de passation des conventions et marchés ;
 
-6° Les modalités de tarification des prestations et services rendus par l'établissement ; 
+6° Les modalités de tarification des prestations et services rendus par l'établissement ;
 
-7° Les acquisitions, aliénations et échanges d'immeubles ; 
+7° Les acquisitions, aliénations et échanges d'immeubles ;
 
-8° Les emprunts ainsi que les prises, cessions ou extensions de participation et créations de filiales ; 
+8° Les emprunts ainsi que les prises, cessions ou extensions de participation et créations de filiales et la participation à
+des groupements d'intérêt public, à des établissements publics de coopération culturelle ou à des associations à but non
+lucratif ; 
 
-9° L'acceptation des dons et legs ; 
+9° L'acceptation ou le refus des dons et legs ;
 
-10° Les transactions ; 
+10° Les transactions ;
 
-11° Les actions en justice, dans les conditions qu'il détermine ; 
+11° Les actions en justice, dans les conditions qu'il détermine ;
 
-12° Le rapport annuel d'activité. 
+12° Le rapport annuel d'activité ;
 
-En ce qui concerne les matières énumérées aux 6°, 9° et 10°, le conseil d'administration peut déléguer ses pouvoirs au
-directeur général dans les limites qu'il détermine. Le directeur général lui rend compte, lors de la plus prochaine séance,
-des décisions qu'il a prises en vertu de cette délégation.
+13° Les projets de conventions d'utilisation des immeubles conclues dans les conditions prévues aux articles R. 2313-1 à R.
+2313-5 et R. 4121-2 du code général de la propriété des personnes publiques ; 
+
+14° Le projet de contrat pluriannuel et le rapport annuel de performance, mentionnés à l'article R. 545-25-1.
+
+En ce qui concerne les matières énumérées aux 6°, 9°, 10 et 11°, le conseil d'administration peut déléguer ses pouvoirs au
+président dans les limites qu'il détermine. Le président lui rend compte, lors de la plus prochaine séance, des décisions
+qu'il a prises en vertu de cette délégation.
 
 **Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°2002-90 du 16 janvier 2002 - art. 9 (Ab)
-
-	**Créé par**:
-
-	  - Décret n°2011-574 du 24 mai 2011  - art.
 
 	**Codifié par**:
 
 	  - Décret n°2011-574 du 24 mai 2011 Annexe - art.
 
-	**Cité par**:
+	**Modifié par**:
 
-	  - Code du patrimoine - art. R545-39 (V)
+	  - Décret n°2016-1126 du 11 août 2016 - art. 8
 
 	**Cite**:
 
-	  - Code du patrimoine. - art. L523-1 (V)
+	  - Code du patrimoine - art. L523-1
+
+	**Cité par**:
+
+	  - Code du patrimoine - art. R545-39 (V)
 
 
 ###### Article R545-36
@@ -33483,26 +33529,25 @@ des décisions qu'il a prises en vertu de cette délégation.
 Le conseil d'administration se réunit au moins deux fois par an. Il peut être également réuni par son président à la demande
 du tiers au moins de ses membres ou de l'un des ministres chargés de la tutelle.
 
+En cas de vacance ou d'empêchement du président, le conseil d'administration est convoqué et l'ordre du jour fixé par le
+directeur général délégué. Un président de séance est alors élu par les membres du conseil parmi les personnes qualifiées.
+
 Le conseil ne peut valablement délibérer que si la moitié au moins de ses membres sont présents ou représentés. Si le quorum
 n'est pas atteint, le conseil est à nouveau convoqué dans un délai de quinze jours sur le même ordre du jour. Il délibère
-alors valablement, quel que soit le nombre des membres présents.
+alors valablement, quel que soit le nombre des membres présents. 
 
 Les délibérations sont prises à la majorité des membres présents. En cas de partage égal des voix, celle du président est
 prépondérante.
 
 **Liens relatifs à cet article**
 
-	**Anciens textes**:
-
-	  - Décret n°2002-90 du 16 janvier 2002 - art. 10 (Ab), alinéas 1 à 3.
-
-	**Créé par**:
-
-	  - Décret n°2011-574 du 24 mai 2011  - art.
-
 	**Codifié par**:
 
 	  - Décret n°2011-574 du 24 mai 2011 Annexe - art.
+
+	**Modifié par**:
+
+	  - Décret n°2016-1126 du 11 août 2016 - art. 9
 
 
 ###### Article R545-37
@@ -33565,7 +33610,7 @@ En cas d'urgence, les ministres chargés de la tutelle peuvent autoriser l'exéc
 Les délibérations portant sur le budget et le compte financier sont exécutoires dans les conditions prévues par le titre III
 du décret n° 2012-1246 du 7 novembre 2012 relatif à la gestion budgétaire et comptable publique. 
 
-Les dispositions du présent article sont applicables aux décisions du directeur général prises sur délégation du conseil
+Les dispositions du présent article sont applicables aux décisions du président prises sur délégation du conseil
 d'administration.
 
 **Liens relatifs à cet article**
@@ -33581,16 +33626,13 @@ d'administration.
 
 	**Modifié par**:
 
-	  - Décret n°2012-1247 du 7 novembre 2012 - art. 34
+	  - Décret n°2016-1126 du 11 août 2016 - art. 10
 
 
 ###### Article R545-40
 
-Le directeur général de l'établissement est nommé par décret pour trois ans, sur proposition conjointe du ministre chargé de
-la culture et du ministre chargé de la recherche, après avis du président. Il ne peut exercer plus de trois mandats
-consécutifs.
-
-Il est assisté d'un directeur chargé des questions scientifiques et techniques, qu'il nomme sur avis conforme du président.
+Le directeur général délégué de l'établissement est nommé par arrêté conjoint du ministre chargé de la culture et du ministre
+chargé de la recherche, sur proposition du président, pour un mandat de trois ans renouvelable une fois.
 
 **Liens relatifs à cet article**
 
@@ -33600,60 +33642,39 @@ Il est assisté d'un directeur chargé des questions scientifiques et techniques
 
 	**Modifié par**:
 
-	  - Décret n°2015-1331 du 22 octobre 2015 - art. 2
+	  - Décret n°2016-1126 du 11 août 2016 - art. 11
 
 
 ###### Article R545-41
 
-Le directeur général dirige l'établissement. A ce titre :
-
-1° Il représente l'établissement en justice et dans tous les actes de la vie civile ;
-
-2° Il prépare et exécute le budget et les autres délibérations du conseil d'administration ;
-
-3° Il est ordonnateur des recettes et des dépenses ;
-
-4° Il recrute, nomme et gère le personnel ;
-
-5° Il conclut les conventions et marchés dans les conditions définies par le conseil d'administration conformément au 5° de
-l'article R. 545-35 ;
-
-6° Il fixe le prix des prestations et services rendus par l'établissement.
+Le directeur général délégué est chargé, sous l'autorité du président, de l'administration et de la gestion de
+l'établissement. Il assiste, en outre, le président dans la préparation et la mise en œuvre de ses décisions.
 
 **Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°2002-90 du 16 janvier 2002 - art. 13 (Ab), alinéas 1 à 8.
-
-	**Créé par**:
-
-	  - Décret n°2011-574 du 24 mai 2011  - art.
 
 	**Codifié par**:
 
 	  - Décret n°2011-574 du 24 mai 2011 Annexe - art.
+
+	**Modifié par**:
+
+	  - Décret n°2016-1126 du 11 août 2016 - art. 12
 
 
 ###### Article R545-42
 
-Le directeur général procède à l'exécution des décisions d'attribution de subventions de l'Etat et des décisions de prise en
-charge financées par le Fonds national pour l'archéologie préventive, ainsi que de toute autre décision afférente à la
-gestion du fonds.
+Le directeur chargé des questions scientifiques et techniques est nommé par le président de l'établissement, après avis du
+conseil scientifique de l'établissement et du vice-président du Conseil national de la recherche archéologique.
 
 **Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°2002-90 du 16 janvier 2002 - art. 13 (Ab), alinéa 9.
-
-	**Créé par**:
-
-	  - Décret n°2011-574 du 24 mai 2011  - art.
 
 	**Codifié par**:
 
 	  - Décret n°2011-574 du 24 mai 2011 Annexe - art.
+
+	**Modifié par**:
+
+	  - Décret n°2016-1126 du 11 août 2016 - art. 13
 
 	**Cité par**:
 
@@ -33678,33 +33699,6 @@ budgétaire et comptable publique.
 	**Modifié par**:
 
 	  - Décret n°2012-1247 du 7 novembre 2012 - art. 34
-
-
-###### Article R545-44
-
-Le directeur général peut nommer des ordonnateurs secondaires. Il peut leur déléguer ses pouvoirs, dans les limites qu'il
-détermine, en matière de passation de marchés publics.
-
-Il peut déléguer sa signature aux personnes placées sous son autorité, dans la limite de leurs attributions et dans les
-conditions qu'il détermine.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°2002-90 du 16 janvier 2002 - art. 14 (Ab)
-
-	**Créé par**:
-
-	  - Décret n°2011-574 du 24 mai 2011  - art.
-
-	**Codifié par**:
-
-	  - Décret n°2011-574 du 24 mai 2011 Annexe - art.
-
-	**Abrogé par**:
-
-	  - Décret n°2016-1126 du 11 août 2016 - art. 14
 
 
 ###### Article R545-45
@@ -33758,9 +33752,9 @@ b) Deux désignées par le ministre chargé de la recherche ;
 
 ###### Article R545-46
 
-Le conseil scientifique assiste le président, le conseil d'administration et le directeur général dans la définition de la
-politique scientifique de l'établissement. Il assure l'évaluation des activités de ce dernier, en matière de recherche et
-d'exploitation des résultats de celle-ci, de formation, de diffusion culturelle et de valorisation de l'archéologie. 
+Le conseil scientifique assiste le président et le conseil d'administration dans la définition de la politique scientifique
+de l'établissement. Il assure l'évaluation des activités de ce dernier, en matière de recherche et d'exploitation des
+résultats de celle-ci, de formation, de diffusion culturelle et de valorisation de l'archéologie. 
 
 A ce titre, il délibère notamment sur : 
 
@@ -33777,25 +33771,24 @@ scientifiques de mise en œuvre par l'établissement de son droit de garde tempo
 formation scientifique de ces personnels ; 
 
 6° L'évaluation, lors des recrutements, des promotions et des demandes de congé de recherche, des activités des mêmes
-personnels.
+personnels. 
+
+En outre, il émet l'avis mentionné à l'article R. 545-42 du présent code.
 
 **Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°2002-90 du 16 janvier 2002 - art. 16 (Ab)
-
-	**Créé par**:
-
-	  - Décret n°2011-574 du 24 mai 2011  - art.
 
 	**Codifié par**:
 
 	  - Décret n°2011-574 du 24 mai 2011 Annexe - art.
 
+	**Modifié par**:
+
+	  - Décret n°2016-1126 du 11 août 2016 - art. 15
+
 	**Cite**:
 
-	  - Code du patrimoine. - art. L523-1 (V)
+	  - Code du patrimoine - art. L523-1
+	  - Code du patrimoine - art. R545-42
 
 
 ###### Article R545-47
@@ -33822,26 +33815,22 @@ scientifique. Ces commissions peuvent comprendre des personnes n'appartenant pas
 
 ###### Article R545-48
 
-Le directeur général ou son représentant, le directeur chargé des questions scientifiques et techniques et toute personne
-dont la présence est jugée utile par le président assistent aux séances du conseil scientifique et de ses commissions avec
-voix consultative.
+Le directeur général délégué ou son représentant, le directeur chargé des questions scientifiques et techniques et toute
+personne dont la présence est jugée utile par le président assistent aux séances du conseil scientifique et de ses
+commissions avec voix consultative.
 
 Le directeur chargé des questions scientifiques et techniques prépare les travaux du conseil scientifique et de ses
 commissions et en assure le secrétariat.
 
 **Liens relatifs à cet article**
 
-	**Anciens textes**:
-
-	  - Décret n°2002-90 du 16 janvier 2002 - art. 17 (Ab), alinéas 3 et 4.
-
-	**Créé par**:
-
-	  - Décret n°2011-574 du 24 mai 2011  - art.
-
 	**Codifié par**:
 
 	  - Décret n°2011-574 du 24 mai 2011 Annexe - art.
+
+	**Modifié par**:
+
+	  - Décret n°2016-1126 du 11 août 2016 - art. 16
 
 
 ###### Article R545-49
@@ -33866,30 +33855,16 @@ archéologique sont transmis à l'établissement public. Ils sont tenus à la di
 
 ###### Article R545-50
 
-La durée du mandat des membres du conseil d'administration et du conseil scientifique est de trois ans. Nul ne peut exercer
-plus de deux mandats consécutifs.
+La durée du mandat des membres du conseil d'administration est de trois ans. Nul ne peut exercer plus de deux mandats
+consécutifs. 
 
 Les dispositions de l'alinéa précédent ne sont pas applicables aux représentants de l'Etat au conseil d'administration
-mentionnés aux a à f du 1° de l'article R. 545-34. Au conseil scientifique, elles ne sont pas applicables au vice-président
-du Conseil national de la recherche archéologique.
+mentionnés aux a à f du 1° de l'article R. 545-34. 
 
-Pour les membres du conseil d'administration mentionnés aux 3° à 5° de l'article R. 545-34 et pour ceux du conseil
-scientifique mentionnés aux 2° à 4° de l'article R. 545-45, un suppléant est désigné dans les mêmes conditions que le
-titulaire.
-
-Toute vacance, pour quelque cause que ce soit, y compris indisponibilité supérieure à un an ou perte de la qualité au titre
-de laquelle les membres des conseils ont été désignés, donne lieu à remplacement pour la durée du mandat, si elle survient
-plus de six mois avant le terme normal de celui-ci.
+Les mandats des membres mentionnés au 5° de l'article R. 545-34 prennent effet à la date de la première réunion qui suit leur
+élection.
 
 **Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°2002-90 du 16 janvier 2002 - art. 18 (Ab)
-
-	**Créé par**:
-
-	  - Décret n°2011-574 du 24 mai 2011  - art.
 
 	**Codifié par**:
 
@@ -33900,6 +33875,60 @@ plus de six mois avant le terme normal de celui-ci.
 	  - Décret n°2011-818 du 7 juillet 2011 - art. 1 (V)
 	  - Décret n°2015-192 du 18 février 2015 - art. 1 (V)
 
+	**Modifié par**:
+
+	  - Décret n°2016-1126 du 11 août 2016 - art. 17
+
+	**Cite**:
+
+	  - Code du patrimoine - art. R545-34
+
+
+###### Article R545-50-1
+
+La durée du mandat des membres du conseil scientifique est de quatre ans. Nul ne peut exercer plus de deux mandats
+consécutifs. 
+
+Les mandats de tous les membres du conseil scientifique prennent effet à la date de la première réunion du conseil renouvelé.
+Ils prennent fin le même jour pour tous les membres à l'issue de la période de quatre années fixée au premier alinéa. 
+
+Les dispositions des deux alinéas précédents ne sont pas applicables au vice-président du Conseil national de la recherche
+archéologique.
+
+**Nota:**
+
+Conformément au II de l'article 20 du décret n° 2016-1126 du 11 août 2016, les dispositions des deux premiers alinéas de
+l'article R. 545-50-1, résultant de l'article 17 dudit décret, s'appliqueront aux mandats des membres qui seront élus et
+désignés postérieurement au terme des mandats en cours des membres mentionnés aux 2° et 4° de l'article R. 545-45.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2016-1126 du 11 août 2016 - art. 17
+
+
+###### Article R545-50-2
+
+Pour les membres du conseil d'administration mentionnés aux 3° à 5° de l'article R. 545-34 et pour ceux du conseil
+scientifique mentionnés aux 2° à 4° de l'article R. 545-45, un suppléant est désigné dans les mêmes conditions que le
+titulaire. 
+
+Toute vacance, pour quelque cause que ce soit, y compris indisponibilité supérieure à un an ou perte de la qualité au titre
+de laquelle les membres des conseils ont été désignés, donne lieu à remplacement pour la durée du mandat, si elle survient
+plus de six mois avant le terme normal de celui-ci.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2016-1126 du 11 août 2016 - art. 17
+
+	**Cite**:
+
+	  - Code du patrimoine - art. R545-34
+	  - Code du patrimoine - art. R545-45
+
 
 ###### Article R545-51
 
@@ -33907,21 +33936,15 @@ Les modalités d'élection des membres du conseil d'administration et du conseil
 de l'article R. 545-34 et aux 2° et 4° de l'article R. 545-45 sont fixées par arrêté conjoint du ministre chargé de la
 culture et du ministre chargé de la recherche.
 
-Les mandats prennent effet à la date de la première réunion qui suit l'élection.
-
 **Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°2002-90 du 16 janvier 2002 - art. 19 (Ab)
-
-	**Créé par**:
-
-	  - Décret n°2011-574 du 24 mai 2011  - art.
 
 	**Codifié par**:
 
 	  - Décret n°2011-574 du 24 mai 2011 Annexe - art.
+
+	**Modifié par**:
+
+	  - Décret n°2016-1126 du 11 août 2016 - art. 18
 
 
 ###### Article R545-52
@@ -34024,27 +34047,23 @@ Les dépenses de l'établissement comprennent :
 
 ###### Article R545-57
 
-Des régies d'avances et des régies de recettes peuvent être créées par le directeur général, avec l'accord de l'agent
-comptable, dans les conditions prévues par le décret n° 92-681 du 20 juillet 1992 relatif aux régies de recettes et aux
-régies d'avances des organismes publics.
+Des régies d'avances et des régies de recettes peuvent être créées par le président, avec l'accord de l'agent comptable, dans
+les conditions prévues par le décret n° 92-681 du 20 juillet 1992 relatif aux régies de recettes et aux régies d'avances des
+organismes publics.
 
 **Liens relatifs à cet article**
 
 	**Cite**:
 
-	  - Décret n°92-681 du 20 juillet 1992 (V)
-
-	**Anciens textes**:
-
-	  - Décret n°2002-90 du 16 janvier 2002 - art. 25 (Ab)
-
-	**Créé par**:
-
-	  - Décret n°2011-574 du 24 mai 2011  - art.
+	  - Décret n°92-681 du 20 juillet 1992
 
 	**Codifié par**:
 
 	  - Décret n°2011-574 du 24 mai 2011 Annexe - art.
+
+	**Modifié par**:
+
+	  - Décret n°2016-1126 du 11 août 2016 - art. 19
 
 
 ###### Article R545-58
