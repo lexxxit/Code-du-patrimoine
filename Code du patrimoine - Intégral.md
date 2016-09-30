@@ -1,5 +1,5 @@
 # Code du patrimoine  
-Version Consolidée au 2016-08-15
+Version Consolidée au 2016-10-01
 
 # Partie législative
 
@@ -23181,26 +23181,23 @@ au demandeur de justifier le motif de sa demande.
 ###### Article R213-2
 
 La formule qui confère le caractère de conformité est : " Vu et certifié conforme à l'original. Ce document n'a pas de valeur
-authentique au sens de l'article 1317 du code civil ", suivie de la date de la délivrance du visa, du timbre, tampon ou sceau
+authentique au sens de l'article 1369 du code civil ", suivie de la date de la délivrance du visa, du timbre, tampon ou sceau
 et de la signature de la personne qualifiée aux termes de l'article R. 213-5, ou de son délégué.
 
 **Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°79-1039 du 3 décembre 1979 - art. 2 (Ab)
-
-	**Créé par**:
-
-	  - Décret n°2011-574 du 24 mai 2011  - art.
 
 	**Codifié par**:
 
 	  - Décret n°2011-574 du 24 mai 2011 Annexe - art.
 
+	**Modifié par**:
+
+	  - Décret n°2016-1278 du 29 septembre 2016 - art. 1 (V)
+
 	**Cite**:
 
-	  - Code civil - art. 1317 (M)
+	  - Code civil - art. 1369
+	  - Code du patrimoine - art. R213-5
 
 
 ###### Article R213-3
