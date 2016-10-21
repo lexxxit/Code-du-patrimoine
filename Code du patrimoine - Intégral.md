@@ -1,5 +1,5 @@
 # Code du patrimoine  
-Version Consolidée au 2016-10-09
+Version Consolidée au 2016-10-22
 
 # Partie législative
 
@@ -19440,27 +19440,26 @@ c) Elle peut concourir à la formation permanente des professionnels du secteur 
 
 ###### Article R142-3
 
-La Cité de l'architecture et du patrimoine comprend trois départements :
+La Cité de l'architecture et du patrimoine est organisée en départements et services auxquels sont confiées les missions
+définies au deuxième alinéa de l'article L. 142-1. La politique scientifique, culturelle et pédagogique de l'établissement
+est mise en œuvre au sein des départements. 
 
-1° Le département du patrimoine, dénommé Musée des monuments français ;
-
-2° Le département de l'architecture, dénommé Institut français d'architecture ;
-
-3° Le département de la formation, dénommé Centre des hautes études de Chaillot.
+Le Musée des monuments français et le Centre des hautes études de Chaillot dit " Ecole de Chaillot " sont chacun rattachés à
+un département.
 
 **Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°2004-683 du 9 juillet 2004 - art. 3 (Ab)
-
-	**Créé par**:
-
-	  - Décret n°2011-574 du 24 mai 2011  - art.
 
 	**Codifié par**:
 
 	  - Décret n°2011-574 du 24 mai 2011 Annexe - art.
+
+	**Modifié par**:
+
+	  - Décret n°2016-1409 du 19 octobre 2016 - art. 2
+
+	**Cite**:
+
+	  - Code du patrimoine - art. L142-1
 
 
 ###### Article R142-4
@@ -19493,7 +19492,7 @@ elle participe à la collecte, à la conservation et à la valorisation des arch
 La Cité de l'architecture et du patrimoine est administrée par un conseil d'administration qui comprend, outre son
 président :
 
-1° Cinq représentants de l'Etat :
+1° Six représentants de l'Etat :
 
 a) Le directeur général des patrimoines au ministère chargé de la culture ou son représentant ;
 
@@ -19505,6 +19504,8 @@ d) Le directeur du budget ou son représentant ;
 
 e) Le directeur général de l'aménagement, du logement et de la nature au ministère chargé de l'urbanisme ou son
 représentant ;
+
+f) Le commissaire général à l'égalité des territoires ou son représentant ;
 
 2° Cinq personnalités françaises ou étrangères choisies en raison de leur compétence dans le domaine d'activité de
 l'établissement, nommées par arrêté du ministre chargé de la culture ;
@@ -19530,12 +19531,12 @@ chapitre III de ce titre.
 
 	**Modifié par**:
 
-	  - Décret n°2015-1331 du 22 octobre 2015 - art. 2
+	  - Décret n°2016-1409 du 19 octobre 2016 - art. 3
 
 
 ###### Article R142-6
 
-Le mandat des membres mentionnés aux 2° et 3° de l'article R. 142-5 est fixé à cinq ans. Il est renouvelable.
+Le mandat des membres mentionnés aux 2° et 3° de l'article R. 142-5 est fixé à cinq ans. Il est renouvelable une fois.
 
 En cas de vacance définitive pour quelque cause que ce soit, y compris la perte de la qualité au titre de laquelle un membre
 a été désigné, survenant plus de trois mois avant l'expiration du mandat, un autre membre est désigné dans les mêmes
@@ -19547,17 +19548,13 @@ fonctionnaires de l'Etat.
 
 **Liens relatifs à cet article**
 
-	**Anciens textes**:
-
-	  - Décret n°2004-683 du 9 juillet 2004 - art. 6 (Ab)
-
-	**Créé par**:
-
-	  - Décret n°2011-574 du 24 mai 2011  - art.
-
 	**Codifié par**:
 
 	  - Décret n°2011-574 du 24 mai 2011 Annexe - art.
+
+	**Modifié par**:
+
+	  - Décret n°2016-1409 du 19 octobre 2016 - art. 4
 
 
 ###### Article R142-7
@@ -19607,14 +19604,15 @@ Le conseil d'administration ne peut valablement délibérer que si la moitié au
 représentée. Si le quorum n'est pas atteint, le conseil est à nouveau réuni dans un délai maximum de quinze jours sur le même
 ordre du jour. Il délibère alors valablement quel que soit le nombre des membres présents ou représentés. 
 
-En cas d'absence ou d'empêchement pour la présidence du conseil d'administration, le président de l'établissement est suppléé
-par le directeur général des patrimoines. 
+En cas d'absence ou d'empêchement du président du conseil d'administration, le conseil d'administration peut être convoqué
+par le directeur général délégué. Dans ce cas, le conseil d'administration élit un président de séance parmi les
+personnalités mentionnées au 2° de l'article R. 142-5.
 
 Les délibérations sont prises à la majorité des membres présents ou représentés. En cas de partage égal des voix, celle du
 président est prépondérante. 
 
-Le directeur général délégué, les chefs de département et le        contrôleur budgétaire assistent aux séances du conseil
-d'administration avec voix consultative. 
+Le directeur général délégué, les chefs de département, le contrôleur budgétaire, l'agent comptable et le secrétaire du
+comité d'entreprise assistent aux séances du conseil d'administration avec voix consultative. 
 
 Le président peut appeler à participer aux séances du conseil d'administration avec voix consultative toute personne dont il
 juge la présence utile.
@@ -19627,7 +19625,7 @@ juge la présence utile.
 
 	**Modifié par**:
 
-	  - Décret n°2012-1247 du 7 novembre 2012 - art. 2 (V)
+	  - Décret n°2016-1409 du 19 octobre 2016 - art. 5
 
 
 ###### Article R142-10
@@ -19638,7 +19636,7 @@ A ce titre, il délibère notamment sur :
 
 1° Les orientations ainsi que les mesures générales relatives à l'organisation et au fonctionnement de l'établissement ;
 
-2° Le contrat d'objectifs et de moyens et le compte rendu d'exécution y afférent ;
+2° Le contrat d'objectifs et de performance conclu avec l'Etat et le compte rendu d'exécution y afférent ;
 
 3° Les orientations de la programmation annuelle des activités de la cité ;
 
@@ -19652,9 +19650,9 @@ collections ;
 
 7° Le rapport annuel d'activité ;
 
-8° Le budget  ;
+8° Le budget ;
 
-9° Le compte financier  ;
+9° Le compte financier ;
 
 10° La politique tarifaire de l'établissement ;
 
@@ -19687,7 +19685,7 @@ temporaires du domaine public, et les redevances y afférentes ;
 
 	**Modifié par**:
 
-	  - Décret n°2012-1247 du 7 novembre 2012 - art. 34
+	  - Décret n°2016-1409 du 19 octobre 2016 - art. 6
 
 	**Cité par**:
 
@@ -19789,10 +19787,10 @@ générale de l'établissement. A ce titre :
 3° Il est ordonnateur des recettes et des dépenses, prépare et signe les accords d'entreprise et veille à leur bonne
 application ; 
 
-4° Il peut prendre dans l'intervalle des séances du conseil d'administration, sous réserve de l'avis préalable du contrôleur
-budgétaire, des décisions modificatives du budget qui ne comportent ni accroissement des effectifs permanents ou du montant
-total des dépenses, ni réduction du montant total des recettes, ni virements de crédits entre les chapitres de personnel et
-les chapitres de matériel ; 
+4° Il peut adopter dans l'intervalle des séances du conseil d'administration, sous réserve de l'autorisation du contrôleur
+budgétaire, des budgets rectificatifs qui n'ont pas pour effet d'accroître les effectifs permanents ou le montant total des
+dépenses, de réduire le montant total des recettes ou de procéder à des virements de crédits entre les enveloppes. Ces
+décisions sont ratifiées par le conseil d'administration lors de sa prochaine séance ; 
 
 ces décisions sont ratifiées par le conseil d'administration lors de sa plus prochaine séance ; 
 
@@ -19812,7 +19810,8 @@ ces décisions sont ratifiées par le conseil d'administration lors de sa plus p
 
 12° Il arrête le programme d'activités en concertation avec les chefs de département ; 
 
-13° Il organise les directions et les départements et a autorité sur les services de l'établissement ; 
+13° Conformément à l'article R. 142-3, et dans le respect des orientations arrêtées par le conseil d'administration, il fixe
+l'organisation administrative de l'établissement en départements et services ; 
 
 14° Il exerce les compétences dévolues au ministre chargé de l'architecture pour signer au nom de l'Etat le diplôme national
 d'enseignement supérieur délivré par l'établissement et au nom de l'établissement les diplômes qui lui sont propres. 
@@ -19822,7 +19821,7 @@ Le président rend compte de sa gestion au conseil d'administration.
 Le président ne peut pas déléguer sa signature en ce qui concerne le 1°, le 4° et le 14°. 
 
 Dans les autres cas, il peut déléguer sa signature, dans les limites qu'il détermine, au directeur général délégué et aux
-chefs de département.
+chefs de département et, en cas d'empêchement de ceux-ci, aux autres agents placés sous sa responsabilité.
 
 **Liens relatifs à cet article**
 
@@ -19836,7 +19835,7 @@ chefs de département.
 
 	**Modifié par**:
 
-	  - Décret n°2012-1247 du 7 novembre 2012 - art. 2 (V)
+	  - Décret n°2016-1409 du 19 octobre 2016 - art. 7
 
 
 ###### Article R142-15
@@ -19862,23 +19861,29 @@ conseil d'administration.
 
 ###### Article R142-16
 
-Les chefs de département sont nommés, sur proposition du président, par arrêté du ministre chargé de la culture pour une
-durée de trois ans renouvelable. Ils mettent en œuvre, sous l'autorité du président, la politique scientifique, culturelle et
-pédagogique de leur département.
+Les chefs de département sont nommés par le président, après avis du conseil d'administration. Ils exercent leurs fonctions
+sous l'autorité du président. 
+
+Par dérogation, le responsable du Musée des monuments français et le responsable du Centre des hautes études de Chaillot sont
+nommés chefs de département, sur proposition du président, par arrêté du ministre chargé de la culture pour une durée de
+trois ans renouvelable. 
+
+Le responsable du Musée des monuments français occupe un emploi relevant des dispositions du décret n° 86-1370 du 30 décembre
+1986 fixant les dispositions statutaires applicables à certains emplois de la direction générale des patrimoines.
 
 **Liens relatifs à cet article**
 
-	**Anciens textes**:
+	**Cite**:
 
-	  - Décret n°2004-683 du 9 juillet 2004 - art. 14 (Ab)
-
-	**Créé par**:
-
-	  - Décret n°2011-574 du 24 mai 2011  - art.
+	  - Décret n°86-1370 du 30 décembre 1986
 
 	**Codifié par**:
 
 	  - Décret n°2011-574 du 24 mai 2011 Annexe - art.
+
+	**Modifié par**:
+
+	  - Décret n°2016-1409 du 19 octobre 2016 - art. 8
 
 
 ###### Article R142-17
@@ -20109,28 +20114,29 @@ Les charges de la Cité de l'architecture et du patrimoine comprennent :
 
 ###### Article R142-27
 
-La Cité de l'architecture et du patrimoine assure la gestion des immeubles appartenant à l'Etat, utilisés par le ministère
-chargé de la culture et nécessaires à l'exercice des missions prévues au présent chapitre, qui lui ont été remis en dotation
-ou qui sont mis à sa disposition par convention d'utilisation dans les conditions prévues aux articles R. 128-12 à R. 128-17
-du code du domaine de l'Etat.
+L'établissement public assure la gestion des immeubles appartenant à l'Etat, nécessaires à l'exercice des missions prévues à
+l'article L. 142-1, mis à sa disposition par une convention d'utilisation conclue dans les conditions prévues aux articles R.
+2313-1 à R. 2313-5 et R. 4121-2 du code général de la propriété des personnes publiques. 
+
+Il assure la maîtrise d'ouvrage et le financement des travaux de restauration, de réparation, de modification et d'entretien
+afférents à ces immeubles et espaces, hors ceux de clos et couvert.
 
 **Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°2004-683 du 9 juillet 2004 - art. 25 (Ab)
-
-	**Créé par**:
-
-	  - Décret n°2011-574 du 24 mai 2011  - art.
 
 	**Codifié par**:
 
 	  - Décret n°2011-574 du 24 mai 2011 Annexe - art.
 
+	**Modifié par**:
+
+	  - Décret n°2016-1409 du 19 octobre 2016 - art. 9
+
 	**Cite**:
 
-	  - Code du domaine de l'Etat - art. R128-12 (V)
+	  - Code général de la propriété des personnes publiques. - art. R2313-1
+	  - Code général de la propriété des personnes publiques. - art. R2313-5
+	  - Code général de la propriété des personnes publiques. - art. R4121-2
+	  - Code du patrimoine - art. L142-1
 
 
 ###### Article R142-28
