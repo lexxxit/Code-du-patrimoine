@@ -1,5 +1,5 @@
 # Code du patrimoine  
-Version Consolidée au 2016-10-22
+Version Consolidée au 2016-11-05
 
 # Partie législative
 
@@ -30109,92 +30109,28 @@ Un arrêté du ministre chargé de la culture précise les conditions exigées p
 
 ##### Section 1 : Dispositions relatives  à la redevance d'archéologie préventive
 
-###### Article R524-1
-
-Au plus tard à la fin du mois qui suit le mois d'encaissement de la redevance d'archéologie préventive, le comptable public
-compétent en verse le produit net des frais d'assiette et de recouvrement au bénéficiaire indiqué sur le titre de recettes.
-Il prélève sur le montant de redevance perçu la part destinée au Fonds national pour l'archéologie préventive et la verse à
-l'Institut national de recherches archéologiques préventives.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°2004-490 du 3 juin 2004 - art. 80 (Ab)
-
-	**Créé par**:
-
-	  - Décret n°2011-574 du 24 mai 2011  - art.
-
-	**Codifié par**:
-
-	  - Décret n°2011-574 du 24 mai 2011 Annexe - art.
-
-	**Abrogé par**:
-
-	  - Décret n°2016-1485 du 2 novembre 2016 - art. 1
-
-	**Cité par**:
-
-	  - Code du patrimoine - art. R524-3 (V)
-	  - Code du patrimoine - art. R720-6 (V)
-	  - Code du patrimoine - art. R780-9 (V)
-	  - Code du patrimoine - art. R790-8 (V)
-
-
-###### Article R524-2
-
-Lorsque l'opération de diagnostic n'est pas réalisée par le bénéficiaire indiqué dans le titre de recettes, la personne
-publique qui a effectivement réalisé le diagnostic demande au bénéficiaire le reversement du montant perçu. Celui-ci est
-reversé par le bénéficiaire initial dans le délai d'un mois à compter de la réception de la demande.
-
-Cette demande doit être accompagnée des éléments justifiant que l'opération de diagnostic a bien été engagée.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°2004-490 du 3 juin 2004 - art. 81 (Ab)
-
-	**Créé par**:
-
-	  - Décret n°2011-574 du 24 mai 2011  - art.
-
-	**Codifié par**:
-
-	  - Décret n°2011-574 du 24 mai 2011 Annexe - art.
-
-	**Abrogé par**:
-
-	  - Décret n°2016-1485 du 2 novembre 2016 - art. 1
-
-
 ###### Article R524-3
 
 Lorsque la redevance est afférente à une opération autre que celles visées à l'alinéa a de l'article L. 524-4 faisant l'objet
 d'une réalisation par tranches de travaux, un titre de recettes et un avis d'imposition sont émis au début de chacune des
-tranches prévues dans l'autorisation administrative. 
+tranches prévues dans l'autorisation administrative.
 
-La redevance est perçue pour chaque tranche et reversée conformément aux articles R. 524-1 et R. 524-2.
+La redevance est perçue pour chaque tranche.
 
 **Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°2004-490 du 3 juin 2004 - art. 82 (Ab)
-
-	**Créé par**:
-
-	  - Décret n°2011-574 du 24 mai 2011  - art.
 
 	**Codifié par**:
 
 	  - Décret n°2011-574 du 24 mai 2011 Annexe - art.
 
+	**Modifié par**:
+
+	  - Décret n°2016-1485 du 2 novembre 2016 - art. 1
+
 	**Cite**:
 
-	  - Code du patrimoine - art. R524-1 (V)
-	  - Code du patrimoine. - art. L524-4 (V)
+	  - Code du patrimoine - art. L524-4
+	  - Code du patrimoine - art. R524-1
 
 
 ###### Article R524-4
@@ -30222,35 +30158,27 @@ ou l'autre de ces exonérations.
 
 Les réclamations relatives à l'assiette de la redevance sont instruites par le service liquidateur conformément au titre III
 du livre des procédures fiscales. Le service liquidateur adresse une copie des demandes de décharge ou de dégrèvement au
-préfet de région. 
-
-En cas de demande de dégrèvement, la décision préalable prévue à l'article L. 524-12 est prise par l'Institut national de
-recherches archéologiques préventives ou la collectivité bénéficiaire. Cet accord est réputé donné à défaut de notification
-de la réponse dans un délai de trois mois à compter de la saisine de ces organismes.
+préfet de région.
 
 **Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°2004-490 du 3 juin 2004 - art. 84 (Ab)
-
-	**Créé par**:
-
-	  - Décret n°2011-574 du 24 mai 2011  - art.
 
 	**Codifié par**:
 
 	  - Décret n°2011-574 du 24 mai 2011 Annexe - art.
+
+	**Modifié par**:
+
+	  - Décret n°2016-1485 du 2 novembre 2016 - art. 1
+
+	**Cite**:
+
+	  - Code du patrimoine - art. L524-12
 
 	**Cité par**:
 
 	  - Code du patrimoine - art. R780-10 (V)
 	  - Code du patrimoine - art. R790-9 (V)
 	  - Code du patrimoine. - art. R720-7 (V)
-
-	**Cite**:
-
-	  - Code du patrimoine. - art. L524-12 (V)
 
 
 ###### Article R524-6
@@ -30295,21 +30223,21 @@ charge.
 
 ###### Article R524-8
 
-Le ministre chargé du budget désigne le comptable du Trésor compétent au titre des articles L. 524-8 et L. 524-15.
+Le ministre chargé du budget désigne le comptable du Trésor compétent au titre de l'article L. 524-8.
 
 **Liens relatifs à cet article**
-
-	**Créé par**:
-
-	  - Décret n°2011-574 du 24 mai 2011  - art.
 
 	**Codifié par**:
 
 	  - Décret n°2011-574 du 24 mai 2011 Annexe - art.
 
+	**Modifié par**:
+
+	  - Décret n°2016-1485 du 2 novembre 2016 - art. 1
+
 	**Cite**:
 
-	  - Code du patrimoine. - art. L524-8 (V)
+	  - Code du patrimoine - art. L524-8
 
 
 ###### Article R524-9
@@ -30360,40 +30288,6 @@ comporte deux décimales après la virgule. La valeur est arrondie au centième 
 	**Cite**:
 
 	  - Code du patrimoine. - art. L524-7 (V)
-
-
-###### Article R524-11
-
-La part du produit de la redevance d'archéologie préventive affectée au Fonds national pour l'archéologie préventive,
-conformément à l'article L. 524-14, est fixée par arrêté conjoint du ministre chargé de la culture, du ministre chargé de
-l'urbanisme et du ministre chargé du budget.
-
-**Nota:**
-
-
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°2011-574 du 24 mai 2011 Annexe - art.
-
-	**Modifié par**:
-
-	  - Décret n°2015-1469 du 13 novembre 2015 - art. 35 (V)
-
-	**Cité par**:
-
-	  - Décret n°2015-1469 du 13 novembre 2015 - art. 36 (V)
-	  - Code du patrimoine - art. R524-12 (Ab)
-
-	**Abrogé par**:
-
-	  - Décret n°2016-1485 du 2 novembre 2016 - art. 1
-
-	**Cite**:
-
-	  - Code du patrimoine - art. L524-14
 
 
 ##### Section 2 : Dispositions relatives  au Fonds national pour l'archéologie préventive
@@ -30898,6 +30792,69 @@ conditions prévues par la décision de prise en charge.
 	**Codifié par**:
 
 	  - Décret n°2011-574 du 24 mai 2011 Annexe - art.
+
+
+##### Section 3 : Dispositions relatives aux subventions accordées aux services des collectivités territoriales 
+
+###### Article R524-34
+
+Les subventions mentionnées à l'article L. 524-11 sont attribuées par arrêté du ministre chargé de la culture. Ces
+subventions sont versées en fonctionnement. 
+
+La demande de subvention est adressée chaque année au plus tard le 31 décembre au ministre chargé de la culture par la
+collectivité territoriale ou le groupement de collectivités territoriales mentionné à l'article L. 523-4.
+
+**Nota:**
+
+L'article 3 du décret n° 2016-1485 du 2 novembre 2016 précise les conditions de versement des subventions au titre de 2016,
+par dérogation aux articles R. 524-34 et R. 524-36 dans leur rédaction issue dudit décret.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2016-1485 du 2 novembre 2016 - art. 1
+
+
+###### Article R524-35
+
+Le montant de la subvention est fixé sur la base d'une valeur forfaitaire par mètre carré de la surface des opérations de
+diagnostic d'archéologie préventive prescrites par le préfet de région et réalisées au cours d'une période de référence. 
+
+La valeur forfaitaire mentionnée au premier alinéa est majorée en fonction du niveau de complexité des opérations. 
+
+La période de référence, la valeur forfaitaire par mètre carré et les coefficients de majoration sont fixés par arrêté
+conjoint des ministres chargés de la culture et du budget.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2016-1485 du 2 novembre 2016 - art. 1
+
+	**Cité par**:
+
+	  - Arrêté du 2 novembre 2016 - art. 1 (V)
+	  - Arrêté du 2 novembre 2016 - art. 2 (V)
+
+
+###### Article R524-36
+
+Lorsque la subvention est accordée, elle fait l'objet d'un versement unique. 
+
+Ce versement est notifié au plus tard le 31 janvier de l'année suivant la demande. Cette notification est accompagnée d'un
+état récapitulatif des surfaces ayant fait l'objet d'une opération de diagnostic d'archéologie préventive.
+
+**Nota:**
+
+L'article 3 du décret n° 2016-1485 du 2 novembre 2016 précise les conditions de versement des subventions au titre de 2016,
+par dérogation aux articles R. 524-34 et R. 524-36 dans leur rédaction issue dudit décret.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2016-1485 du 2 novembre 2016 - art. 1
 
 
 ### TITRE III : FOUILLES ARCHÉOLOGIQUES PROGRAMMÉES  ET DÉCOUVERTES FORTUITES
@@ -41967,7 +41924,7 @@ code de l'urbanisme sont remplacées par les références aux dispositions ayant
 ###### Article R720-6
 
 Dans l'exercice des missions d'intérêt général de sauvegarde et d'étude du patrimoine archéologique qui incombent à l'Etat
-dans le cadre de ses compétences en matière d'archéologie préventive, les articles R. 524-1 à R. 524-10 sont applicables à
+dans le cadre de ses compétences en matière d'archéologie préventive, les articles R. 524-3 à R. 524-10 sont applicables à
 Saint-Pierre-et-Miquelon.
 
 **Liens relatifs à cet article**
@@ -41976,13 +41933,13 @@ Saint-Pierre-et-Miquelon.
 
 	  - Décret n°2014-119 du 11 février 2014 - art.
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2014-119 du 11 février 2014 - art.
+	  - Décret n°2016-1485 du 2 novembre 2016 - art. 2
 
 	**Cite**:
 
-	  - Code du patrimoine. - art. R524-1 (V)
+	  - Code du patrimoine - art. R524-1
 
 
 ###### Article R720-7
@@ -43943,7 +43900,7 @@ l'urbanisme sont remplacées par les références aux dispositions ayant le mêm
 ###### Article R780-9
 
 Dans l'exercice des missions d'intérêt général qui incombent à l'Etat dans le cadre de ses compétences en matière
-d'archéologie préventive, les articles R. 524-1 à R. 524-10 sont applicables à Saint-Barthélemy.
+d'archéologie préventive, les articles R. 524-3 à R. 524-10 sont applicables à Saint-Barthélemy.
 
 **Liens relatifs à cet article**
 
@@ -43951,13 +43908,13 @@ d'archéologie préventive, les articles R. 524-1 à R. 524-10 sont applicables 
 
 	  - Décret n°2014-119 du 11 février 2014 - art.
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2014-119 du 11 février 2014 - art.
+	  - Décret n°2016-1485 du 2 novembre 2016 - art. 2
 
 	**Cite**:
 
-	  - Code du patrimoine - art. R524-1 (V)
+	  - Code du patrimoine - art. R524-1
 
 
 ###### Article R780-10
@@ -44419,7 +44376,7 @@ l'urbanisme sont remplacées par les références aux dispositions ayant le mêm
 ###### Article R790-8
 
 Dans l'exercice des missions d'intérêt général qui incombent à l'Etat dans le cadre de ses compétences en matière
-d'archéologie préventive, les articles R. 524-1 à R. 524-10 sont applicables à Saint-Martin.
+d'archéologie préventive, les articles R. 524-3 à R. 524-10 sont applicables à Saint-Martin.
 
 **Liens relatifs à cet article**
 
@@ -44427,13 +44384,13 @@ d'archéologie préventive, les articles R. 524-1 à R. 524-10 sont applicables 
 
 	  - Décret n°2014-119 du 11 février 2014 - art.
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2014-119 du 11 février 2014 - art.
+	  - Décret n°2016-1485 du 2 novembre 2016 - art. 2
 
 	**Cite**:
 
-	  - Code du patrimoine - art. R524-1 (V)
+	  - Code du patrimoine - art. R524-1
 
 
 ###### Article R790-9
