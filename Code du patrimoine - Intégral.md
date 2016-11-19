@@ -1,5 +1,5 @@
 # Code du patrimoine  
-Version Consolidée au 2016-11-07
+Version Consolidée au 2016-11-20
 
 # Partie législative
 
@@ -1180,25 +1180,17 @@ lieu, à peine de nullité, dans les quatre jours qui suivent le jour de la cons
 ###### Article L114-6
 
 Les dispositions relatives à l'exercice des droits reconnus à la partie civile par une association du patrimoine culturel
-agréée sont prévues par l'article 2-21 du code de procédure pénale reproduit ci-après : 
-
-" Art. 2-21. - Toute association agréée déclarée depuis au moins trois ans, ayant pour but l'étude et la protection du
-patrimoine archéologique, peut exercer les droits reconnus à la partie civile en ce qui concerne les faits réprimés par
-l'article 322-3-1 du code pénal et portant un préjudice direct ou indirect aux intérêts collectifs qu'elle a pour objet de
-défendre. 
-
-Un décret en Conseil d'Etat fixe les conditions dans lesquelles les associations mentionnées à l'alinéa précédent peuvent
-être agréées. "
+agréée sont prévues par l'article 2-21 du code de procédure pénale.
 
 **Liens relatifs à cet article**
 
 	**Modifié par**:
 
-	  - Loi n°2008-696  du 15 juillet 2008 - art. 34
+	  - Loi n°2016-1547 du 18 novembre 2016 - art. 43
 
-	**Cite**:
+	**Liens**:
 
-	  - Code pénal - art. 322-3-1 (V)
+	  - PILOTE_SUIVEUR: Code de procédure pénale - art. 2-21 (V)
 
 
 #### Chapitre 5 : Commission scientifique nationale des collections.
@@ -8972,18 +8964,22 @@ sont transmis sans délai au procureur de la République.
 
 Les infractions mentionnées à la présente section commises dans la mer territoriale ou dans la zone contiguë sont jugées soit
 par le tribunal compétent du lieu de l'infraction, soit par celui de la résidence de l'auteur de l'infraction, soit par celui
-du lieu d'arrestation de ce dernier, soit, à défaut, par le tribunal de grande instance de Paris.
+du lieu d'arrestation de ce dernier, soit dans les conditions prévues au chapitre II du titre XXVI du livre IV du code de
+procédure pénale, soit, à défaut, par le tribunal de grande instance de Paris.
 
 **Liens relatifs à cet article**
 
 	**Anciens textes**:
 
-	  - Loi n°1941-09-27 art. 19
 	  - Loi n°89-874 du 1 décembre 1989 - art. 19 (Ab)
 
 	**Codifié par**:
 
-	  - Ordonnance 2004-178 2004-02-20 JORF 24 février 2004
+	  - Ordonnance n°2004-178 du 20 février 2004
+
+	**Modifié par**:
+
+	  - Loi n°2016-1547 du 18 novembre 2016 - art. 27
 
 
 ###### Article L544-11
