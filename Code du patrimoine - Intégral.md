@@ -1,5 +1,5 @@
 # Code du patrimoine  
-Version Consolidée au 2016-11-25
+Version Consolidée au 2017-01-29
 
 # Partie législative
 
@@ -1078,18 +1078,18 @@ d'intérêt général, lorsque le bien détruit, dégradé ou détérioré est :
 
 " 1° (Abrogé) ; 
 
-" 2° Un registre, une minute ou un acte original de l'autorité publique. 
-
-" Lorsque l'infraction définie au premier alinéa de l'article 322-1 est commise à raison de l'appartenance ou de la non-
-appartenance, vraie ou supposée, de la personne propriétaire ou utilisatrice de ce bien à une ethnie, une nation, une race ou
-une religion déterminée, les peines encourues sont également portées à trois ans d'emprisonnement et à 45 000 euros d'amende.
-"
+" 2° Un registre, une minute ou un acte original de l'autorité publique.
 
 **Liens relatifs à cet article**
 
 	**Modifié par**:
 
-	  - Loi n°2008-696  du 15 juillet 2008 - art. 34
+	  - Loi n°2017-86 du 27 janvier 2017 - art. 171
+
+	**Liens**:
+
+	  - PILOTE_SUIVEUR: Code pénal - art. 322-1
+	  - PILOTE_SUIVEUR: Code pénal - art. 322-2 (V)
 
 	**Cité par**:
 
