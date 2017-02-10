@@ -1,5 +1,5 @@
 # Code du patrimoine  
-Version Consolidée au 2017-01-29
+Version Consolidée au 2017-02-11
 
 # Partie législative
 
@@ -27513,25 +27513,21 @@ déclaration visée à l'article R. 452-12 sont fixés par arrêté du ministre 
 ###### Article R522-1
 
 Le préfet de région édicte les prescriptions archéologiques, délivre l'autorisation de fouilles et désigne le responsable
-scientifique de toute opération d'archéologie préventive. Il recueille l'avis de la commission interrégionale de la recherche
-archéologique.
+scientifique de toute opération d'archéologie préventive. Il recueille l'avis de la     commission territoriale de la
+recherche archéologique. 
 
 Le contrôle des opérations est exercé sous l'autorité du préfet de région dans les conditions prévues à la section 8 du
 chapitre III du présent titre.
 
 **Liens relatifs à cet article**
 
-	**Anciens textes**:
-
-	  - Décret n°2004-490 du 3 juin 2004 - art. 13 (Ab), alinéa 1.
-
-	**Créé par**:
-
-	  - Décret n°2011-574 du 24 mai 2011  - art.
-
 	**Codifié par**:
 
 	  - Décret n°2011-574 du 24 mai 2011 Annexe - art.
+
+	**Modifié par**:
+
+	  - Décret n°2017-156 du 8 février 2017 - art. 14
 
 
 ##### Section 2 : Rôle des collectivités territoriales
@@ -28129,7 +28125,7 @@ Lorsque la présomption de la présence de vestiges en sous-sol le justifie, les
 Les projets d'aménagement affectant le sous-sol qui sont réalisés dans les zones prévues par les dispositions du deuxième
 alinéa de l'article L. 522-5 sont présumés faire l'objet de prescriptions archéologiques préalablement à leur réalisation.
 Ces zones sont définies dans le cadre de l'établissement de la carte archéologique nationale, par arrêté du préfet de région
-pris après avis de la commission interrégionale de la recherche archéologique, en fonction des informations scientifiques
+pris après avis de la     commission territoriale de la recherche archéologique, en fonction des informations scientifiques
 conduisant à envisager la présence d'éléments du patrimoine archéologique. 
 
 L'arrêté du préfet de région est adressé au préfet du département ou des départements intéressés par le zonage aux fins de
@@ -28138,14 +28134,6 @@ l'objet d'un affichage en mairie pendant un mois à compter du jour où il a ét
 dans les préfectures et dans les mairies.
 
 **Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°2004-490 du 3 juin 2004 - art. 5 (Ab)
-
-	**Créé par**:
-
-	  - Décret n°2011-574 du 24 mai 2011  - art.
 
 	**Codifié par**:
 
@@ -28161,9 +28149,13 @@ dans les préfectures et dans les mairies.
 	  - Code du patrimoine - art. R523-7 (V)
 	  - Code du patrimoine - art. R545-17 (V)
 
+	**Modifié par**:
+
+	  - Décret n°2017-156 du 8 février 2017 - art. 14
+
 	**Cite**:
 
-	  - Code du patrimoine. - art. L522-5 (V)
+	  - Code du patrimoine - art. L522-5
 
 
 ###### Article R523-7
@@ -29059,25 +29051,29 @@ telles que déterminées au 2° du même article.
 
 En cas de désaccord sur les délais prévus à l'article R. 523-31 entre l'aménageur et l'opérateur, ceux-ci sont fixés par le
 préfet de région, saisi par la partie la plus diligente. Le préfet se prononce dans les quinze jours de sa saisine après
-avoir, s'il le juge utile, consulté la commission interrégionale de la recherche archéologique.
+avoir, s'il le juge utile, consulté la     commission territoriale de la recherche archéologique.
 
 **Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°2004-490 du 3 juin 2004 - art. 30 (Ab), alinéa 2.
-
-	**Créé par**:
-
-	  - Décret n°2011-574 du 24 mai 2011  - art.
 
 	**Codifié par**:
 
 	  - Décret n°2011-574 du 24 mai 2011 Annexe - art.
 
+	**Modifié par**:
+
+	  - Décret n°2017-156 du 8 février 2017 - art. 14
+
+	**Abrogé par**:
+
+	  - Décret n°2017-925 du 9 mai 2017 - art. 8
+
 	**Cite**:
 
-	  - Code du patrimoine - art. R523-31 (V)
+	  - Code du patrimoine - art. R523-31
+
+	**Cité par**:
+
+	  - Code du patrimoine - art. R545-18 (V)
 
 
 ###### Article R523-35
@@ -29472,23 +29468,19 @@ l'économie générale du contrat mentionné à l'article R. 523-44.
 ###### Article R523-48
 
 En cas de découverte d'importance exceptionnelle survenue lors d'une opération, le préfet peut, par une décision motivée
-prise après avis de la commission interrégionale de la recherche archéologique, prolonger la durée d'intervention et, le cas
-échéant, demander une modification du projet de construction ou d'aménagement. Le surcoût éventuel de la fouille
+prise après avis de la     commission territoriale de la recherche archéologique, prolonger la durée d'intervention et, le
+cas échéant, demander une modification du projet de construction ou d'aménagement. Le surcoût éventuel de la fouille
 archéologique induit par ces décisions peut être financé sur les crédits du Fonds national pour l'archéologie préventive.
 
 **Liens relatifs à cet article**
 
-	**Anciens textes**:
-
-	  - Décret n°2004-490 du 3 juin 2004 - art. 43 (Ab), alinéa 4.
-
-	**Créé par**:
-
-	  - Décret n°2011-574 du 24 mai 2011  - art.
-
 	**Codifié par**:
 
 	  - Décret n°2011-574 du 24 mai 2011 Annexe - art.
+
+	**Modifié par**:
+
+	  - Décret n°2017-156 du 8 février 2017 - art. 14
 
 	**Cité par**:
 
@@ -29896,7 +29888,7 @@ l'exploitation des données, sous l'autorité du responsable scientifique de l'o
 charges scientifique. Il informe l'aménageur de cette remise. 
 
 Le préfet de région vérifie la conformité du rapport aux normes visées à l'article R. 523-64 et fait procéder à son
-évaluation scientifique par la commission interrégionale de la recherche archéologique. Il informe l'aménageur, l'opérateur
+évaluation scientifique par la     commission territoriale de la recherche archéologique. Il informe l'aménageur, l'opérateur
 et le responsable scientifique des fouilles et leur communique, le cas échéant, des recommandations en vue de l'exploitation
 scientifique du rapport. 
 
@@ -29904,21 +29896,21 @@ Un exemplaire du rapport est adressé à l'aménageur et à l'Institut national 
 
 **Liens relatifs à cet article**
 
-	**Anciens textes**:
-
-	  - Décret n°2004-490 du 3 juin 2004 - art. 57 (Ab)
-
-	**Créé par**:
-
-	  - Décret n°2011-574 du 24 mai 2011  - art.
-
 	**Codifié par**:
 
 	  - Décret n°2011-574 du 24 mai 2011 Annexe - art.
 
+	**Modifié par**:
+
+	  - Décret n°2017-156 du 8 février 2017 - art. 14
+
+	**Abrogé par**:
+
+	  - Décret n°2017-925 du 9 mai 2017 - art. 11
+
 	**Cite**:
 
-	  - Code du patrimoine - art. R523-64 (V)
+	  - Code du patrimoine - art. R523-64
 
 	**Cité par**:
 
@@ -30854,30 +30846,26 @@ par dérogation aux articles R. 524-34 et R. 524-36 dans leur rédaction issue d
 Le préfet de région délivre les autorisations de fouilles ou de sondages prévues à l'article L. 531-1, dans un délai de deux
 mois suivant le dépôt de la demande. 
 
-Il recueille l'avis de la commission interrégionale de la recherche archéologique.
+Il recueille l'avis de la     commission territoriale de la recherche archéologique.
 
 **Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°94-422 du 27 mai 1994 - art. 2 (Ab), alinéas 1 et 2.
-
-	**Créé par**:
-
-	  - Décret n°2011-574 du 24 mai 2011  - art.
 
 	**Codifié par**:
 
 	  - Décret n°2011-574 du 24 mai 2011 Annexe - art.
 
+	**Modifié par**:
+
+	  - Décret n°2017-156 du 8 février 2017 - art. 14
+
+	**Cite**:
+
+	  - Code du patrimoine - art. L531-1
+
 	**Cité par**:
 
 	  - Code du patrimoine - art. R531-3 (V)
 	  - Code du patrimoine - art. R545-17 (V)
-
-	**Cite**:
-
-	  - Code du patrimoine. - art. L531-1 (V)
 
 
 ###### Article R531-2
@@ -31115,36 +31103,43 @@ articles L. 531-1, L. 531-9 et L. 531-14.
 Lorsqu'il y a lieu, par application des articles L. 523-14, L. 531-5, 
 L. 531-11 et L. 531-16, de déterminer par expertise la valeur des objets mobiliers provenant de fouilles archéologiques ou de
 découvertes fortuites, soit pour un partage d'objets, soit pour l'exercice du droit de revendication conféré à l'Etat, les
-experts sont choisis sur une liste dressée au début de chaque année par le Conseil national de la recherche archéologique. 
+experts sont choisis sur une liste dressée par le Conseil national de la recherche archéologique. 
 
 Cette liste comprend, des experts représentatifs des différents domaines scientifiques constituant la discipline.
 
+**Nota:**
+
+Décret n° 2017-925 du 9 mai 2017,Art. 15 I : Les dispositions des 'articles R. 523-67 et R. 531-12 à R. 531-19 dans leur
+version antérieure au présent décret restent applicables aux biens archéologiques mobiliers mis au jour avant la publication
+de la loi n° 2016-925 du 7 juillet 2016 relative à la liberté de la création, à l'architecture et au patrimoine.
+
 **Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret du 19 avril 1947 - art. 1 (Ab)
-
-	**Créé par**:
-
-	  - Décret n°2011-574 du 24 mai 2011  - art.
 
 	**Codifié par**:
 
 	  - Décret n°2011-574 du 24 mai 2011 Annexe - art.
 
+	**Modifié par**:
+
+	  - Décret n°2017-156 du 8 février 2017 - art. 2
+
+	**Abrogé par**:
+
+	  - Décret n°2017-925 du 9 mai 2017 - art. 11
+
 	**Cite**:
 
-	  - Code du patrimoine - art. L531-16 (V)
-	  - Code du patrimoine - art. L531-5 (V)
-	  - Code du patrimoine. - art. L523-14 (V)
-	  - Code du patrimoine. - art. L531-11 (V)
+	  - Code du patrimoine - art. L523-14
+	  - Code du patrimoine - art. L531-11
+	  - Code du patrimoine - art. L531-16
+	  - Code du patrimoine - art. L531-5
 
 	**Cité par**:
 
 	  - Code du patrimoine - art. R523-67 (Ab)
 	  - Code du patrimoine - art. R531-13 (Ab)
 	  - Code du patrimoine - art. R531-16 (Ab)
+	  - Code du patrimoine - art. R531-18 (Ab)
 	  - Code du patrimoine - art. R545-2 (V)
 
 
@@ -31608,32 +31603,28 @@ de l'Etat en mer.
 ###### Article R532-8
 
 Les autorisations de fouilles et de déplacement des biens culturels maritimes sont délivrées par le ministre chargé de la
-culture, après avis de la commission interrégionale de la recherche archéologique territorialement compétente.
+culture, après avis de la     commission territoriale de la recherche archéologique territorialement compétente. 
 
-L'autorisation fixe les prescriptions suivant lesquelles les travaux doivent être conduits.
+L'autorisation fixe les prescriptions suivant lesquelles les travaux doivent être conduits. 
 
-Le ministre chargé de la culture peut également :
+Le ministre chargé de la culture peut également : 
 
 1° Autoriser les sondages et les prospections exécutées à l'aide de matériels spécialisés permettant d'établir la
-localisation des biens culturels maritimes ;
+localisation des biens culturels maritimes ; 
 
-2° Autoriser les prélèvements et déplacements urgents de biens culturels maritimes.
+2° Autoriser les prélèvements et déplacements urgents de biens culturels maritimes. 
 
 Les autorisations prévues au 1° sont valables un mois à compter du début des opérations.
 
 **Liens relatifs à cet article**
 
-	**Anciens textes**:
-
-	  - Décret n°91-1226 du 5 décembre 1991 - art. 7 (Ab), alinéas 3 à 8.
-
-	**Créé par**:
-
-	  - Décret n°2011-574 du 24 mai 2011  - art.
-
 	**Codifié par**:
 
 	  - Décret n°2011-574 du 24 mai 2011 Annexe - art.
+
+	**Modifié par**:
+
+	  - Décret n°2017-156 du 8 février 2017 - art. 14
 
 	**Cité par**:
 
@@ -31647,21 +31638,17 @@ Les autorisations prévues au 1° sont valables un mois à compter du début des
 ###### Article R532-9
 
 Les décisions de faire exécuter des fouilles sous la responsabilité de l'Etat sont prises par le ministre chargé de la
-culture, après avis de la commission interrégionale de la recherche archéologique territorialement compétente.
+culture, après avis de la     commission territoriale de la recherche archéologique territorialement compétente.
 
 **Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°91-1226 du 5 décembre 1991 - art. 8 (Ab), alinéa 1.
-
-	**Créé par**:
-
-	  - Décret n°2011-574 du 24 mai 2011  - art.
 
 	**Codifié par**:
 
 	  - Décret n°2011-574 du 24 mai 2011 Annexe - art.
+
+	**Modifié par**:
+
+	  - Décret n°2017-156 du 8 février 2017 - art. 14
 
 
 ###### Article R532-10
@@ -31711,27 +31698,31 @@ font l'objet d'un rapport d'opération comportant notamment l'inventaire des obj
 
 ###### Article R532-12
 
-Par arrêté motivé pris sur avis conforme de la commission interrégionale de la recherche archéologique territorialement
-compétente, le ministre chargé de la culture prononce le retrait de l'autorisation accordée en vertu de l'article R. 532-8 :
+Par arrêté motivé pris sur avis conforme de la commission territoriale de la recherche archéologique territorialement
+compétente, le ministre chargé de la culture prononce le retrait de l'autorisation accordée en vertu de l'article R. 532-8 : 
 
 1° En cas d'inobservation grave ou répétée des prescriptions imposées pour l'exécution des recherches, la déclaration ou la
-conservation des découvertes ;
+conservation des découvertes ; 
 
 2° Lorsque l'importance des découvertes justifie que l'Etat poursuive lui-même l'exécution des travaux ou demande le
-transfert de propriété des biens culturels maritimes à son profit.
+transfert de propriété des biens culturels maritimes à son profit. 
 
 Lorsque le retrait a pour motif l'inobservation grave ou répétée des prescriptions imposées pour l'exécution des recherches,
 il est précédé par une mise en demeure assortie d'un délai.
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
-
-	  - Décret n°2011-574 du 24 mai 2011  - art.
-
 	**Codifié par**:
 
 	  - Décret n°2011-574 du 24 mai 2011 Annexe - art.
+
+	**Modifié par**:
+
+	  - Décret n°2017-156 du 8 février 2017 - art. 14
+
+	**Cite**:
+
+	  - Code du patrimoine - art. R532-8 (V)
 
 	**Cité par**:
 
@@ -31798,22 +31789,18 @@ seront utilisés par l'Etat pour la continuation des fouilles.
 Lorsque l'autorisation est retirée pour permettre à l'Etat de poursuivre les fouilles, l'auteur des travaux a droit au
 remboursement, sur production de pièces justificatives, des dépenses directement engagées pour l'exécution des travaux qu'il
 a entrepris. Il peut également demander le bénéfice d'une indemnité spéciale dont les modalités de versement sont fixées par
-arrêté conjoint des ministres chargés de la culture et du budget après avis de la commission interrégionale de la recherche
+arrêté conjoint des ministres chargés de la culture et du budget après avis de la     commission territoriale de la recherche
 archéologique territorialement compétente.
 
 **Liens relatifs à cet article**
 
-	**Anciens textes**:
-
-	  - Décret n°91-1226 du 5 décembre 1991 - art. 13 (Ab)
-
-	**Créé par**:
-
-	  - Décret n°2011-574 du 24 mai 2011  - art.
-
 	**Codifié par**:
 
 	  - Décret n°2011-574 du 24 mai 2011 Annexe - art.
+
+	**Modifié par**:
+
+	  - Décret n°2017-156 du 8 février 2017 - art. 14
 
 	**Cité par**:
 
@@ -31872,21 +31859,21 @@ l'intervention sur ce bien.
 ###### Article R532-18
 
 Les mesures conservatoires prévues à l'article L. 532-10 sont exercées par le ministre chargé de la culture, qui, sauf
-urgence, consulte la commission interrégionale de la recherche archéologique territorialement compétente.
+urgence, consulte la     commission territoriale de la recherche archéologique territorialement compétente.
 
 **Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°91-1226 du 5 décembre 1991 - art. 15 (Ab)
-
-	**Créé par**:
-
-	  - Décret n°2011-574 du 24 mai 2011  - art.
 
 	**Codifié par**:
 
 	  - Décret n°2011-574 du 24 mai 2011 Annexe - art.
+
+	**Modifié par**:
+
+	  - Décret n°2017-156 du 8 février 2017 - art. 14
+
+	**Cite**:
+
+	  - Code du patrimoine - art. L532-10
 
 	**Cité par**:
 
@@ -31896,15 +31883,11 @@ urgence, consulte la commission interrégionale de la recherche archéologique t
 	  - Code du patrimoine - art. R770-7 (V)
 	  - Code du patrimoine. - art. R740-9 (V)
 
-	**Cite**:
-
-	  - Code du patrimoine. - art. L532-10 (V)
-
 
 ###### Article R532-19
 
-La mesure de déclaration d'utilité publique mentionnée à l'article L. 532-11 est prise, après avis de la commission
-interrégionale de la recherche archéologique territorialement compétente, par le ministre chargé de la culture. 
+La mesure de déclaration d'utilité publique mentionnée à l'article L. 532-11 est prise, après avis de la     commission
+territoriale de la recherche archéologique territorialement compétente, par le ministre chargé de la culture. 
 
 Le ministre notifie au propriétaire du bien culturel maritime, par lettre recommandée avec demande d'avis de réception, son
 intention d'acquérir le bien ainsi que le montant de son offre. 
@@ -31917,17 +31900,17 @@ au profit de l'Etat.
 
 **Liens relatifs à cet article**
 
-	**Anciens textes**:
-
-	  - Décret n°91-1226 du 5 décembre 1991 - art. 16 (Ab)
-
-	**Créé par**:
-
-	  - Décret n°2011-574 du 24 mai 2011  - art.
-
 	**Codifié par**:
 
 	  - Décret n°2011-574 du 24 mai 2011 Annexe - art.
+
+	**Modifié par**:
+
+	  - Décret n°2017-156 du 8 février 2017 - art. 14
+
+	**Cite**:
+
+	  - Code du patrimoine - art. L532-11
 
 	**Cité par**:
 
@@ -31935,10 +31918,6 @@ au profit de l'Etat.
 	  - Code du patrimoine - art. R750-9 (V)
 	  - Code du patrimoine - art. R760-11 (V)
 	  - Code du patrimoine. - art. R740-11 (V)
-
-	**Cite**:
-
-	  - Code du patrimoine. - art. L532-11 (V)
 
 
 ### TITRE IV : DISPOSITIONS DIVERSES
@@ -31957,10 +31936,10 @@ l'incorporation du vestige dans son domaine public ou pour renoncer à ses droit
 A défaut de délibération dans le délai précité, la commune est réputée avoir renoncé à exercer ses droits sur le vestige. 
 
 En cas de renoncement de la commune, un arrêté du préfet de région constate que le vestige est propriété de l'Etat. Cet
-arrêté est publié au fichier immobilier     dans les conditions de droit commun. 
+arrêté est publié au fichier immobilier dans les conditions de droit commun. 
 
 Si l'intérêt archéologique du vestige le justifie, le préfet de région autorise l'incorporation du bien au domaine public
-affecté au ministère chargé de la culture, après avis de la commission interrégionale de la recherche archéologique. 
+affecté au ministère chargé de la culture, après avis de la     commission territoriale de la recherche archéologique. 
 
 Lorsque le vestige n'est pas incorporé au domaine public, il peut être cédé à l'amiable par l'Etat, dans les conditions
 définies à l'article R. 129-4 du code du domaine de l'Etat. 
@@ -31968,7 +31947,7 @@ définies à l'article R. 129-4 du code du domaine de l'Etat.
 Si, dans un délai de six mois à compter du renoncement de la commune, le préfet n'a procédé ni à son incorporation au domaine
 public de l'Etat ni à sa cession amiable, l'Etat est réputé avoir renoncé à la propriété de ce vestige. Le propriétaire du
 fonds peut, à tout moment après l'expiration de ce délai, demander au préfet de constater cette renonciation par un acte qui
-est publié au fichier immobilier     dans les conditions de droit commun.
+est publié au fichier immobilier dans les conditions de droit commun.
 
 **Liens relatifs à cet article**
 
@@ -31978,7 +31957,7 @@ est publié au fichier immobilier     dans les conditions de droit commun.
 
 	**Modifié par**:
 
-	  - Décret n°2012-1462 du 26 décembre 2012 - art. 35
+	  - Décret n°2017-156 du 8 février 2017 - art. 14
 
 	**Cite**:
 
@@ -31993,26 +31972,22 @@ est publié au fichier immobilier     dans les conditions de droit commun.
 
 ###### Article R541-2
 
-Le préfet de région peut, après avis de la commission interrégionale de la recherche archéologique, faire procéder sur place
-à l'étude scientifique du vestige ou, dès lors que ce dernier a été incorporé au domaine public de l'Etat et que sa nature le
-permet, le faire enlever pour qu'il soit procédé à son étude scientifique ou à sa présentation au public.
+Le préfet de région peut, après avis de la     commission territoriale de la recherche archéologique, faire procéder sur
+place à l'étude scientifique du vestige ou, dès lors que ce dernier a été incorporé au domaine public de l'Etat et que sa
+nature le permet, le faire enlever pour qu'il soit procédé à son étude scientifique ou à sa présentation au public. 
 
 S'il décide de conserver le vestige sur place, il peut mettre en œuvre, dans les conditions de droit commun, la procédure
 d'expropriation du fonds où se trouve celui-ci.
 
 **Liens relatifs à cet article**
 
-	**Anciens textes**:
-
-	  - Décret n°2004-490 du 3 juin 2004 - art. 64 (Ab)
-
-	**Créé par**:
-
-	  - Décret n°2011-574 du 24 mai 2011  - art.
-
 	**Codifié par**:
 
 	  - Décret n°2011-574 du 24 mai 2011 Annexe - art.
+
+	**Modifié par**:
+
+	  - Décret n°2017-156 du 8 février 2017 - art. 14
 
 	**Cité par**:
 
@@ -32314,16 +32289,9 @@ Le vice-président émet l'avis mentionné à l'article R. 545-42 du présent co
 
 ###### Article R545-2
 
-Le Conseil national de la recherche archéologique est compétent pour les questions relatives aux recherches archéologiques
-sur le territoire national, sous réserve des compétences attribuées aux commissions interrégionales de la recherche
-archéologique définies à la section 2 du présent chapitre. 
-
-Le Conseil national de la recherche archéologique est consulté sur toute question intéressant la recherche archéologique que
-lui soumet le ministre chargé de la culture. 
-
-Il examine et il propose toute mesure relative à l'étude scientifique du patrimoine archéologique et à son inventaire, à la
-publication et à la diffusion des résultats de la recherche ainsi qu'à la protection, à la conservation et à la mise en
-valeur de ce patrimoine. 
+Le Conseil national de la recherche archéologique examine et il propose toute mesure relative à l'étude scientifique du
+patrimoine archéologique et à son inventaire, à la publication et à la diffusion des résultats de la recherche ainsi qu'à la
+protection, à la conservation et à la mise en valeur de ce patrimoine.
 
 A ce titre, le Conseil national de la recherche archéologique : 
 
@@ -32332,7 +32300,7 @@ scientifique ainsi que l'harmonisation nationale des programmations interrégion
 méthodes et les normes de la recherche en archéologie ; 
 
 2° Peut être consulté sur tout dossier transmis au ministre chargé de la culture par le préfet d'une région, siège de
-commission interrégionale de la recherche archéologique, en particulier sur les dossiers concernant plusieurs interrégions ; 
+commission territoriale de la recherche archéologique, en particulier sur les dossiers concernant plusieurs interrégions ; 
 
 3° Contribue à la mise en place de réseaux et de partenariats scientifiques aux niveaux national et international ; 
 
@@ -32341,36 +32309,33 @@ apprécie les effets, notamment dans les domaines de la formation et des échang
 
 5° Procède à toute évaluation scientifique à la demande du ministre chargé de la culture ; 
 
-6° Etablit chaque année la liste des experts, prévue à l'article R. 531-12, compétents pour déterminer la valeur d'objets
-provenant de fouilles archéologiques et de découvertes fortuites. 
+6° Etablit la liste des experts, prévue à l'article R. 531-12, compétents pour déterminer la valeur d'objets provenant de
+fouilles archéologiques et de découvertes fortuites. 
 
 Il émet, en outre, les avis mentionnés aux articles R. 522-11, R. 541-4 et R. 541-5.
 
 **Liens relatifs à cet article**
 
-	**Anciens textes**:
-
-	  - Décret n°2007-823 du 11 mai 2007 - art. 2 (Ab)
-
-	**Créé par**:
-
-	  - Décret n°2011-574 du 24 mai 2011  - art.
-
 	**Codifié par**:
 
 	  - Décret n°2011-574 du 24 mai 2011 Annexe - art.
 
+	**Modifié par**:
+
+	  - Décret n°2017-156 du 8 février 2017 - art. 14
+	  - Décret n°2017-156 du 8 février 2017 - art. 3
+
 	**Cite**:
 
-	  - Code du patrimoine. - art. R522-11 (V)
-	  - Code du patrimoine. - art. R531-12 (V)
-	  - Code du patrimoine. - art. R541-4 (V)
+	  - Code du patrimoine - art. R522-11
+	  - Code du patrimoine - art. R531-12
+	  - Code du patrimoine - art. R541-4
 
 
 ###### Article R545-3
 
-Le Conseil national de la recherche archéologique élabore, tous les quatre ans, un rapport détaillé sur l'état de la
-recherche archéologique effectuée sur le territoire national.
+Le Conseil national de la recherche archéologique élabore périodiquement, en vue de la programmation nationale de
+l'archéologie, un rapport détaillé sur l'état de la recherche archéologique effectuée sur le territoire national.
 
 Il peut avoir recours à des personnalités extérieures pour exercer des missions d'expertise.
 
@@ -32380,17 +32345,13 @@ préventives ainsi que, le cas échéant, les rapports rédigés par ces organis
 
 **Liens relatifs à cet article**
 
-	**Anciens textes**:
-
-	  - Décret n°2007-823 du 11 mai 2007 - art. 3 (Ab)
-
-	**Créé par**:
-
-	  - Décret n°2011-574 du 24 mai 2011  - art.
-
 	**Codifié par**:
 
 	  - Décret n°2011-574 du 24 mai 2011 Annexe - art.
+
+	**Modifié par**:
+
+	  - Décret n°2017-156 du 8 février 2017 - art. 4
 
 
 ###### Article R545-4
@@ -32409,7 +32370,7 @@ d) Le directeur chargé de la recherche au ministère chargé de la recherche ;
 
 e) Le directeur chargé de l'enseignement supérieur au ministère chargé de l'enseignement supérieur ; 
 
-2° Douze personnalités qualifiées, nommées par arrêté du ministre chargé de la culture, choisies en raison de leurs
+2° Treize personnalités qualifiées, nommées par arrêté du ministre chargé de la culture, choisies en raison de leurs
 compétences scientifiques en matière d'archéologie, dont : 
 
 a) Deux membres choisis, sur proposition du directeur général des patrimoines, issus des corps des conservateurs généraux du
@@ -32427,7 +32388,8 @@ agents de l'Institut national de recherches archéologiques préventives, des ca
 technique de cet établissement public ; 
 
 d) Deux membres choisis parmi les conservateurs du patrimoine ou les attachés de conservation du patrimoine travaillant dans
-un service archéologique de collectivité territoriale ; 
+un service archéologique de collectivité territoriale, dont au moins un travaillant dans un service habilité en application
+de l'article L. 522-8 ; 
 
 e) Deux membres choisis, sur proposition du ministre chargé de la recherche, parmi les directeurs de recherche, les chargés
 de recherche et les ingénieurs du Centre national de la recherche scientifique, compétents en matière d'archéologie du
@@ -32441,8 +32403,11 @@ national, après avis des sections compétentes du Conseil national des universi
 g) Un membre choisi parmi les chercheurs spécialisés en archéologie exerçant leurs fonctions dans des institutions
 étrangères ; 
 
-3° Quatorze membres élus en leur sein par les commissions interrégionales de la recherche archéologique à raison de deux
-membres par commission ; 
+h) Un membre choisi parmi les chercheurs spécialisés en archéologie exerçant ses fonctions dans une structure agréée en
+application de l'article L. 523-8-1 ; 
+
+3° Douze membres élus en leur sein par les commissions interrégionales de la recherche archéologique à raison de deux membres
+par commission ; 
 
 Le vice-président du Conseil national de la recherche archéologique est désigné par arrêté du ministre chargé de la culture
 après accord du ministre chargé de la recherche parmi les membres mentionnés au 2°.
@@ -32451,19 +32416,17 @@ après accord du ministre chargé de la recherche parmi les membres mentionnés 
 
 	**Cite**:
 
-	  - Décret n°2002-450 du 2 avril 2002 (V)
-
-	**Anciens textes**:
-
-	  - Décret n°2007-823 du 11 mai 2007 - art. 4 (Ab)
-
-	**Créé par**:
-
-	  - Décret n°2011-574 du 24 mai 2011  - art.
+	  - Décret n°2002-450 du 2 avril 2002
+	  - Code du patrimoine - art. L522-8
+	  - Code du patrimoine - art. L523-8-1
 
 	**Codifié par**:
 
 	  - Décret n°2011-574 du 24 mai 2011 Annexe - art.
+
+	**Modifié par**:
+
+	  - Décret n°2017-156 du 8 février 2017 - art. 5
 
 	**Cité par**:
 
@@ -32475,22 +32438,17 @@ après accord du ministre chargé de la recherche parmi les membres mentionnés 
 La durée des fonctions des membres du Conseil national de la recherche archéologique autres que ceux mentionnés au 1° de
 l'article R. 545-4 est de quatre ans. En cas de vacance survenant plus de six mois avant la date à laquelle le mandat de
 l'intéressé aurait normalement expiré, un nouveau membre est désigné dans les mêmes conditions pour la durée du mandat
-restant à courir. Nul ne peut exercer plus de deux mandats consécutifs, sauf si le premier de ces mandats n'a pas excédé un
-an.
+restant à courir. Nul ne peut exercer plus de deux mandats complets consécutifs.
 
 **Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°2007-823 du 11 mai 2007 - art. 5 (Ab)
-
-	**Créé par**:
-
-	  - Décret n°2011-574 du 24 mai 2011  - art.
 
 	**Codifié par**:
 
 	  - Décret n°2011-574 du 24 mai 2011 Annexe - art.
+
+	**Modifié par**:
+
+	  - Décret n°2017-156 du 8 février 2017 - art. 6
 
 
 ###### Article R545-6
@@ -32599,32 +32557,32 @@ archéologique.
 ###### Article R545-10
 
 Le Conseil national de la recherche archéologique comprend une commission des opérations sous-marines, présidée par le vice-
-président du Conseil national de la recherche archéologique.
+président du Conseil national de la recherche archéologique. 
 
-Elle comprend en outre :
+Elle comprend en outre : 
 
-1° Le directeur général des patrimoines au ministère chargé de la culture ;
+1° Le directeur général des patrimoines au ministère chargé de la culture ; 
 
 2° Deux membres choisis parmi les personnalités qualifiées mentionnées au 2° de l'article R. 545-4 et deux personnalités
 qualifiées choisies en raison de leurs compétences en matière d'archéologie sous-marine, désignés par le ministre chargé de
-la culture ;
+la culture ; 
 
-3° Cinq représentants élus par les commissions interrégionales de la recherche archéologique de l'Ouest, du Sud-Ouest, du
-Sud-Est, du Centre-Nord et de l'outre-mer, à raison d'un représentant par commission.
+3° Cinq représentants élus par les commissions territoriales de la recherche archéologique de l'Ouest, du Sud-Ouest, du Sud-
+Est, du Centre-Nord et de l'outre-mer, à raison d'un représentant par commission.
 
 **Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°2007-823 du 11 mai 2007 - art. 10 (Ab)
-
-	**Créé par**:
-
-	  - Décret n°2011-574 du 24 mai 2011  - art.
 
 	**Codifié par**:
 
 	  - Décret n°2011-574 du 24 mai 2011 Annexe - art.
+
+	**Modifié par**:
+
+	  - Décret n°2017-156 du 8 février 2017 - art. 14
+
+	**Cite**:
+
+	  - Code du patrimoine - art. R545-4 (V)
 
 	**Cité par**:
 
@@ -32773,21 +32731,13 @@ ministère chargé de la culture.
 
 ###### Article R545-16
 
-Les commissions interrégionales de la recherche archéologique sont au nombre de sept. Le ressort territorial et le siège de
-ces commissions sont fixés à l'annexe 6 du présent code.
+Les commissions territoriales de la recherche archéologique sont au nombre de six. Le ressort territorial de ces commissions
+est fixé à l'annexe 6 du présent code. Le siège de chaque commission est fixé par arrêté du ministre chargé de la culture. 
 
 Elles sont présidées par le préfet de la région dans laquelle la commission interrégionale a son siège, ou par son
 représentant.
 
 **Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°2007-823 du 11 mai 2007 - art. 16 (Ab)
-
-	**Créé par**:
-
-	  - Décret n°2011-574 du 24 mai 2011  - art.
 
 	**Codifié par**:
 
@@ -32797,15 +32747,17 @@ représentant.
 
 	  - Décret n°2015-1689 du 17 décembre 2015 - art. 17 (V)
 
+	**Modifié par**:
+
+	  - Décret n°2017-156 du 8 février 2017 - art. 7
+
 
 ###### Article R545-17
 
-Chaque commission interrégionale de la recherche archéologique est compétente pour les questions relatives aux recherches
-archéologiques qui relèvent de son ressort territorial. 
-
-Elle procède à l'évaluation scientifique des opérations archéologiques et de leurs résultats. Elle examine pour chaque région
-le bilan de l'année écoulée et le programme de l'année à venir et formule toute proposition et tout avis sur l'ensemble de
-l'activité archéologique, y compris pour le développement des études et des publications. 
+Chaque commission territoriale de la recherche archéologique procède à l'évaluation scientifique des opérations
+archéologiques et de leurs résultats. Elle examine pour chaque région le bilan de l'année écoulée et le programme de l'année
+à venir et formule toute proposition et tout avis sur l'ensemble de l'activité archéologique, y compris pour le développement
+des études et des publications. 
 
 Elle participe à l'élaboration de la programmation scientifique et établit, à l'issue de son mandat, un rapport sur
 l'activité de la recherche archéologique dans son ressort. 
@@ -32813,7 +32765,7 @@ l'activité de la recherche archéologique dans son ressort.
 A ce titre, la commission interrégionale, saisie par le préfet de région : 
 
 1° Emet un avis sur les demandes d'autorisation de fouilles dans les conditions de l'article L. 531-1 et de l'article R.
-531-1 ainsi que sur les opérations de fouilles préventives soumises à autorisation en application du deuxième alinéa de
+531-1 ainsi que sur les opérations de fouilles préventives soumises à autorisation en application du quatrième alinéa de
 l'article L. 523-9 ; 
 
 2° Emet un avis conforme avant le retrait d'une autorisation de fouilles dans les conditions de l'article L. 531-6 et de
@@ -32830,32 +32782,42 @@ d'importance exceptionnelle dans les conditions de l'article R. 523-48 ;
 
 6° Evalue les rapports de fouilles préventives conformément à l'article R. 523-63 ; 
 
-7° Emet un avis préalablement aux décisions relatives aux vestiges immobiliers visées par les articles R. 541-1 et R. 541-2. 
+7° Emet un avis préalablement aux décisions relatives aux vestiges immobiliers visées par les articles R. 541-1 et R.
+541-2 ; 
+
+8° Emet un avis sur l'intérêt scientifique d'un bien archéologique mobilier découvert fortuitement dans les conditions fixées
+par l'article L. 541-4. 
 
 A la demande du ministre chargé de la culture, elle émet un avis sur les opérations archéologiques sous-marines dans les cas
 définis aux articles R. 532-8, R. 532-9, R. 532-12, R. 532-15, R. 532-18 et R. 532-19.
 
 **Liens relatifs à cet article**
 
-	**Anciens textes**:
-
-	  - Décret n°2007-823 du 11 mai 2007 - art. 17 (Ab)
-
-	**Créé par**:
-
-	  - Décret n°2011-574 du 24 mai 2011  - art.
-
 	**Codifié par**:
 
 	  - Décret n°2011-574 du 24 mai 2011 Annexe - art.
 
+	**Modifié par**:
+
+	  - Décret n°2017-156 du 8 février 2017 - art. 8
+
 	**Cite**:
 
-	  - Code du patrimoine. - art. L523-9 (V)
-	  - Code du patrimoine. - art. L531-8 (V)
-	  - Code du patrimoine. - art. R523-6 (V)
-	  - Code du patrimoine. - art. R532-12 (V)
-	  - Code du patrimoine. - art. R541-1 (V)
+	  - Code du patrimoine - art. L523-9
+	  - Code du patrimoine - art. L531-1
+	  - Code du patrimoine - art. L531-8
+	  - Code du patrimoine - art. L541-4
+	  - Code du patrimoine - art. R523-48 (V)
+	  - Code du patrimoine - art. R523-6 (V)
+	  - Code du patrimoine - art. R523-61
+	  - Code du patrimoine - art. R523-63 (Ab)
+	  - Code du patrimoine - art. R531-1 (V)
+	  - Code du patrimoine - art. R532-12 (V)
+	  - Code du patrimoine - art. R532-15 (V)
+	  - Code du patrimoine - art. R532-18 (V)
+	  - Code du patrimoine - art. R532-19 (V)
+	  - Code du patrimoine - art. R541-1 (M)
+	  - Code du patrimoine - art. R541-2 (M)
 
 
 ###### Article R545-18
@@ -32864,7 +32826,7 @@ La commission interrégionale de la recherche archéologique peut également êt
 soumise par le préfet de région, notamment dans les cas suivants : 
 
 1° Avant de fixer le délai de réalisation du diagnostic et le délai de remise du rapport, en cas de désaccord entre
-l'opérateur et l'aménageur, dans les conditions de l'article R. 523-33 ; 
+l'opérateur et l'aménageur, dans les conditions de l'article R. 523-34 ; 
 
 2° Avant l'engagement d'une procédure d'exécution d'office de fouilles ou de sondages, prévue par l'article L. 531-9 ; 
 
@@ -32878,66 +32840,74 @@ Préhistoire, la Protohistoire, l'histoire, l'art ou l'archéologie ;
 
 **Liens relatifs à cet article**
 
-	**Anciens textes**:
-
-	  - Décret n°2007-823 du 11 mai 2007 - art. 18 (Ab)
-
-	**Créé par**:
-
-	  - Décret n°2011-574 du 24 mai 2011  - art.
-
 	**Codifié par**:
 
 	  - Décret n°2011-574 du 24 mai 2011 Annexe - art.
 
+	**Modifié par**:
+
+	  - Décret n°2017-156 du 8 février 2017 - art. 9
+
 	**Cite**:
 
-	  - Code du patrimoine. - art. L531-9 (V)
-	  - Code du patrimoine. - art. R523-33 (V)
+	  - Code du patrimoine - art. L531-9
+	  - Code du patrimoine - art. R523-34 (Ab)
 
 
 ###### Article R545-19
 
-Les six commissions interrégionales de la recherche archéologique métropolitaines comprennent chacune, outre leur président,
-huit membres compétents pour les recherches archéologiques, nommés par le préfet de région sur proposition du directeur
-régional des affaires culturelles de la région siège de la commission, à savoir :
+I.-Les commissions territoriales de la recherche archéologique du Centre-Nord, de l'Est, du Sud-Ouest et du Sud-Est
+comprennent chacune, outre leur président, dix membres compétents pour les recherches archéologiques, nommés par le préfet de
+région sur proposition du directeur régional des affaires culturelles de la région siège de la commission, à savoir : 
 
 a) Un directeur de recherche, un chargé de recherche ou un ingénieur du Centre national de la recherche scientifique, après
-avis des sections compétentes du Comité national de la recherche scientifique ;
+avis des sections compétentes du Comité national de la recherche scientifique ; 
 
 b) Un professeur, un maître de conférences des universités, ou un membre des personnels qui leur sont assimilés, après avis
-des sections compétentes du Conseil national des universités ;
+des sections compétentes du Conseil national des universités ; 
 
 c) Un conservateur général du patrimoine, un conservateur du patrimoine, un ingénieur de recherche, un ingénieur d'étude ou
 un assistant ingénieur compétent en matière d'archéologie et affecté dans une direction régionale des affaires culturelles, à
-la direction générale des patrimoines ou dans un service à compétence nationale en relevant ;
+la direction générale des patrimoines ou dans un service à compétence nationale en relevant ; 
 
-d) Un agent d'une collectivité territoriale compétent en matière d'archéologie ;
+d) Un agent d'une collectivité territoriale compétent en matière d'archéologie et travaillant dans un service habilité en
+application de l'article L. 522-8 ; 
 
-e) Trois spécialistes choisis en raison de leur compétence en matière d'archéologie ;
+e) Quatre spécialistes choisis en raison de leur compétence en matière d'archéologie ; 
 
 f) Un agent de la filière scientifique et technique de l'Institut national de recherches archéologiques préventives, après
-avis du conseil scientifique de cet établissement public.
+avis du conseil scientifique de cet établissement public ; 
+
+g) Un chercheur spécialisé en archéologie exerçant ses fonctions dans une structure agréée en application de l'article L.
+523-8-1. 
 
 Un membre du service de l'inspection des patrimoines compétent en matière d'archéologie, désigné par le ministre chargé de la
-culture, assiste aux séances avec voix consultative.
+culture, assiste aux séances avec voix consultative. 
 
 Dans chaque commission, au moins trois membres n'ont pas leur résidence administrative dans le ressort des régions sur le
-territoire desquelles s'exerce la compétence de celle-ci.
+territoire desquelles s'exerce la compétence de celle-ci. 
+
+II.-La commission territoriale de la recherche archéologique de l'Ouest comprend, outre son président, huit membres
+compétents pour les recherches archéologiques, nommés dans les conditions prévues au premier alinéa de l'article R. 545-19. 
+
+Sa composition est identique à celle prévue au I à l'exception des spécialistes choisis en raison de leur compétence en
+matière d'archéologie qui sont au nombre de deux.
 
 **Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°2007-823 du 11 mai 2007 - art. 19 (Ab)
-
-	**Créé par**:
-
-	  - Décret n°2011-574 du 24 mai 2011  - art.
 
 	**Codifié par**:
 
 	  - Décret n°2011-574 du 24 mai 2011 Annexe - art.
+
+	**Modifié par**:
+
+	  - Décret n°2017-156 du 8 février 2017 - art. 10
+	  - Décret n°2017-156 du 8 février 2017 - art. 14
+
+	**Cite**:
+
+	  - Code du patrimoine - art. L522-8
+	  - Code du patrimoine - art. L523-8-1
 
 
 ###### Article R545-20
@@ -32972,22 +32942,18 @@ La durée de leur mandat est de quatre ans. En cas de vacance, quelle qu'en soit
 laquelle il a été désigné, survenant plus de six mois avant la date à laquelle le mandat de l'intéressé aurait normalement
 expiré, un nouveau membre est désigné dans les mêmes conditions pour la durée du mandat restant à courir.
 
-Les membres des commissions interrégionales de la recherche archéologique ne peuvent exercer plus de deux mandats
-consécutifs, sauf si le premier de ces mandats n'a pas excédé un an.
+Les membres des commissions interrégionales de la recherche archéologique ne peuvent exercer plus de deux mandats complets
+consécutifs.
 
 **Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°2007-823 du 11 mai 2007 - art. 21 (Ab)
-
-	**Créé par**:
-
-	  - Décret n°2011-574 du 24 mai 2011  - art.
 
 	**Codifié par**:
 
 	  - Décret n°2011-574 du 24 mai 2011 Annexe - art.
+
+	**Modifié par**:
+
+	  - Décret n°2017-156 du 8 février 2017 - art. 11
 
 
 ###### Article R545-22
@@ -33784,22 +33750,18 @@ commissions et en assure le secrétariat.
 
 ###### Article R545-49
 
-Les procès-verbaux des commissions interrégionales de la recherche archéologique et du Conseil national de la recherche
+Les procès-verbaux des     commissions territoriales de la recherche archéologique et du Conseil national de la recherche
 archéologique sont transmis à l'établissement public. Ils sont tenus à la disposition du conseil scientifique.
 
 **Liens relatifs à cet article**
 
-	**Anciens textes**:
-
-	  - Décret n°2002-90 du 16 janvier 2002 - art. 17 (Ab), alinéa 5.
-
-	**Créé par**:
-
-	  - Décret n°2011-574 du 24 mai 2011  - art.
-
 	**Codifié par**:
 
 	  - Décret n°2011-574 du 24 mai 2011 Annexe - art.
+
+	**Modifié par**:
+
+	  - Décret n°2017-156 du 8 février 2017 - art. 14
 
 
 ###### Article R545-50
@@ -41534,11 +41496,11 @@ l'outre-mer.
 
 ###### Article R710-4
 
-La commission interrégionale de la recherche archéologique de l'outre-mer comprend, outre son président, six membres
+La commission interrégionale de la recherche archéologique de l'outre-mer comprend, outre son président, sept membres
 compétents pour les recherches archéologiques, nommés par le représentant de l'Etat présidant la commission, sur proposition
 du directeur des affaires culturelles de la région dans laquelle la commission a son siège, à savoir :
 
-a) Quatre spécialistes, français ou étrangers, dont au moins un professeur, un maître de conférences des universités ou un
+a) Trois spécialistes, français ou étrangers, dont au moins un professeur, un maître de conférences des universités ou un
 membre des personnels qui leur sont assimilés, choisis en raison de leur compétence en matière de recherche scientifique
 outre-mer ;
 
@@ -41548,24 +41510,31 @@ dans une direction des affaires culturelles, à la direction générale des patr
 nationale en relevant ;
 
 c) Un agent de la filière scientifique et technique de l'Institut national de recherches archéologiques préventives, après
-avis du conseil scientifique de cet établissement public.
+avis du conseil scientifique de cet établissement public ; 
+
+d) Un agent compétent en matière d'archéologie exerçant ses fonctions dans un service de collectivité territoriale habilité
+en application de l'article L. 522-8 ; 
+
+e) Un chercheur spécialisé en archéologie exerçant ses fonctions dans une structure agréée en application de l'article L.
+523-8-1. 
 
 Un inspecteur des patrimoines compétent en matière d'archéologie nommé par le ministre chargé de la culture assiste aux
 séances avec voix consultative.
 
 **Liens relatifs à cet article**
 
-	**Anciens textes**:
-
-	  - Décret n°2007-823 du 11 mai 2007 - art. 20, ecqc GGMR  (Ab)
-
 	**Codifié par**:
 
 	  - Décret n°2014-119 du 11 février 2014 - art.
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2014-119 du 11 février 2014 - art.
+	  - Décret n°2017-156 du 8 février 2017 - art. 12
+
+	**Cite**:
+
+	  - Code du patrimoine - art. L522-8
+	  - Code du patrimoine - art. L523-8-1
 
 	**Cité par**:
 
@@ -45427,12 +45396,14 @@ restauration de monuments historiques privés.
 
 ###### Article Annexe 6 à l'article R. 545-16
 
-Ressort territorial et siège des commissions interrégionales de la recherche archéologique
+Ressort territorial des commissions territoriales de la recherche archéologique 
 
 <table>
     <tbody>
       <tr>
-        <th>COMMISSION INTERRÉGIONALE 
+        <th>
+
+COMMISSION TERRITORIALE 
 
 </th>
         <th>
@@ -45440,128 +45411,78 @@ Ressort territorial et siège des commissions interrégionales de la recherche a
 RESSORT 
 
 </th>
-        <th>
-
-SIÈGE 
-
-</th>
       </tr>
       <tr>
-        <td align="center">
-
-Commission Centre-Est 
-
-</td>
-        <td align="center">
-
-Auvergne, Rhône-Alpes 
-
-</td>
-        <td align="center">
-
-Lyon 
-
-</td>
-      </tr>
-      <tr>
-        <td align="center">
+        <td valign="middle">
 
 Commission Centre-Nord 
 
 </td>
-        <td align="center">
+        <td valign="middle">
 
-Centre, Ile-de-France, Nord-Pas-de-Calais, Picardie 
-
-</td>
-        <td align="center">
-
-Orléans 
+Centre-Val de Loire, Ile-de-France, Hauts-de-France 
 
 </td>
       </tr>
       <tr>
-        <td align="center">
+        <td valign="middle">
 
 Commission Ouest 
 
 </td>
-        <td align="center">
+        <td valign="middle">
 
-Bretagne, Basse-Normandie, Haute-Normandie, Pays de la Loire 
-
-</td>
-        <td align="center">
-
-Rennes 
+Bretagne, Normandie, Pays de la Loire 
 
 </td>
       </tr>
       <tr>
-        <td align="center">
+        <td valign="middle">
 
 Commission Est 
 
 </td>
-        <td align="center">
+        <td valign="middle">
 
-Alsace, Bourgogne, Champagne-Ardenne, Franche-Comté, Lorraine 
-
-</td>
-        <td align="center">
-
-Dijon 
+Grand Est, Bourgogne-Franche-Comté 
 
 </td>
       </tr>
       <tr>
-        <td align="center">
+        <td valign="middle">
 
 Commission Sud-Est 
 
 </td>
-        <td align="center">
+        <td valign="middle">
 
-Corse, Languedoc-Roussillon, Provence-Alpes-Côte d'Azur 
-
-</td>
-        <td align="center">
-
-Marseille 
+Auvergne-Rhône-Alpes, Provence-Alpes-Côte d'Azur, Corse 
 
 </td>
       </tr>
       <tr>
-        <td align="center">
+        <td valign="middle">
 
 Commission Sud-Ouest 
 
 </td>
-        <td align="center">
+        <td valign="middle">
 
-Aquitaine, Limousin, Midi-Pyrénées, Poitou-Charentes 
-
-</td>
-        <td align="center">
-
-Bordeaux 
+Nouvelle-Aquitaine, Occitanie 
 
 </td>
       </tr>
       <tr>
-        <td align="center">
+        <td valign="middle">
 
 Commission de l'outre-mer 
 
 </td>
-        <td align="center">
+        <td valign="middle">
 
 Guadeloupe, Guyane, Martinique, La Réunion, Mayotte, Saint-Pierre-et-Miquelon, Saint-Barthélemy, Saint-Martin 
 
 </td>
-        <td align="center">
-
-Fort-de-France</td>
       </tr>
     </tbody>
   </table>
@@ -45574,6 +45495,6 @@ Fort-de-France</td>
 
 	**Modifié par**:
 
-	  - Décret n°2014-119 du 11 février 2014 - art. 5
+	  - Décret n°2017-156 du 8 février 2017 - art. 13
 
 
