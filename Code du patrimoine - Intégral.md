@@ -1,5 +1,5 @@
 # Code du patrimoine  
-Version Consolidée au 2017-03-31
+Version Consolidée au 2017-04-01
 
 # Partie législative
 
@@ -16298,58 +16298,54 @@ biens appartenant aux collections relevant du domaine public autres que celles m
 
 ###### Article R115-2
 
-Chaque collège de la commission scientifique nationale des collections est ainsi composé :
+Chaque collège de la commission scientifique nationale des collections est ainsi composé : 
 
-1° Quatre membres de droit, représentants de l'Etat :
+1° Quatre membres de droit, représentants de l'Etat : 
 
-a) Le directeur général des patrimoines, vice-président, ou son représentant ;
+a) Le directeur général des patrimoines, vice-président, ou son représentant ; 
 
-b) Le directeur général de la création artistique, ou son représentant ;
+b) Le directeur général de la création artistique, ou son représentant ; 
 
-c) Le responsable du service des musées de France à la direction générale des patrimoines, ou son représentant ;
+c) Le responsable du service des musées de France à la direction générale des patrimoines, ou son représentant ; 
 
-d) Le responsable du service chargé du patrimoine à la direction générale des patrimoines, ou son représentant ;
+d) Le responsable du service chargé du patrimoine à la direction générale des patrimoines, ou son représentant ; 
 
-2° Un député et un sénateur ;
+2° Un député et un sénateur ; 
 
-3° Trois représentants des collectivités territoriales :
+3° Trois représentants des collectivités territoriales : 
 
-a) Un représentant de l'Association des régions de France ;
+a) Un représentant de l'Association des régions de France ; 
 
-b) Un représentant de l'Assemblée des départements de France ;
+b) Un représentant de l'Assemblée des départements de France ; 
 
-c) Un représentant de l'Association des maires de France ;
+c) Un représentant de l'Association des maires de France ; 
 
 4° Quatre personnalités choisies en raison de leur compétence dans le domaine d'activité de la commission ne relevant pas de
-la catégorie mentionnée au 5°  ;
+la catégorie mentionnée au 5° ; 
 
-5° Neuf membres professionnels de la conservation des collections choisis ainsi qu'il suit :
+5° Neuf membres professionnels de la conservation des collections choisis ainsi qu'il suit : 
 
-a) Premier collège : trois membres choisis dans chacun des collèges prévus aux b, c et d ;
+a) Premier collège : trois membres choisis dans chacun des collèges prévus aux b, c et d ; 
 
-b) Deuxième collège : parmi les membres de la commission scientifique nationale des musées de France ;
+b) Deuxième collège : parmi les membres de la commission scientifique nationale des musées de France ; 
 
 c) Troisième collège : parmi les responsables de la conservation des œuvres et objets inscrits sur l'inventaire du Fonds
 national d'art contemporain, des biens appartenant aux collections des fonds régionaux d'art contemporain et des collections
-publiques d'art moderne et contemporain ;
+publiques d'art moderne et contemporain ; 
 
 d) Quatrième collège : parmi les responsables des collections publiques autres que celles relevant du b et du c, les membres
-de la quatrième section de la Commission nationale des monuments historiques et les conservateurs et conservateurs généraux
-du patrimoine relevant de la spécialité archéologie.
+de la quatrième section de la    Commission nationale du patrimoine et de l'architecture et les conservateurs et
+conservateurs généraux du patrimoine relevant de la spécialité archéologie.
 
 **Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°2011-160 du 8 février 2011 - art. 1 (Ab), alinéas 9 à 25.
-
-	**Créé par**:
-
-	  - Décret n°2011-574 du 24 mai 2011  - art.
 
 	**Codifié par**:
 
 	  - Décret n°2011-574 du 24 mai 2011 Annexe - art.
+
+	**Modifié par**:
+
+	  - Décret n°2017-456 du 29 mars 2017 - art. 1
 
 	**Cité par**:
 
@@ -34027,1283 +34023,6 @@ que les frais de fonctionnement relatifs aux dépenses courantes des opérations
 
 ## LIVRE VI : MONUMENTS HISTORIQUES,  SITES ET ESPACES PROTÉGÉS
 
-### TITRE Ier : INSTITUTIONS
-
-#### Chapitre Ier : Institutions nationales
-
-##### Section 1 : Commission nationale des monuments historiques
-
-###### Article R611-1
-
-La Commission nationale des monuments historiques, placée auprès du ministre chargé de la culture, est chargée d'émettre un
-avis :
-
-1° Sur les propositions de classement au titre des monuments historiques des immeubles, des objets et immeubles par
-destination, ainsi que sur les propositions d'inscription d'immeubles qui lui sont soumises ;
-
-2° Sur les propositions d'inscription au titre des monuments historiques des orgues, buffets d'orgues et des instruments de
-musique ;
-
-3° Sur les propositions de modification des périmètres de protection des immeubles classés ou inscrits lorsque la commune ou
-les communes intéressées n'ont pas donné leur accord ;
-
-4° Sur les projets de travaux d'entretien ou de réparation faute desquels la conservation d'un immeuble classé est gravement
-compromise ;
-
-5° Sur les programmes, avant-projets ou projets de travaux portant sur des monuments historiques classés ou inscrits ou
-relatifs à la création d'œuvres d'art plastique dans les monuments historiques classés ou inscrits qui lui sont soumis ;
-
-6° Sur les programmes, avant-projets ou projets de travaux portant sur des immeubles adossés à des immeubles classés ou
-situés dans le champ de visibilité d'un immeuble classé ou inscrit qui lui sont soumis. 
-
-Elle est également chargée d'étudier, avec le concours des services compétents, et de proposer toutes mesures propres à
-assurer la protection, la conservation et la mise en valeur des monuments historiques et de leurs abords.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°2011-574 du 24 mai 2011 Annexe - art.
-
-	**Modifié par**:
-
-	  - Décret n°2014-1314 du 31 octobre 2014 - art. 2
-
-
-###### Article R611-2
-
-La Commission nationale des monuments historiques est divisée en six sections dont les compétences sont les suivantes :
-
-1° Première section : classement des immeubles ;
-
-2° Deuxième section : travaux sur les immeubles classés ou inscrits ;
-
-3° Troisième section : périmètres de protection des immeubles classés ou inscrits et travaux sur les immeubles situés dans
-ces périmètres ;
-
-4° Quatrième section : classement des objets mobiliers et travaux sur les objets mobiliers classés ;
-
-5° Cinquième section : classement et inscription des orgues, buffets d'orgue et instruments de musique et travaux s'y
-rapportant ;
-
-6° Sixième section : classement des grottes ornées et travaux sur les grottes ornées classées.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°2007-612 du 25 avril 2007 - art. 2 (Ab)
-
-	**Créé par**:
-
-	  - Décret n°2011-574 du 24 mai 2011  - art.
-
-	**Codifié par**:
-
-	  - Décret n°2011-574 du 24 mai 2011 Annexe - art.
-
-	**Cité par**:
-
-	  - Code du patrimoine. - art. R611-3 (M)
-
-
-###### Article R611-3
-
-Le comité des sections de la Commission nationale des monuments historiques examine les questions autres que celles qui
-relèvent de la compétence des sections instituées à l'article R. 611-2.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°2007-612 du 25 avril 2007 - art. 3 (Ab)
-
-	**Créé par**:
-
-	  - Décret n°2011-574 du 24 mai 2011  - art.
-
-	**Codifié par**:
-
-	  - Décret n°2011-574 du 24 mai 2011 Annexe - art.
-
-	**Cite**:
-
-	  - Code du patrimoine. - art. R611-2 (V)
-
-
-###### Article R611-4
-
-La Commission nationale des monuments historiques est présidée par le ministre chargé de la culture ou, en son absence, par
-le directeur général des patrimoines ou son représentant.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°2007-612 du 25 avril 2007 - art. 4 (Ab)
-
-	**Créé par**:
-
-	  - Décret n°2011-574 du 24 mai 2011  - art.
-
-	**Codifié par**:
-
-	  - Décret n°2011-574 du 24 mai 2011 Annexe - art.
-
-
-###### Article R611-5
-
-Les sections et le comité des sections se réunissent sur convocation de leur président, qui fixe l'ordre du jour. Plusieurs
-sections peuvent être réunies conjointement.
-
-Le président est tenu de convoquer une section ou le comité des sections lorsque la majorité de leurs membres en fait la
-demande, sur un projet d'ordre du jour déterminé.
-
-Le président désigne les rapporteurs des dossiers présentés, choisis parmi les membres de la commission ou des personnalités
-qualifiées extérieures à celle-ci.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°2007-612 du 25 avril 2007 - art. 5 (Ab)
-
-	**Créé par**:
-
-	  - Décret n°2011-574 du 24 mai 2011  - art.
-
-	**Codifié par**:
-
-	  - Décret n°2011-574 du 24 mai 2011 Annexe - art.
-
-
-###### Article R611-6
-
-Le secrétariat de chaque section et du comité des sections est assuré par la direction générale des patrimoines au ministère
-chargé de la culture.
-
-Le règlement intérieur de la Commission nationale des monuments historiques est fixé par arrêté du ministre chargé de la
-culture.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°2007-612 du 25 avril 2007 - art. 6 (Ab)
-
-	**Créé par**:
-
-	  - Décret n°2011-574 du 24 mai 2011  - art.
-
-	**Codifié par**:
-
-	  - Décret n°2011-574 du 24 mai 2011 Annexe - art.
-
-
-###### Article R611-7
-
-Le scrutin secret est de droit pour l'émission des avis lorsqu'il est demandé par le tiers au moins des membres présents.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°2007-612 du 25 avril 2007 - art. 7 (Ab)
-
-	**Créé par**:
-
-	  - Décret n°2011-574 du 24 mai 2011  - art.
-
-	**Codifié par**:
-
-	  - Décret n°2011-574 du 24 mai 2011 Annexe - art.
-
-
-###### Article R611-8
-
-La Commission nationale des monuments historiques comprend des membres de droit et des membres nommés pour une durée de
-quatre ans. Les membres peuvent appartenir à plusieurs sections. Ils ne peuvent siéger dans la même section à des titres
-différents.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°2007-612 du 25 avril 2007 - art. 8 (Ab)
-
-	**Créé par**:
-
-	  - Décret n°2011-574 du 24 mai 2011  - art.
-
-	**Codifié par**:
-
-	  - Décret n°2011-574 du 24 mai 2011 Annexe - art.
-
-
-###### Article R611-9
-
-Il est pourvu, dans un délai maximum de trois mois, aux vacances survenues pour quelque cause que ce soit en cours de
-fonction plus de six mois avant la date du plus proche renouvellement. Les nouveaux membres siègent à la commission pour la
-durée du mandat restant à courir.
-
-Les membres d'associations désignés au titre des personnalités qualifiées peuvent se faire remplacer par un suppléant nommé
-dans les mêmes conditions.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°2007-612 du 25 avril 2007 - art. 9 (Ab)
-
-	**Créé par**:
-
-	  - Décret n°2011-574 du 24 mai 2011  - art.
-
-	**Codifié par**:
-
-	  - Décret n°2011-574 du 24 mai 2011 Annexe - art.
-
-
-###### Article R611-10
-
-La section " classement des immeubles " comprend les membres suivants : 
-
-1° Treize représentants de l'Etat : 
-
-a) Trois membres de droit : 
-
-― le directeur général des patrimoines ; 
-
-― le responsable des monuments historiques à la direction générale des patrimoines ; 
-
-― le responsable de l'archéologie à la direction générale des patrimoines ; 
-
-b) Dix membres nommés par arrêté du ministre chargé de la culture : 
-
-― un membre du Conseil d'Etat nommé sur proposition du vice-président du Conseil d'Etat ; 
-
-― sept membres de l'inspection des patrimoines, dont au moins deux architectes ; 
-
-― deux représentants des services déconcentrés du ministère chargé de la culture ; 
-
-2° Deux titulaires d'un mandat électif national ou local nommés par arrêté du ministre chargé de la culture ; 
-
-3° Dix personnalités qualifiées nommées par arrêté du ministre chargé de la culture, dont trois membres  d'associations ou de
-fondations ayant pour objet de favoriser la connaissance, la protection et la conservation du patrimoine ; 
-
-4° Des personnalités qualifiées choisies comme experts en raison de leur compétence dans un domaine spécifique traité par la
-section et nommées par arrêté du ministre chargé de la culture. Leur nombre total ne peut dépasser quinze. Elles siègent
-lorsque sont examinés des dossiers qui relèvent de leur domaine de compétence.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°2011-574 du 24 mai 2011 Annexe - art.
-
-	**Modifié par**:
-
-	  - Décret n°2014-1314 du 31 octobre 2014 - art. 3
-
-
-###### Article R611-11
-
-La section " travaux sur les immeubles classés ou inscrits " comprend les membres suivants : 
-
-1° Treize représentants de l'Etat : 
-
-a) Quatre membres de droit : 
-
-― le directeur général des patrimoines ; 
-
-― le responsable des monuments historiques à la direction générale des patrimoines ; 
-
-― le responsable de l'archéologie à la direction générale des patrimoines ; 
-
-― le responsable de l'architecture à la direction générale des patrimoines ; 
-
-b) Neuf membres nommés par arrêté du ministre chargé de la culture : 
-
-― sept membres de l'inspection des patrimoines, dont au moins trois architectes ; 
-
-― deux représentants des services déconcentrés du ministère chargé de la culture ; 
-
-2° Deux titulaires d'un mandat électif national ou local nommés par arrêté du ministre chargé de la culture ; 
-
-3° Dix personnalités qualifiées nommées par arrêté du ministre chargé de la culture, dont trois membres  d'associations ou de
-fondations ayant pour objet de favoriser la connaissance, la protection et la conservation du patrimoine ; 
-
-4° Des personnalités qualifiées choisies comme experts en raison de leur compétence dans un domaine spécifique traité par la
-section et nommées par arrêté du ministre chargé de la culture. Leur nombre total ne peut dépasser quinze. Elles siègent
-lorsque sont examinés des dossiers qui relèvent de leur domaine de compétence.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°2011-574 du 24 mai 2011 Annexe - art.
-
-	**Modifié par**:
-
-	  - Décret n°2014-1314 du 31 octobre 2014 - art. 3
-
-
-###### Article R611-12
-
-La section " périmètres de protection des immeubles classés ou inscrits et travaux sur les immeubles situés dans ces
-périmètres " comprend les membres suivants : 
-
-1° Treize représentants de l'Etat : 
-
-a) Quatre membres de droit : 
-
-― le directeur général des patrimoines ; 
-
-― le responsable des monuments historiques à la direction générale des patrimoines ; 
-
-― le responsable de l'architecture à la direction générale des patrimoines ; 
-
-― le responsable de l'inventaire général du patrimoine culturel à la direction générale des patrimoines ; 
-
-b) Neuf membres nommés par arrêté du ministre chargé de la culture : 
-
-― sept membres de l'inspection des patrimoines, dont au moins trois architectes ; 
-
-― deux représentants des services déconcentrés du ministère chargé de la culture ; 
-
-2° Deux titulaires d'un mandat électif national ou local nommés par arrêté du ministre chargé de la culture ; 
-
-3° Dix personnalités qualifiées nommées par arrêté du ministre chargé de la culture, dont trois membres  d'associations ou de
-fondations ayant pour objet de favoriser la qualité de l'architecture ou la protection des espaces urbains ou paysagers ; 
-
-4° Des personnalités qualifiées choisies comme experts en raison de leur compétence dans un domaine spécifique traité par la
-section et nommées par arrêté du ministre chargé de la culture. Leur nombre total ne peut dépasser quinze. Elles siègent
-lorsque sont examinés des dossiers qui relèvent de leur domaine de compétence.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°2011-574 du 24 mai 2011 Annexe - art.
-
-	**Modifié par**:
-
-	  - Décret n°2014-1314 du 31 octobre 2014 - art. 3
-
-
-###### Article R611-13
-
-La section " classement des objets mobiliers et travaux sur les objets mobiliers classés " comprend les membres suivants : 
-
-1° Treize représentants de l'Etat : 
-
-a) Quatre membres de droit : 
-
-― le directeur général des patrimoines ; 
-
-― le responsable des monuments historiques à la direction générale des patrimoines ; 
-
-― le responsable des musées de France à la direction générale des patrimoines ; 
-
-― le responsable de l'inventaire général du patrimoine culturel à la direction générale des patrimoines ; 
-
-b) Neuf membres nommés par arrêté du ministre chargé de la culture : 
-
-― sept membres de l'inspection des patrimoines, dont au moins un architecte ; 
-
-― deux représentants des services déconcentrés du ministère chargé de la culture ; 
-
-2° Deux titulaires d'un mandat électif national ou local nommés par arrêté du ministre chargé de la culture ; 
-
-3° Dix personnalités qualifiées nommées par arrêté du ministre chargé de la culture, dont trois membres  d'associations ou de
-fondations ayant pour objet de favoriser la connaissance, la protection et la conservation du patrimoine ; 
-
-4° Des personnalités qualifiées choisies comme expert en raison de leur compétence dans un domaine spécifique traité par la
-section et nommées par arrêté du ministre chargé de la culture. Leur nombre total ne peut dépasser quinze. Elles siègent
-lorsque sont examinés des dossiers qui relèvent de leur domaine de compétence.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°2011-574 du 24 mai 2011 Annexe - art.
-
-	**Modifié par**:
-
-	  - Décret n°2014-1314 du 31 octobre 2014 - art. 3
-
-
-###### Article R611-14
-
-La section " classement et inscription des orgues, buffets d'orgue et instruments de musique et travaux s'y rapportant "
-comprend les membres suivants : 
-
-1° Dix représentants de l'Etat : 
-
-a) Quatre membres de droit : 
-
-― le directeur général des patrimoines ; 
-
-― le directeur général de la création artistique ; 
-
-― le responsable des monuments historiques à la direction générale des patrimoines ; 
-
-― le responsable de l'inventaire général du patrimoine culturel à la direction générale des patrimoines ; 
-
-b) Six membres nommés par arrêté du ministre chargé de la culture : 
-
-― trois membres de l'inspection des patrimoines, dont au moins un architecte ; 
-
-― un membre du service de l'inspection de la création artistique ; 
-
-― deux représentants des services déconcentrés du ministère chargé de la culture ; 
-
-2° Un titulaire d'un mandat électif national ou local nommé par arrêté du ministre chargé de la culture ; 
-
-3° Quatorze personnalités qualifiées nommées par arrêté du ministre chargé de la culture.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°2007-612 du 25 avril 2007 - art. 14 (Ab)
-
-	**Créé par**:
-
-	  - Décret n°2011-574 du 24 mai 2011  - art.
-
-	**Codifié par**:
-
-	  - Décret n°2011-574 du 24 mai 2011 Annexe - art.
-
-
-###### Article R611-15
-
-La section " classement des grottes ornées et travaux sur les grottes ornées classées " comprend les membres suivants : 
-
-1° Dix représentants de l'Etat : 
-
-a) Trois membres de droit : 
-
-― le directeur général des patrimoines ; 
-
-― le responsable des monuments historiques à la direction générale des patrimoines ; 
-
-― le responsable de l'archéologie à la direction générale des patrimoines ; 
-
-b) Sept membres nommés par arrêté du ministre chargé de la culture : 
-
-― cinq membres de l'inspection des patrimoines, dont au moins un architecte ; 
-
-― deux représentants des services déconcentrés du ministère chargé de la culture ; 
-
-2° Un titulaire d'un mandat électif national ou local nommé par arrêté du ministre chargé de la culture ; 
-
-3° Quatorze personnalités qualifiées nommées par arrêté du ministre chargé de la culture.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°2007-612 du 25 avril 2007 - art. 15 (Ab)
-
-	**Créé par**:
-
-	  - Décret n°2011-574 du 24 mai 2011  - art.
-
-	**Codifié par**:
-
-	  - Décret n°2011-574 du 24 mai 2011 Annexe - art.
-
-
-###### Article R611-16
-
-Le comité des sections comprend les membres suivants :
-
-1° Huit représentants de l'Etat :
-
-a) Quatre membres de droit :
-
-― le directeur général des patrimoines ;
-
-- le chef de l'inspection des patrimoines ; 
-
-― le responsable des monuments historiques à la direction générale des patrimoines ;
-
-― le responsable de l'archéologie à la direction générale des patrimoines ;
-
-b) Quatre membres nommés par arrêté du ministre chargé de la culture :
-
-― un membre du Conseil d'Etat nommé sur proposition du vice-président du Conseil d'Etat ;
-
-― trois membres de l'inspection des patrimoines, dont au moins deux architectes ;
-
-2° Deux représentants de chaque section nommés par arrêté du ministre chargé de la culture, dont trois titulaires d'un mandat
-électif national ou local.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°2011-574 du 24 mai 2011 Annexe - art.
-
-	**Modifié par**:
-
-	  - Décret n°2014-1314 du 31 octobre 2014 - art. 4
-
-
-##### Section 2 : Commission nationale des secteurs sauvegardés
-
-###### Article D611-17
-
-Les règles relatives à la composition et aux attributions de la Commission nationale des secteurs sauvegardés sont fixées aux
-articles R. 313-18 et R. 313-19 du code de l'urbanisme.
-
-**Liens relatifs à cet article**
-
-	**Créé par**:
-
-	  - Décret n°2011-574 du 24 mai 2011  - art.
-
-	**Codifié par**:
-
-	  - Décret n°2011-574 du 24 mai 2011 Annexe - art.
-
-	**Abrogé par**:
-
-	  - Décret n°2017-456 du 29 mars 2017 - art. 3
-
-	**Cite**:
-
-	  - Code de l'urbanisme - art. R313-18 (V)
-
-	**Cité par**:
-
-	  - Code du patrimoine - art. D780-12 (M)
-	  - Code du patrimoine - art. D790-11 (M)
-	  - Code du patrimoine. - art. D720-12 (M)
-
-
-#### Chapitre II : Institutions locales
-
-##### Section 1 : Commission régionale du patrimoine et des sites
-
-###### Article R612-1
-
-La commission régionale du patrimoine et des sites, placée auprès du préfet de région, est chargée d'émettre un avis : 
-
-1° Sur les demandes de classement ou d'inscription d'immeubles au titre des monuments historiques ainsi que sur les
-propositions de classement ou d'inscription dont le préfet de région prend l'initiative ; 
-
-2° Sur les projets de création d'aires de mise en valeur de l'architecture et du patrimoine ; 
-
-3° Sur les propositions de création de périmètres de protection adaptés prévues au cinquième alinéa de l'article L. 621-30.
-Dans ce cas, l'avis est donné conjointement à l'avis sur la proposition d'inscription ou de classement de l'immeuble non
-protégé auquel se rapporte ce périmètre. Elle peut aussi donner un avis sur les propositions de modification des périmètres
-de protection existants prévues au sixième alinéa du même article. 
-
-Le préfet de région peut recueillir l'avis de la commission régionale du patrimoine et des sites sur toute question
-intéressant l'étude, la protection et la conservation du patrimoine de la région. 
-
-La commission est tenue informée de l'état d'avancement des projets d'aires de mises en valeur de l'architecture et du
-patrimoine, des programmes de travaux intéressant les monuments historiques, des études et actions relatives au patrimoine
-ethnologique et des suites données à ses avis. 
-
-Elle propose au préfet de région des orientations pour la mise en œuvre à l'échelon régional de la politique nationale en
-matière d'étude, de protection et de conservation du patrimoine. 
-
-Le préfet de région établit chaque année un rapport sur les activités de la commission, qui est transmis au ministre chargé
-de la culture.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°2011-574 du 24 mai 2011 Annexe - art.
-
-	**Modifié par**:
-
-	  - Décret n°2014-1314 du 31 octobre 2014 - art. 5
-
-	**Cite**:
-
-	  - Code du patrimoine - art. L621-30
-
-	**Cité par**:
-
-	  - Code du patrimoine - art. R710-5 (Ab)
-	  - Code du patrimoine - art. R720-11 (Ab)
-	  - Code du patrimoine - art. R720-13 (V)
-	  - Code du patrimoine - art. R730-5 (Ab)
-	  - Code du patrimoine - art. R780-13 (Ab)
-	  - Code du patrimoine - art. R780-17 (V)
-	  - Code du patrimoine - art. R790-12 (Ab)
-	  - Code du patrimoine - art. R790-16 (V)
-	  - Code du patrimoine. - art. R720-9 (M)
-
-
-###### Article R612-2
-
-Une délégation permanente de la commission régionale du patrimoine et des sites examine les demandes ou propositions de
-classement ou d'inscription au titre des monuments historiques qui lui sont soumises. Elle peut émettre sur ces propositions
-un avis défavorable au nom de la commission ou se prononcer pour leur présentation devant la commission.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°99-78 du 5 février 1999 - art. 2 (Ab)
-
-	**Créé par**:
-
-	  - Décret n°2011-574 du 24 mai 2011  - art.
-
-	**Codifié par**:
-
-	  - Décret n°2011-574 du 24 mai 2011 Annexe - art.
-
-	**Cité par**:
-
-	  - Code du patrimoine - art. R780-15 (Ab)
-	  - Code du patrimoine - art. R790-14 (Ab)
-	  - Code du patrimoine. - art. R710-7 (M)
-	  - Code du patrimoine. - art. R730-7 (M)
-
-
-###### Article R612-3
-
-La section de la commission régionale du patrimoine et des sites, prévue au quatrième alinéa de l'article L. 612-1, examine
-les recours contre l'avis de l'architecte des Bâtiments de France qui lui sont soumis en application du deuxième alinéa de
-l'article L. 621-32 du présent code ou du troisième alinéa de l'article L. 313-2 du code de l'urbanisme.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°2011-574 du 24 mai 2011 Annexe - art.
-
-	**Modifié par**:
-
-	  - Décret n°2014-1314 du 31 octobre 2014 - art. 6
-
-	**Abrogé par**:
-
-	  - Décret n°2017-456 du 29 mars 2017 - art. 3
-
-	**Cite**:
-
-	  - Code de l'urbanisme - art. L313-2
-	  - Code du patrimoine - art. L612-1
-	  - Code du patrimoine - art. L621-32
-
-	**Cité par**:
-
-	  - Code du patrimoine - art. R612-6 (VT)
-	  - Code du patrimoine - art. R612-7 (Ab)
-	  - Code du patrimoine - art. R612-8 (Ab)
-	  - Code du patrimoine - art. R612-9 (Ab)
-	  - Code du patrimoine - art. R780-17 (M)
-	  - Code du patrimoine - art. R790-16 (M)
-	  - Code du patrimoine. - art. R720-13 (M)
-
-
-###### Article R612-4
-
-La commission régionale du patrimoine et des sites comprend trente-deux membres :
-
-1° Six membres de droit :
-
-a) Le préfet de région ;
-
-b) Le directeur régional des affaires culturelles ;
-
-c) Le directeur régional de l'environnement, de l'aménagement et du logement ;
-
-d) Le conservateur régional des monuments historiques ;
-
-e) Le conservateur régional de l'archéologie ;
-
-f) Le chef du service chargé des opérations d'inventaire du patrimoine culturel ;
-
-2° Vingt-six membres nommés par le préfet de région pour une durée de quatre ans :
-
-a) Un conservateur du patrimoine relevant de la spécialité des monuments historiques ;
-
-b) Un architecte en chef des monuments historiques ;
-
-c) Un chef de service déconcentré chargé de l'architecture et du patrimoine ;
-
-d) Un architecte des Bâtiments de France affecté dans la région ;
-
-e) Huit titulaires d'un mandat électif national ou local, dont au moins un élu d'une commune dotée d'un secteur sauvegardé ou
-d'une aire de mise en valeur de l'architecture et du patrimoine ;
-
-f) Huit personnalités qualifiées dans le domaine de l'architecture, de l'urbanisme, du paysage, du patrimoine ou de
-l'ethnologie ;
-
-g) Cinq représentants d'associations ou fondations ayant pour objet de favoriser la connaissance, la protection et la
-conservation du patrimoine ;
-
-h) Un conservateur des antiquités et objets d'art exerçant dans un département de la région.
-
-Les membres de droit peuvent se faire représenter. Pour chacun des membres nommés autres que les personnalités qualifiées, un
-suppléant est désigné dans les mêmes conditions ; il siège en cas d'absence ou d'empêchement du titulaire. Le suppléant d'un
-membre mentionné au e du 2° peut être choisi dans une assemblée différente de celle à laquelle appartient le membre
-titulaire.
-
-En cas de vacance survenant plus de six mois avant la date à laquelle le mandat de l'intéressé aurait normalement expiré, un
-remplaçant est désigné pour la durée du mandat restant à courir.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°2011-574 du 24 mai 2011 Annexe - art.
-
-	**Modifié par**:
-
-	  - Décret n°2014-1314 du 31 octobre 2014 - art. 7
-
-	**Abrogé par**:
-
-	  - Décret n°2017-456 du 29 mars 2017 - art. 3
-
-	**Cité par**:
-
-	  - Code du patrimoine - art. R612-5 (Ab)
-	  - Code du patrimoine - art. R612-6 (VT)
-
-
-###### Article R612-5
-
-La délégation permanente comprend dix membres : 
-
-1° Six membres de droit : 
-
-a) Le directeur régional des affaires culturelles ; 
-
-b) Le conservateur régional des monuments historiques ; 
-
-c) Le conservateur régional de l'archéologie ; 
-
-d) Le conservateur du patrimoine relevant de la spécialité des monuments historiques, mentionné au a du 2° de l'article R.
-612-4 ; 
-
-e) Le chef de service déconcentré chargé de l'architecture et du patrimoine mentionné au c du 2° de l'article R. 612-4 ; 
-
-f) L'architecte des Bâtiments de France mentionné au d du 2° de l'article R. 612-4 ; 
-
-2° Quatre membres désignés par le préfet de région parmi les personnalités mentionnées aux e, f, g du 2° de l'article R.
-612-4 ; 
-
-Les membres de droit peuvent se faire représenter. Pour chacun des membres nommés autres que les personnalités qualifiées, un
-suppléant est désigné dans les mêmes conditions ; il siège en cas d'absence ou d'empêchement du titulaire.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°99-78 du 5 février 1999 - art. 4 (Ab)
-
-	**Créé par**:
-
-	  - Décret n°2011-574 du 24 mai 2011  - art.
-
-	**Codifié par**:
-
-	  - Décret n°2011-574 du 24 mai 2011 Annexe - art.
-
-	**Abrogé par**:
-
-	  - Décret n°2017-456 du 29 mars 2017 - art. 3
-
-	**Cite**:
-
-	  - Code du patrimoine - art. R612-4
-
-
-###### Article R612-6
-
-La section de la commission régionale du patrimoine et des sites prévue à l'article R. 612-3 comprend, outre son président,
-onze membres nommés par arrêté du préfet de région : 
-
-1° Deux représentants de l'Etat ; 
-
-2° Pour chacun des départements de la région, trois titulaires d'un mandat électif qui ne siègent qu'à l'occasion de l'examen
-des affaires concernant le département dans le ressort duquel ils sont élus : 
-
-a) Deux membres élus par le conseil départemental en son sein ; 
-
-b) Un maire désigné par le président de l'Association départementale des maires ; 
-
-3° Six personnalités qualifiées choisies pour leur compétence en matière d'architecture ou de patrimoine ou pour leur action
-en vue de favoriser la connaissance, la protection et la conservation du patrimoine ou la qualité de l'architecture et des
-espaces, dont au moins trois désignées parmi les membres de la commission mentionnés au f ou g du 2° de l'article R. 612-4.
-
-Pour chacun des membres mentionnés aux 1° et 2°, un suppléant est désigné ou élu dans les mêmes conditions ; il siège en cas
-d'absence ou d'empêchement du titulaire.
-
-**Nota:**
-
-
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°2011-574 du 24 mai 2011 Annexe - art.
-
-	**Modifié par**:
-
-	  - Décret n°2013-938 du 18 octobre 2013 - art. 1 (VD)
-	  - Décret n°2014-1314 du 31 octobre 2014 - art. 8
-
-	**Abrogé par**:
-
-	  - Décret n°2017-456 du 29 mars 2017 - art. 3
-
-	**Cite**:
-
-	  - Code du patrimoine - art. R612-3
-	  - Code du patrimoine - art. R612-4 (Ab)
-
-	**Cité par**:
-
-	  - Code du patrimoine - art. R710-8 (Ab)
-	  - Code du patrimoine - art. R730-8 (Ab)
-	  - Code du patrimoine - art. R780-16 (Ab)
-	  - Code du patrimoine - art. R790-15 (Ab)
-
-
-###### Article R612-7
-
-La commission régionale du patrimoine et des sites et la section mentionnée à l'article R. 612-3 sont présidées par le préfet
-de région ou son représentant. 
-
-La délégation permanente est présidée par le directeur régional des affaires culturelles ou son représentant. 
-
-Le secrétariat de la commission, de la section mentionnée à l'article R. 612-3 et de la délégation permanente est assuré par
-un fonctionnaire de la direction régionale des affaires culturelles désigné par le directeur régional.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°99-78 du 5 février 1999 - art. 5 (Ab)
-
-	**Créé par**:
-
-	  - Décret n°2011-574 du 24 mai 2011  - art.
-
-	**Codifié par**:
-
-	  - Décret n°2011-574 du 24 mai 2011 Annexe - art.
-
-	**Abrogé par**:
-
-	  - Décret n°2017-456 du 29 mars 2017 - art. 3
-
-	**Cite**:
-
-	  - Code du patrimoine - art. R612-3
-
-
-###### Article R612-8
-
-La commission régionale du patrimoine et des sites, la délégation permanente et la section mentionnée à l'article R. 612-3 se
-réunissent sur convocation de leur président. L'ordre du jour des séances est arrêté par le président et adressé au ministre
-chargé de la culture et, selon le cas, aux membres de la commission ou de la section. 
-
-Les préfets des départements et les maires des communes dans lesquels se trouvent des immeubles soumis à l'examen de la
-commission, de la délégation permanente ou de la section mentionnée à l'article R. 612-3 sont informés des questions
-inscrites à l'ordre du jour qui les concernent et sont entendus par la commission, la délégation permanente ou la section
-s'ils en font la demande. Ils ne participent ni à la délibération ni au vote. 
-
-L'architecte des Bâtiments de France qui a émis l'avis ou pris la décision est invité par le président de la section
-mentionnée à l'article R. 612-3 à présenter ses observations. Il se retire lorsque la section délibère de l'affaire. 
-
-Les membres de l'inspection des patrimoines territorialement compétents sont invités à participer aux réunions de la
-commission et de la délégation permanente avec voix consultative pour les affaires qui les concernent. 
-
-Le président peut faire entendre par la commission, la délégation permanente ou la section mentionnée à l'article R. 612-3
-toute personne dont l'audition lui paraît utile. Ces personnes ne participent ni à la délibération ni au vote. 
-
-Les rapporteurs sont désignés par le président parmi les membres de la commission ou de la section mentionnée à l'article R.
-612-3, ou parmi des personnalités extérieures. Lorsque le rapporteur n'appartient pas à la commission ou à la section, il ne
-prend pas part au vote. 
-
-Les frais de déplacement entraînés par le fonctionnement de la commission ou de la section mentionnée à l'article R. 612-3
-sont remboursés dans les conditions fixées par la réglementation applicable aux personnels civils de l'Etat.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°2011-574 du 24 mai 2011 Annexe - art.
-
-	**Modifié par**:
-
-	  - Décret n°2014-1314 du 31 octobre 2014 - art. 9
-
-	**Abrogé par**:
-
-	  - Décret n°2017-456 du 29 mars 2017 - art. 3
-
-	**Cite**:
-
-	  - Code du patrimoine - art. R612-3
-
-
-###### Article R612-9
-
-Les avis de la commission, de la délégation permanente ou de la section mentionnée à l'article R. 612-3 sont émis à la
-majorité des membres présents ou représentés. En cas de partage égal des voix, celle du président est prépondérante. Le
-scrutin secret est de droit lorsqu'il est demandé par le président ou par le tiers au moins des membres présents ou
-représentés.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°99-78 du 5 février 1999 - art. 7 (Ab)
-
-	**Créé par**:
-
-	  - Décret n°2011-574 du 24 mai 2011  - art.
-
-	**Codifié par**:
-
-	  - Décret n°2011-574 du 24 mai 2011 Annexe - art.
-
-	**Abrogé par**:
-
-	  - Décret n°2017-456 du 29 mars 2017 - art. 3
-
-	**Cite**:
-
-	  - Code du patrimoine - art. R612-3 (Ab)
-
-
-##### Section 2 : Commission départementale des objets mobiliers
-
-###### Article R612-10
-
-Il est institué auprès du préfet de chaque département une commission départementale des objets mobiliers. Cette commission
-départementale a pour mission :
-
-1° De veiller à la protection des objets mobiliers situés dans le département, dont l'intérêt au point de vue de l'histoire,
-de l'art, de la science ou de la technique rend désirable la préservation, et d'intervenir à cet effet toutes les fois que
-ces biens se trouvent menacés ;
-
-2° D'étudier et de proposer avec le concours des services déconcentrés chargés des monuments historiques toutes mesures
-propres à assurer la conservation de ces objets mobiliers ;
-
-3° De susciter et d'entretenir dans l'opinion publique un état d'esprit favorable à la sauvegarde de ces objets mobiliers ;
-
-4° D'émettre un avis sur les demandes de classement et d'inscription d'objets mobiliers autres que les orgues au titre des
-monuments historiques ainsi que sur les propositions de classement et d'inscription dont le préfet prend l'initiative. Elle
-émet également un avis sur les demandes ou propositions de classement ou d'inscription d'orgues qui lui sont soumises ;
-
-5° De donner un avis, chaque fois que le préfet le juge utile, sur les projets de transfert, cession, modification,
-réparation ou restauration d'objets mobiliers inscrits ;
-
-6° D'une façon générale, de donner un avis sur toutes les questions dont elle est saisie par le préfet sur la protection ou
-la conservation des objets mobiliers.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°71-858 du 19 octobre 1971 - art. 1 (Ab)
-
-	**Créé par**:
-
-	  - Décret n°2011-574 du 24 mai 2011  - art.
-
-	**Codifié par**:
-
-	  - Décret n°2011-574 du 24 mai 2011 Annexe - art.
-
-	**Abrogé par**:
-
-	  - Décret n°2017-456 du 29 mars 2017 - art. 3
-
-	**Cité par**:
-
-	  - Code du patrimoine - art. R710-5 (Ab)
-	  - Code du patrimoine - art. R730-5 (Ab)
-	  - Code du patrimoine - art. R780-13 (Ab)
-	  - Code du patrimoine - art. R790-12 (Ab)
-
-
-###### Article R612-11
-
-Dans les départements autres que la Haute-Corse et la Corse-du-Sud, la commission départementale des objets mobiliers
-comprend vingt-cinq membres. Elle est composée : 
-
-1° De membres de droit : 
-
-a) Le préfet ou son représentant, président ; 
-
-b) Le directeur régional des affaires culturelles ou son représentant ; 
-
-c) Le conservateur régional des monuments historiques ou son représentant ; 
-
-d) Le conservateur du patrimoine, chargé des monuments historiques territorialement compétent ; 
-
-e) Le chef de service des opérations d'inventaire du patrimoine culturel ou son représentant ; 
-
-f) Le conservateur des antiquités et objets d'art et l'un de ses délégués ou leurs représentants ; 
-
-g) L'architecte des Bâtiments de France ou son représentant ; 
-
-h) Le directeur des services d'archives du département ou son représentant ; 
-
-i) Le directeur départemental de la sécurité publique ou son représentant ; 
-
-j) Le commandant de groupement de la gendarmerie ou son représentant ; 
-
-2° De membres désignés : 
-
-a) Un conservateur de musée ou son suppléant désignés par le préfet ; 
-
-b) Un conservateur de bibliothèque ou son suppléant désignés par le préfet ; 
-
-c) Deux conseillers départementaux ou leurs suppléants désignés par le conseil départemental ; 
-
-d) Trois maires ou leurs suppléants désignés par le préfet ; 
-
-e) Cinq personnalités désignées par le préfet ; 
-
-f) Deux représentants d'associations ou fondations ayant pour objet de favoriser la connaissance, la protection et la
-conservation du patrimoine ou leurs suppléants.
-
-**Nota:**
-
-
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°2011-574 du 24 mai 2011 Annexe - art.
-
-	**Modifié par**:
-
-	  - Décret n°2013-938 du 18 octobre 2013 - art. 1 (VD)
-
-	**Abrogé par**:
-
-	  - Décret n°2017-456 du 29 mars 2017 - art. 3
-
-	**Cité par**:
-
-	  - Code du patrimoine - art. R612-12 (Ab)
-	  - Code du patrimoine - art. R710-9 (Ab)
-	  - Code du patrimoine - art. R730-9 (Ab)
-
-
-###### Article R612-12
-
-Dans les départements de Haute-Corse et de Corse-du-Sud, la commission départementale des objets mobiliers comprend les
-membres mentionnés à l'article R. 612-11 à l'exception de ceux prévus au c du 2°. Elle comprend en outre un conseiller
-départemental ou son suppléant désignés par le conseil départemental et trois représentants de la collectivité territoriale
-de Corse ou leurs suppléants désignés par l'assemblée de Corse.
-
-**Nota:**
-
-
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°2011-574 du 24 mai 2011 Annexe - art.
-
-	**Modifié par**:
-
-	  - Décret n°2013-938 du 18 octobre 2013 - art. 1 (VD)
-
-	**Abrogé par**:
-
-	  - Décret n°2017-456 du 29 mars 2017 - art. 3
-
-	**Cite**:
-
-	  - Code du patrimoine - art. R612-11 (Ab)
-
-
-###### Article R612-13
-
-Les membres de la commission départementale des objets mobiliers sont nommés pour une durée de quatre ans renouvelable.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°71-858 du 19 octobre 1971 - art. 3 (Ab), alinéa 21.
-
-	**Créé par**:
-
-	  - Décret n°2011-574 du 24 mai 2011  - art.
-
-	**Codifié par**:
-
-	  - Décret n°2011-574 du 24 mai 2011 Annexe - art.
-
-	**Abrogé par**:
-
-	  - Décret n°2017-456 du 29 mars 2017 - art. 3
-
-	**Cité par**:
-
-	  - Code du patrimoine - art. R710-9 (Ab)
-	  - Code du patrimoine - art. R730-9 (Ab)
-
-
-###### Article R612-14
-
-Les rapports sont présentés par un membre de la commission départementale des objets mobiliers.
-
-Toutefois, le président peut désigner en dehors de la commission un rapporteur pour étudier une affaire ou une question
-déterminée.
-
-En cas de partage égal des voix, celle du président est prépondérante.
-
-Le scrutin secret est de droit lorsqu'il est demandé par trois au moins des membres composant la commission.
-
-Les fonctions de secrétaire sont remplies par un fonctionnaire désigné par le préfet.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°71-858 du 19 octobre 1971 - art. 4 (Ab)
-
-	**Créé par**:
-
-	  - Décret n°2011-574 du 24 mai 2011  - art.
-
-	**Codifié par**:
-
-	  - Décret n°2011-574 du 24 mai 2011 Annexe - art.
-
-	**Abrogé par**:
-
-	  - Décret n°2017-456 du 29 mars 2017 - art. 3
-
-
-###### Article R612-15
-
-Toute personne appelée à faire partie de la commission départementale des objets mobiliers en raison de ses fonctions cesse
-de plein droit d'en être membre à dater du jour où elle n'exerce plus les fonctions qui ont motivé sa désignation.
-
-Les membres venant à décéder ou dont la démission est acceptée, dans les six mois qui précèdent la date d'expiration de leur
-mandat, ne sont pas remplacés.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°71-858 du 19 octobre 1971 - art. 5 (Ab)
-
-	**Créé par**:
-
-	  - Décret n°2011-574 du 24 mai 2011  - art.
-
-	**Codifié par**:
-
-	  - Décret n°2011-574 du 24 mai 2011 Annexe - art.
-
-	**Abrogé par**:
-
-	  - Décret n°2017-456 du 29 mars 2017 - art. 3
-
-
-###### Article R612-16
-
-Le propriétaire, le détenteur, l'affectataire domanial et le dépositaire de l'objet sont informés de l'ordre du jour qui les
-concerne. Ils peuvent alors être entendus sur leur demande.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°71-858 du 19 octobre 1971 - art. 6 (Ab)
-
-	**Créé par**:
-
-	  - Décret n°2011-574 du 24 mai 2011  - art.
-
-	**Codifié par**:
-
-	  - Décret n°2011-574 du 24 mai 2011 Annexe - art.
-
-	**Abrogé par**:
-
-	  - Décret n°2017-456 du 29 mars 2017 - art. 3
-
-
-##### Section 3 : Conseil des sites de Corse
-
-###### Article D612-17
-
-Les règles relatives à la composition et au fonctionnement du Conseil des sites de Corse sont fixées aux articles R. 4421-1 à
-R. 4421-15 du code général des collectivités territoriales. En application de l'article R. 4421-1 de ce code, la formation du
-Conseil des sites dite " du patrimoine " exerce les compétences de la commission régionale du patrimoine et des sites et une
-section des recours exerce les compétences de la section de la commission régionale du patrimoine et des sites.
-
-**Liens relatifs à cet article**
-
-	**Créé par**:
-
-	  - Décret n°2011-574 du 24 mai 2011  - art.
-
-	**Codifié par**:
-
-	  - Décret n°2011-574 du 24 mai 2011 Annexe - art.
-
-	**Abrogé par**:
-
-	  - Décret n°2017-456 du 29 mars 2017 - art. 3
-
-	**Cite**:
-
-	  - Code général des collectivités territoriales - art. R4421-1
-
-
-##### Section 4 : Commission locale du secteur sauvegardé
-
-###### Article D612-18
-
-Les règles relatives à la composition et aux attributions de la commission locale du secteur sauvegardé sont fixées aux
-articles R. 313-20 et R. 313-21 du code de l'urbanisme.
-
-**Liens relatifs à cet article**
-
-	**Créé par**:
-
-	  - Décret n°2011-574 du 24 mai 2011  - art.
-
-	**Codifié par**:
-
-	  - Décret n°2011-574 du 24 mai 2011 Annexe - art.
-
-	**Abrogé par**:
-
-	  - Décret n°2017-456 du 29 mars 2017 - art. 3
-
-	**Cite**:
-
-	  - Code de l'urbanisme - art. R313-20 (Ab)
-
-	**Cité par**:
-
-	  - Code du patrimoine - art. D780-12 (M)
-	  - Code du patrimoine - art. D790-11 (M)
-	  - Code du patrimoine. - art. D720-12 (M)
-
-
 ### TITRE II : MONUMENTS HISTORIQUES
 
 #### Chapitre Ier : Immeubles
@@ -35389,30 +34108,26 @@ du point de vue de l'histoire et de l'art.
 
 ###### Article R621-4
 
-Le préfet de région recueille l'avis de la commission régionale du patrimoine et des sites ou de sa délégation permanente sur
-les demandes dont il est saisi, après avoir vérifié le caractère complet du dossier, ainsi que sur les propositions de
-classement dont il prend l'initiative.
+Le préfet de région recueille l'avis de la      commission régionale du patrimoine et de l'architecture ou de sa délégation
+permanente sur les demandes dont il est saisi, après avoir vérifié le caractère complet du dossier, ainsi que sur les
+propositions de classement dont il prend l'initiative. 
 
-Après avis de la commission régionale du patrimoine et des sites réunie en formation plénière, il peut soit proposer au
-ministre chargé de la culture une mesure de classement, soit inscrire l'immeuble au titre des monuments historiques. Dans
-tous les cas, il informe le demandeur de sa décision.
+Après avis de la      commission régionale du patrimoine et de l'architecture réunie en formation plénière, il peut soit
+proposer au ministre chargé de la culture une mesure de classement, soit inscrire l'immeuble au titre des monuments
+historiques. Dans tous les cas, il informe le demandeur de sa décision. 
 
 Lorsque le préfet de région propose au ministre le classement de tout ou partie d'un immeuble, il peut au même moment prendre
 un arrêté d'inscription à l'égard de cet immeuble.
 
 **Liens relatifs à cet article**
 
-	**Anciens textes**:
-
-	  - Décret n°2007-487 du 30 mars 2007 - art. 12 (Ab)
-
-	**Créé par**:
-
-	  - Décret n°2011-574 du 24 mai 2011  - art.
-
 	**Codifié par**:
 
 	  - Décret n°2011-574 du 24 mai 2011 Annexe - art.
+
+	**Modifié par**:
+
+	  - Décret n°2017-456 du 29 mars 2017 - art. 1
 
 	**Cité par**:
 
@@ -35421,27 +34136,23 @@ un arrêté d'inscription à l'égard de cet immeuble.
 
 ###### Article R621-5
 
-Le ministre statue, après avoir recueilli l'avis de la Commission nationale des monuments historiques, sur la proposition du
-préfet de région ainsi que sur toute proposition de classement dont il prend l'initiative. Il informe la Commission, avant
-qu'elle ne rende son avis, de l'avis du propriétaire ou de l'affectataire domanial sur la proposition de classement. Le
-ministre ne peut prendre une décision de classement qu'au vu d'un dossier comportant l'accord du propriétaire sur cette
-mesure.
+Le ministre statue, après avoir recueilli l'avis de la    Commission nationale du patrimoine et de l'architecture, sur la
+proposition du préfet de région ainsi que sur toute proposition de classement dont il prend l'initiative. Il informe la
+Commission, avant qu'elle ne rende son avis, de l'avis du propriétaire ou de l'affectataire domanial sur la proposition de
+classement. Le ministre ne peut prendre une décision de classement qu'au vu d'un dossier comportant l'accord du propriétaire
+sur cette mesure. 
 
 Il notifie l'avis de la Commission et sa décision au préfet de région.
 
 **Liens relatifs à cet article**
 
-	**Anciens textes**:
-
-	  - Décret n°2007-487 du 30 mars 2007 - art. 13 (Ab)
-
-	**Créé par**:
-
-	  - Décret n°2011-574 du 24 mai 2011  - art.
-
 	**Codifié par**:
 
 	  - Décret n°2011-574 du 24 mai 2011 Annexe - art.
+
+	**Modifié par**:
+
+	  - Décret n°2017-456 du 29 mars 2017 - art. 1
 
 
 ###### Article R621-6
@@ -35561,22 +34272,19 @@ publique.
 
 L'autorité administrative compétente pour proposer le déclassement d'un immeuble classé au titre des monuments historiques
 est le ministre chargé de la culture. Le déclassement a lieu après avoir recueilli les observations du propriétaire, s'il
-n'est pas à l'origine de la proposition, et après avis de la commission régionale du patrimoine et des sites ainsi que de la
-Commission nationale des monuments historiques recueillis dans les mêmes conditions que pour le classement.
+n'est pas à l'origine de la proposition, et après avis de la      commission régionale du patrimoine et de l'architecture
+ainsi que de la Commission nationale du patrimoine et de l'architecture recueillis dans les mêmes conditions que pour le
+classement.
 
 **Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°2007-487 du 30 mars 2007 - art. 18 (Ab)
-
-	**Créé par**:
-
-	  - Décret n°2011-574 du 24 mai 2011  - art.
 
 	**Codifié par**:
 
 	  - Décret n°2011-574 du 24 mai 2011 Annexe - art.
+
+	**Modifié par**:
+
+	  - Décret n°2017-456 du 29 mars 2017 - art. 1
 
 	**Cité par**:
 
@@ -35587,57 +34295,54 @@ Commission nationale des monuments historiques recueillis dans les mêmes condit
 
 ###### Article R621-11
 
-Les travaux soumis à autorisation en application de l'article L. 621-9 sont les constructions ou travaux, de quelque nature
-que ce soit, qui sont de nature soit à affecter la consistance ou l'aspect de la partie classée de l'immeuble, soit à
-compromettre la conservation de cet immeuble. Constituent notamment de tels travaux : 
+Les travaux soumis à autorisation en application du premier alinéa de l'article L. 621-9 sont les constructions ou travaux,
+de quelque nature que ce soit, qui sont de nature soit à affecter la consistance ou l'aspect de la partie classée de
+l'immeuble, soit à compromettre la conservation de cet immeuble. Constituent notamment de tels travaux :
 
-1° Les affouillements ou les exhaussements dans un terrain classé ; 
+1° Les affouillements ou les exhaussements dans un terrain classé ;
 
-2° Le déboisement ou le défrichement sur un terrain classé ; 
+2° Le déboisement ou le défrichement sur un terrain classé ;
 
 3° Les travaux qui ont pour objet ou pour effet de mettre hors d'eau, consolider, aménager, restaurer, mettre aux normes,
 mettre en valeur, dégager ou assainir un immeuble classé ainsi que les travaux de couvertures provisoires ou d'étaiement,
-sauf en cas de péril immédiat ; 
+sauf en cas de péril immédiat ;
 
-4° Les travaux de ravalement ; 
+4° Les travaux de ravalement ;
 
 5° Les travaux sur les parties intérieures classées des édifices, notamment la modification des volumes ou des distributions
 horizontales ou verticales, la modification, la restauration, la restitution ou la création d'éléments de second œuvre ou de
-décors, sols, menuiseries, peintures murales, badigeons, vitraux ou sculptures ; 
+décors, sols, menuiseries, peintures murales, badigeons, vitraux ou sculptures ;
 
 6° Les travaux ayant pour objet d'installer à perpétuelle demeure un objet mobilier dans un immeuble classé ainsi que ceux
-visant à placer des installations soit sur les façades, soit sur la toiture de l'immeuble ; 
+visant à placer des installations soit sur les façades, soit sur la toiture de l'immeuble ;
 
 7° Les travaux de mise en place d'installations ou de constructions temporaires d'une surface supérieure à vingt mètres
-carrés et d'une durée supérieure à un mois sur un terrain classé. 
+carrés et d'une durée supérieure à un mois sur un terrain classé.
 
 Pour les fouilles archéologiques prévues au 1°, l'autorisation prévue à l'article L. 523-9 ou à l'article L. 531-1 tient lieu
-de celle prévue à l'article L. 621-9. 
+de celle prévue à l'article L. 621-9.
 
 Ne sont pas soumis à autorisation les travaux et réparations d'entretien.
 
 **Liens relatifs à cet article**
 
-	**Anciens textes**:
-
-	  - Décret n°2007-487 du 30 mars 2007 - art. 19 (Ab)
-
-	**Créé par**:
-
-	  - Décret n°2011-574 du 24 mai 2011  - art.
-
 	**Codifié par**:
 
 	  - Décret n°2011-574 du 24 mai 2011 Annexe - art.
 
+	**Modifié par**:
+
+	  - Décret n°2017-456 du 29 mars 2017 - art. 4
+
 	**Cite**:
 
-	  - Code du patrimoine. - art. L531-1 (V)
-	  - Code du patrimoine. - art. L621-9 (V)
-	  - Code du patrimoine. - art. R523-9 (V)
+	  - Code du patrimoine - art. L531-1
+	  - Code du patrimoine - art. L621-9
+	  - Code du patrimoine - art. R523-9
 
 	**Cité par**:
 
+	  - Code du patrimoine - art. R621-91-1 (V)
 	  - Code du patrimoine. - art. R621-32 (V)
 
 
@@ -36724,7 +35429,7 @@ Pour l'application de l'article L. 621-11, l'autorité administrative compétent
 En application de l'article L. 621-12, lorsque la conservation d'un immeuble classé au titre des monuments historiques est
 gravement compromise par l'inexécution de travaux de réparation ou d'entretien, le ministre chargé de la culture fait établir
 un rapport constatant la nécessité des travaux à réaliser, décrivant et estimant ces travaux et recueille l'avis de la
-Commission nationale des monuments historiques. 
+Commission nationale du patrimoine et de l'architecture. 
 
 L'arrêté de mise en demeure donne au propriétaire un délai de quinze jours pour choisir le maître d'œuvre chargé d'assurer
 l'exécution des travaux. A défaut, le ministre chargé de la culture procède à sa désignation. 
@@ -36734,21 +35439,17 @@ exécutés.
 
 **Liens relatifs à cet article**
 
-	**Anciens textes**:
-
-	  - Décret n°2007-487 du 30 mars 2007 - art. 27 (Ab)
-
-	**Créé par**:
-
-	  - Décret n°2011-574 du 24 mai 2011  - art.
-
 	**Codifié par**:
 
 	  - Décret n°2011-574 du 24 mai 2011 Annexe - art.
 
+	**Modifié par**:
+
+	  - Décret n°2017-456 du 29 mars 2017 - art. 1
+
 	**Cite**:
 
-	  - Code du patrimoine. - art. L621-12 (V)
+	  - Code du patrimoine - art. L621-12
 
 
 ###### Article R621-47
@@ -36903,15 +35604,9 @@ l'Etat est déduite du montant de l'indemnité d'expropriation ainsi fixé.
 
 ###### Article R621-52
 
-En cas de projet d'aliénation d'un immeuble classé appartenant à l'Etat, à une collectivité territoriale ou à un
-établissement public, l'autorité compétente pour présenter ses observations dans le délai de deux mois suivant la
-notification, en application de l'article L. 621-22, est le ministre chargé de la culture quand l'immeuble appartient à
-l'Etat ou à l'un de ses établissements publics et le préfet de région quand l'immeuble appartient à une collectivité
-territoriale ou à l'un de ses établissements publics.
-
-Lorsque l'immeuble classé au titre des monuments historiques appartenant à l'Etat est mis à la disposition du Centre des
-monuments nationaux, les observations du ministre chargé de la culture sont présentées après avis de la Commission nationale
-des monuments historiques.
+En cas de projet d'aliénation d'un immeuble classé appartenant à une collectivité territoriale ou à l'un de ses
+établissements publics, le préfet de région présente ses observations dans le délai de deux mois suivant la notification
+faite par le propriétaire de l'immeuble, en application de l'article L. 621-22.
 
 **Liens relatifs à cet article**
 
@@ -36921,7 +35616,7 @@ des monuments historiques.
 
 	**Modifié par**:
 
-	  - Décret n°2015-1331 du 22 octobre 2015 - art. 2
+	  - Décret n°2017-456 du 29 mars 2017 - art. 4
 
 	**Cite**:
 
@@ -36936,24 +35631,20 @@ des monuments historiques.
 
 La demande d'inscription d'un immeuble est présentée par le propriétaire ou par toute personne y ayant intérêt. La demande
 d'inscription d'un immeuble appartenant à l'Etat peut en outre être présentée par le préfet après consultation de
-l'affectataire domanial.
+l'affectataire domanial. 
 
 L'initiative d'une proposition d'inscription d'immeuble peut également être prise par le ministre chargé de la culture, la
-Commission nationale des monuments historiques ou le préfet de région.
+Commission nationale du patrimoine et de l'architecture ou le préfet de région.
 
 **Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°2007-487 du 30 mars 2007 - art. 34 (Ab)
-
-	**Créé par**:
-
-	  - Décret n°2011-574 du 24 mai 2011  - art.
 
 	**Codifié par**:
 
 	  - Décret n°2011-574 du 24 mai 2011 Annexe - art.
+
+	**Modifié par**:
+
+	  - Décret n°2017-456 du 29 mars 2017 - art. 1
 
 	**Cité par**:
 
@@ -36963,26 +35654,22 @@ Commission nationale des monuments historiques ou le préfet de région.
 ###### Article R621-54
 
 L'inscription d'un immeuble au titre des monuments historiques est prononcée par arrêté du préfet de région après avis de la
-commission régionale du patrimoine et des sites réunie en formation plénière.
+commission régionale du patrimoine et de l'architecture réunie en formation plénière. 
 
-Toutefois, lorsque l'initiative de l'inscription émane du ministre chargé de la culture ou de la Commission nationale des
-monuments historiques ou lorsque les différentes parties d'un même immeuble font à la fois l'objet, les unes d'une
+Toutefois, lorsque l'initiative de l'inscription émane du ministre chargé de la culture ou de la Commission nationale du
+patrimoine et de l'architecture ou lorsque les différentes parties d'un même immeuble font à la fois l'objet, les unes d'une
 proposition de classement, les autres d'une proposition d'inscription, la décision est prise par arrêté de ce ministre, après
-consultation de la Commission nationale des monuments historiques.
+consultation de la Commission nationale du patrimoine et de l'architecture.
 
 **Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°2007-487 du 30 mars 2007 - art. 35 (Ab)
-
-	**Créé par**:
-
-	  - Décret n°2011-574 du 24 mai 2011  - art.
 
 	**Codifié par**:
 
 	  - Décret n°2011-574 du 24 mai 2011 Annexe - art.
+
+	**Modifié par**:
+
+	  - Décret n°2017-456 du 29 mars 2017 - art. 1
 
 
 ###### Article R621-55
@@ -37011,25 +35698,21 @@ du point de vue de l'histoire et de l'art.
 
 ###### Article R621-56
 
-Le préfet de région recueille l'avis de la commission régionale du patrimoine et des sites ou de sa délégation permanente sur
-les demandes dont il est saisi, après avoir vérifié le caractère complet du dossier, et sur les propositions d'inscription
-dont il prend l'initiative.
+Le préfet de région recueille l'avis de la      commission régionale du patrimoine et de l'architecture ou de sa délégation
+permanente sur les demandes dont il est saisi, après avoir vérifié le caractère complet du dossier, et sur les propositions
+d'inscription dont il prend l'initiative. 
 
 S'il prend une décision de rejet, le préfet de région en informe le demandeur.
 
 **Liens relatifs à cet article**
 
-	**Anciens textes**:
-
-	  - Décret n°2007-487 du 30 mars 2007 - art. 37 (Ab)
-
-	**Créé par**:
-
-	  - Décret n°2011-574 du 24 mai 2011  - art.
-
 	**Codifié par**:
 
 	  - Décret n°2011-574 du 24 mai 2011 Annexe - art.
+
+	**Modifié par**:
+
+	  - Décret n°2017-456 du 29 mars 2017 - art. 1
 
 
 ###### Article R621-57
@@ -37205,32 +35888,6 @@ faite lorsque l'autorisation prévue à l'article L. 523-9 ou à l'article L. 53
 	  - Code du patrimoine. - art. L523-9 (V)
 	  - Code du patrimoine. - art. L531-1 (V)
 	  - Code du patrimoine. - art. R621-61 (V)
-
-
-###### Article R621-62-1
-
-Pour les travaux non soumis à formalité au titre du code de l'urbanisme concernant un immeuble inscrit adossé à un immeuble
-classé ou situé dans le champ de visibilité d'un édifice classé ou inscrit au titre des monuments historiques, la demande
-d'autorisation prévue au II de l'article L. 621-32 tient lieu de la déclaration prévue à l'article L. 621-27.
-
-**Liens relatifs à cet article**
-
-	**Créé par**:
-
-	  - Décret n°2014-1314 du 31 octobre 2014 - art. 16
-
-	**Abrogé par**:
-
-	  - Décret n°2017-456 du 29 mars 2017 - art. 4
-
-	**Cite**:
-
-	  - Code du patrimoine - art. L621-27
-	  - Code du patrimoine - art. L621-32
-
-	**Cité par**:
-
-	  - Code du patrimoine - art. R720-12-1 (V)
 
 
 ##### Sous-section 3 : Contrôle scientifique et technique
@@ -37841,6 +36498,24 @@ l'aliénation.
 	  - Décret n°2011-574 du 24 mai 2011 Annexe - art.
 
 
+###### Article R621-84-1
+
+En cas de projet d'aliénation d'un immeuble classé ou inscrit appartenant à l'Etat ou à l'un de ses établissements publics,
+le ministre chargé de la culture présente ses observations, après avis de la Commission nationale du patrimoine et de
+l'architecture, dans le délai de six mois suivant la notification faite par le ministre chargé du domaine, en application de
+l'article L. 621-29-9.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2017-456 du 29 mars 2017 - art. 4
+
+	**Cite**:
+
+	  - Code du patrimoine - art. L621-29-9
+
+
 ##### Sous-section 8 : Notification
 
 ###### Article R621-85
@@ -38069,25 +36744,38 @@ l'examen de demande de subventions pour des travaux ultérieurs sur le même imm
 	  - Décret n°2011-574 du 24 mai 2011 Annexe - art.
 
 
+##### Sous-section 10 : Détachement d'un effet mobilier attaché à perpétuelle demeure
+
+###### Article R621-91-1
+
+Les autorisations prévues au deuxième alinéa de l'article L. 621-9 et au troisième alinéa de l'article L. 621-27 sont
+délivrées par le préfet de région dans les conditions prévues aux articles R. 621-11 à R. 621-23.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2017-456 du 29 mars 2017 - art. 4
+
+	**Cite**:
+
+	  - Code du patrimoine - art. L621-27
+	  - Code du patrimoine - art. L621-9
+	  - Code du patrimoine - art. R621-11 (V)
+
+
 ##### Section 4 : Dispositions relatives aux immeubles adossés aux immeubles classés et aux immeubles situés dans le champ de visibilité des immeubles classés ou inscrits
 
-##### Sous-section 1 : Périmètres de protection
+##### Sous-section 2 : Travaux sur un immeuble adossé à un immeuble classé ou situé dans le champ de visibilité d'un immeuble classé ou inscrit
+
+##### Section 4 : Abords
+
+##### Sous-section 1 : Création et modification du périmètre délimité des abords
 
 ###### Article R621-92
 
-I.-La création d'un périmètre de protection adapté mentionné au cinquième alinéa de l'article L. 621-30 est proposée par
-l'architecte des Bâtiments de France et fait l'objet d'une instruction conduite sous l'autorité du préfet du département dans
-lequel se situe l'immeuble classé ou inscrit générant le périmètre de protection. 
-
-II.-La modification d'un périmètre de protection est proposée par l'architecte des Bâtiments de France en application du
-sixième alinéa de l'article L. 621-30, et fait l'objet d'une instruction qui est conduite : 
-
-- soit sous l'autorité du préfet du département dans lequel se situe l'immeuble classé ou inscrit générant le périmètre de
-protection ; 
-
-- soit, lorsque la modification du périmètre est effectuée conjointement à l'élaboration, la modification ou la révision d'un
-plan local d'urbanisme ou d'une carte communale, par l'autorité compétente en matière de plan local d'urbanisme ou de carte
-communale
+Préalablement à l'inscription d'un immeuble au titre des monuments historiques, le préfet de région saisit l'architecte des
+Bâtiments de France afin qu'il propose, le cas échéant, un projet de périmètre délimité des abords.
 
 **Liens relatifs à cet article**
 
@@ -38097,7 +36785,7 @@ communale
 
 	**Modifié par**:
 
-	  - Décret n°2014-1314 du 31 octobre 2014 - art. 21
+	  - Décret n°2017-456 du 29 mars 2017 - art. 4
 
 	**Cite**:
 
@@ -38110,21 +36798,60 @@ communale
 
 ###### Article R621-93
 
-Lorsque le projet de périmètre de protection est instruit sous l'autorité du préfet de département, celui-ci saisit le préfet
-de région pour recueillir l'avis de la commission régionale du patrimoine et des sites. 
+I. – Lorsque la commune ou l'établissement public de coopération intercommunale compétent élabore, modifie ou révise au sens
+du 1° de l'article L. 153-31 du code de l'urbanisme le plan local d'urbanisme ou le document d'urbanisme en tenant lieu ou
+lorsqu'il élabore ou révise la carte communale, le préfet saisit l'architecte des Bâtiments de France afin qu'il propose, le
+cas échéant, un projet de périmètre délimité des abords. 
 
-Le préfet de département organise une enquête publique dans les conditions fixées par les articles L. 123-1 et suivants du
-code de l'environnement
-. L'avis de la commission régionale du patrimoine et des sites relatif à la proposition de périmètre de protection est annexé
-au dossier d'enquête publique. 
+II. – L'organe délibérant de l'autorité compétente se prononce sur le projet de périmètre délimité des abords en même temps
+qu'il arrête le projet de plan local d'urbanisme conformément à l'article L. 153-14 du code de l'urbanisme après avoir
+consulté, le cas échéant, la ou les communes concernées. Lorsqu'il s'est prononcé favorablement, l'enquête publique prévue
+par l'article L. 153-19 du même code porte à la fois sur le projet de plan local d'urbanisme et sur le projet de périmètre
+délimité des abords. 
 
-Après avoir reçu le rapport et les conclusions motivées du commissaire-enquêteur ou de la commission d'enquête, le préfet de
-département demande à la ou aux communes intéressées un accord sur le projet de périmètre de protection, éventuellement
-modifié pour tenir compte de l'avis de la commission régionale du patrimoine et des sites et des conclusions de l'enquête
-publique. A défaut de réponse dans les deux mois suivant la saisine, la ou les communes intéressées sont réputées avoir donné
-leur accord.
+Lors de l'élaboration ou de la révision d'une carte communale, l'organe délibérant de l'autorité compétente se prononce sur
+le projet de périmètre délimité des abords après avoir consulté, le cas échéant, la ou les communes concernées. Lorsqu'il
+s'est prononcé favorablement, l'enquête publique prévue par l'article L. 163-5 du code de l'urbanisme porte à la fois sur le
+projet de carte communale et sur le projet de périmètre délimité des abords. 
+
+Lors de la modification d'un plan local d'urbanisme ou d'un document en tenant lieu, l'organe délibérant de l'autorité
+compétente se prononce sur le projet de périmètre délimité des abords après avoir consulté, le cas échéant, la ou les
+communes concernées. Lorsqu'il s'est prononcé favorablement, le maire ou le président de l'établissement public de
+coopération intercommunale compétent diligente une enquête publique unique portant à la fois sur le projet de modification du
+document d'urbanisme et sur le projet de périmètre délimité des abords. 
+
+Dans tous les autres cas, le préfet organise une enquête publique dans les conditions fixées par le chapitre III du titre II
+du livre Ier du code de l'environnement. 
+
+III. – Lorsque le projet de périmètre délimité des abords concerne plusieurs départements, l'enquête peut être ouverte et
+organisée par une décision conjointe des préfets concernés pour ouvrir et organiser l'enquête. Dans ce cas, le préfet chargé
+de coordonner l'organisation de l'enquête et d'en centraliser les résultats est désigné conformément aux dispositions de
+l'article 69 du décret n° 2004-374 du 29 avril 2004 relatif aux pouvoirs des préfets, à l'organisation et à l'action des
+services de l'Etat dans les régions et départements. 
+
+IV. – Le commissaire enquêteur consulte le propriétaire ou l'affectataire domanial des monuments historiques concernés. Le
+résultat de cette consultation figure dans le rapport du commissaire enquêteur. 
+
+Après avoir reçu le rapport et les conclusions motivées du commissaire enquêteur ou de la commission d'enquête, le préfet
+demande à l'autorité compétente en matière de plan local d'urbanisme, de document d'urbanisme en tenant lieu et de carte
+communale un accord sur le projet de périmètre délimité des abords, éventuellement modifié pour tenir compte des conclusions
+de l'enquête publique. En cas de modification du projet de périmètre délimité des abords, l'autorité compétente consulte, le
+cas échéant, à nouveau la ou les communes concernées. 
+
+A défaut de réponse dans les trois mois suivant la saisine, l'autorité compétente est réputée avoir donné son accord. 
+
+En cas de modification du projet de périmètre délimité des abords, l'architecte des Bâtiments de France est également
+consulté.
 
 **Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Décret n°2004-374 du 29 avril 2004 - art. 69
+	  - Code de l'urbanisme - art. L153-14
+	  - Code de l'urbanisme - art. L153-19
+	  - Code de l'urbanisme - art. L153-31
+	  - Code de l'urbanisme - art. L163-5
 
 	**Codifié par**:
 
@@ -38132,11 +36859,7 @@ leur accord.
 
 	**Modifié par**:
 
-	  - Décret n°2014-1314 du 31 octobre 2014 - art. 21
-
-	**Cite**:
-
-	  - Code de l'environnement - art. L123-1
+	  - Décret n°2017-456 du 29 mars 2017 - art. 4
 
 	**Cité par**:
 
@@ -38147,20 +36870,13 @@ leur accord.
 
 ###### Article R621-94
 
-Lorsque le projet de périmètre de protection est instruit à l'occasion de l'élaboration, de la modification ou de la révision
-d'un plan local d'urbanisme ou de l'élaboration ou de la révision d'une carte communale, le préfet peut saisir le préfet de
-région pour recueillir l'avis de la commission régionale du patrimoine et des sites. Le projet et l'avis de la commission
-régionale du patrimoine et des sites sont alors portés à la connaissance de la collectivité territoriale. 
+En cas d'accord de la commune ou de l'établissement public de coopération intercommunale compétent en matière de plan local
+d'urbanisme, de document d'urbanisme en tenant lieu et de carte communale, le périmètre délimité des abords est créé par
+arrêté du préfet de région. 
 
-L'organe délibérant de la collectivité territoriale compétente émet un avis sur le projet de périmètre en même temps qu'il
-arrête le projet de plan local d'urbanisme, dans les conditions fixées par l'article L. 153-14 du code de l'urbanisme.
-Lorsque cet avis est favorable, l'enquête publique prévue par l'article L. 153-19 du code de l'urbanisme porte à la fois sur
-le projet de plan local d'urbanisme et sur le projet de périmètre de protection.
-
-Lors de l'élaboration ou de la révision d'une carte communale, l'organe délibérant de la collectivité territoriale compétente
-émet un avis sur le projet de périmètre de protection. Lorsque cet avis est favorable, l'enquête publique prévue par
-l'article L. 163-5 du code de l'urbanisme porte à la fois sur le projet de carte communale et sur le projet de périmètre de
-protection.
+A défaut d'accord de l'autorité compétente en matière de plan local d'urbanisme, de document d'urbanisme en tenant lieu et de
+carte communale, le périmètre délimité des abords est créé par arrêté du préfet de région ou par décret en Conseil d'Etat
+dans les conditions prévues au deuxième alinéa de l'article L. 621-31.
 
 **Liens relatifs à cet article**
 
@@ -38174,24 +36890,24 @@ protection.
 
 	**Modifié par**:
 
-	  - Décret n°2015-1783 du 28 décembre 2015 - art. 9
+	  - Décret n°2017-456 du 29 mars 2017 - art. 4
 
 	**Cite**:
 
-	  - Code de l'urbanisme - art. L153-14
-	  - Code de l'urbanisme - art. L153-19
-	  - Code de l'urbanisme - art. L163-5
+	  - Code du patrimoine - art. L621-31
 
 
 ###### Article R621-95
 
-La décision de création d'un périmètre de protection adapté ou de modification d'un périmètre de protection est prise par un
-arrêté du préfet de département publié au recueil des actes administratifs de la préfecture. 
+La décision de création d'un périmètre délimité des abords est notifiée par le préfet de région à la commune ou à
+l'établissement public de coopération intercommunale compétent en matière de plan local d'urbanisme, de document d'urbanisme
+en tenant lieu et de carte communale. 
 
-Le préfet notifie l'arrêté aux maires des communes concernées et, le cas échéant, au président de l'établissement public de
-coopération intercommunale compétent en matière de plan local d'urbanisme ou de carte communale. Lorsque le territoire
-concerné est soumis à un plan local d'urbanisme ou à une carte communale, l'autorité compétente annexe le tracé des nouveaux
-périmètres à ce plan, dans les conditions prévues à l'article L. 153-60 du code de l'urbanisme.
+Elle fait l'objet des mesures de publicité et d'information prévues à l'article R. 153-21 du code de l'urbanisme. 
+
+Lorsque le territoire concerné est couvert par un plan local d'urbanisme, un document d'urbanisme en tenant lieu ou une carte
+communale, l'autorité compétente annexe le tracé des nouveaux périmètres à ce plan, dans les conditions prévues aux articles
+L. 153-60 ou L. 163-10 du code de l'urbanisme.
 
 **Liens relatifs à cet article**
 
@@ -38201,11 +36917,13 @@ périmètres à ce plan, dans les conditions prévues à l'article L. 153-60 du 
 
 	**Modifié par**:
 
-	  - Décret n°2015-1783 du 28 décembre 2015 - art. 9
+	  - Décret n°2017-456 du 29 mars 2017 - art. 4
 
 	**Cite**:
 
-	  - Code de l'urbanisme - art. L126-1
+	  - Code de l'urbanisme - art. L153-60
+	  - Code de l'urbanisme - art. L163-10
+	  - Code de l'urbanisme - art. R153-21
 
 	**Cité par**:
 
@@ -38214,11 +36932,12 @@ périmètres à ce plan, dans les conditions prévues à l'article L. 153-60 du 
 	  - Code du patrimoine. - art. R720-13 (M)
 
 
-##### Sous-section 2 : Travaux sur un immeuble adossé à un immeuble classé ou situé dans le champ de visibilité d'un immeuble classé ou inscrit
+##### Sous-section 2 : Régime des travaux en abords
 
 ###### Article R621-96
 
-L'autorisation prévue au II de l'article L. 621-32 est régie par la présente sous-section.
+L'autorisation prévue à l'article L. 621-32 pour les travaux situés en abords de monuments historiques non soumis à
+autorisation au titre du code de l'environnement ou du code de l'urbanisme est régie par la présente sous-section.
 
 **Liens relatifs à cet article**
 
@@ -38228,7 +36947,7 @@ L'autorisation prévue au II de l'article L. 621-32 est régie par la présente 
 
 	**Modifié par**:
 
-	  - Décret n°2014-1314 du 31 octobre 2014 - art. 21
+	  - Décret n°2017-456 du 29 mars 2017 - art. 4
 
 	**Cite**:
 
@@ -38284,51 +37003,23 @@ La demande comporte également l'attestation du ou des déclarants qu'ils rempli
 
 ###### Article R621-96-3
 
-I.-Lorsque le projet est situé dans le champ de visibilité d'un édifice classé ou inscrit au titre des monuments historiques
-ou d'un parc ou d'un jardin classé ou inscrit ne comportant pas d'édifice et dont le périmètre de protection a été délimité
-en application des cinquième et sixième alinéas de l'article L. 621-30, le dossier joint à la demande d'autorisation comprend
-un plan permettant de connaître la situation du terrain à l'intérieur de la commune et une notice indiquant les matériaux
-utilisés et les modes d'exécution des travaux. Il comprend, en outre : 
+Le dossier joint à la demande d'autorisation comprend :
 
-1° Lorsque le projet a pour objet d'édifier ou de modifier une construction : 
+a) Une notice de présentation des travaux envisagés indiquant les matériaux utilisés et les modes d'exécution des travaux ;
 
-a) Un plan-masse coté dans les trois dimensions ainsi qu'une représentation de l'aspect extérieur de la construction faisant
-apparaître les modifications projetées ; 
+b) Un plan permettant de connaître la situation du terrain à l'intérieur de la commune ;
 
-b) Lorsque les travaux projetés nécessitent la démolition de bâtiments soumis au régime du permis de démolir, la
-justification du dépôt de la demande de permis de démolir ; 
+c) Un plan de masse faisant apparaître les constructions, les clôtures, la végétation et les éléments paysagers existants et
+projetés lorsque les travaux portent sur l'aménagement ou la modification du terrain ;
 
-2° Lorsque le projet a pour objet la réalisation ou la modification d'une infrastructure ou un aménagement des sols : 
-
-a) Un plan-masse faisant apparaître les cotes de niveau du terrain avant et après travaux, s'il y a lieu, les constructions,
-la végétation et les éléments paysagers existants ainsi que le traitement des constructions, clôtures, végétations ou
-aménagements situés en limite de terrain, lorsque les travaux portent sur l'aménagement ou la modification du terrain ; 
-
-b) Un plan de coupe longitudinale et des plans de coupe transversale précisant l'implantation de l'infrastructure par rapport
-au profil du terrain et indiquant, lorsque les travaux ont pour effet de modifier le profil du terrain, l'état initial et
-l'état futur ; 
-
-c) Une notice exposant les partis retenus pour assurer l'insertion du projet dans son environnement et la prise en compte des
-paysages accompagnée de deux documents photographiques permettant de situer le terrain respectivement dans l'environnement
-proche et, sauf si le demandeur justifie qu'aucune photographie de loin n'est possible, dans le paysage lointain. Les points
-et les angles des prises de vue sont reportés sur le plan de situation et le plan de masse ; 
-
-d) Un plan faisant apparaître le traitement des espaces libres, notamment les plantations à conserver ou à créer ainsi que
-l'organisation et l'aménagement des accès au terrain, aux constructions et aux aires de stationnement. 
-
-Lorsque les travaux projetés nécessitent une autorisation de défrichement en application des articles L. 214-13 et L. 341-3
-du nouveau code forestier, la demande d'autorisation est complétée par la copie de la lettre par laquelle le préfet fait
-connaître au demandeur que son dossier de demande d'autorisation de défrichement est complet. 
-
-II.-Lorsque le projet porte sur un immeuble adossé à un immeuble classé, le dossier joint à la demande d'autorisation
-comprend, outre les pièces mentionnées au I, les documents permettant d'apprécier l'impact architectural et technique des
-travaux sur l'immeuble classé.
+d) Deux documents photographiques permettant de situer le terrain respectivement dans l'environnement proche et dans le
+paysage lointain.
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2014-1314 du 31 octobre 2014 - art. 21
+	  - Décret n°2017-456 du 29 mars 2017 - art. 4
 
 	**Cite**:
 
@@ -38339,20 +37030,17 @@ travaux sur l'immeuble classé.
 
 ###### Article R621-96-4
 
-La demande d'autorisation et le dossier qui l'accompagne sont établis en trois exemplaires. 
-
-Un exemplaire supplémentaire du dossier est fourni lorsque les travaux portent sur un immeuble inscrit au titre des monuments
-historiques.
+La demande d'autorisation et le dossier qui l'accompagne sont établis en trois exemplaires.
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2014-1314 du 31 octobre 2014 - art. 21
+	  - Décret n°2017-456 du 29 mars 2017 - art. 4
 
 	**Cité par**:
 
-	  - Code du patrimoine - art. R621-96-8 (M)
+	  - Code du patrimoine - art. R621-96-8 (V)
 
 
 ###### Article R621-96-5
@@ -38406,27 +37094,24 @@ dans des conditions prévues par arrêté du ministre chargé de la culture.
 
 ###### Article R621-96-8
 
-Le maire conserve un exemplaire du dossier et, dans la semaine qui suit le dépôt de la demande, transmet un exemplaire de la
-demande et du dossier au préfet, et un exemplaire au service déconcentré chargé de l'architecture et du patrimoine. 
-
-Lorsque les travaux concernent un immeuble inscrit au titre des monuments historiques, l'exemplaire supplémentaire mentionné
-à l'article R. 621-96-4 est transmis au service déconcentré chargé de l'architecture et du patrimoine.
+Le maire conserve un exemplaire du dossier et transmet, dans la semaine qui suit le dépôt de la demande, un exemplaire de la
+demande et du dossier à l'architecte des Bâtiments de France et un exemplaire au préfet.
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2014-1314 du 31 octobre 2014 - art. 21
+	  - Décret n°2017-456 du 29 mars 2017 - art. 4
 
 	**Cite**:
 
-	  - Code du patrimoine - art. R621-96-4
+	  - Code du patrimoine - art. R621-96-4 (V)
 
 
 ###### Article R621-96-9
 
-Lorsque le dossier est complet, le silence gardé par le préfet pendant plus de quarante jours à compter du dépôt de la
-demande vaut décision de rejet, conformément au sixième alinéa de l'article L. 621-32. 
+Lorsque le dossier est complet, le silence gardé par le préfet pendant deux mois à compter du dépôt de la demande vaut
+autorisation en application de l'article L. 231-1 du code des relations entre le public et l'administration. 
 
 Lorsque le dossier est incomplet, le préfet avise le demandeur, dans un délai d'un mois à compter de l'enregistrement de la
 demande, des pièces manquant à son dossier. Dans ce cas, le délai mentionné à l'alinéa précédent court à compter du dépôt de
@@ -38435,33 +37120,34 @@ réception de cet avis, la demande est réputée rejetée.
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2014-1314 du 31 octobre 2014 - art. 21
-
-	**Cite**:
-
-	  - Code du patrimoine - art. L621-32
+	  - Décret n°2017-456 du 29 mars 2017 - art. 4
 
 	**Cité par**:
 
 	  - Code du patrimoine - art. R621-96-10 (V)
+	  - Code du patrimoine - art. R621-96-12 (Ab)
 	  - Code du patrimoine - art. R621-96-5 (V)
+
+	**Cite**:
+
+	  - Code des relations entre le public et l'administration - art. L231-1
 
 
 ###### Article R621-96-10
 
-L'architecte des Bâtiments de France dispose d'un délai d'un mois à compter de sa saisine pour faire connaître son avis au
-préfet. A défaut, il est réputé avoir émis un avis favorable. 
+L'architecte des Bâtiments de France dispose d'un délai d'un mois à compter de sa saisine pour se prononcer. A défaut, il est
+réputé avoir donné son accord.
 
 S'il estime que le dossier est incomplet, il en avise le préfet, dans le délai de quinze jours à compter de sa saisine. Le
 préfet fait alors application du deuxième alinéa de l'article R. 621-96-9.
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2014-1314 du 31 octobre 2014 - art. 21
+	  - Décret n°2017-456 du 29 mars 2017 - art. 4
 
 	**Cite**:
 
@@ -38481,31 +37167,6 @@ L'architecte des bâtiments de France adresse un projet de décision au préfet.
 	**Créé par**:
 
 	  - Décret n°2014-1314 du 31 octobre 2014 - art. 21
-
-
-###### Article R621-96-12
-
-Lorsque le projet fait l'objet d'une évocation du ministre chargé de la culture en application du cinquième alinéa de
-l'article L. 621-32, la décision d'évocation prise par le ministre est notifiée au demandeur et le délai d'instruction de la
-demande d'autorisation prévu au premier alinéa de l'article R. 621-96-9 est porté à quatre mois. 
-
-Le ministre chargé de la culture dispose d'un délai de trois mois à compter de la date de dépôt de la demande pour faire
-connaître au préfet son accord, assorti ou non de prescriptions, ou son refus.
-
-**Liens relatifs à cet article**
-
-	**Créé par**:
-
-	  - Décret n°2014-1314 du 31 octobre 2014 - art. 21
-
-	**Abrogé par**:
-
-	  - Décret n°2017-456 du 29 mars 2017 - art. 4
-
-	**Cite**:
-
-	  - Code du patrimoine - art. L621-32
-	  - Code du patrimoine - art. R621-96-9 (V)
 
 
 ###### Article R621-96-13
@@ -38590,50 +37251,86 @@ prorogation prend effet au terme de la validité de la décision initiale.
 	  - Décret n°2014-1314 du 31 octobre 2014 - art. 21
 
 
-###### Article R621-96-18
-
-Le recours hiérarchique mentionné au deuxième alinéa du II de l'article L. 621-32 s'exerce auprès du ministre chargé de la
-culture. 
-
-Le silence gardé pendant plus de deux mois par le ministre chargé de la culture vaut décision de rejet conformément au
-troisième alinéa du II du même article.
-
-**Liens relatifs à cet article**
-
-	**Créé par**:
-
-	  - Décret n°2014-1314 du 31 octobre 2014 - art. 21
-
-	**Abrogé par**:
-
-	  - Décret n°2017-456 du 29 mars 2017 - art. 4
-
-	**Cite**:
-
-	  - Code du patrimoine - art. L621-32
-
-
 ##### Section 5 : Dispositions diverses
 
 ###### Article R621-97
 
-Lorsqu'un immeuble ou une partie d'immeuble a été morcelé ou dépecé en violation de la législation sur les monuments
-historiques, l'autorité administrative mentionnée à l'article L. 621-33, compétente pour faire procéder aux recherches et
-pour ordonner la remise en place de l'édifice, est le préfet de région.
+L'autorité administrative mentionnée aux premier et deuxième alinéas de l'article L. 621-33 est le préfet de région. 
+
+L'autorité administrative mentionnée aux troisième et quatrième alinéas de l'article L. 621-33 est le ministre chargé de la
+culture.
 
 **Liens relatifs à cet article**
-
-	**Créé par**:
-
-	  - Décret n°2011-574 du 24 mai 2011  - art.
 
 	**Codifié par**:
 
 	  - Décret n°2011-574 du 24 mai 2011 Annexe - art.
 
+	**Modifié par**:
+
+	  - Décret n°2017-456 du 29 mars 2017 - art. 4
+
 	**Cite**:
 
-	  - Code du patrimoine. - art. L621-33 (V)
+	  - Code du patrimoine - art. L621-33
+
+
+##### Section 6 : Domaines nationaux 
+
+###### Article R621-98
+
+Le ministre chargé de la culture peut exercer le droit de préemption prévu à l'article L. 621-39 dans les conditions et selon
+les modalités définies aux articles L. 213-2 et R. 213-4 à D. 213-13-4 du code de l'urbanisme.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2017-456 du 29 mars 2017 - art. 4
+
+	**Liens**:
+
+	  - TRANSFERE: Décret n°2017-720 du 2 mai 2017 - art. 1
+
+	**Cite**:
+
+	  - Code de l'urbanisme - art. L213-2
+	  - Code de l'urbanisme - art. R213-4
+	  - Code du patrimoine - art. L621-39
+
+	**Nouveaux textes**:
+
+	  - Code du patrimoine - art. R621-99 (V)
+
+	**Cité par**:
+
+	  - Code du patrimoine - art. R641-1 (V)
+	  - Code du patrimoine - art. R720-13 (V)
+	  - Code du patrimoine - art. R780-17 (V)
+	  - Code du patrimoine - art. R790-16 (V)
+
+
+###### Article R621-99
+
+Les conditions financières de l'utilisation commerciale de l'image d'éléments des domaines nationaux appartenant à l'Etat et
+confiés à un établissement public sont fixées par l'autorité compétente de l'établissement.
+
+Dans les autres cas, le préfet fixe les conditions financières des actes unilatéraux ou contrats relatifs à l'utilisation à
+des fins commerciales de l'image des biens appartenant à l'Etat qui sont inclus dans le périmètre d'un domaine national.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2017-456 du 29 mars 2017 - art. 4
+
+	**Liens**:
+
+	  - TRANSFERE: Décret n°2017-720 du 2 mai 2017 - art. 1
+
+	**Nouveaux textes**:
+
+	  - Code du patrimoine - art. R621-100 (V)
 
 
 #### Chapitre II : Objets mobiliers
@@ -38644,52 +37341,67 @@ pour ordonner la remise en place de l'édifice, est le préfet de région.
 
 ###### Article R622-1
 
-Le classement des objets mobiliers appartenant à l'Etat ou à un établissement public de l'Etat est prononcé par arrêté du
-ministre chargé de la culture. Le classement devient définitif si le ministre intéressé ou l'établissement public
-propriétaire ou affectataire n'a pas fait part de son désaccord dans le délai de six mois à dater de la notification de
-l'arrêté. En cas de désaccord, le classement d'office peut être prononcé par décret en Conseil d'Etat sur proposition du
-ministre chargé de la culture. Toutefois, à compter du jour de la notification, tous les effets du classement s'appliquent de
-plein droit à l'objet mobilier considéré.
+Le classement des objets mobiliers et des ensembles historiques mobiliers appartenant à l'Etat ou à un établissement public
+de l'Etat est prononcé par arrêté du ministre chargé de la culture. Le classement devient définitif si le ministre intéressé
+ou l'établissement public propriétaire ou affectataire n'a pas fait part de son désaccord dans le délai de six mois à dater
+de la notification de l'arrêté. En cas de désaccord, le classement d'office peut être prononcé par décret en Conseil d'Etat
+sur proposition du ministre chargé de la culture. Toutefois, à compter du jour de la notification, tous les effets du
+classement s'appliquent de plein droit à l'objet mobilier ou à l'ensemble historique mobilier considéré.
 
-Le classement des objets mobiliers n'appartenant pas à l'Etat ou à l'un de ses établissements publics est prononcé par arrêté
-du ministre chargé de la culture lorsque leur propriétaire y consent.
+Le classement des objets mobiliers et des ensembles historiques mobiliers n'appartenant pas à l'Etat ou à l'un de ses
+établissements publics est prononcé par arrêté du ministre chargé de la culture lorsque leur propriétaire y consent.
 
 **Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°2007-487 du 30 mars 2007 - art. 53 (Ab)
-
-	**Créé par**:
-
-	  - Décret n°2011-574 du 24 mai 2011  - art.
 
 	**Codifié par**:
 
 	  - Décret n°2011-574 du 24 mai 2011 Annexe - art.
+
+	**Modifié par**:
+
+	  - Décret n°2017-456 du 29 mars 2017 - art. 4
+
+
+###### Article R622-1-2
+
+L'autorité administrative mentionnée au premier alinéa de l'article L. 622-1-2 est le ministre chargé de la culture. 
+
+L'autorité administrative mentionnée au deuxième alinéa du même article est le préfet de région. 
+
+La décision d'autorisation mentionne la durée du déplacement autorisé.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2017-456 du 29 mars 2017 - art. 4
+
+	**Cite**:
+
+	  - Code du patrimoine - art. L622-1-2
 
 
 ###### Article R622-2
 
-La demande de classement d'un objet mobilier peut être présentée par son propriétaire ou par toute personne y ayant intérêt.
+La demande de classement d'un objet mobilier ou d'un ensemble historique mobilier peut être présentée par son propriétaire ou
+par toute personne y ayant intérêt.
 
-L'initiative d'une proposition de classement d'un objet mobilier peut également être prise par le ministre chargé de la
-culture ou par le préfet. Ce dernier ne peut proposer le classement d'un objet mobilier appartenant à l'Etat qu'après
-consultation de l'affectataire domanial.
+La demande de création d'une servitude de maintien dans les lieux est présentée par le propriétaire. 
+
+L'initiative d'une proposition de classement d'un objet mobilier ou d'un ensemble historique mobilier, ou de la création
+d'une servitude de maintien dans les lieux peut également être prise par le ministre chargé de la culture ou par le préfet de
+région. Ce dernier ne peut proposer l'une de ces mesures pour des biens appartenant à l'Etat qu'après consultation de
+l'affectataire domanial.
 
 **Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°2007-487 du 30 mars 2007 - art. 54 (Ab)
-
-	**Créé par**:
-
-	  - Décret n°2011-574 du 24 mai 2011  - art.
 
 	**Codifié par**:
 
 	  - Décret n°2011-574 du 24 mai 2011 Annexe - art.
+
+	**Modifié par**:
+
+	  - Décret n°2017-456 du 29 mars 2017 - art. 4
 
 	**Cité par**:
 
@@ -38698,59 +37410,59 @@ consultation de l'affectataire domanial.
 
 ###### Article R622-3
 
-La demande de classement d'un objet mobilier est adressée au préfet du département dans lequel est conservé l'objet mobilier.
+La demande de classement d'un objet mobilier ou d'un ensemble historique mobilier, ou la demande de création d'une servitude
+de maintien dans les lieux est adressée au préfet de la région dans laquelle sont conservés les biens concernés.
 
-La demande est accompagnée de la description de l'objet mobilier et de photographies.
+La demande est accompagnée de la description des biens et de photographies.
 
 **Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°2007-487 du 30 mars 2007 - art. 55 (Ab)
-
-	**Créé par**:
-
-	  - Décret n°2011-574 du 24 mai 2011  - art.
 
 	**Codifié par**:
 
 	  - Décret n°2011-574 du 24 mai 2011 Annexe - art.
+
+	**Modifié par**:
+
+	  - Décret n°2017-456 du 29 mars 2017 - art. 4
 
 
 ###### Article R622-4
 
-Le préfet soumet pour avis à la commission départementale des objets mobiliers les demandes de classement d'objets mobiliers
-dont il est saisi, après avoir vérifié le caractère complet du dossier, ainsi que les propositions de classement dont il
-prend l'initiative. Lorsqu'il estime que l'objet mobilier le justifie, le préfet saisit le ministre chargé de la culture
-d'une proposition de classement. Dans tous les cas, il informe le demandeur de sa décision.
+I. – Le préfet de région soumet pour avis à la commission régionale du patrimoine et de l'architecture les demandes de
+classements d'objets mobiliers et d'ensembles historiques mobiliers et les demandes de création de servitudes de maintien
+dans les lieux dont il est saisi, après avoir vérifié le caractère complet du dossier, ainsi que les propositions de
+classement ou de création de servitudes de maintien dans les lieux dont il prend l'initiative. Au vu de l'avis de la
+commission régionale du patrimoine et de l'architecture, le préfet de région peut transmettre le dossier au ministre chargé
+de la culture, en vue d'un éventuel classement, ou d'une éventuelle création de servitude de maintien dans les lieux. Dans
+tous les cas, il en informe le demandeur et le propriétaire.
 
-Lorsque la demande ou la proposition de classement porte sur un orgue, le préfet la transmet au ministre chargé de la culture
-qui recueille l'avis de la Commission nationale des monuments historiques. Le préfet peut préalablement recueillir l'avis de
-la commission départementale des objets mobiliers.
+Lorsque la demande ou la proposition de classement porte sur un orgue, le préfet de région la transmet au ministre chargé de
+la culture qui recueille l'avis de la Commission nationale du patrimoine et de l'architecture. Le préfet de région peut
+préalablement recueillir l'avis de la commission régionale du patrimoine et de l'architecture.
 
-Lorsque le ministre chargé de la culture est saisi par le préfet d'une demande ou d'une proposition de classement, il statue
-après avoir recueilli l'avis de la Commission nationale des monuments historiques. Il consulte également la Commission
-nationale des monuments historiques lorsqu'il prend l'initiative d'un classement. Il informe la commission, avant qu'elle ne
-rende son avis, de l'avis du propriétaire ou de l'affectataire domanial sur la proposition de classement.
+II. – Le ministre chargé de la culture, saisi par le préfet de région d'une demande ou d'une proposition de classement ou de
+création d'une servitude de maintien dans les lieux, statue après avoir recueilli l'avis de la Commission nationale du
+patrimoine et de l'architecture.
 
-Le ministre informe le préfet de l'avis de la commission et de sa décision.
+Il consulte également la Commission nationale du patrimoine et de l'architecture lorsqu'il prend l'initiative d'un classement
+ou de la création d'une servitude de maintien dans les lieux.
 
-Le ministre ne peut classer un objet n'appartenant pas à l'Etat qu'au vu d'un dossier contenant l'accord de son propriétaire
-sur la mesure de classement.
+Il informe la commission, avant qu'elle ne rende son avis, de l'avis du propriétaire ou de l'affectataire domanial.
+
+Le ministre informe le préfet de région de l'avis de la commission et de sa décision.
+
+III. – Le ministre ne peut classer un objet ou un ensemble historique mobilier n'appartenant pas à l'Etat ou créer une
+servitude de maintien dans les lieux qu'au vu d'un dossier contenant l'accord du propriétaire.
 
 **Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°2007-487 du 30 mars 2007 - art. 56 (Ab)
-
-	**Créé par**:
-
-	  - Décret n°2011-574 du 24 mai 2011  - art.
 
 	**Codifié par**:
 
 	  - Décret n°2011-574 du 24 mai 2011 Annexe - art.
+
+	**Modifié par**:
+
+	  - Décret n°2017-456 du 29 mars 2017 - art. 4
 
 	**Cité par**:
 
@@ -38784,9 +37496,11 @@ l'article L. 622-5 est effectuée selon les modalités prévues à l'article R. 
 
 ###### Article R622-6
 
-La décision de classement d'un objet mobilier mentionne :
+La décision de classement d'un objet mobilier ou d'un ensemble historique mobilier ou la décision de création d'une servitude
+de maintien dans les lieux mentionne :
 
-1° La dénomination ou la désignation et les principales caractéristiques de l'objet ;
+1° La dénomination ou la désignation et les principales caractéristiques de l'objet ou de l'ensemble historique mobilier et,
+lorsqu'il s'agit d'un ensemble historique mobilier, l'inventaire détaillé des objets le composant ;
 
 2° L'adresse ou la localisation de l'immeuble et le nom de la commune où il est conservé ;
 
@@ -38794,56 +37508,53 @@ La décision de classement d'un objet mobilier mentionne :
 
 **Liens relatifs à cet article**
 
-	**Anciens textes**:
-
-	  - Décret n°2007-487 du 30 mars 2007 - art. 58 (Ab)
-
-	**Créé par**:
-
-	  - Décret n°2011-574 du 24 mai 2011  - art.
-
 	**Codifié par**:
 
 	  - Décret n°2011-574 du 24 mai 2011 Annexe - art.
+
+	**Modifié par**:
+
+	  - Décret n°2017-456 du 29 mars 2017 - art. 4
 
 
 ###### Article R622-7
 
-La décision de classement de l'objet mobilier est notifiée par le préfet au propriétaire. Celui-ci est tenu d'en informer
-l'affectataire ou le dépositaire.
+La décision de classement de l'objet mobilier ou de l'ensemble historique mobilier est notifiée par le préfet de région au
+propriétaire. Celui-ci est tenu d'en informer l'affectataire ou le dépositaire.
+
+La décision de création de la servitude de maintien dans les lieux est notifiée par le préfet de région au propriétaire.
+Celui-ci est tenu d'en informer l'affectataire.
 
 **Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°2007-487 du 30 mars 2007 - art. 59 (Ab)
-
-	**Créé par**:
-
-	  - Décret n°2011-574 du 24 mai 2011  - art.
 
 	**Codifié par**:
 
 	  - Décret n°2011-574 du 24 mai 2011 Annexe - art.
+
+	**Modifié par**:
+
+	  - Décret n°2017-456 du 29 mars 2017 - art. 4
 
 
 ###### Article R622-8
 
-Le déclassement d'un objet mobilier est prononcé selon la même procédure et dans les mêmes formes que le classement.
+Le déclassement d'un objet mobilier ou d'un ensemble historique mobilier, ou l'autorisation de division ou d'aliénation
+prévue au deuxième alinéa de l'article L. 622-1-1 est prononcé selon la même procédure et dans les mêmes formes que le
+classement.
 
 **Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°2007-487 du 30 mars 2007 - art. 60 (Ab)
-
-	**Créé par**:
-
-	  - Décret n°2011-574 du 24 mai 2011  - art.
 
 	**Codifié par**:
 
 	  - Décret n°2011-574 du 24 mai 2011 Annexe - art.
+
+	**Modifié par**:
+
+	  - Décret n°2017-456 du 29 mars 2017 - art. 4
+
+	**Cite**:
+
+	  - Code du patrimoine - art. L622-1-1
 
 	**Cité par**:
 
@@ -38852,12 +37563,15 @@ Le déclassement d'un objet mobilier est prononcé selon la même procédure et 
 
 ###### Article R622-9
 
-La liste générale des objets mobiliers classés, établie et publiée par le ministère chargé de la culture, comprend :
+La liste générale des objets mobiliers et des ensembles historiques mobiliers classés, établie et publiée par le ministère
+chargé de la culture, comprend :
 
-1° La dénomination ou la désignation et les principales caractéristiques de ces objets ;
+1° La dénomination ou la désignation et les principales caractéristiques de ces objets et ensembles historiques mobiliers ;
 
-2° L'indication de l'immeuble et de la commune où ils sont conservés. Toutefois, si l'objet appartient à un propriétaire
-privé, celui-ci peut demander que seule l'indication du département soit mentionnée ;
+2° L'indication de l'immeuble et de la commune où ils sont conservés, et, le cas échéant, de la servitude de maintien dans
+les lieux attachée à l'objet mobilier ou à l'ensemble historique mobilier concerné. Toutefois, si l'objet mobilier ou
+l'ensemble historique mobilier appartient à un propriétaire privé, celui-ci peut demander que seule l'indication du
+département soit mentionnée ;
 
 3° La qualité de personne publique ou privée de leur propriétaire et, s'il y a lieu, l'affectataire domanial ;
 
@@ -38865,21 +37579,17 @@ privé, celui-ci peut demander que seule l'indication du département soit menti
 
 **Liens relatifs à cet article**
 
-	**Anciens textes**:
-
-	  - Décret n°2007-487 du 30 mars 2007 - art. 61 (Ab)
-
-	**Créé par**:
-
-	  - Décret n°2011-574 du 24 mai 2011  - art.
-
 	**Codifié par**:
 
 	  - Décret n°2011-574 du 24 mai 2011 Annexe - art.
 
+	**Modifié par**:
+
+	  - Décret n°2017-456 du 29 mars 2017 - art. 4
+
 	**Cité par**:
 
-	  - Code du patrimoine. - art. R622-38 (M)
+	  - Code du patrimoine - art. R622-38 (V)
 
 
 ###### Article R622-10
@@ -39488,25 +38198,22 @@ est le ministre chargé de la culture.
 
 ###### Article R622-32
 
-L'autorité compétente pour inscrire un objet mobilier au titre des monuments historiques est le préfet du département dans
-lequel est conservé l'objet mobilier. Il prend sa décision après que l'avis, selon le cas, de la commission départementale
-des objets mobiliers ou de la Commission nationale des monuments historiques, a été recueilli. Si cet objet appartient à une
-personne privée, l'arrêté d'inscription ne peut être pris qu'au vu d'un dossier comportant l'accord du propriétaire sur la
-mesure d'inscription.
+L'autorité compétente pour inscrire un objet mobilier au titre des monuments historiques est le préfet de la région dans
+laquelle est conservé l'objet mobilier. Il prend sa décision après que l'avis, selon le cas, de la    commission régionale du
+patrimoine et de l'architecture ou de la Commission nationale du patrimoine et de l'architecture, a été recueilli. Si cet
+objet appartient à une personne privée, l'arrêté d'inscription ne peut être pris qu'au vu d'un dossier comportant l'accord du
+propriétaire sur la mesure d'inscription.
 
 **Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°2007-487 du 30 mars 2007 - art. 74 (Ab)
-
-	**Créé par**:
-
-	  - Décret n°2011-574 du 24 mai 2011  - art.
 
 	**Codifié par**:
 
 	  - Décret n°2011-574 du 24 mai 2011 Annexe - art.
+
+	**Modifié par**:
+
+	  - Décret n°2017-456 du 29 mars 2017 - art. 1
+	  - Décret n°2017-456 du 29 mars 2017 - art. 4
 
 
 ###### Article R622-33
@@ -39514,22 +38221,18 @@ mesure d'inscription.
 La demande d'inscription d'un objet mobilier est présentée par le propriétaire ou par toute personne y ayant intérêt.
 
 L'initiative d'une proposition d'inscription d'un objet mobilier peut également être prise par le ministre chargé de la
-culture ou par le préfet. Lorsqu'elle porte sur un objet mobilier appartenant à l'Etat, elle est présentée après consultation
-de l'affectataire.
+culture ou par le préfet de région. Lorsqu'elle porte sur un objet mobilier appartenant à l'Etat, elle est présentée après
+consultation de l'affectataire.
 
 **Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°2007-487 du 30 mars 2007 - art. 75 (Ab)
-
-	**Créé par**:
-
-	  - Décret n°2011-574 du 24 mai 2011  - art.
 
 	**Codifié par**:
 
 	  - Décret n°2011-574 du 24 mai 2011 Annexe - art.
+
+	**Modifié par**:
+
+	  - Décret n°2017-456 du 29 mars 2017 - art. 4
 
 	**Cité par**:
 
@@ -39538,33 +38241,30 @@ de l'affectataire.
 
 ###### Article R622-34
 
-La demande d'inscription d'un objet mobilier au titre des monuments historiques est adressée au préfet du département dans
-lequel est conservé l'objet mobilier.
+La demande d'inscription d'un objet mobilier au titre des monuments historiques est adressée au préfet de la région dans
+laquelle est conservé l'objet mobilier. 
 
-La demande est accompagnée de la description de l'objet mobilier et de photographies.
+La demande est accompagnée de la description de l'objet mobilier et de photographies. 
 
-Le préfet recueille l'avis de la commission départementale des objets mobiliers sur les demandes d'inscription d'objets
-mobiliers autres qu'un orgue dont il est saisi, après avoir vérifié le caractère complet du dossier, ainsi que sur les
-propositions d'inscription des mêmes objets dont il prend l'initiative.
+Le préfet recueille l'avis de la    commission régionale du patrimoine et de l'architecture sur les demandes d'inscription
+d'objets mobiliers autres qu'un orgue dont il est saisi, après avoir vérifié le caractère complet du dossier, ainsi que sur
+les propositions d'inscription des mêmes objets dont il prend l'initiative. 
 
 Lorsque le préfet reçoit une demande d'inscription d'un orgue au titre des monuments historiques ou prend l'initiative de
-cette inscription, il transmet la demande au ministre chargé de la culture qui recueille l'avis de la Commission nationale
-des monuments historiques. Le préfet peut préalablement recueillir l'avis de la commission départementale des objets
-mobiliers.
+cette inscription, il transmet la demande au ministre chargé de la culture qui recueille l'avis de la Commission nationale du
+patrimoine et de l'architecture. Le préfet peut préalablement recueillir l'avis de la    commission régionale du patrimoine
+et de l'architecture.
 
 **Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°2007-487 du 30 mars 2007 - art. 76 (Ab)
-
-	**Créé par**:
-
-	  - Décret n°2011-574 du 24 mai 2011  - art.
 
 	**Codifié par**:
 
 	  - Décret n°2011-574 du 24 mai 2011 Annexe - art.
+
+	**Modifié par**:
+
+	  - Décret n°2017-456 du 29 mars 2017 - art. 1
+	  - Décret n°2017-456 du 29 mars 2017 - art. 4
 
 
 ###### Article R622-35
@@ -39594,42 +38294,34 @@ La décision d'inscription d'un objet mobilier au titre des monuments historique
 
 ###### Article R622-36
 
-La décision d'inscription de l'objet mobilier est notifiée par le préfet au propriétaire. Celui-ci est tenu d'en informer
-l'affectataire ou le dépositaire.
+La décision d'inscription de l'objet mobilier est notifiée par le préfet de région au propriétaire. Celui-ci est tenu d'en
+informer l'affectataire ou le dépositaire.
 
 **Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°2007-487 du 30 mars 2007 - art. 78 (Ab)
-
-	**Créé par**:
-
-	  - Décret n°2011-574 du 24 mai 2011  - art.
 
 	**Codifié par**:
 
 	  - Décret n°2011-574 du 24 mai 2011 Annexe - art.
+
+	**Modifié par**:
+
+	  - Décret n°2017-456 du 29 mars 2017 - art. 4
 
 
 ###### Article R622-37
 
-La radiation de l'inscription d'un objet mobilier est prononcée par arrêté du préfet selon la même procédure et dans les
-mêmes formes que l'inscription.
+La radiation de l'inscription d'un objet mobilier est prononcée par arrêté du préfet de région selon la même procédure et
+dans les mêmes formes que l'inscription.
 
 **Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°2007-487 du 30 mars 2007 - art. 79 (Ab)
-
-	**Créé par**:
-
-	  - Décret n°2011-574 du 24 mai 2011  - art.
 
 	**Codifié par**:
 
 	  - Décret n°2011-574 du 24 mai 2011 Annexe - art.
+
+	**Modifié par**:
+
+	  - Décret n°2017-456 du 29 mars 2017 - art. 4
 
 	**Cité par**:
 
@@ -39638,29 +38330,25 @@ mêmes formes que l'inscription.
 
 ###### Article R622-38
 
-Le préfet dresse une liste des objets mobiliers inscrits du département qui contient les mêmes renseignements que ceux
-énumérés à l'article R. 622-9.
+Le préfet de région dresse une liste des objets mobiliers inscrits de la région qui contient les mêmes renseignements que
+ceux énumérés à l'article R. 622-9.
 
 Un exemplaire de cette liste, tenue à jour, est déposé au ministère chargé de la culture, à la direction régionale des
 affaires culturelles et auprès du conservateur des antiquités et des objets d'art.
 
 **Liens relatifs à cet article**
 
-	**Anciens textes**:
-
-	  - Décret n°2007-487 du 30 mars 2007 - art. 80 (Ab)
-
-	**Créé par**:
-
-	  - Décret n°2011-574 du 24 mai 2011  - art.
-
 	**Codifié par**:
 
 	  - Décret n°2011-574 du 24 mai 2011 Annexe - art.
 
+	**Modifié par**:
+
+	  - Décret n°2017-456 du 29 mars 2017 - art. 4
+
 	**Cite**:
 
-	  - Code du patrimoine. - art. R622-9 (V)
+	  - Code du patrimoine - art. R622-9 (V)
 
 
 ##### Sous-section 2 : Travaux sur un objet mobilier inscrit
@@ -39772,42 +38460,34 @@ indique les contraintes réglementaires, architecturales et techniques que le pr
 ###### Article R622-43
 
 L'aliénation d'un objet mobilier inscrit au titre des monuments historiques appartenant à une collectivité territoriale ou à
-l'un de ses établissements publics ne peut avoir lieu sans que le préfet n'en soit informé deux mois à l'avance. En l'absence
-de cette déclaration, le ministre chargé de la culture exerce l'action en nullité.
+l'un de ses établissements publics ne peut avoir lieu sans que le préfet de région n'en soit informé deux mois à l'avance. En
+l'absence de cette déclaration, le ministre chargé de la culture exerce l'action en nullité.
 
 **Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°2007-487 du 30 mars 2007 - art. 82 (Ab)
-
-	**Créé par**:
-
-	  - Décret n°2011-574 du 24 mai 2011  - art.
 
 	**Codifié par**:
 
 	  - Décret n°2011-574 du 24 mai 2011 Annexe - art.
+
+	**Modifié par**:
+
+	  - Décret n°2017-456 du 29 mars 2017 - art. 4
 
 
 ###### Article R622-44
 
-Toute aliénation d'un objet mobilier inscrit est notifiée, dans les quinze jours de sa date, au préfet par celui qui l'a
-consentie. La notification mentionne le nom et le domicile du nouveau propriétaire ainsi que la date de l'aliénation.
+Toute aliénation d'un objet mobilier inscrit est notifiée, dans les quinze jours de sa date, au préfet de région par celui
+qui l'a consentie. La notification mentionne le nom et le domicile du nouveau propriétaire ainsi que la date de l'aliénation.
 
 **Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°2007-487 du 30 mars 2007 - art. 83 (Ab)
-
-	**Créé par**:
-
-	  - Décret n°2011-574 du 24 mai 2011  - art.
 
 	**Codifié par**:
 
 	  - Décret n°2011-574 du 24 mai 2011 Annexe - art.
+
+	**Modifié par**:
+
+	  - Décret n°2017-456 du 29 mars 2017 - art. 4
 
 
 ##### Section 3 : Dispositions communes aux objets mobiliers classés  et aux objets inscrits
@@ -40438,978 +39118,6 @@ l'autorisation d'affichage accordée en application des articles R. 621-86, R. 6
 	  - Code du patrimoine. - art. R621-86 (V)
 
 
-### TITRE III : SITES
-
-###### Article D630-1
-
-Les règles relatives aux sites inscrits et classés sont fixées au chapitre Ier du titre IV du livre III de la partie
-règlementaire du code de l'environnement.
-
-**Liens relatifs à cet article**
-
-	**Créé par**:
-
-	  - Décret n°2011-574 du 24 mai 2011  - art.
-
-	**Codifié par**:
-
-	  - Décret n°2011-574 du 24 mai 2011 Annexe - art.
-
-	**Abrogé par**:
-
-	  - Décret n°2017-456 du 29 mars 2017 - art. 5
-
-	**Anciens textes**:
-
-	  - Code de l'environnement - art. R341-1 (V)
-
-	**Cité par**:
-
-	  - Code du patrimoine - art. D780-12 (V)
-
-
-### TITRE IV : ESPACES PROTÉGÉS
-
-#### Chapitre Ier : Secteurs sauvegardés
-
-###### Article D641-1
-
-Les règles relatives aux secteurs sauvegardés sont fixées aux sections 1, 3 et 4 du chapitre III du titre Ier du livre III de
-la partie règlementaire du code de l'urbanisme.
-
-**Liens relatifs à cet article**
-
-	**Créé par**:
-
-	  - Décret n°2011-574 du 24 mai 2011  - art.
-
-	**Codifié par**:
-
-	  - Décret n°2011-574 du 24 mai 2011 Annexe - art.
-
-	**Abrogé par**:
-
-	  - Décret n°2017-456 du 29 mars 2017 - art. 5
-
-	**Cité par**:
-
-	  - Code du patrimoine - art. D780-12 (M)
-	  - Code du patrimoine - art. D790-11 (M)
-	  - Code du patrimoine. - art. D720-12 (M)
-
-
-#### Chapitre II : Aires de mise en valeur  de l'architecture et du patrimoine
-
-##### Section 1 : Mise à l'étude d'un projet d'aire 
-
-
-###### Article D642-1
-
-La décision de mettre à l'étude un projet d'aire de mise en valeur de l'architecture et du patrimoine en application du
-premier alinéa de l'article L. 642-3 est prise sur délibérations concordantes du ou des conseils municipaux de la ou des
-communes concernées ou sur délibération de l'organe délibérant de l'établissement public de coopération intercommunale
-compétent en matière de plan local d'urbanisme. 
-
-La délibération par laquelle cette mise à l'étude est prescrite fait l'objet d'un affichage, durant un mois à compter de son
-adoption, dans les mairies des communes concernées ou au siège de l'établissement public de coopération intercommunale
-compétent, ainsi que d'une mention insérée dans un journal d'annonces légales diffusé dans le département. Lorsque plusieurs
-communes sont concernées, le délai d'un mois court à compter de l'adoption de la dernière de ces délibérations. 
-
-La délibération est, en outre, publiée : 
-
-1° Au recueil des actes administratifs mentionné à l'article R. 2121-10 du code général des collectivités territoriales,
-lorsqu'il s'agit de la délibération du conseil municipal d'une commune de 3 500 habitants et plus ; 
-
-2° Au recueil des actes administratifs mentionné à l'article R. 5211-41 du même code, s'il existe, lorsqu'il s'agit de la
-délibération de l'organe délibérant d'un établissement public de coopération intercommunale comportant au moins une commune
-de 3 500 habitants et plus.
-
-**Liens relatifs à cet article**
-
-	**Créé par**:
-
-	  - Décret n°2011-1903 du 19 décembre 2011 - art. 1
-
-	**Abrogé par**:
-
-	  - Décret n°2017-456 du 29 mars 2017 - art. 5
-
-	**Cite**:
-
-	  - Code général des collectivités territoriales - art. R2121-10
-	  - Code général des collectivités territoriales - art. R5211-41
-	  - Code du patrimoine - art. L642-3
-
-	**Cité par**:
-
-	  - Code du patrimoine - art. D642-10 (Ab)
-	  - Code du patrimoine - art. D642-2 (Ab)
-
-
-###### Article D642-2
-
-L'instance consultative prévue à l'article L. 642-5, dénommée commission locale de l'aire de mise en valeur de l'architecture
-et du patrimoine, comporte un nombre maximum de quinze membres. 
-
-Le nombre des représentants de la ou des communes ou de l'établissement public de coopération intercommunale mentionnés à
-l'article D. 642-1 ne peut être inférieur à cinq. 
-
-Les personnes qualifiées, désignées par les délibérations concordantes mentionnées au même article sont au nombre de quatre
-dont deux choisies au titre du patrimoine culturel ou environnemental local et deux choisies au titre d'intérêts économiques
-locaux. 
-
-Un maire ou un président d'établissement public de coopération intercommunale, désigné en son sein par la commission, assure
-la présidence. En cas d'absence ou d'empêchement, il peut donner mandat à un autre membre de l'instance titulaire d'un mandat
-électif. 
-
-L'architecte des Bâtiments de France assiste avec voix consultative aux réunions de la commission. 
-
-La commission délibère à la majorité des voix. En cas de partage des voix, la voix du président est prépondérante. 
-
-Elle arrête un règlement intérieur.
-
-**Liens relatifs à cet article**
-
-	**Créé par**:
-
-	  - Décret n°2011-1903 du 19 décembre 2011 - art. 1
-
-	**Abrogé par**:
-
-	  - Décret n°2017-456 du 29 mars 2017 - art. 5
-
-	**Cite**:
-
-	  - Code du patrimoine - art. D642-1
-	  - Code du patrimoine - art. L642-5
-
-
-###### Article D642-3
-
-L'étude est conduite sous l'autorité du ou des maires ou du président de l'établissement public de coopération intercommunale
-compétent en matière de plan local d'urbanisme, avec l'assistance de l'architecte des Bâtiments de France.
-
-**Liens relatifs à cet article**
-
-	**Créé par**:
-
-	  - Décret n°2011-1903 du 19 décembre 2011 - art. 1
-
-	**Abrogé par**:
-
-	  - Décret n°2017-456 du 29 mars 2017 - art. 5
-
-
-###### Article D642-4
-
-Le diagnostic prévu au deuxième alinéa de l'article L. 642-1 constitue la première étape de l'étude. 
-
-Il porte sur le territoire de l'aire et comprend : 
-
-1° Une partie relative au patrimoine architectural, urbain, paysager, historique et archéologique permettant de déterminer
-l'intérêt, les caractéristiques et l'état de ce patrimoine ; elle comporte une analyse du territoire concerné, à différentes
-échelles, portant notamment sur : 
-
-a) La géomorphologie et la structure paysagère, l'évolution et l'état de l'occupation bâtie et des espaces ; 
-
-b) L'histoire et les logiques d'insertion dans le site, des implantations urbaines et des constructions, la morphologie
-urbaine, les modes d'utilisation des espaces et des sols ainsi que l'occupation végétale ; 
-
-c) La qualité architecturale des bâtiments ainsi que l'organisation des espaces ; 
-
-2° Une partie relative à l'environnement comportant notamment : 
-
-a) Une analyse des tissus bâtis et des espaces au regard de leur capacité esthétique et paysagère à recevoir des
-installations nécessaires à l'exploitation des énergies renouvelables ; 
-
-b) Une analyse de l'implantation des constructions, des modes constructifs existants et des matériaux utilisés, précisant au
-besoin l'époque de construction des bâtiments, permettant de déterminer des objectifs d'économie d'énergie. 
-
-Cette partie reprend et complète, en tant que de besoin, l'analyse environnementale figurant au plan local d'urbanisme. 
-
-A défaut de plan local d'urbanisme, elle comporte, en outre, une analyse de l'état initial de l'environnement dans le
-territoire de l'aire.
-
-**Liens relatifs à cet article**
-
-	**Créé par**:
-
-	  - Décret n°2011-1903 du 19 décembre 2011 - art. 1
-
-	**Abrogé par**:
-
-	  - Décret n°2017-456 du 29 mars 2017 - art. 5
-
-	**Cité par**:
-
-	  - Code du patrimoine - art. D642-5 (Ab)
-	  - Code du patrimoine - art. D642-6 (Ab)
-
-	**Cite**:
-
-	  - Code du patrimoine - art. L642-1
-
-
-##### Section 2 : Création d'une aire 
-
-
-
-###### Article D642-5
-
-Pour l'application du deuxième alinéa de l'article L. 642-3, le projet de création ou de révision d'une aire de mise en
-valeur de l'architecture et du patrimoine est, à l'issue de l'étude prévue à la section 1, soumis aux délibérations
-concordantes du ou des conseils municipaux de la ou des communes concernées ou à la délibération de l'organe délibérant de
-l'établissement public de coopération intercommunale compétent en matière de plan local d'urbanisme. 
-
-Ce projet comporte, en application de l'article L. 642-2 : 
-
-1° Un rapport de présentation des objectifs de l'aire, auquel est annexé le diagnostic défini à l'article D. 642-4.
-
-2° Le règlement et le document graphique prévus aux troisième à septième alinéas du même article. Le document graphique
-contient une présentation graphique des prescriptions énoncées par le règlement. Le règlement peut prévoir la possibilité
-d'adaptations mineures de ses prescriptions.
-
-**Liens relatifs à cet article**
-
-	**Créé par**:
-
-	  - Décret n°2011-1903 du 19 décembre 2011 - art. 1
-
-	**Abrogé par**:
-
-	  - Décret n°2017-456 du 29 mars 2017 - art. 5
-
-	**Cite**:
-
-	  - Code du patrimoine - art. D642-4
-	  - Code du patrimoine - art. L642-2
-	  - Code du patrimoine - art. L642-3
-
-
-###### Article D642-6
-
-Le rapport de présentation des objectifs de l'aire comporte une synthèse du diagnostic défini à l'article D. 642-4. 
-
-Il énonce, en les mettant en cohérence : 
-
-1° Les objectifs de protection et de mise en valeur du patrimoine, de qualité de l'architecture et de traitement des
-espaces ; 
-
-2° Les objectifs de développement durable attachés au territoire de l'aire. 
-
-En outre, il justifie la compatibilité de ces dispositions avec le projet d'aménagement et de développement durable du plan
-local d'urbanisme.
-
-**Liens relatifs à cet article**
-
-	**Créé par**:
-
-	  - Décret n°2011-1903 du 19 décembre 2011 - art. 1
-
-	**Abrogé par**:
-
-	  - Décret n°2017-456 du 29 mars 2017 - art. 5
-
-	**Cite**:
-
-	  - Code du patrimoine - art. D642-4 (Ab)
-
-
-###### Article D642-7
-
-Le silence gardé pendant deux mois par les personnes publiques consultées pour examen conjoint sur le projet de création ou
-de révision d'une aire en application du troisième alinéa de l'article L. 642-3 vaut avis favorable.
-
-**Liens relatifs à cet article**
-
-	**Créé par**:
-
-	  - Décret n°2011-1903 du 19 décembre 2011 - art. 1
-
-	**Abrogé par**:
-
-	  - Décret n°2017-456 du 29 mars 2017 - art. 5
-
-	**Cité par**:
-
-	  - Code du patrimoine - art. D642-8 (Ab)
-
-	**Cite**:
-
-	  - Code du patrimoine - art. L642-3
-
-
-###### Article D642-8
-
-A l'issue de la consultation mentionnée à l'article D. 642-7, l'enquête publique prévue aux articles L. 642-3 et L. 642-4 est
-réalisée conformément au chapitre III du titre II du livre Ier du code de l'environnement.
-
-**Liens relatifs à cet article**
-
-	**Créé par**:
-
-	  - Décret n°2011-1903 du 19 décembre 2011 - art. 1
-
-	**Abrogé par**:
-
-	  - Décret n°2017-456 du 29 mars 2017 - art. 5
-
-	**Cite**:
-
-	  - Code du patrimoine - art. D642-7 (Ab)
-	  - Code du patrimoine - art. L642-3
-
-	**Cité par**:
-
-	  - Code du patrimoine - art. D642-9 (Ab)
-
-
-###### Article D642-9
-
-Pour l'application du sixième alinéa de l'article L. 642-3, le projet de création ou de révision de l'aire est soumis à
-l'accord du préfet à l'issue de l'enquête publique mentionnée à l'article D. 642-8.
-
-**Liens relatifs à cet article**
-
-	**Créé par**:
-
-	  - Décret n°2011-1903 du 19 décembre 2011 - art. 1
-
-	**Abrogé par**:
-
-	  - Décret n°2017-456 du 29 mars 2017 - art. 5
-
-	**Cite**:
-
-	  - Code du patrimoine - art. D642-8 (Ab)
-	  - Code du patrimoine - art. L642-3
-
-
-###### Article D642-10
-
-Les délibérations prises par le ou les conseils municipaux de la ou des communes concernées ou par l'organe délibérant de
-l'établissement public de coopération intercommunale pour l'application du sixième alinéa de l'article L. 642-3, portant
-création ou révision de l'aire, mentionnent l'accord du préfet. 
-
-Les modalités de publicité de la délibération sont celles prévues à l'article D. 642-1. La publicité mentionne le ou les
-lieux où le dossier peut être consulté. 
-
-La délibération produit ses effets juridiques dès l'exécution de la dernière formalité de publicité, la date à prendre en
-compte pour l'affichage étant celle du premier jour où il est effectué.
-
-**Liens relatifs à cet article**
-
-	**Créé par**:
-
-	  - Décret n°2011-1903 du 19 décembre 2011 - art. 1
-
-	**Abrogé par**:
-
-	  - Décret n°2017-456 du 29 mars 2017 - art. 5
-
-	**Cite**:
-
-	  - Code du patrimoine - art. D642-1 (Ab)
-	  - Code du patrimoine - art. L642-3
-
-
-##### Section 3 : Régime des travaux dans une aire 
-
-
-
-###### Article D642-11
-
-L'autorisation prévue par le premier alinéa de l'article L. 642-6 pour les travaux compris dans le périmètre d'une aire de
-mise en valeur de l'architecture et du patrimoine non soumis à autorisation au titre du code de l'urbanisme est régie par la
-présente section. 
-
-Le permis de construire, le permis d'aménager, le permis de démolir ou la décision prise sur la déclaration préalable tient
-lieu de l'autorisation prévue au premier alinéa de l'article L. 642-6 dès lors que la décision a fait l'objet de l'accord,
-selon les cas prévus par cet article, de l'architecte des Bâtiments de France, du préfet de région ou du ministre chargé des
-monuments historiques et des espaces protégés.
-
-**Liens relatifs à cet article**
-
-	**Créé par**:
-
-	  - Décret n°2011-1903 du 19 décembre 2011 - art. 1
-
-	**Cité par**:
-
-	  - Arrêté du 12 avril 2012 - art. 1 (V)
-
-	**Abrogé par**:
-
-	  - Décret n°2017-456 du 29 mars 2017 - art. 5
-
-	**Cite**:
-
-	  - Code du patrimoine - art. L642-6
-
-
-###### Article D642-12
-
-La demande d'autorisation est adressée par pli recommandé avec demande d'avis de réception ou déposée à la mairie de la
-commune dans laquelle les travaux sont envisagés : 
-
-1° Par le ou les propriétaires du ou des terrains, leur mandataire ou par une ou plusieurs personnes attestant être
-autorisées par eux à exécuter les travaux ; 
-
-2° En cas d'indivision, par un ou plusieurs co-indivisaires ou leur mandataire ; 
-
-3° Par une personne ayant qualité pour bénéficier de l'expropriation pour cause d'utilité publique.
-
-**Liens relatifs à cet article**
-
-	**Créé par**:
-
-	  - Décret n°2011-1903 du 19 décembre 2011 - art. 1
-
-	**Abrogé par**:
-
-	  - Décret n°2017-456 du 29 mars 2017 - art. 5
-
-	**Cité par**:
-
-	  - Code du patrimoine - art. D642-13 (Ab)
-
-
-###### Article D642-13
-
-Un arrêté du ministre chargé des monuments historiques et des espaces protégés fixe le modèle national de la demande
-d'autorisation. 
-
-La demande d'autorisation précise : 
-
-1° L'identité du ou des demandeurs ; 
-
-2° La localisation et la superficie du ou des terrains ; 
-
-3° La nature des travaux envisagés. 
-
-La déclaration comporte également l'attestation du ou des déclarants qu'il remplit ou qu'ils remplissent les conditions
-définies à l'article D. 642-12.
-
-**Liens relatifs à cet article**
-
-	**Créé par**:
-
-	  - Décret n°2011-1903 du 19 décembre 2011 - art. 1
-
-	**Abrogé par**:
-
-	  - Décret n°2017-456 du 29 mars 2017 - art. 5
-
-	**Cite**:
-
-	  - Code du patrimoine - art. D642-12 (Ab)
-
-
-###### Article D642-14
-
-Le dossier joint à la demande d'autorisation comprend un plan permettant de connaître la situation du terrain à l'intérieur
-de la commune et une notice indiquant les matériaux utilisés et les modes d'exécution des travaux. 
-
-Il comprend, en outre : 
-
-1° Lorsque le projet a pour objet d'édifier ou de modifier une construction : 
-
-a) Un plan de masse coté dans les trois dimensions ainsi qu'une représentation de l'aspect extérieur de la construction
-faisant apparaître les modifications projetées ; 
-
-b) Lorsque les travaux projetés nécessitent la démolition de bâtiments soumis au régime du permis de démolir, la
-justification du dépôt de la demande de permis de démolir ; 
-
-2° Lorsque le projet a pour objet la réalisation ou la modification d'une infrastructure ou un aménagement des sols : 
-
-a) Un plan de masse faisant apparaître les cotes de niveau du terrain avant et après travaux, s'il y a lieu, les
-constructions, la végétation et les éléments paysagers existants ainsi que le traitement des constructions, clôtures,
-végétations ou aménagements situés en limite de terrain, lorsque les travaux portent sur l'aménagement ou la modification du
-terrain ; 
-
-b) Un plan de coupe longitudinale et des plans de coupe transversale précisant l'implantation de l'infrastructure par rapport
-au profil du terrain et indiquant, lorsque les travaux ont pour effet de modifier le profil du terrain, l'état initial et
-l'état futur ; 
-
-c) Une notice exposant les partis retenus pour assurer l'insertion du projet dans son environnement et la prise en compte des
-paysages accompagnée de deux documents photographiques permettant de situer le terrain respectivement dans l'environnement
-proche et, sauf si le demandeur justifie qu'aucune photographie de loin n'est possible, dans le paysage lointain. Les points
-et les angles des prises de vue sont reportés sur le plan de situation et le plan de masse ; 
-
-d) Un plan faisant apparaître le traitement des espaces libres, notamment les plantations à conserver ou à créer ainsi que
-l'organisation et l'aménagement des accès au terrain, aux constructions et aux aires de stationnement. 
-
-Lorsque les travaux projetés nécessitent une autorisation de défrichement en application des articles L. 311-1 ou L. 312-1 du
-code forestier, la demande d'autorisation est complétée par la copie de la lettre par laquelle le préfet fait connaître au
-demandeur que son dossier de demande d'autorisation de défrichement est complet.
-
-**Liens relatifs à cet article**
-
-	**Créé par**:
-
-	  - Décret n°2011-1903 du 19 décembre 2011 - art. 1
-
-	**Abrogé par**:
-
-	  - Décret n°2017-456 du 29 mars 2017 - art. 5
-
-	**Cite**:
-
-	  - Code forestier - art. L311-1
-
-
-###### Article D642-15
-
-La demande et le dossier qui l'accompagne sont établis en trois exemplaires ou, lorsque l'autorité compétente pour la
-délivrance de l'autorisation en vertu du premier alinéa de l'article L. 642-6 est le président d'un établissement public de
-coopération intercommunale, en quatre exemplaires. 
-
-Un exemplaire supplémentaire du dossier est fourni lorsque les travaux concernent un immeuble inscrit au titre des monuments
-historiques. Dans ce cas, la réception de la demande tient lieu de la déclaration mentionnée au premier alinéa de l'article
-L. 621-27. 
-
-Un exemplaire supplémentaire du dossier est fourni lorsque les travaux sont soumis à l'autorisation du ministre de la défense
-ou du ministre chargé des sites. 
-
-Deux exemplaires supplémentaires du dossier sont fournis lorsque le projet est situé dans le cœur d'un parc national délimité
-en application de l'article L. 331-2 du code de l'environnement.
-
-**Liens relatifs à cet article**
-
-	**Créé par**:
-
-	  - Décret n°2011-1903 du 19 décembre 2011 - art. 1
-
-	**Abrogé par**:
-
-	  - Décret n°2017-456 du 29 mars 2017 - art. 5
-
-	**Cite**:
-
-	  - Code de l'environnement - art. L331-2
-	  - Code du patrimoine - art. L621-27
-	  - Code du patrimoine - art. L642-6
-
-
-###### Article D642-16
-
-Le maire affecte un numéro d'enregistrement à la demande et en délivre récépissé dans les conditions prévues par arrêté du
-ministre chargé des monuments historiques et des espaces protégés. 
-
-Le récépissé précise le numéro d'enregistrement, ainsi que les conditions et délais dans lesquels la décision de l'autorité
-compétente est prise, selon que le dossier est complet ou non, par application de l'article D. 642-21.
-
-**Liens relatifs à cet article**
-
-	**Créé par**:
-
-	  - Décret n°2011-1903 du 19 décembre 2011 - art. 1
-
-	**Abrogé par**:
-
-	  - Décret n°2017-456 du 29 mars 2017 - art. 5
-
-	**Cite**:
-
-	  - Code du patrimoine - art. D642-21
-
-
-###### Article D642-17
-
-Lorsque la demande précise que le demandeur accepte de recevoir à une adresse électronique les réponses de l'autorité
-compétente, les modalités de notification peuvent lui être adressées par courrier électronique. 
-
-Dans ce cas, le demandeur est réputé avoir reçu ces notifications à la date à laquelle il les consulte à l'aide de la
-procédure électronique. Un accusé de réception électronique est adressé à l'autorité compétente au moment de la consultation
-du document. A défaut de consultation à l'issue d'un délai de huit jours après leur envoi, le demandeur est réputé avoir reçu
-ces notifications.
-
-**Liens relatifs à cet article**
-
-	**Créé par**:
-
-	  - Décret n°2011-1903 du 19 décembre 2011 - art. 1
-
-	**Abrogé par**:
-
-	  - Décret n°2017-456 du 29 mars 2017 - art. 5
-
-
-###### Article D642-18
-
-Dans les quinze jours qui suivent le dépôt de la demande et pendant la durée d'instruction de celle-ci, le maire procède à
-l'affichage en mairie d'un avis de dépôt de demande d'autorisation précisant les caractéristiques essentielles du projet,
-dans des conditions prévues par arrêté du ministre chargé des monuments historiques et des espaces protégés.
-
-**Liens relatifs à cet article**
-
-	**Créé par**:
-
-	  - Décret n°2011-1903 du 19 décembre 2011 - art. 1
-
-	**Cité par**:
-
-	  - Arrêté du 12 avril 2012 - art. 4 (V)
-
-	**Abrogé par**:
-
-	  - Décret n°2017-456 du 29 mars 2017 - art. 5
-
-
-###### Article D642-19
-
-Dans la semaine qui suit le dépôt de la demande, le maire transmet un exemplaire de la demande et du dossier qui l'accompagne
-à l'autorité compétente en vertu du premier alinéa de l'article L. 642-6 pour délivrer l'autorisation. 
-
-Dans le même délai le maire transmet, en outre, les autres exemplaires de la demande et du dossier dans les conditions
-suivantes : 
-
-1° Pour le compte de l'autorité compétente en vertu du premier alinéa de l'article L. 642-6 pour délivrer l'autorisation, le
-maire transmet un exemplaire à l'architecte des Bâtiments de France ; 
-
-2° Lorsqu'il est lui-même l'autorité compétente au nom de la commune, le maire transmet un exemplaire au préfet. Lorsque le
-projet concerne un immeuble inscrit au titre des monuments historiques, il transmet un exemplaire au directeur régional des
-affaires culturelles ; lorsque le projet concerne un immeuble adossé à un immeuble classé au titre des monuments historiques,
-il transmet un exemplaire au chef du service déconcentré de l'Etat chargé de l'architecture et du patrimoine ; 
-
-3° Lorsque l'autorité compétente est le président de l'établissement public de coopération intercommunale, le maire conserve
-un exemplaire. Lorsque le projet concerne un immeuble inscrit au titre des monuments historiques, il transmet un exemplaire
-au directeur régional des affaires culturelles ; lorsque le projet concerne un immeuble adossé à un immeuble classé au titre
-des monuments historiques, il transmet un exemplaire au chef du service déconcentré de l'Etat chargé de l'architecture et du
-patrimoine   ; 
-
-4° Lorsque l'autorité compétente relève de l'Etat, le maire conserve un exemplaire, et, dans le cas où la commune a délégué
-sa compétence à un établissement public de coopération intercommunale, il transmet un exemplaire au président de cet
-établissement. Il transmet au préfet les exemplaires restants ; 
-
-5° Dans les sites classés et les réserves naturelles, le maire transmet un exemplaire supplémentaire au préfet. Lorsque le
-projet est situé dans le cœur d'un parc national délimité en application de l'article L. 331-2 du code de l'environnement, le
-maire transmet deux exemplaires au directeur de l'établissement public du parc national.
-
-**Liens relatifs à cet article**
-
-	**Modifié par**:
-
-	  - Décret n°2014-1314 du 31 octobre 2014 - art. 24
-
-	**Abrogé par**:
-
-	  - Décret n°2017-456 du 29 mars 2017 - art. 5
-
-	**Cite**:
-
-	  - Code de l'environnement - art. L331-2
-	  - Code du patrimoine - art. L642-6
-
-
-###### Article D642-20
-
-I. ― Lorsque l'autorité compétente est le maire au nom de la commune ou le président de l'établissement public de coopération
-intercommunale, l'instruction est faite sous son autorité. 
-
-Cette instruction peut être confiée : 
-
-1° Aux services de la commune ; 
-
-2° Aux services d'une autre collectivité territoriale ou d'un groupement de collectivités. 
-
-II. ― Lorsque l'autorité compétente relève de l'Etat, l'instruction est effectuée par le service déconcentré de l'Etat chargé
-de l'architecture et du patrimoine.
-
-**Liens relatifs à cet article**
-
-	**Créé par**:
-
-	  - Décret n°2011-1903 du 19 décembre 2011 - art. 1
-
-	**Abrogé par**:
-
-	  - Décret n°2017-456 du 29 mars 2017 - art. 5
-
-
-###### Article D642-21
-
-Lorsque le dossier de la demande d'autorisation est complet, le silence gardé pendant plus de deux mois par l'autorité
-compétente en vertu du premier alinéa de l'article L. 642-6 vaut décision de rejet. 
-
-Lorsque le dossier est incomplet, l'autorité compétente avise le demandeur, dans un délai d'un mois à compter de
-l'enregistrement de la demande, des pièces manquant à son dossier. Le délai mentionné à l'alinéa précédent court à compter du
-dépôt de ces pièces. A défaut pour le demandeur de déposer ces pièces dans un délai de trois mois à compter de la réception
-de la notification de cet avis, la demande est réputée rejetée.
-
-**Liens relatifs à cet article**
-
-	**Créé par**:
-
-	  - Décret n°2011-1903 du 19 décembre 2011 - art. 1
-
-	**Cité par**:
-
-	  - Arrêté du 12 avril 2012 - art. 3 (V)
-	  - Arrêté du 12 avril 2012 - art. 4 (V)
-	  - Décret n°2015-1461 du 10 novembre 2015 - art. (V)
-	  - Code du patrimoine - art. D642-16 (Ab)
-	  - Code du patrimoine - art. R642-22 (Ab)
-
-	**Abrogé par**:
-
-	  - Décret n°2017-456 du 29 mars 2017 - art. 5
-
-	**Cite**:
-
-	  - Code du patrimoine - art. L642-6
-
-
-###### Article D642-23
-
-Lorsque l'autorité compétente relève de l'Etat, le maire adresse au chef du service de l'Etat chargé de l'architecture et du
-patrimoine son avis sur chaque demande. Cet avis est réputé favorable s'il n'est pas intervenu dans le délai d'un mois à
-compter du dépôt à la mairie de la demande. 
-
-Lorsque la commune a confié l'instruction des demandes d'autorisation de travaux à un établissement public de coopération
-intercommunale, le président de cet établissement adresse son avis au chef du service de l'Etat chargé de l'architecture et
-du patrimoine dans les mêmes conditions et délais. 
-
-Le chef du service de l'Etat chargé de l'architecture et du patrimoine adresse un projet de décision à l'autorité compétente.
-
-**Liens relatifs à cet article**
-
-	**Créé par**:
-
-	  - Décret n°2011-1903 du 19 décembre 2011 - art. 1
-
-	**Abrogé par**:
-
-	  - Décret n°2017-456 du 29 mars 2017 - art. 5
-
-
-###### Article D642-24
-
-Toute décision expresse prise par l'autorité compétente, ou, le cas échéant, le ministre, statuant sur la demande
-d'autorisation, comportant refus, prescription ou adaptation mineure en application du règlement de l'aire de mise en valeur
-de l'architecture et du patrimoine est motivée. 
-
-Lorsque la réalisation des travaux est différée dans l'attente de formalités prévues par une autre législation, la décision
-en fait expressément la réserve. 
-
-La décision accordant l'autorisation précise les conditions dans lesquelles elle devient exécutoire.
-
-**Liens relatifs à cet article**
-
-	**Créé par**:
-
-	  - Décret n°2011-1903 du 19 décembre 2011 - art. 1
-
-	**Abrogé par**:
-
-	  - Décret n°2017-456 du 29 mars 2017 - art. 5
-
-	**Cité par**:
-
-	  - Code du patrimoine - art. D642-25 (Ab)
-
-
-###### Article D642-25
-
-La décision mentionnée au premier alinéa de l'article D. 642-24 est notifiée au demandeur par lettre recommandée avec demande
-d'avis de réception postal, ou par transmission électronique. 
-
-Lorsque la décision est prise par le président de l'établissement public de coopération intercommunale, celui-ci en adresse
-copie au maire de la commune. 
-
-Lorsque l'autorité compétente est le maire ou le président de l'établissement public de coopération intercommunale, elle
-informe le demandeur de la date à laquelle la décision et le dossier ont été transmis au préfet ou à son délégué dans les
-conditions définies aux articles L. 2131-1 et L. 2131-2 du code général des collectivités territoriales.
-
-**Liens relatifs à cet article**
-
-	**Créé par**:
-
-	  - Décret n°2011-1903 du 19 décembre 2011 - art. 1
-
-	**Abrogé par**:
-
-	  - Décret n°2017-456 du 29 mars 2017 - art. 5
-
-	**Cite**:
-
-	  - Code général des collectivités territoriales - art. L2131-1
-	  - Code du patrimoine - art. D642-24 (Ab)
-
-
-###### Article D642-26
-
-Mention de l'autorisation doit être affichée sur le terrain, de manière visible de l'extérieur, par les soins de son
-bénéficiaire, dès la notification de l'arrêté ou dès la date à laquelle l'autorisation est acquise et pendant toute la durée
-du chantier. 
-
-En outre, dans les huit jours de la délivrance de l'autorisation, un extrait de cette autorisation est publié par voie
-d'affichage à la mairie pendant deux mois. L'exécution de cette formalité fait l'objet d'une mention au registre
-chronologique des actes de publication et de notification des arrêtés du maire prévu à l'article R. 2122-7 du code général
-des collectivités territoriales. 
-
-Le contenu et les formes de l'affichage de l'autorisation sont fixés par le ministre chargé des monuments historiques et des
-espaces protégés.
-
-**Liens relatifs à cet article**
-
-	**Créé par**:
-
-	  - Décret n°2011-1903 du 19 décembre 2011 - art. 1
-
-	**Cité par**:
-
-	  - Arrêté du 12 avril 2012 - art. 5 (V)
-
-	**Abrogé par**:
-
-	  - Décret n°2017-456 du 29 mars 2017 - art. 5
-
-	**Cite**:
-
-	  - Code général des collectivités territoriales - art. R2122-7
-
-
-###### Article D642-27
-
-L'autorisation est périmée si les travaux ne sont pas entrepris dans le délai de deux ans à compter de la notification de la
-décision ou de la date à laquelle la décision tacite est intervenue. Lorsque le commencement des travaux est subordonné à une
-autorisation ou à une procédure prévue par une autre législation, ce délai court à compter de la date à laquelle les travaux
-peuvent commencer en application de cette législation si cette date est postérieure à ladite notification. 
-
-L'autorisation est également périmée si, passé ce délai, les travaux sont interrompus pendant plus d'une année.
-
-**Liens relatifs à cet article**
-
-	**Créé par**:
-
-	  - Décret n°2011-1903 du 19 décembre 2011 - art. 1
-
-	**Abrogé par**:
-
-	  - Décret n°2017-456 du 29 mars 2017 - art. 5
-
-
-###### Article D642-28
-
-L'autorisation peut être prorogée pour une année, sur demande de son bénéficiaire si le règlement de l'aire de mise en valeur
-de l'architecture et du patrimoine n'a pas évolué de façon défavorable à son égard. 
-
-La demande de prorogation est établie en deux exemplaires et adressée par pli recommandé ou déposée à la mairie deux mois au
-moins avant l'expiration du délai de validité. 
-
-La prorogation est acquise au bénéficiaire de l'autorisation si aucune décision ne lui a été adressée dans le délai de deux
-mois suivant la date de l'avis de réception postal ou de la décharge de l'autorité compétente pour statuer sur la demande. La
-prorogation prend effet au terme de la validité de la décision initiale.
-
-**Liens relatifs à cet article**
-
-	**Créé par**:
-
-	  - Décret n°2011-1903 du 19 décembre 2011 - art. 1
-
-	**Abrogé par**:
-
-	  - Décret n°2017-456 du 29 mars 2017 - art. 5
-
-
-###### Article R642-22
-
-L'architecte des Bâtiments de France dispose d'un délai d'un mois à compter de sa saisine pour faire connaître son avis à
-l'autorité compétente. A défaut, il est réputé avoir émis un avis favorable. 
-
-S'il estime que le dossier est incomplet, il en avise, dans le délai de quinze jours à compter de sa saisine, l'autorité
-compétente, laquelle fait application du deuxième alinéa de l'article D. 642-21. 
-
-Pour l'application du troisième alinéa de l'article L. 642-6, l'autorité compétente dispose d'un délai de sept jours à
-compter de la réception de l'avis de l'architecte des Bâtiments de France pour soumettre à l'approbation du préfet de région,
-par lettre recommandée avec avis de réception, un projet de décision sur la demande d'autorisation. L'autorité compétente
-adresse copie de ce courrier à l'architecte des Bâtiments de France et au demandeur. Le silence gardé par le préfet de région
-pendant plus de quinze jours vaut approbation de ce projet de décision. 
-
-Lorsqu'il est fait application du septième alinéa de l'article L. 642-6, la décision d'évocation prise par le ministre est
-notifiée au demandeur ; le délai d'instruction de la demande d'autorisation est porté à six mois. En cas de décision de refus
-ou d'autorisation assortie de prescriptions, le ministre chargé de la culture transmet par lettre recommandée avec avis de
-réception une copie de sa décision au demandeur en l'informant que, dans le silence de l'autorité compétente, ce dernier ne
-peut se prévaloir d'une autorisation tacite.
-
-**Liens relatifs à cet article**
-
-	**Modifié par**:
-
-	  - Décret n°2014-1314 du 31 octobre 2014 - art. 25
-
-	**Abrogé par**:
-
-	  - Décret n°2017-456 du 29 mars 2017 - art. 5
-
-	**Cite**:
-
-	  - Code du patrimoine - art. D642-21 (Ab)
-	  - Code du patrimoine - art. L642-6
-
-
-##### Section 4 : Sanctions pénales 
-
-
-###### Article R642-29
-
-Le fait, pour toute personne, de réaliser des travaux dans une aire de mise en valeur de l'architecture et du patrimoine sans
-l'autorisation préalable prévue au premier alinéa de l'article L. 642-6 est puni de l'amende prévue pour les contraventions
-de la cinquième classe. 
-
-La récidive de la contravention prévue au présent article est réprimée conformément aux articles 132-11 et 132-15 du code
-pénal.
-
-**Liens relatifs à cet article**
-
-	**Créé par**:
-
-	  - Décret n°2011-1903 du 19 décembre 2011 - art. 1
-
-	**Abrogé par**:
-
-	  - Décret n°2017-456 du 29 mars 2017 - art. 5
-
-	**Cite**:
-
-	  - Code pénal - art. 132-11
-	  - Code du patrimoine - art. L642-6
-
-
-#### Chapitre III : Dispositions fiscales
-
-###### Article D643-1
-
-Les règles relatives aux opérations de restauration immobilière dans un secteur sauvegardé, une aire de mise en valeur de
-l'architecture et du patrimoine ou une zone de protection du patrimoine architectural, urbain et paysager sont fixées à
-l'article 41 DO de l'annexe III au code général des impôts.
-
-**Liens relatifs à cet article**
-
-	**Créé par**:
-
-	  - Décret n°2011-574 du 24 mai 2011  - art.
-
-	**Codifié par**:
-
-	  - Décret n°2011-574 du 24 mai 2011 Annexe - art.
-
-	**Abrogé par**:
-
-	  - Décret n°2017-456 du 29 mars 2017 - art. 5
-
-	**Cite**:
-
-	  - Code général des impôts, annexe 3, CGIAN3. - art. 41 DO
-
-	**Cité par**:
-
-	  - Code du patrimoine - art. D780-12 (M)
-	  - Code du patrimoine - art. D790-11 (M)
-	  - Code du patrimoine. - art. D720-12 (M)
-
-
 ### TITRE V : QUALITÉ ARCHITECTURALE 
 
 ###### Article R650-1
@@ -41564,6 +39272,1504 @@ bien est dégradé au point de perdre l'intérêt ayant justifié l'attribution 
 	  - Code du patrimoine - art. L650-1 (V)
 
 
+## LIVRE VI : MONUMENTS HISTORIQUES,  SITES PATRIMONIAUX REMARQUABLES ET QUALITÉ ARCHITECTURALE
+
+### TITRE Ier : DISPOSITIONS GÉNÉRALES
+
+#### Chapitre Ier : Institutions
+
+##### Section 1 : Commission nationale du patrimoine et de l'architecture
+
+###### Article R611-1
+
+La Commission nationale du patrimoine et de l'architecture comprend sept sections :
+
+1° Première section : sites patrimoniaux remarquables et abords ;
+
+2° Deuxième section : protection des immeubles au titre des monuments historiques, domaines nationaux et aliénation du
+patrimoine de l'Etat ;
+
+3° Troisième section : projets architecturaux et travaux sur les immeubles ;
+
+4° Quatrième section : protection des objets mobiliers au titre des monuments historiques et travaux ;
+
+5° Cinquième section : protection des instruments de musique au titre des monuments historiques et travaux ;
+
+6° Sixième section : protection des grottes ornées au titre des monuments historiques et travaux ;
+
+7° Septième section : parcs et jardins.
+
+Elle comprend également un comité des sections qui examine les questions autres que celles qui relèvent de la compétence des
+sections et est consulté pour avis dans les conditions prévues à l'article R. 611-12.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°2011-574 du 24 mai 2011 Annexe - art.
+
+	**Modifié par**:
+
+	  - Décret n°2017-456 du 29 mars 2017 - art. 3
+
+
+###### Article R611-2
+
+La Commission nationale du patrimoine et de l'architecture comprend des membres de droit et des membres nommés par arrêté du
+ministre chargé de la culture pour une durée de cinq ans.
+
+Pour chacun des membres nommés autres que les personnalités qualifiées, un suppléant est désigné dans les mêmes conditions ;
+il siège en cas d'absence ou d'empêchement du titulaire. Le suppléant d'un membre titulaire nommé à raison de son mandat
+électif local peut être choisi parmi les membres d'une assemblée autre que celle à laquelle appartient le membre titulaire.
+
+Les membres titulaires choisis à raison de leur mandat électif local, ainsi que leurs suppléants, sont nommés après
+consultation, selon le cas, du président de l'Association des maires de France, de l'Assemblée des communautés de France, de
+l'Assemblée des départements de France ou de l'Association des régions de France.
+
+Les membres peuvent appartenir à plusieurs sections. Ils ne peuvent siéger dans la même section à des titres différents.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°2011-574 du 24 mai 2011 Annexe - art.
+
+	**Modifié par**:
+
+	  - Décret n°2017-456 du 29 mars 2017 - art. 3
+
+	**Cité par**:
+
+	  - Code du patrimoine - art. R611-3 (V)
+
+
+###### Article R611-3
+
+Un député et un sénateur sont désignés membres de la Commission nationale du patrimoine et de l'architecture par leur
+assemblée respective.
+
+Le président de la commission est nommé parmi ces deux parlementaires par arrêté du ministre chargé de la culture.
+
+En cas d'empêchement du président, ses fonctions sont assurées par le directeur général des patrimoines ou son représentant.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°2011-574 du 24 mai 2011 Annexe - art.
+
+	**Modifié par**:
+
+	  - Décret n°2017-456 du 29 mars 2017 - art. 3
+
+	**Cite**:
+
+	  - Code du patrimoine - art. R611-2 (V)
+
+
+###### Article R611-4
+
+La section “ sites patrimoniaux remarquables et abords ” comprend les membres suivants :
+
+1° Dix représentants de l'Etat :
+
+a) Six membres de droit :
+
+– le directeur général des patrimoines ;
+
+– le directeur général de l'aménagement, du logement et de la nature ;
+
+– le directeur de l'habitat, de l'urbanisme et des paysages ;
+
+– le responsable du service de l'architecture ;
+
+– le chef de l'inspection des patrimoines ;
+
+– le sous-directeur des monuments historiques et des espaces protégés ;
+
+b) Quatre membres nommés :
+
+– un membre du Conseil d'Etat nommé sur proposition du vice-président du Conseil d'Etat ;
+
+– un membre de l'inspection des patrimoines ;
+
+– deux membres des services déconcentrés du ministère chargé de la culture, dont au moins un architecte des Bâtiments de
+France ;
+
+2° Cinq membres titulaires d'un mandat électif :
+
+– deux membres titulaires d'un mandat électif national, désignés dans les conditions prévues à l'article R. 611-3 ;
+
+– trois membres titulaires d'un mandat électif local, nommés dans les conditions prévues à l'article R. 611-2 ;
+
+3° Cinq représentants d'associations ou de fondations ayant pour objet de favoriser la connaissance, la protection, la
+conservation et la mise en valeur du patrimoine ;
+
+4° Six personnalités qualifiées, dont au moins deux architectes ayant des compétences en matière de patrimoine et d'urbanisme
+et au moins une personnalité ayant des compétences en matière d'habitat.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°2011-574 du 24 mai 2011 Annexe - art.
+
+	**Modifié par**:
+
+	  - Décret n°2017-456 du 29 mars 2017 - art. 3
+
+
+###### Article R611-5
+
+La section “ protection des immeubles au titre des monuments historiques, domaines nationaux et aliénation du patrimoine de
+l'Etat ” comprend les membres suivants :
+
+1° Dix représentants de l'Etat :
+
+a) Cinq membres de droit :
+
+La section “ protection des immeubles au titre des monuments historiques, domaines nationaux et aliénation du patrimoine de
+l'Etat ” comprend les membres suivants :
+
+1° Dix représentants de l'Etat :
+
+a) Cinq membres de droit :
+
+– le directeur général des patrimoines ;
+
+– le directeur général des finances publiques ;
+
+– le chef de l'inspection des patrimoines ;
+
+– le sous-directeur des monuments historiques et des espaces protégés ;
+
+– le chef de la mission de l'inventaire général du patrimoine culturel ;
+
+b) Cinq membres nommés :
+
+– un membre du Conseil d'Etat nommé sur proposition du vice-président du Conseil d'Etat ;
+
+– deux membres de l'inspection des patrimoines ;
+
+– deux membres des services déconcentrés du ministère chargé de la culture dont au moins un conservateur régional des
+monuments historiques ;
+
+2° Cinq membres titulaires d'un mandat électif :
+
+– deux membres titulaires d'un mandat électif national, désignés dans les conditions prévues à l'article R. 611-3 ;
+
+– trois membres titulaires d'un mandat électif local, nommés dans les conditions prévues à l'article R. 611-2 ;
+
+3° Cinq représentants d'associations ou de fondations ayant pour objet de favoriser la connaissance, la protection, la
+conservation et la mise en valeur du patrimoine ;
+
+4° Six personnalités qualifiées.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°2011-574 du 24 mai 2011 Annexe - art.
+
+	**Modifié par**:
+
+	  - Décret n°2017-456 du 29 mars 2017 - art. 3
+
+
+###### Article R611-6
+
+La section “ projets architecturaux et travaux sur les immeubles ” comprend les membres suivants :
+
+1° Dix représentants de l'Etat :
+
+a) Cinq membres de droit :
+
+– le directeur général des patrimoines ;
+
+– le responsable du service de l'architecture ;
+
+– le chef de l'inspection des patrimoines ;
+
+– le sous-directeur des monuments historiques et des espaces protégés ;
+
+– le sous-directeur de l'archéologie ;
+
+b) Cinq membres nommés :
+
+– trois membres de l'inspection des patrimoines ;
+
+– deux membres des services déconcentrés du ministère chargé de la culture dont un architecte des Bâtiments de France et un
+conservateur régional des monuments historiques ;
+
+2° Cinq membres titulaires d'un mandat électif :
+
+– deux membres titulaires d'un mandat électif national, désignés dans les conditions prévues à l'article R. 611-3 ;
+
+– trois membres titulaires d'un mandat électif local, nommés dans les conditions prévues à l'article R. 611-2 ;
+
+3° Cinq représentants d'associations ou de fondations ayant pour objet de favoriser la connaissance, la protection, la
+conservation et la mise en valeur du patrimoine ;
+
+4° Six personnalités qualifiées, dont au moins deux architectes en chef des monuments historiques et un autre architecte.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°2011-574 du 24 mai 2011 Annexe - art.
+
+	**Modifié par**:
+
+	  - Décret n°2017-456 du 29 mars 2017 - art. 3
+
+
+###### Article R611-7
+
+La section “ protection des objets mobiliers au titre des monuments historiques et travaux ” comprend les membres suivants :
+
+1° Dix représentants de l'Etat :
+
+a) Cinq membres de droit :
+
+– le directeur général des patrimoines ;
+
+– le responsable du service des musées de France ;
+
+– le chef de l'inspection des patrimoines ;
+
+– le sous-directeur des monuments historiques et des espaces protégés ;
+
+– le chef de la mission de l'inventaire général du patrimoine culturel ;
+
+b) Cinq membres nommés :
+
+– trois membres de l'inspection des patrimoines ;
+
+– deux membres des services déconcentrés du ministère chargé de la culture dont au moins un conservateur du patrimoine de la
+spécialité monuments historiques ;
+
+2° Trois membres titulaires d'un mandat électif :
+
+– deux membres titulaires d'un mandat électif national, désignés dans les conditions prévues à l'article R. 611-3 ;
+
+– un membre titulaire d'un mandat électif local, nommé dans les conditions prévues à l'article R. 611-2 ;
+
+3° Trois représentants d'associations ou de fondations ayant pour objet de favoriser la connaissance, la protection, la
+conservation et la mise en valeur du patrimoine ;
+
+4° Dix personnalités qualifiées dont au moins un conservateur des antiquités et objets d'art.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°2011-574 du 24 mai 2011 Annexe - art.
+
+	**Modifié par**:
+
+	  - Décret n°2017-456 du 29 mars 2017 - art. 3
+
+
+###### Article R611-8
+
+La section " protection des instruments de musique au titre des monuments historiques et travaux " comprend les membres
+suivants :
+
+1° Dix représentants de l'Etat :
+
+a) Cinq membres de droit :
+
+– le directeur général des patrimoines ;
+
+– le directeur général de la création artistique ;
+
+– le chef de l'inspection des patrimoines ;
+
+– le sous-directeur des monuments historiques et des espaces protégés ;
+
+– le chef de la mission de l'inventaire général du patrimoine culturel ;
+
+b) Cinq membres nommés :
+
+– deux membres de l'inspection des patrimoines ;
+
+– un membre de l'inspection de la création artistique ;
+
+– deux membres des services déconcentrés du ministère chargé de la culture dont au moins un conservateur du patrimoine de la
+spécialité monuments historiques ;
+
+2° Trois membres titulaires d'un mandat électif :
+
+– deux membres titulaires d'un mandat électif national, désignés dans les conditions prévues à l'article R. 611-3 ;
+
+– un membre titulaire d'un mandat électif local, nommé dans les conditions prévues à l'article R. 611-2 ;
+
+3° Trois représentants d'associations ou de fondations ayant pour objet de favoriser la connaissance, la protection, la
+conservation et la mise en valeur du patrimoine ;
+
+4° Dix personnalités qualifiées dont au moins un conservateur des antiquités et objets d'art.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°2011-574 du 24 mai 2011 Annexe - art.
+
+	**Modifié par**:
+
+	  - Décret n°2017-456 du 29 mars 2017 - art. 3
+
+
+###### Article R611-9
+
+La section “ protection des grottes ornées au titre des monuments historiques et travaux ” comprend les membres suivants :
+
+1° Dix représentants de l'Etat :
+
+a) Cinq membres de droit :
+
+– le directeur général des patrimoines ;
+
+– le chef de l'inspection des patrimoines ;
+
+– le sous-directeur de l'archéologie ;
+
+– le sous-directeur des monuments historiques et des espaces protégés ;
+
+– le responsable du Laboratoire de recherche des monuments historiques ;
+
+b) Cinq membres nommés :
+
+– trois membres de l'inspection des patrimoines ;
+
+– deux membres des services déconcentrés du ministère chargé de la culture dont au moins un conservateur du patrimoine de la
+spécialité archéologie ;
+
+2° Trois membres titulaires d'un mandat électif :
+
+– deux membres titulaires d'un mandat électif national, désignés dans les conditions prévues à l'article R. 611-3 ;
+
+– un membre titulaire d'un mandat électif local, nommé dans les conditions prévues à l'article R. 611-2 ;
+
+3° Trois représentants d'associations ou de fondations ayant pour objet de favoriser la connaissance, la protection, la
+conservation et la mise en valeur du patrimoine ;
+
+4° Dix personnalités qualifiées.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°2011-574 du 24 mai 2011 Annexe - art.
+
+	**Modifié par**:
+
+	  - Décret n°2017-456 du 29 mars 2017 - art. 3
+
+
+###### Article R611-10
+
+La section “ parcs et jardins ” comprend les membres suivants :
+
+1° Dix représentants de l'Etat :
+
+a) Six membres de droit :
+
+– le directeur général des patrimoines ;
+
+– le directeur général de la création artistique ;
+
+– le directeur général de la performance économique et environnementale des entreprises ;
+
+– le directeur général de l'aménagement, du logement et de la nature ;
+
+– le chef de l'inspection des patrimoines ;
+
+– le sous-directeur des monuments historiques et des espaces protégés ;
+
+b) Quatre membres nommés :
+
+– deux membres des services déconcentrés du ministère chargé de la culture dont un architecte des Bâtiments de France et un
+conservateur du patrimoine de la spécialité monuments historiques ;
+
+– un membre de l'inspection des patrimoines ;
+
+– un jardinier en chef ;
+
+2° Cinq membres titulaires d'un mandat électif :
+
+– deux membres titulaires d'un mandat électif national, désignés dans les conditions prévues à l'article R. 611-3 ;
+
+– trois membres titulaires d'un mandat électif local, nommés dans les conditions prévues à l'article R. 611-2 ;
+
+3° Cinq représentants d'associations ou de fondations ayant pour objet de favoriser la connaissance, la protection, la
+conservation et la mise en valeur du patrimoine ;
+
+4° Six personnalités qualifiées dont au moins un architecte en chef des monuments historiques.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°2011-574 du 24 mai 2011 Annexe - art.
+
+	**Modifié par**:
+
+	  - Décret n°2017-456 du 29 mars 2017 - art. 3
+
+
+###### Article R611-11
+
+Le comité des sections comprend les membres suivants :
+
+1° Six membres de droit :
+
+– le président de la commission ;
+
+– le directeur général des patrimoines ;
+
+– le responsable du service de l'architecture ;
+
+– le chef de l'inspection des patrimoines ;
+
+– le sous-directeur des monuments historiques et des espaces protégés ;
+
+– le sous-directeur de l'archéologie ;
+
+2° Un membre du Conseil d'Etat nommé sur proposition du vice-président du Conseil d'Etat ;
+
+3° Deux représentants de chaque section, autres que ceux mentionnés aux 1° et 2°, nommés par arrêté du ministre chargé de la
+culture dont au moins cinq représentants d'associations ou de fondations ayant pour objet de favoriser la connaissance, la
+protection, la conservation et la mise en valeur du patrimoine.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°2011-574 du 24 mai 2011 Annexe - art.
+
+	**Modifié par**:
+
+	  - Décret n°2017-456 du 29 mars 2017 - art. 3
+
+
+###### Article R611-12
+
+Après avis du comité des sections, le règlement intérieur de la commission est fixé, sur proposition de son président, par
+arrêté du ministre chargé de la culture.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°2011-574 du 24 mai 2011 Annexe - art.
+
+	**Modifié par**:
+
+	  - Décret n°2017-456 du 29 mars 2017 - art. 3
+
+
+###### Article R611-13
+
+Les sections et le comité des sections se réunissent sur convocation du président.
+
+Le président convoque également une section ou le comité des sections à la demande du ministre chargé de la culture ou de la
+majorité des membres de la section ou du comité des sections.
+
+Plusieurs sections peuvent être réunies conjointement sur convocation du président.
+
+L'ordre du jour est fixé conjointement par le président et le directeur général des patrimoines ou son représentant.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°2011-574 du 24 mai 2011 Annexe - art.
+
+	**Modifié par**:
+
+	  - Décret n°2017-456 du 29 mars 2017 - art. 3
+
+
+###### Article R611-14
+
+Le directeur régional des affaires culturelles ou son représentant est entendu par la Commission nationale du patrimoine et
+de l'architecture lorsqu'elle procède à l'examen d'affaires relevant de son ressort territorial.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°2011-574 du 24 mai 2011 Annexe - art.
+
+	**Modifié par**:
+
+	  - Décret n°2017-456 du 29 mars 2017 - art. 3
+
+
+###### Article R611-15
+
+Le scrutin secret est de droit pour l'émission des avis lorsqu'il est demandé par le tiers au moins des membres présents.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°2011-574 du 24 mai 2011 Annexe - art.
+
+	**Modifié par**:
+
+	  - Décret n°2017-456 du 29 mars 2017 - art. 3
+
+
+###### Article R611-16
+
+Le secrétariat de la Commission nationale du patrimoine et de l'architecture est assuré par la direction générale des
+patrimoines. Les procès-verbaux des séances sont signés par le président de séance.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°2011-574 du 24 mai 2011 Annexe - art.
+
+	**Modifié par**:
+
+	  - Décret n°2017-456 du 29 mars 2017 - art. 3
+
+
+##### Section 2 : Commission régionale du patrimoine et de l'architecture
+
+###### Article R611-17
+
+La commission régionale du patrimoine et de l'architecture comprend trois sections :
+
+1° Première section : protection et valorisation de l'architecture et du patrimoine immobilier ;
+
+2° Deuxième section : projets architecturaux et travaux sur immeubles ;
+
+3° Troisième section : protection des objets mobiliers et travaux.
+
+La première section est compétente en matière de protection des immeubles au titre des monuments historiques, de plan de
+valorisation de l'architecture et du patrimoine, d'attribution de labels, de périmètre délimité des abords et de documents
+d'urbanisme.
+
+La deuxième section est compétente en matière de projets architecturaux, d'études et de travaux sur immeubles, en cas de
+désaccord entre l'autorité compétente en matière d'autorisations d'urbanisme et l'architecte des Bâtiments de France et en
+cas de dérogation au document d'urbanisme pour les projets dont la réalisation présente un intérêt public du point de vue de
+la qualité ainsi que de l'innovation ou de la création architecturales.
+
+La troisième section est compétente en matière de protection des objets mobiliers au titre des monuments historiques, de
+conservation préventive, d'études et de travaux s'y rapportant.
+
+La commission régionale du patrimoine et de l'architecture comprend également un comité des sections qui examine les
+questions autres que celles qui relèvent de la compétence des sections.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2017-456 du 29 mars 2017 - art. 3
+
+	**Cité par**:
+
+	  - Code du patrimoine - art. R720-9 (V)
+
+
+###### Article R611-18
+
+La commission régionale du patrimoine et de l'architecture comprend des membres de droit et des membres nommés par arrêté du
+préfet de région pour une durée de cinq ans.
+
+Pour chacun des membres nommés autres que les personnalités qualifiées, un suppléant est désigné dans les mêmes conditions ;
+il siège en cas d'absence ou d'empêchement du titulaire. Le suppléant d'un membre titulaire nommé à raison de son mandat
+électif national ou local peut, s'il s'agit d'un mandat électif local, être choisi parmi les membres d'une assemblée locale
+autre que celle à laquelle appartient le membre titulaire.
+
+Les membres titulaires choisis à raison de leur mandat électif national ou local, ainsi que leurs suppléants, sont, s'il
+s'agit d'un mandat électif local, nommés après consultation, selon le cas, du président de l'Association des maires de
+France, de l'Assemblée des communautés de France, de l'Assemblée des départements de France et de l'Association des régions
+de France.
+
+Les membres peuvent appartenir à plusieurs sections. Ils ne peuvent siéger dans la même section à des titres différents.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2017-456 du 29 mars 2017 - art. 3
+
+
+###### Article R611-19
+
+Le président de la commission régionale du patrimoine et de l'architecture est choisi par le préfet de région parmi les
+membres titulaires d'un mandat électif national ou local.
+
+En cas d'empêchement du président, ses fonctions sont assurées par le préfet de région ou son représentant.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2017-456 du 29 mars 2017 - art. 3
+
+
+###### Article R611-20
+
+La section “ protection et valorisation de l'architecture et du patrimoine immobilier ” comprend les membres suivants :
+
+1° Neuf représentants de l'Etat :
+
+a) Six membres de droit :
+
+– le préfet de région ;
+
+– le directeur régional des affaires culturelles ;
+
+– le directeur régional de l'environnement, de l'aménagement et du logement ;
+
+– le chef de l'inspection des patrimoines ;
+
+– le conservateur régional des monuments historiques ;
+
+– le conservateur régional de l'archéologie ;
+
+b) Trois membres nommés :
+
+– un architecte des Bâtiments de France ;
+
+– un conservateur du patrimoine de la spécialité monuments historiques ;
+
+– un responsable d'un service déconcentré chargé de l'architecture ;
+
+2° Six membres titulaires d'un mandat électif national ou local, dont le président de la commission ;
+
+3° Six représentants d'associations ou de fondations ayant pour objet de favoriser la connaissance, la protection, la
+conservation et la mise en valeur du patrimoine ;
+
+4° Six personnalités qualifiées, dont au moins deux architectes et un membre du service régional chargé des opérations
+d'inventaire du patrimoine culturel.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2017-456 du 29 mars 2017 - art. 3
+
+
+###### Article R611-21
+
+La section " projets architecturaux et travaux sur immeubles " comprend les membres suivants :
+
+1° Neuf représentants de l'Etat :
+
+a) Six membres de droit :
+
+– le préfet de région ;
+
+– le directeur régional des affaires culturelles ;
+
+– le directeur régional de l'environnement, de l'aménagement et du logement ;
+
+– le chef de l'inspection des patrimoines ;
+
+– le conservateur régional des monuments historiques ;
+
+– le conservateur régional de l'archéologie ;
+
+b) Trois membres nommés :
+
+– un architecte des Bâtiments de France ;
+
+– un responsable d'un service déconcentré chargé de l'architecture ;
+
+– un conservateur du patrimoine de la spécialité monuments historiques ;
+
+2° Six membres titulaires d'un mandat électif national ou local, dont le président de la commission ;
+
+3° Six représentants d'associations ou de fondations ayant pour objet de favoriser la connaissance, la protection, la
+conservation et la mise en valeur du patrimoine ;
+
+4° Six personnalités qualifiées, dont au moins trois architectes.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2017-456 du 29 mars 2017 - art. 3
+
+
+###### Article R611-22
+
+La section “ protection des objets mobiliers et travaux ” comprend les membres suivants :
+
+1° Neuf représentants de l'Etat :
+
+a) Cinq membres de droit :
+
+– le préfet de région ;
+
+– le directeur régional des affaires culturelles ;
+
+– le chef de l'inspection des patrimoines ;
+
+– le conservateur régional des monuments historiques ;
+
+– le conservateur régional de l'archéologie ;
+
+b) Quatre membres nommés :
+
+– deux conservateurs du patrimoine dont au moins un de la spécialité monuments historiques ;
+
+– un architecte des Bâtiments de France ;
+
+– un membre des services de la police ou de la gendarmerie nationales ;
+
+2° Six membres titulaires d'un mandat électif national ou local, dont le président de la commission ;
+
+3° Six représentants d'associations ou de fondations ayant pour objet de favoriser la connaissance, la protection, la
+conservation et la mise en valeur du patrimoine ;
+
+4° Six personnalités qualifiées dont au moins deux conservateurs des antiquités et objets d'art et un membre du service
+régional chargé des opérations d'inventaire du patrimoine culturel.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2017-456 du 29 mars 2017 - art. 3
+
+
+###### Article R611-23
+
+Au sein de chaque section de la commission régionale du patrimoine et de l'architecture, une délégation permanente peut
+examiner les demandes ou propositions relevant des attributions de la section. Elle peut émettre un avis défavorable au nom
+de la commission ou se prononcer pour le renvoi de ces demandes ou propositions devant la section réunie en formation
+plénière.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2017-456 du 29 mars 2017 - art. 3
+
+	**Cité par**:
+
+	  - Code du patrimoine - art. R710-7 (V)
+	  - Code du patrimoine - art. R730-7 (V)
+	  - Code du patrimoine - art. R780-11-1 (V)
+	  - Code du patrimoine - art. R790-10-1 (V)
+
+
+###### Article R611-24
+
+La délégation permanente de chacune des sections comprend les membres suivants :
+
+1° Quatre représentants de l'Etat :
+
+a) Deux membres de droit ;
+
+– le directeur régional des affaires culturelles ;
+
+– le conservateur régional des monuments historiques ;
+
+b) Deux membres désignés par le préfet de région au sein des membres nommés de la section concernée ;
+
+2° Deux membres titulaires d'un mandat électif national ou local :
+
+– le président de la commission ;
+
+– un membre désigné par le préfet de région parmi les autres titulaires d'un mandat électif national ou local membres de la
+section concernée ;
+
+3° Deux représentants d'associations ou de fondations ayant pour objet de favoriser la connaissance, la protection, la
+conservation et la mise en valeur du patrimoine, désignés par le préfet de région parmi les représentants d'associations ou
+de fondations de la section concernée ;
+
+4° Deux personnalités qualifiées désignées par le préfet de région parmi les personnalités qualifiées de la section
+concernée.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2017-456 du 29 mars 2017 - art. 3
+
+
+###### Article R611-25
+
+Le comité des sections comprend les membres suivants :
+
+1° Quatre membres de droit :
+
+– le président de la commission ;
+
+– le préfet de région ;
+
+– le directeur régional des affaires culturelles ;
+
+– le conservateur régional des monuments historiques ;
+
+2° Deux membres de chaque section, autres que les membres de droit, désignés par le préfet de région dont au moins deux
+représentants d'associations ou de fondations ayant pour objet de favoriser la connaissance, la protection, la conservation
+et la mise en valeur du patrimoine.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2017-456 du 29 mars 2017 - art. 3
+
+
+###### Article R611-26
+
+Après avis du comité des sections, le règlement intérieur de la commission est fixé, sur proposition de son président, par
+arrêté du préfet de région
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2017-456 du 29 mars 2017 - art. 3
+
+
+###### Article R611-27
+
+Les sections et leur délégation permanente se réunissent sur convocation du président.
+
+Le président convoque également une section ou le comité des sections à la demande du préfet de région ou de la majorité des
+membres de la section ou du comité des sections.
+
+Plusieurs sections peuvent être réunies conjointement sur convocation du président.
+
+L'ordre du jour est fixé conjointement par le président et le préfet de région ou son représentant.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2017-456 du 29 mars 2017 - art. 3
+
+
+###### Article R611-28
+
+La commune ou l'établissement public de coopération intercommunale compétent en matière de plan local d'urbanisme, de
+document d'urbanisme en tenant lieu et de carte communale, ainsi que l'autorité compétente en matière d'autorisations
+d'urbanisme sont informées de l'ordre du jour qui les concerne et sont entendues par la commission si elles en font la
+demande.
+
+L'architecte des Bâtiments de France et le conservateur des antiquités et objets d'art sont entendus par la commission
+lorsqu'elle procède à l'examen d'affaires relevant de leur compétence.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2017-456 du 29 mars 2017 - art. 3
+
+	**Cité par**:
+
+	  - Code du patrimoine - art. R720-13 (V)
+	  - Code du patrimoine - art. R780-17 (V)
+	  - Code du patrimoine - art. R790-16 (V)
+
+
+###### Article R611-29
+
+Le scrutin secret est de droit pour l'émission des avis lorsqu'il est demandé par le tiers au moins des membres présents.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2017-456 du 29 mars 2017 - art. 3
+
+
+###### Article R611-30
+
+Le secrétariat de la commission est assuré par la direction régionale des affaires culturelles. Les procès-verbaux des
+séances sont signés par le président de séance.
+
+Le préfet de région établit chaque année un rapport sur les activités de la commission, qui est transmis au ministre chargé
+de la culture.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2017-456 du 29 mars 2017 - art. 3
+
+
+##### Section 3 : Conseil des sites de Corse
+
+###### Article D611-31
+
+Les règles relatives à la composition et au fonctionnement du Conseil des sites de Corse sont fixées aux articles R. 4421-1 à
+R. 4421-15 du code général des collectivités territoriales.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2017-456 du 29 mars 2017 - art. 3
+
+	**Cite**:
+
+	  - Code général des collectivités territoriales - art. R4421-1
+
+
+#### Chapitre II : Dispositions relatives aux biens inscrits au patrimoine mondial
+
+###### Article R612-1
+
+Pour assurer la préservation de la valeur universelle exceptionnelle des biens reconnus en tant que biens du patrimoine
+mondial, l'Etat et les collectivités territoriales ou leurs groupements protègent ces biens et, le cas échéant, tout ou
+partie de leur zone tampon par l'application des dispositions du présent livre, du livre III du code de l'environnement ou du
+livre Ier du code de l'urbanisme.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°2011-574 du 24 mai 2011 Annexe - art.
+
+	**Modifié par**:
+
+	  - Décret n°2017-456 du 29 mars 2017 - art. 3
+
+	**Cite**:
+
+	  - Code du patrimoine - art. L621-30
+
+	**Cité par**:
+
+	  - Code du patrimoine - art. R710-5 (Ab)
+	  - Code du patrimoine - art. R720-11 (Ab)
+	  - Code du patrimoine - art. R720-13 (V)
+	  - Code du patrimoine - art. R730-5 (Ab)
+	  - Code du patrimoine - art. R780-13 (Ab)
+	  - Code du patrimoine - art. R780-17 (V)
+	  - Code du patrimoine - art. R790-12 (Ab)
+	  - Code du patrimoine - art. R790-16 (V)
+	  - Code du patrimoine. - art. R720-9 (M)
+
+
+###### Article R612-2
+
+Le périmètre de la zone tampon et le plan de gestion prévus à l'article L. 612-1 sont arrêtés par le préfet de région. La
+Commission nationale du patrimoine et de l'architecture et la commission régionale du patrimoine et de l'architecture peuvent
+être consultées sur le périmètre de la zone tampon et le plan de gestion. 
+
+Lorsque le périmètre du bien ou de sa zone tampon ou lorsque le plan de gestion concerne plusieurs régions, le préfet de
+région compétent est désigné par le Premier ministre.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°2011-574 du 24 mai 2011 Annexe - art.
+
+	**Modifié par**:
+
+	  - Décret n°2017-456 du 29 mars 2017 - art. 3
+
+	**Cite**:
+
+	  - Code du patrimoine - art. L612-1
+
+	**Cité par**:
+
+	  - Code du patrimoine - art. R780-15 (Ab)
+	  - Code du patrimoine - art. R790-14 (Ab)
+	  - Code du patrimoine. - art. R710-7 (M)
+	  - Code du patrimoine. - art. R730-7 (M)
+
+
+#### Chapitre III : Dispositions diverses 
+
+###### Article D613-1
+
+Les règles relatives aux sites inscrits et classés sont fixées au chapitre Ier du titre IV du livre III intitulé “ Espaces
+naturels ” de la partie réglementaire du code de l'environnement.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2017-456 du 29 mars 2017 - art. 3
+
+
+###### Article R613-2
+
+En application du premier alinéa de l'article L. 611-1, en cas de projet d'aliénation d'un bien appartenant à l'Etat situé à
+l'étranger et présentant une valeur historique ou culturelle particulière, le ministre chargé du domaine saisit le président
+de la Commission nationale du patrimoine et de l'architecture. La Commission nationale dispose d'un délai de six mois pour se
+prononcer. Son avis est communiqué au ministre chargé du domaine en vue de sa transmission à la commission interministérielle
+mentionnée aux articles D. 1221-3 et D. 3221-12 du code général de la propriété des personnes publiques.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2017-456 du 29 mars 2017 - art. 3
+
+	**Cite**:
+
+	  - Code général de la propriété des personnes publ... - art. D3221-12 (V)
+	  - Code général de la propriété des personnes publiques. - art. D1221-3
+	  - Code du patrimoine - art. L611-1
+
+
+### TITRE II : MONUMENTS HISTORIQUES
+
+### TITRE III : SITES PATRIMONIAUX REMARQUABLES
+
+#### Chapitre Ier : Classement au titre des sites patrimoniaux remarquables
+
+##### Section 1 : Procédure de classement et de modifications 
+
+###### Article D631-5
+
+La commission locale prévue au II de l'article L. 631-3 est présidée par le maire de la commune ou le président de
+l'établissement public de coopération intercommunale compétent en matière de plan local d'urbanisme, de document d'urbanisme
+en tenant lieu et de carte communale. La présidence de la commission peut être déléguée au maire de la commune concernée
+lorsque celle-ci n'est pas l'autorité compétente. En cas d'absence ou d'empêchement, le président peut donner mandat à un
+autre membre de l'instance titulaire d'un mandat électif. 
+
+Lorsqu'une commune ou un établissement public de coopération intercommunale comporte plusieurs sites patrimoniaux
+remarquables, une commission locale unique peut être instituée pour l'ensemble de ces sites en accord avec le maire ou le
+président de l'établissement public de coopération intercommunale compétent. 
+
+La commission locale comprend : 
+
+1° Des membres de droit : 
+
+– le président de la commission ; 
+
+– le ou les maires des communes concernées par un site patrimonial remarquable ; 
+
+– le préfet ; 
+
+– le directeur régional des affaires culturelles ; 
+
+– l'architecte des Bâtiments de France ; 
+
+2° Un maximum de quinze membres nommés dont : 
+
+– un tiers de représentants désignés par le conseil municipal en son sein ou, le cas échéant, désignés en son sein par
+l'organe délibérant de l'établissement public de coopération intercommunale compétent ; 
+
+– un tiers de représentants d'associations ayant pour objet la protection, la promotion ou la mise en valeur du patrimoine ; 
+
+– un tiers de personnalités qualifiées. 
+
+Les représentants d'associations et les personnalités qualifiées sont désignés par l'autorité compétente en matière de plan
+local d'urbanisme, de document d'urbanisme en tenant lieu et de carte communale après avis du préfet. 
+
+Pour chacun des membres nommés, un suppléant est désigné dans les mêmes conditions ; il siège en cas d'absence ou
+d'empêchement du titulaire. 
+
+La commission locale approuve un règlement qui fixe ses conditions de fonctionnement.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2017-456 du 29 mars 2017 - art. 5
+
+	**Cité par**:
+
+	  - Code du patrimoine - art. D720-13-1 (V)
+	  - Code du patrimoine - art. D780-17-1 (V)
+	  - Code du patrimoine - art. D790-16-1 (V)
+
+	**Cite**:
+
+	  - Code du patrimoine - art. L631-3
+
+
+###### Article R631-1
+
+Lorsque le ministre chargé de la culture sollicite l'accord de la commune ou de l'établissement public de coopération
+intercommunale compétent en matière de plan local d'urbanisme, de document d'urbanisme en tenant lieu et de carte communale,
+sur un projet de classement au titre des sites patrimoniaux remarquables en application du premier alinéa de l'article L.
+631-2, cet accord est réputé donné à défaut de réponse dans les trois mois de la saisine.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2017-456 du 29 mars 2017 - art. 5
+
+	**Cite**:
+
+	  - Code du patrimoine - art. L631-2
+
+	**Cité par**:
+
+	  - Code du patrimoine - art. R720-13 (V)
+	  - Code du patrimoine - art. R780-17 (V)
+	  - Code du patrimoine - art. R790-16 (V)
+
+
+###### Article R631-2
+
+Le préfet organise une enquête publique dans les conditions fixées par le chapitre III du titre II du livre Ier du code de
+l'environnement. 
+
+Lorsque le projet de site patrimonial remarquable concerne plusieurs départements, l'enquête peut être ouverte et organisée
+par une décision conjointe des préfets concernés pour ouvrir et organiser l'enquête. Dans ce cas, le préfet chargé de
+coordonner l'organisation de l'enquête et d'en centraliser les résultats est désigné conformément aux dispositions de
+l'article 69 du décret n° 2004-374 du 29 avril 2004 relatif aux pouvoirs des préfets, à l'organisation et à l'action des
+services de l'Etat dans les régions et départements.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Décret n°2004-374 du 29 avril 2004 - art. 69
+
+	**Créé par**:
+
+	  - Décret n°2017-456 du 29 mars 2017 - art. 5
+
+	**Cité par**:
+
+	  - Code du patrimoine - art. R780-18-1 (V)
+
+
+###### Article R631-3
+
+Lorsque le projet est modifié à l'issue de l'enquête publique, le ministre chargé de la culture recueille l'avis de la
+Commission nationale du patrimoine et de l'architecture sur le projet modifié.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2017-456 du 29 mars 2017 - art. 5
+
+
+###### Article R631-4
+
+La décision de classement du site patrimonial remarquable est notifiée par le préfet de région à la commune ou à
+l'établissement public de coopération intercommunale compétent en matière de plan local d'urbanisme, de document d'urbanisme
+en tenant lieu et de carte communale. 
+
+Elle fait l'objet des mesures de publicité et d'information prévues à l'article R. 153-21 du code de l'urbanisme. 
+
+Lorsque le territoire concerné est couvert par un plan local d'urbanisme, un document d'urbanisme en tenant lieu ou une carte
+communale, la commune ou l'établissement public de coopération intercommunale compétent annexe le tracé du site patrimonial
+remarquable à ce plan, dans les conditions prévues aux articles L. 153-60 ou L. 163-10 du code de l'urbanisme.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2017-456 du 29 mars 2017 - art. 5
+
+	**Cite**:
+
+	  - Code de l'urbanisme - art. L153-60
+	  - Code de l'urbanisme - art. L163-10
+	  - Code de l'urbanisme - art. R153-21
+
+	**Cité par**:
+
+	  - Code du patrimoine - art. R720-13 (V)
+	  - Code du patrimoine - art. R780-17 (V)
+	  - Code du patrimoine - art. R790-16 (V)
+
+
+##### Section 2 : Procédure d'élaboration, révision et modification du plan de valorisation de l'architecture et du patrimoine 
+
+###### Article D631-7
+
+Le maire ou le président de l'établissement public de coopération intercommunale compétent en matière de plan local
+d'urbanisme, de document d'urbanisme en tenant lieu et de carte communale saisit le préfet de région du projet de plan de
+valorisation de l'architecture et du patrimoine arrêté afin de recueillir l'avis de la commission régionale du patrimoine et
+de l'architecture prévu au deuxième alinéa du II de l'article L. 631-4.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2017-456 du 29 mars 2017 - art. 5
+
+	**Cité par**:
+
+	  - Code du patrimoine - art. D720-13-1 (V)
+	  - Code du patrimoine - art. D780-17-1 (V)
+	  - Code du patrimoine - art. D790-16-1 (V)
+
+	**Cite**:
+
+	  - Code du patrimoine - art. L631-4
+
+
+###### Article D631-8
+
+Le silence gardé pendant trois mois par les personnes publiques consultées pour examen conjoint sur le projet de plan de
+valorisation de l'architecture et du patrimoine en application du II de l'article L. 631-4 vaut avis favorable.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2017-456 du 29 mars 2017 - art. 5
+
+	**Cite**:
+
+	  - Code du patrimoine - art. L631-4
+
+
+###### Article D631-9
+
+L'enquête publique prévue au deuxième alinéa du III de l'article L. 631-4 est réalisée conformément au chapitre III du titre
+II du livre Ier du code de l'environnement.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2017-456 du 29 mars 2017 - art. 5
+
+	**Cite**:
+
+	  - Code du patrimoine - art. L631-4
+
+	**Cité par**:
+
+	  - Code du patrimoine - art. R780-18-1 (V)
+
+
+###### Article D631-10
+
+Pour l'application des II et III de l'article L. 631-4, le projet de création, de révision ou de modification du plan de
+valorisation de l'architecture et du patrimoine est soumis à l'accord du préfet de région à l'issue de l'enquête publique.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2017-456 du 29 mars 2017 - art. 5
+
+	**Cite**:
+
+	  - Code du patrimoine - art. L631-4
+
+
+###### Article D631-11
+
+La délibération approuvant le plan de valorisation de l'architecture et du patrimoine fait l'objet des mesures de publicité
+et d'information prévues à l'article R. 153-21 du code de l'urbanisme. 
+
+Lorsque le territoire concerné est couvert par un plan local d'urbanisme, un document d'urbanisme en tenant lieu ou une carte
+communale, la commune ou l'établissement public de coopération intercommunale compétent y annexe le plan de valorisation de
+l'architecture et du patrimoine dans les conditions prévues aux articles L. 153-60 ou L. 163-10 du code de l'urbanisme.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2017-456 du 29 mars 2017 - art. 5
+
+	**Cite**:
+
+	  - Code de l'urbanisme - art. L153-60
+	  - Code de l'urbanisme - art. L163-10
+	  - Code de l'urbanisme - art. R153-21
+
+	**Cité par**:
+
+	  - Code du patrimoine - art. D720-13-1 (V)
+	  - Code du patrimoine - art. D780-17-1 (V)
+	  - Code du patrimoine - art. D790-16-1 (V)
+
+
+###### Article R631-6
+
+Lorsque le site patrimonial remarquable concerne plusieurs communes ou établissements publics de coopération intercommunale
+compétents en matière de plan local d'urbanisme, de document d'urbanisme en tenant lieu et de carte communale, chaque
+autorité compétente peut élaborer un plan de valorisation de l'architecture et du patrimoine ou un plan de sauvegarde et de
+mise en valeur couvrant la partie du site patrimonial remarquable la concernant. 
+
+Le plan de sauvegarde et de mise en valeur est établi dans les conditions prévues au chapitre III du titre Ier du livre III
+du code de l'urbanisme et le plan de valorisation de l'architecture et du patrimoine dans les conditions prévues à l'article
+L. 631-4 du présent code et aux sections 2 et 3 du présent chapitre.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2017-456 du 29 mars 2017 - art. 5
+
+	**Cite**:
+
+	  - Code du patrimoine - art. L631-4
+
+	**Cité par**:
+
+	  - Code du patrimoine - art. R720-13 (V)
+	  - Code du patrimoine - art. R780-17 (V)
+	  - Code du patrimoine - art. R790-16 (V)
+
+
+##### Section 3 : Contenu du plan de valorisation de l'architecture et du patrimoine 
+
+###### Article D631-12
+
+Le diagnostic prévu au 1° du I de l'article L. 631-4 comprend : 
+
+– un inventaire du patrimoine historique, urbain, architectural, archéologique, artistique et paysager ; 
+
+– une analyse de l'architecture par immeuble ou par groupe d'immeubles présentant des caractéristiques architecturales
+homogènes, y compris des éléments de décoration, des modes constructifs et des matériaux.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2017-456 du 29 mars 2017 - art. 5
+
+	**Cite**:
+
+	  - Code du patrimoine - art. L631-4
+
+
+###### Article D631-13
+
+Le règlement mentionné au 2° du I de l'article L. 631-4 peut prévoir la possibilité d'adaptation mineure de ses prescriptions
+à l'occasion de l'examen d'une demande d'autorisation de travaux en application de l'article L. 632-1. En cas de mise en
+œuvre de cette possibilité, l'accord de l'architecte des Bâtiments de France est spécialement motivé sur ce point.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2017-456 du 29 mars 2017 - art. 5
+
+	**Cite**:
+
+	  - Code du patrimoine - art. L631-4
+	  - Code du patrimoine - art. L632-1
+
+
+###### Article D631-14
+
+Le modèle de légende du document graphique prévu au 2° du I de l'article L. 631-4 est fixé par arrêté du ministre chargé de
+la culture, après avis de la Commission nationale du patrimoine et de l'architecture.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2017-456 du 29 mars 2017 - art. 5
+
+	**Cite**:
+
+	  - Code du patrimoine - art. L631-4
+
+
+#### Chapitre II : Régime des travaux
+
+###### Article D632-1
+
+L'autorisation prévue à l'article L. 632-1 pour les travaux compris dans le périmètre d'un site patrimonial remarquable non
+soumis à autorisation au titre du code de l'environnement ou du code de l'urbanisme est régie par la sous-section 2 de la
+section 4 du chapitre Ier du titre II du présent livre.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2017-456 du 29 mars 2017 - art. 5
+
+	**Cité par**:
+
+	  - Code du patrimoine - art. D720-13-1 (V)
+	  - Code du patrimoine - art. D780-17-1 (V)
+	  - Code du patrimoine - art. D790-16-1 (V)
+
+	**Cite**:
+
+	  - Code du patrimoine - art. L632-1
+
+
+#### Chapitre III : Dispositions fiscales
+
+###### Article D633-1
+
+Les règles relatives aux opérations de restauration immobilière dans le périmètre d'un site patrimonial remarquable sont
+fixées à l'article 41 DO de l'annexe III au code général des impôts.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2017-456 du 29 mars 2017 - art. 5
+
+	**Cite**:
+
+	  - Code général des impôts, annexe 3, CGIAN3. - art. 41 DO
+
+
+### TITRE IV : DISPOSITIONS PÉNALES ET SANCTIONS ADMINISTRATIVES
+
+#### Chapitre Ier : Dispositions pénales
+
+###### Article R641-1
+
+Le fait pour toute personne autre que l'Etat ou l'un de ses établissements publics, d'aliéner un immeuble situé dans le
+périmètre d'un domaine national sans la déclaration préalable prévue à l'article R. 621-98 est puni de l'amende prévue pour
+les contraventions de la cinquième classe. 
+
+La récidive de la contravention prévue au présent article est réprimée conformément aux articles 132-11 et 132-15 du code
+pénal.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2017-456 du 29 mars 2017 - art. 5
+
+	**Cite**:
+
+	  - Code pénal - art. 132-11
+	  - Code pénal - art. 132-15
+	  - Code du patrimoine - art. R621-98
+
+
+#### Chapitre II : Sanctions administratives
+
+###### Article R642-1
+
+Le préfet du lieu de constat d'un manquement prévu aux articles L. 642-1 et L. 642-2 notifie à la personne mise en cause les
+griefs qui lui sont reprochés et les sanctions encourues et l'invite à présenter ses observations dans un délai d'un mois. La
+notification est faite par lettre recommandée avec demande d'avis de réception. 
+
+Pendant le délai mentionné au premier alinéa, l'intéressé peut prendre connaissance et copie des pièces du dossier et se
+faire assister ou représenter par tout conseil de son choix. 
+
+La décision de sanction est notifiée à l'intéressé par lettre recommandée avec demande d'avis de réception. 
+
+Les amendes prévues aux articles L. 642-1 et L. 642-2 sont prononcées par arrêté du préfet. Elles donnent lieu à l'émission
+d'un titre de perception exécutoire, établi par lui et recouvré au profit de l'Etat par les comptables assignataires, selon
+les modalités prévues pour les créances étrangères à l'impôt et au domaine.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2017-456 du 29 mars 2017 - art. 5
+
+	**Cite**:
+
+	  - Code du patrimoine - art. L642-1
+
+
+### TITRE V : QUALITÉ ARCHITECTURALE 
+
 ## LIVRE VII : DISPOSITIONS RELATIVES À L'OUTRE-MER
 
 ### TITRE Ier : DISPOSITIONS PARTICULIÈRES EN GUADELOUPE,  EN GUYANE, EN MARTINIQUE ET À LA RÉUNION
@@ -41703,88 +40909,55 @@ séances avec voix consultative.
 	  - Code du patrimoine. - art. R730-4 (V)
 
 
-###### Article R710-5
-
-La commission régionale du patrimoine et des sites prévue à l'article R. 612-1 exerce, en Guadeloupe, en Guyane, en
-Martinique et à La Réunion, outre les missions qui lui sont confiées par cet article, les missions qui sont confiées par
-l'article R. 612-10 à la commission départementale des objets mobiliers.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°99-78 du 5 février 1999 - art. 17, alinéa 1, ecqc GGMR (Ab)
-
-	**Codifié par**:
-
-	  - Décret n°2014-119 du 11 février 2014 - art.
-
-	**Créé par**:
-
-	  - Décret n°2014-119 du 11 février 2014 - art.
-
-	**Abrogé par**:
-
-	  - Décret n°2017-456 du 29 mars 2017 - art. 6
-
-	**Cite**:
-
-	  - Code du patrimoine - art. R612-1
-	  - Code du patrimoine - art. R612-10
-
-
 ###### Article R710-6
 
-La commission régionale du patrimoine et des sites comprend, en Guadeloupe, en Guyane, en Martinique et à La Réunion, vingt
-membres :
+La commission régionale du patrimoine et de l'architecture comprend, en Guadeloupe, en Guyane, en Martinique et à La Réunion
+dix-huit membres :
 
-1° Six membres de droit :
+1° Sept représentants de l'Etat :
 
-a) Le représentant de l'Etat ;
+a) Quatre membres de droit :
 
-b) Le directeur des affaires culturelles ;
+– le représentant de l'Etat dans la collectivité ;
 
-c) Le directeur de l'environnement, de l'aménagement et du logement ;
+– le directeur des affaires culturelles ;
 
-d) Le chef du service chargé des monuments historiques à la direction des affaires culturelles ;
+– le directeur de l'environnement, de l'aménagement et du logement ;
 
-e) Le commandant du groupement de gendarmerie ;
+– le chef de l'inspection des patrimoines ;
 
-f) Le conservateur départemental des antiquités et objets d'art ;
+b) Trois membres nommés :
 
-2° Quatorze membres nommés par le représentant de l'Etat pour une durée de quatre ans :
+– un architecte des Bâtiments de France ;
 
-a) Deux fonctionnaires de l'Etat, dont au moins un affecté à la direction des affaires culturelles, compétents dans le
-domaine des monuments historiques, de l'archéologie ou de l'inventaire général du patrimoine culturel ;
+– un fonctionnaire de l'Etat affecté à la direction des affaires culturelles ;
 
-b) Cinq titulaires d'un mandat électif national ou local ;
+– un membre des services de la police ou de la gendarmerie nationales ;
 
-c) Cinq personnalités qualifiées dans le domaine de l'architecture, de l'urbanisme, du paysage, du patrimoine ou de
-l'ethnologie ;
+2° Quatre titulaires d'un mandat électif national ou local ;
 
-d) Deux représentants d'associations ou de fondations ayant pour objet de favoriser la connaissance, la protection et la
-conservation du patrimoine.
+3° Deux représentants d'associations ou de fondations ayant pour objet de favoriser la connaissance, la protection et la mise
+en valeur du patrimoine ;
+
+4° Cinq personnalités qualifiées dont un membre du service chargé des opérations d'inventaire du patrimoine culturel et le
+conservateur des antiquités et des objets d'art ;
 
 **Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°99-78 du 5 février 1999 - art. 17, alinéas 2 à 13, ecqc GGMR  (Ab)
 
 	**Codifié par**:
 
 	  - Décret n°2014-119 du 11 février 2014 - art.
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2014-119 du 11 février 2014 - art.
+	  - Décret n°2017-456 du 29 mars 2017 - art. 6
 
 	**Cité par**:
 
 	  - Code du patrimoine - art. R780-14 (V)
 	  - Code du patrimoine - art. R780-15 (Ab)
 	  - Code du patrimoine - art. R780-16 (Ab)
-	  - Code du patrimoine - art. R790-13 (M)
+	  - Code du patrimoine - art. R790-13 (V)
 	  - Code du patrimoine - art. R790-14 (Ab)
 	  - Code du patrimoine - art. R790-15 (Ab)
 	  - Code du patrimoine. - art. R710-7 (M)
@@ -41793,116 +40966,42 @@ conservation du patrimoine.
 ###### Article R710-7
 
 En Guadeloupe, en Guyane, en Martinique et à La Réunion, la délégation permanente de la commission régionale du patrimoine et
-des sites prévue à l'article R. 612-2 comprend sept membres : 
+de l'architecture prévue à l'article R. 611-23 comprend huit membres : 
 
-1° Quatre membres de droit : 
+1° Trois représentants de l'Etat, membres de droit : 
 
 a) Le directeur des affaires culturelles ; 
 
-b) Les deux fonctionnaires mentionnés au a du 2° de l'article R. 710-6 ; 
+b) L'architecte des Bâtiments de France désigné au b du 1° de l'article R. 710-6 ; 
 
-c) Le chef du service chargé des monuments historiques à la direction des affaires culturelles ; 
+c) Le fonctionnaire de l'Etat désigné au b du 1° de l'article R. 710-6 ; 
 
-2° Trois membres désignés par le représentant de l'Etat parmi les personnalités mentionnées aux b, c et d du 2° de l'article
-R. 710-6.
+2° Deux membres titulaires d'un mandat électif national ou local : 
+
+a) Le président ; 
+
+b) Un membre désigné par le représentant de l'Etat parmi les autres élus de la commission régionale du patrimoine et de
+l'architecture ; 
+
+3° Un membre désigné par le représentant de l'Etat parmi les représentants d'associations ou de fondations mentionnés au 3°
+de l'article R. 710-6 ; 
+
+4° Deux membres désignés par le représentant de l'Etat parmi les personnalités qualifiées mentionnées au 4° de l'article R.
+710-6.
 
 **Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°99-78 du 5 février 1999 - art. 17-1, ecqc GGMR (Ab)
 
 	**Codifié par**:
 
 	  - Décret n°2014-119 du 11 février 2014 - art.
 
-	**Créé par**:
-
-	  - Décret n°2014-119 du 11 février 2014 - art.
-
-	**Cite**:
-
-	  - Code du patrimoine. - art. R612-2 (V)
-	  - Code du patrimoine. - art. R710-6 (V)
-
-
-###### Article R710-8
-
-Pour l'application en Guadeloupe, en Guyane, en Martinique et à La Réunion, de l'article R. 612-6 : 
-
-1° Au premier alinéa, le mot : " onze " est remplacé par le mot : " huit " ; 
-
-2° Le 3° est ainsi rédigé : 
-
-" Trois personnalités qualifiées choisies et désignées par le représentant de l'Etat parmi les membres de la commission
-mentionnés au c ou au d du 2° de l'article R. 710-6. "
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°99-78 du 5 février 1999 - art. 17-2, ecqc GGMR (Ab)
-
-	**Codifié par**:
-
-	  - Décret n°2014-119 du 11 février 2014 - art.
-
-	**Créé par**:
-
-	  - Décret n°2014-119 du 11 février 2014 - art.
-
-	**Abrogé par**:
+	**Modifié par**:
 
 	  - Décret n°2017-456 du 29 mars 2017 - art. 6
 
 	**Cite**:
 
-	  - Code du patrimoine - art. R612-6
-
-
-###### Article R710-9
-
-Les articles R. 612-11 et R. 612-13 à R. 612-15 ne sont pas applicables en Guadeloupe, en Guyane, en Martinique et à La
-Réunion.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°2014-119 du 11 février 2014 - art.
-
-	**Créé par**:
-
-	  - Décret n°2014-119 du 11 février 2014 - art.
-
-	**Abrogé par**:
-
-	  - Décret n°2017-456 du 29 mars 2017 - art. 6
-
-	**Cite**:
-
-	  - Code du patrimoine - art. R612-11
-	  - Code du patrimoine - art. R612-13
-
-
-###### Article R710-10
-
-Pour l'application du livre VI en Guadeloupe, en Guyane, en Martinique et à La Réunion, les termes : " commission
-départementale des objets mobiliers " sont remplacés par les termes : " commission régionale du patrimoine et des sites ".
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°2014-119 du 11 février 2014 - art.
-
-	**Créé par**:
-
-	  - Décret n°2014-119 du 11 février 2014 - art.
-
-	**Abrogé par**:
-
-	  - Décret n°2017-456 du 29 mars 2017 - art. 6
+	  - Code du patrimoine - art. R611-23
 
 
 ### TITRE II : DISPOSITIONS PARTICULIÈRES  À SAINT-PIERRE-ET-MIQUELON
@@ -41928,8 +41027,7 @@ Les articles D. 122-1 à D. 122-4 ne sont pas applicables à Saint-Pierre-et-Miq
 
 ###### Article D720-12
 
-Les articles D. 611-17, D. 612-18, D. 623-1, D. 623-2, D. 641-1 et D. 643-1 ne sont pas applicables à Saint-Pierre-et-
-Miquelon.
+Les articles D. 623-1, D. 623-2 et D. 634-1 ne sont pas applicables à Saint-Pierre-et-Miquelon.
 
 **Liens relatifs à cet article**
 
@@ -41937,17 +41035,33 @@ Miquelon.
 
 	  - Décret n°2014-119 du 11 février 2014 - art.
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2014-119 du 11 février 2014 - art.
+	  - Décret n°2017-456 du 29 mars 2017 - art. 6
 
 	**Cite**:
 
-	  - Code du patrimoine. - art. D611-17 (V)
-	  - Code du patrimoine. - art. D612-18 (V)
-	  - Code du patrimoine. - art. D623-1 (V)
-	  - Code du patrimoine. - art. D641-1 (V)
-	  - Code du patrimoine. - art. D643-1 (V)
+	  - Code du patrimoine - art. D623-1
+
+
+###### Article D720-13-1
+
+Pour l'application à Saint-Pierre-et-Miquelon des articles D. 631-5, D. 631-7, D. 631-11 et D. 632-1, les références au code
+de l'urbanisme, au plan local d'urbanisme et au plan de sauvegarde et de mise en valeur sont remplacées par les références
+aux dispositions ayant le même objet applicables localement.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2017-456 du 29 mars 2017 - art. 6
+
+	**Cite**:
+
+	  - Code du patrimoine - art. D631-11
+	  - Code du patrimoine - art. D631-5
+	  - Code du patrimoine - art. D631-7
+	  - Code du patrimoine - art. D632-1
 
 
 ###### Article R720-1
@@ -42104,7 +41218,7 @@ l'archipel de Saint-Pierre-et-Miquelon, assisté par le commandant de zone marit
 
 ###### Article R720-9
 
-Les articles R. 612-1 à R. 612-16 ne sont pas applicables à Saint-Pierre-et-Miquelon.
+Les articles R. 611-17 à R. 611-30 ne sont pas applicables à Saint-Pierre-et-Miquelon.
 
 **Liens relatifs à cet article**
 
@@ -42112,121 +41226,44 @@ Les articles R. 612-1 à R. 612-16 ne sont pas applicables à Saint-Pierre-et-Mi
 
 	  - Décret n°2014-119 du 11 février 2014 - art.
 
-	**Créé par**:
-
-	  - Décret n°2014-119 du 11 février 2014 - art.
-
-	**Cite**:
-
-	  - Code du patrimoine. - art. R612-1 (V)
-
-
-###### Article R720-10
-
-Pour Saint-Pierre-et-Miquelon, la Commission nationale des monuments historiques examine en première instance : 
-
-1° Les demandes et propositions de classement au titre des monuments historiques d'immeubles mentionnées à l'article R.
-621-2 ; 
-
-2° Les demandes et propositions de déclassement au titre des monuments historiques d'immeubles mentionnées à l'article R.
-621-10 ; 
-
-3° Les demandes et propositions d'inscription au titre des monuments historiques d'immeubles mentionnées à l'article R.
-621-53 ; 
-
-4° Les demandes et propositions de radiation de l'inscription au titre des monuments historiques d'immeubles instruites selon
-la procédure mentionnée à l'article R. 621-59 ; 
-
-5° Les demandes et propositions de classement au titre des monuments historiques d'objets mobiliers mentionnées à l'article
-R. 622-2 ; 
-
-6° Les demandes et propositions de déclassement au titre des monuments historiques d'objets mobiliers mentionnées à l'article
-R. 622-8 ; 
-
-7° Les demandes et propositions d'inscription au titre des monuments historiques d'objets mobiliers mentionnées à l'article
-R. 622-33 ; 
-
-8° Les demandes et propositions de radiation de l'inscription au titre des monuments historiques d'objets mobiliers
-mentionnées à l'article R. 622-37. 
-
-Le ministre chargé de la culture est l'autorité compétente pour prendre les décisions d'instance de classement, les arrêtés
-d'inscription, de radiation d'inscription et de classement des immeubles et objets mobiliers ainsi que les arrêtés de
-déclassement des objets mobiliers.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°2014-119 du 11 février 2014 - art.
-
-	**Créé par**:
-
-	  - Décret n°2014-119 du 11 février 2014 - art.
-
-	**Cite**:
-
-	  - Code du patrimoine. - art. R621-10 (V)
-	  - Code du patrimoine. - art. R621-2 (V)
-	  - Code du patrimoine. - art. R621-53 (V)
-	  - Code du patrimoine. - art. R621-59 (V)
-	  - Code du patrimoine. - art. R622-2 (V)
-	  - Code du patrimoine. - art. R622-33 (V)
-	  - Code du patrimoine. - art. R622-37 (V)
-	  - Code du patrimoine. - art. R622-8 (V)
-
-
-###### Article R720-11
-
-La commission régionale du patrimoine et des sites prévue à l'article R. 612-1 exerce, à Saint-Pierre-et-Miquelon, les
-compétences prévues au premier alinéa de l'article L. 612-1 et à l'article L. 612-2. 
-
-Elle comprend sept membres : 
-
-1° Deux membres de droit : 
-
-a) Le représentant de l'Etat ; 
-
-b) Le responsable des affaires culturelles à Saint-Pierre-et-Miquelon ; 
-
-2° Cinq membres nommés par le représentant de l'Etat pour une durée de quatre ans : 
-
-a) Deux titulaires d'un mandat électif national ou local ; 
-
-b) Deux personnalités qualifiées dans le domaine de l'architecture, de l'archéologie, de l'histoire, de l'histoire de l'art,
-de l'urbanisme, du paysage, du patrimoine ou de l'ethnologie ; 
-
-c) Un membre d'association ou de fondation ayant pour objet de favoriser la connaissance, la protection et la conservation du
-patrimoine.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°2014-119 du 11 février 2014 - art.
-
-	**Créé par**:
-
-	  - Décret n°2014-119 du 11 février 2014 - art.
-
-	**Abrogé par**:
+	**Modifié par**:
 
 	  - Décret n°2017-456 du 29 mars 2017 - art. 6
 
 	**Cite**:
 
-	  - Code du patrimoine - art. L612-1
-	  - Code du patrimoine - art. R612-1
+	  - Code du patrimoine - art. R611-17
+
+
+###### Article R720-10
+
+Pour Saint-Pierre-et-Miquelon, la Commission nationale du patrimoine et de l'architecture exerce les compétences dévolues à
+la commission régionale du patrimoine et de l'architecture par l'article L. 611-2.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°2014-119 du 11 février 2014 - art.
+
+	**Modifié par**:
+
+	  - Décret n°2017-456 du 29 mars 2017 - art. 6
+
+	**Cite**:
+
+	  - Code du patrimoine - art. L611-2
 
 
 ###### Article R720-12-1
 
-Les articles R. 621-62-1 et R. 621-92 à R. 621-96-18 ne sont pas applicables à Saint-Pierre-et-Miquelon.
+Les articles R. 621-92 à R. 621-96-17 ne sont pas applicables à Saint-Pierre-et-Miquelon.
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2014-1314 du 31 octobre 2014 - art. 26
+	  - Décret n°2017-456 du 29 mars 2017 - art. 6
 
 	**Cite**:
 
@@ -42236,9 +41273,10 @@ Les articles R. 621-62-1 et R. 621-92 à R. 621-96-18 ne sont pas applicables à
 
 ###### Article R720-13
 
-Pour l'application à Saint-Pierre-et-Miquelon des articles R. 612-3, R. 621-8, R. 621-58, R. 621-67, R. 621-88 et R. 621-95,
-les références aux articles du code de l'urbanisme sont remplacées par les références aux dispositions ayant le même objet
-applicables localement.
+Pour l'application à Saint-Pierre-et-Miquelon des articles R. 611-28, R. 612-1, R. 621-8, R. 621-58, R. 621-67, R. 621-88, R.
+621-98, R. 631-1, R. 631-4 et R. 631-6, les références au code de l'urbanisme, au plan local d'urbanisme et au plan de
+sauvegarde et de mise en valeur sont remplacées par les références aux dispositions ayant le même objet applicables
+localement.
 
 **Liens relatifs à cet article**
 
@@ -42246,18 +41284,22 @@ applicables localement.
 
 	  - Décret n°2014-119 du 11 février 2014 - art.
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2014-119 du 11 février 2014 - art.
+	  - Décret n°2017-456 du 29 mars 2017 - art. 6
 
 	**Cite**:
 
-	  - Code du patrimoine. - art. R612-3 (V)
-	  - Code du patrimoine. - art. R621-58 (V)
-	  - Code du patrimoine. - art. R621-67 (V)
-	  - Code du patrimoine. - art. R621-8 (V)
-	  - Code du patrimoine. - art. R621-88 (V)
-	  - Code du patrimoine. - art. R621-95 (V)
+	  - Code du patrimoine - art. R611-28
+	  - Code du patrimoine - art. R612-1
+	  - Code du patrimoine - art. R621-58
+	  - Code du patrimoine - art. R621-67
+	  - Code du patrimoine - art. R621-8
+	  - Code du patrimoine - art. R621-88
+	  - Code du patrimoine - art. R621-98
+	  - Code du patrimoine - art. R631-1
+	  - Code du patrimoine - art. R631-4
+	  - Code du patrimoine - art. R631-6
 
 
 ###### Article R720-14
@@ -42425,62 +41467,36 @@ par la commission interrégionale de la recherche archéologique de l'outre-mer 
 	  - Code du patrimoine. - art. R710-4 (V)
 
 
-###### Article R730-5
-
-La commission régionale du patrimoine et des sites prévue à l'article R. 612-1 exerce à Mayotte, outre les missions qui lui
-sont confiées par cet article, les missions qui sont confiées par l'article R. 612-10 à la commission départementale des
-objets mobiliers.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°2014-119 du 11 février 2014 - art.
-
-	**Créé par**:
-
-	  - Décret n°2014-119 du 11 février 2014 - art.
-
-	**Abrogé par**:
-
-	  - Décret n°2017-456 du 29 mars 2017 - art. 6
-
-	**Cite**:
-
-	  - Code du patrimoine - art. R612-1
-	  - Code du patrimoine - art. R612-10
-
-
 ###### Article R730-6
 
-La commission régionale du patrimoine et des sites comprend à Mayotte vingt membres :
+La commission régionale du patrimoine et de l'architecture comprend à Mayotte dix-huit membres :
 
-1° Six membres de droit :
+1° Sept représentants de l'Etat :
 
-a) Le préfet de Mayotte ;
+a) Quatre membres de droit :
 
-b) Le directeur des affaires culturelles ;
+– le préfet de Mayotte ;
 
-c) Le directeur de l'environnement, de l'aménagement et du logement ;
+– le directeur des affaires culturelles ;
 
-d) Le chef du service chargé des monuments historiques compétent à Mayotte ;
+– le directeur de l'environnement, de l'aménagement et du logement ;
 
-e) Le commandant du groupement de gendarmerie ;
+– le chef de l'inspection des patrimoines ;
 
-f) Le conservateur départemental des antiquités et objets d'art ;
+b) Trois membres nommés :
 
-2° Quatorze membres nommés par le préfet de Mayotte pour une durée de quatre ans :
+– un architecte des Bâtiments de France ;
 
-a) Deux fonctionnaires de l'Etat, compétents dans le domaine des monuments historiques, de l'archéologie ou de l'inventaire
-général du patrimoine culturel ;
+– un fonctionnaire de l'Etat affecté à la direction des affaires culturelles ;
 
-b) Cinq titulaires d'un mandat électif national ou local ;
+– un membre des services de la police ou de la gendarmerie nationales ;
 
-c) Cinq personnalités qualifiées dans le domaine de l'architecture, de l'urbanisme, du paysage, du patrimoine ou de
-l'ethnologie ;
+2° Quatre titulaires d'un mandat électif national ou local ;
 
-d) Deux représentants d'associations ou de fondations ayant pour objet de favoriser la connaissance, la protection et la
-conservation du patrimoine.
+3° Deux représentants d'associations ou de fondations ayant pour objet de favoriser la connaissance, la protection et la mise
+en valeur du patrimoine ;
+
+4° Cinq personnalités qualifiées.
 
 **Liens relatifs à cet article**
 
@@ -42488,9 +41504,9 @@ conservation du patrimoine.
 
 	  - Décret n°2014-119 du 11 février 2014 - art.
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2014-119 du 11 février 2014 - art.
+	  - Décret n°2017-456 du 29 mars 2017 - art. 6
 
 	**Cité par**:
 
@@ -42500,46 +41516,28 @@ conservation du patrimoine.
 
 ###### Article R730-7
 
-A Mayotte, la délégation permanente de la commission régionale du patrimoine et des sites prévue à l'article R. 612-2
-comprend sept membres : 
+A Mayotte, la délégation permanente de la commission régionale du patrimoine et de l'architecture prévue à l'article R.
+611-23 comprend huit membres : 
 
-1° Quatre membres de droit : 
+1° Trois représentants de l'Etat, membres de droit : 
 
 a) Le directeur des affaires culturelles ; 
 
-b) Les deux fonctionnaires mentionnés au a du 2° de l'article R. 730-6 ; 
+b) L'architecte des Bâtiments de France désigné au b du 1° de l'article R. 730-6 ; 
 
-c) Le chef du service chargé des monuments historiques à la direction des affaires culturelles compétent à Mayotte ; 
+c) Le fonctionnaire de l'Etat désigné au b du 1° de l'article R. 730-6 ; 
 
-2° Trois membres désignés par le préfet de Mayotte parmi les personnalités mentionnées aux b, c et d du 2° de l'article R.
-730-6.
+2° Deux membres titulaires d'un mandat électif national ou local : 
 
-**Liens relatifs à cet article**
+a) Le président ; 
 
-	**Codifié par**:
+b) Un membre désigné par le préfet de Mayotte parmi les autres élus de la commission régionale du patrimoine et de
+l'architecture ; 
 
-	  - Décret n°2014-119 du 11 février 2014 - art.
+3° Un membre désigné par le préfet de Mayotte parmi les représentants d'associations ou de fondations mentionnés au 3° de
+l'article R. 730-6 ; 
 
-	**Créé par**:
-
-	  - Décret n°2014-119 du 11 février 2014 - art.
-
-	**Cite**:
-
-	  - Code du patrimoine. - art. R612-2 (V)
-	  - Code du patrimoine. - art. R730-6 (V)
-
-
-###### Article R730-8
-
-Pour l'application à Mayotte de l'article R. 612-6 : 
-
-1° Au premier alinéa, le mot : " onze " est remplacé par le mot : " huit " ; 
-
-2° Le 3° est ainsi rédigé : 
-
-" Trois personnalités qualifiées désignées par le préfet de Mayotte parmi les membres de la commission mentionnés au c ou au
-d du 2° de l'article R. 730-6. "
+4° Deux membres désignés par le préfet de Mayotte parmi les personnalités qualifiées mentionnées au 4° de l'article R. 730-6.
 
 **Liens relatifs à cet article**
 
@@ -42547,42 +41545,13 @@ d du 2° de l'article R. 730-6. "
 
 	  - Décret n°2014-119 du 11 février 2014 - art.
 
-	**Créé par**:
-
-	  - Décret n°2014-119 du 11 février 2014 - art.
-
-	**Abrogé par**:
+	**Modifié par**:
 
 	  - Décret n°2017-456 du 29 mars 2017 - art. 6
 
 	**Cite**:
 
-	  - Code du patrimoine - art. R612-6
-	  - Code du patrimoine - art. R730-6
-
-
-###### Article R730-9
-
-Les articles R. 612-11 et R. 612-13 à R. 612-15 ne sont pas applicables à Mayotte.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°2014-119 du 11 février 2014 - art.
-
-	**Créé par**:
-
-	  - Décret n°2014-119 du 11 février 2014 - art.
-
-	**Abrogé par**:
-
-	  - Décret n°2017-456 du 29 mars 2017 - art. 6
-
-	**Cite**:
-
-	  - Code du patrimoine - art. R612-11
-	  - Code du patrimoine - art. R612-13
+	  - Code du patrimoine - art. R611-23
 
 
 ###### Article R730-10
@@ -43893,8 +42862,7 @@ Les articles D. 122-1 à D. 122-4 ne sont pas applicables à Saint-Barthélemy.
 
 ###### Article D780-12
 
-Les articles D. 611-17, D. 612-18, D. 623-1, D. 623-2, D. 630-1, D. 641-1 et D. 643-1 ne sont pas applicables à Saint-
-Barthélemy.
+Les articles D. 623-1, D. 623-2, D. 630-1 et D. 634-1 ne sont pas applicables à Saint-Barthélemy.
 
 **Liens relatifs à cet article**
 
@@ -43902,18 +42870,34 @@ Barthélemy.
 
 	  - Décret n°2014-119 du 11 février 2014 - art.
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2014-119 du 11 février 2014 - art.
+	  - Décret n°2017-456 du 29 mars 2017 - art. 6
 
 	**Cite**:
 
-	  - Code du patrimoine - art. D611-17 (V)
-	  - Code du patrimoine - art. D612-18 (V)
-	  - Code du patrimoine - art. D623-1 (V)
-	  - Code du patrimoine - art. D630-1 (V)
-	  - Code du patrimoine - art. D641-1 (V)
-	  - Code du patrimoine - art. D643-1 (V)
+	  - Code du patrimoine - art. D623-1
+	  - Code du patrimoine - art. D630-1
+
+
+###### Article D780-17-1
+
+Pour l'application à Saint-Barthélemy des articles D. 631-5, 
+D. 631-7, D. 631-11 et D. 632-1, les références au code de l'urbanisme, au plan local d'urbanisme et au plan de sauvegarde et
+de mise en valeur sont remplacées par les références aux dispositions ayant le même objet applicables localement.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2017-456 du 29 mars 2017 - art. 6
+
+	**Cite**:
+
+	  - Code du patrimoine - art. D631-11
+	  - Code du patrimoine - art. D631-5
+	  - Code du patrimoine - art. D631-7
+	  - Code du patrimoine - art. D632-1
 
 
 ###### Article L780-7
@@ -44130,94 +43114,30 @@ références au représentant de l'Etat, assisté par le commandant de la zone m
 	  - Code du patrimoine - art. R532-13 (V)
 
 
-###### Article R780-13
+###### Article R780-11-1
 
-La commission régionale du patrimoine et des sites prévue à l'article R. 612-1 exerce, à Saint-Barthélemy, outre les missions
-qui lui sont confiées par cet article, les missions qui sont confiées par l'article R. 612-10 à la commission départementale
-des objets mobiliers.
+Les articles R. 611-23 et R. 611-24 ne sont pas applicables à Saint-Barthélemy.
 
 **Liens relatifs à cet article**
 
-	**Codifié par**:
-
-	  - Décret n°2014-119 du 11 février 2014 - art.
-
 	**Créé par**:
-
-	  - Décret n°2014-119 du 11 février 2014 - art.
-
-	**Abrogé par**:
 
 	  - Décret n°2017-456 du 29 mars 2017 - art. 6
 
 	**Cite**:
 
-	  - Code du patrimoine - art. R612-1
-	  - Code du patrimoine - art. R612-10
+	  - Code du patrimoine - art. R611-23
 
 
 ###### Article R780-14
 
-La commission régionale du patrimoine et des sites de Saint-Barthélemy comprend les mêmes membres que la commission régionale
-du patrimoine et des sites de Guadeloupe prévue à l'article R. 710-6, à l'exception de ceux mentionnés : 
+La commission régionale du patrimoine et de l'architecture de Saint-Barthélemy comprend les mêmes membres que la commission
+régionale du patrimoine et de l'architecture de Guadeloupe prévue à l'article R. 710-6, à l'exception de ceux mentionnés : 
 
-― au a et au b du 2°, remplacés par trois titulaires d'un mandat électif national ou local de la collectivité ; 
+1° Au 2°, remplacés par deux titulaires d'un mandat électif national ou local de la collectivité ; 
 
-― au d du 2°, remplacés par deux représentants d'associations ou de fondations représentées dans la collectivité et ayant
-pour objet de favoriser la connaissance, la protection et la conservation du patrimoine.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°2014-119 du 11 février 2014 - art.
-
-	**Créé par**:
-
-	  - Décret n°2014-119 du 11 février 2014 - art.
-
-	**Cite**:
-
-	  - Code du patrimoine - art. R710-6 (V)
-
-	**Cité par**:
-
-	  - Code du patrimoine - art. R780-15 (M)
-	  - Code du patrimoine - art. R780-16 (Ab)
-
-
-###### Article R780-15
-
-A Saint-Barthélemy, la délégation permanente de la commission régionale du patrimoine et des sites prévue à l'article R.
-612-2 comprend sept membres : 
-
-1° Deux membres de droit : 
-
-a) Le directeur des affaires culturelles de Guadeloupe ; 
-
-b) Le chef du service chargé des monuments historiques de Guadeloupe ; 
-
-2° Cinq membres nommés par le représentant de l'Etat : 
-
-a) Deux membres désignés parmi les titulaires d'un mandat électif national ou local mentionnés à l'article R. 780-14 ; 
-
-b) Trois membres désignés parmi les personnalités mentionnées au c du 2° de l'article R. 710-6 et au dernier alinéa de
-l'article R. 780-14. ; 
-
-3° Les deuxième à sixième alinéas de l'article R. 790-14 sont remplacés par les six alinéas suivants : 
-
-1° Deux membres de droit : 
-
-a) Le directeur des affaires culturelles de Guadeloupe ; 
-
-b) Le chef du service chargé des monuments historiques de Guadeloupe ; 
-
-2° Cinq membres nommés par le représentant de l'Etat : 
-
-a) Deux membres désignés parmi les titulaires d'un mandat électif national ou local mentionnés à l'article R. 790-13 ; 
-
-b) Trois membres désignés parmi les personnalités mentionnées au c du 2° de l'article R. 710-6 et au dernier alinéa de
-l'article R. 790-13.
+2° Au 3°, remplacés par deux représentants d'associations ou de fondations représentées dans la collectivité et ayant pour
+objet de favoriser la connaissance, la protection et la conservation du patrimoine.
 
 **Liens relatifs à cet article**
 
@@ -44227,56 +43147,25 @@ l'article R. 790-13.
 
 	**Modifié par**:
 
-	  - Décret n°2014-1314 du 31 octobre 2014 - art. 26
-
-	**Abrogé par**:
-
 	  - Décret n°2017-456 du 29 mars 2017 - art. 6
 
 	**Cite**:
 
-	  - Code du patrimoine - art. R612-2
 	  - Code du patrimoine - art. R710-6
-	  - Code du patrimoine - art. R790-13
 
+	**Cité par**:
 
-###### Article R780-16
-
-Pour l'application à Saint-Barthélemy de l'article R. 612-6 : 
-
-1° Au premier alinéa, le mot : " onze " est remplacé par le mot : " huit " ; 
-
-2° Le 3° est ainsi rédigé : 
-
-" Trois personnalités désignées par le représentant de l'Etat parmi les membres de la commission mentionnés au c du 2° de
-l'article R. 710-6 et au dernier alinéa de l'article R. 780-14. "
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°2014-119 du 11 février 2014 - art.
-
-	**Créé par**:
-
-	  - Décret n°2014-119 du 11 février 2014 - art.
-
-	**Abrogé par**:
-
-	  - Décret n°2017-456 du 29 mars 2017 - art. 6
-
-	**Cite**:
-
-	  - Code du patrimoine - art. R612-6
-	  - Code du patrimoine - art. R710-6
-	  - Code du patrimoine - art. R780-14
+	  - Code du patrimoine - art. R780-15 (M)
+	  - Code du patrimoine - art. R780-16 (Ab)
 
 
 ###### Article R780-17
 
-Pour l'application à Saint-Barthélemy des articles R. 612-3, R. 621-8, R. 621-58, R. 621-67, R. 621-88 et R. 621-95, les
-références aux articles du code de l'urbanisme sont remplacées par les références aux dispositions ayant le même objet
-applicables localement.
+Pour l'application à Saint Barthélemy des articles R. 611-28, 
+R. 612-1, R. 621-8, R. 621-58, R. 621-67, R. 621-88, 
+R. 621-93 à R. 621-95, R. 621-98, R. 631-1, R. 631-4 et R. 631-6, les références au code de l'urbanisme, au plan local
+d'urbanisme et au plan de sauvegarde et de mise en valeur sont remplacées par les références aux dispositions ayant le même
+objet applicables localement.
 
 **Liens relatifs à cet article**
 
@@ -44284,18 +43173,23 @@ applicables localement.
 
 	  - Décret n°2014-119 du 11 février 2014 - art.
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2014-119 du 11 février 2014 - art.
+	  - Décret n°2017-456 du 29 mars 2017 - art. 6
 
 	**Cite**:
 
-	  - Code du patrimoine - art. R612-3 (V)
-	  - Code du patrimoine - art. R621-58 (V)
-	  - Code du patrimoine - art. R621-67 (V)
-	  - Code du patrimoine - art. R621-8 (V)
-	  - Code du patrimoine - art. R621-88 (V)
-	  - Code du patrimoine - art. R621-95 (V)
+	  - Code du patrimoine - art. R611-28
+	  - Code du patrimoine - art. R612-1
+	  - Code du patrimoine - art. R621-58
+	  - Code du patrimoine - art. R621-67
+	  - Code du patrimoine - art. R621-8
+	  - Code du patrimoine - art. R621-88
+	  - Code du patrimoine - art. R621-93
+	  - Code du patrimoine - art. R621-98
+	  - Code du patrimoine - art. R631-1
+	  - Code du patrimoine - art. R631-4
+	  - Code du patrimoine - art. R631-6
 
 
 ###### Article R780-18
@@ -44319,6 +43213,24 @@ localement.
 	  - Code général des collectivités territoriales - art. L2334-4 (V)
 	  - Code du patrimoine - art. R621-71 (V)
 	  - Code du patrimoine - art. R622-46 (V)
+
+
+###### Article R780-18-1
+
+Les enquêtes publiques conduites pour l'application des articles R. 621-93, R. 631-2 et D. 631-9 à Saint-Barthélemy sont
+réalisées selon la procédure prévue par la réglementation applicable localement.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2017-456 du 29 mars 2017 - art. 6
+
+	**Cite**:
+
+	  - Code du patrimoine - art. D631-9
+	  - Code du patrimoine - art. R621-93
+	  - Code du patrimoine - art. R631-2
 
 
 ###### Article R780-19
@@ -44388,7 +43300,7 @@ Les articles D. 122-1 à D. 122-4 ne sont pas applicables à Saint-Martin.
 
 ###### Article D790-11
 
-Les articles D. 611-17, D. 612-18, D. 623-1, D. 623-2, D. 641-1 et D. 643-1 ne sont pas applicables à Saint-Martin.
+Les articles D. 623-1, D. 623-2 et D. 634-1 ne sont pas applicables à Saint-Martin.
 
 **Liens relatifs à cet article**
 
@@ -44396,17 +43308,33 @@ Les articles D. 611-17, D. 612-18, D. 623-1, D. 623-2, D. 641-1 et D. 643-1 ne s
 
 	  - Décret n°2014-119 du 11 février 2014 - art.
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2014-119 du 11 février 2014 - art.
+	  - Décret n°2017-456 du 29 mars 2017 - art. 6
 
 	**Cite**:
 
-	  - Code du patrimoine - art. D611-17 (V)
-	  - Code du patrimoine - art. D612-18 (V)
-	  - Code du patrimoine - art. D623-1 (V)
-	  - Code du patrimoine - art. D641-1 (V)
-	  - Code du patrimoine - art. D643-1 (V)
+	  - Code du patrimoine - art. D623-1
+
+
+###### Article D790-16-1
+
+Pour l'application à Saint-Martin des articles D. 631-5, D. 631-7, D. 631-11 et D. 632-1, les références au code de
+l'urbanisme, au plan local d'urbanisme et au plan de sauvegarde et de mise en valeur sont remplacées par les références aux
+dispositions ayant le même objet applicables localement.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2017-456 du 29 mars 2017 - art. 6
+
+	**Cite**:
+
+	  - Code du patrimoine - art. D631-11
+	  - Code du patrimoine - art. D631-5
+	  - Code du patrimoine - art. D631-7
+	  - Code du patrimoine - art. D632-1
 
 
 ###### Article R790-1
@@ -44606,41 +43534,30 @@ références au représentant de l'Etat, assisté par le commandant de la zone m
 	  - Code du patrimoine - art. R532-13 (V)
 
 
-###### Article R790-12
+###### Article R790-10-1
 
-La commission régionale du patrimoine et des sites prévue à l'article R. 612-1 exerce, à Saint-Martin, outre les missions qui
-lui sont confiées par cet article, les missions qui sont confiées par l'article R. 612-10 à la commission départementale des
-objets mobiliers.
+Les articles R. 611-23 et R. 611-24 ne sont pas applicables à Saint-Martin.
 
 **Liens relatifs à cet article**
 
-	**Codifié par**:
-
-	  - Décret n°2014-119 du 11 février 2014 - art.
-
 	**Créé par**:
-
-	  - Décret n°2014-119 du 11 février 2014 - art.
-
-	**Abrogé par**:
 
 	  - Décret n°2017-456 du 29 mars 2017 - art. 6
 
 	**Cite**:
 
-	  - Code du patrimoine - art. R612-1
-	  - Code du patrimoine - art. R612-10
+	  - Code du patrimoine - art. R611-23
 
 
 ###### Article R790-13
 
-La commission régionale du patrimoine et des sites de Saint-Martin comprend les mêmes membres que la commission régionale du
-patrimoine et des sites de Guadeloupe prévue à l'article R. 710-6, à l'exception de ceux mentionnés : 
+La commission régionale du patrimoine et de l'architecture de Saint-Martin comprend les mêmes membres que la commission
+régionale du patrimoine et de l'architecture de Guadeloupe prévue à l'article R. 710-6, à l'exception de ceux mentionnés : 
 
-― au a et au b du 2°, remplacés par trois titulaires d'un mandat électif national ou local de la collectivité ; 
+1° Au 2°, remplacés par deux titulaires d'un mandat électif national ou local de la collectivité ; 
 
-― au d du 2°, remplacés par deux représentants d'associations ou de fondations représentées dans la collectivité et ayant
-pour objet de favoriser la connaissance, la protection et la conservation du patrimoine.
+2° Au 3°, remplacés par deux représentants d'associations ou de fondations représentées dans la collectivité et ayant pour
+objet de favoriser la connaissance, la protection et la conservation du patrimoine.
 
 **Liens relatifs à cet article**
 
@@ -44648,9 +43565,9 @@ pour objet de favoriser la connaissance, la protection et la conservation du pat
 
 	  - Décret n°2014-119 du 11 février 2014 - art.
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2014-119 du 11 février 2014 - art.
+	  - Décret n°2017-456 du 29 mars 2017 - art. 6
 
 	**Cite**:
 
@@ -44663,97 +43580,36 @@ pour objet de favoriser la connaissance, la protection et la conservation du pat
 	  - Code du patrimoine - art. R790-15 (Ab)
 
 
-###### Article R790-14
+###### Article R790-16
 
-A Saint-Martin, la délégation permanente de la commission régionale du patrimoine et des sites prévue à l'article R. 612-2
-comprend sept membres : 
-
-1° Deux membres de droit : 
-
-a) Le directeur des affaires culturelles de Guadeloupe ; 
-
-b) Le chef du service chargé des monuments historiques de Guadeloupe ; 
-
-2° Cinq membres nommés par le représentant de l'Etat : 
-
-a) Deux membres désignés parmi les titulaires d'un mandat électif national ou local mentionnés à l'article R. 790-13 ; 
-
-b) Trois membres désignés parmi les personnalités mentionnées au c du 2° de l'article R. 710-6 et au dernier alinéa de
-l'article R. 790-13.
+Pour l'application à Saint-Martin des articles R. 611-28, 
+R. 612-1, R. 621-8, R. 621-58, R. 621-67, R. 621-88, R. 621-93 à R. 621-95, R. 621-98, R. 631-1, R. 631-4 et R. 631-6, les
+références au code de l'urbanisme, au plan local d'urbanisme et au plan de sauvegarde et de mise en valeur sont remplacées
+par les références aux dispositions ayant le même objet applicables localement.
 
 **Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°2014-119 du 11 février 2014 - art.
 
 	**Modifié par**:
 
-	  - Décret n°2014-1314 du 31 octobre 2014 - art. 26
-
-	**Abrogé par**:
-
 	  - Décret n°2017-456 du 29 mars 2017 - art. 6
 
 	**Cite**:
 
-	  - Code du patrimoine - art. R612-2
-	  - Code du patrimoine - art. R710-6
-	  - Code du patrimoine - art. R790-13
-
-
-###### Article R790-15
-
-Pour l'application à Saint-Martin de l'article R. 612-6 : 
-
-1° Au premier alinéa, le mot : " onze " est remplacé par le mot : " huit " ; 
-
-2° Le 3° est ainsi rédigé : 
-
-" Trois personnalités désignées par le représentant de l'Etat parmi les membres de la commission mentionnés au c du 2° de
-l'article R. 710-6 et au dernier alinéa de l'article R. 790-13. "
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°2014-119 du 11 février 2014 - art.
-
-	**Créé par**:
-
-	  - Décret n°2014-119 du 11 février 2014 - art.
-
-	**Abrogé par**:
-
-	  - Décret n°2017-456 du 29 mars 2017 - art. 6
-
-	**Cite**:
-
-	  - Code du patrimoine - art. R612-6
-	  - Code du patrimoine - art. R710-6
-	  - Code du patrimoine - art. R790-13
-
-
-###### Article R790-16
-
-Pour l'application à Saint-Martin des articles R. 612-3, R. 621-8, R. 621-58, R. 621-67, R. 621-88 et R. 621-95, les
-références aux articles du code de l'urbanisme sont remplacées par les références aux dispositions ayant le même objet
-applicables localement.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°2014-119 du 11 février 2014 - art.
-
-	**Créé par**:
-
-	  - Décret n°2014-119 du 11 février 2014 - art.
-
-	**Cite**:
-
-	  - Code du patrimoine - art. R612-3 (V)
-	  - Code du patrimoine - art. R621-58 (V)
-	  - Code du patrimoine - art. R621-67 (V)
-	  - Code du patrimoine - art. R621-8 (V)
-	  - Code du patrimoine - art. R621-88 (V)
-	  - Code du patrimoine - art. R621-95 (V)
+	  - Code du patrimoine - art. R611-28
+	  - Code du patrimoine - art. R612-1
+	  - Code du patrimoine - art. R621-58
+	  - Code du patrimoine - art. R621-67
+	  - Code du patrimoine - art. R621-8
+	  - Code du patrimoine - art. R621-88
+	  - Code du patrimoine - art. R621-93
+	  - Code du patrimoine - art. R621-98
+	  - Code du patrimoine - art. R631-1
+	  - Code du patrimoine - art. R631-4
+	  - Code du patrimoine - art. R631-6
 
 
 ###### Article R790-17
