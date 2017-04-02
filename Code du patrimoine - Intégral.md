@@ -1,5 +1,5 @@
 # Code du patrimoine  
-Version Consolidée au 2017-04-01
+Version Consolidée au 2017-04-03
 
 # Partie législative
 
@@ -27085,6 +27085,124 @@ l'objet déposé pour une durée limitée après accord du dépositaire.
 	  - Décret n°2011-574 du 24 mai 2011 Annexe - art.
 
 
+##### Sous-section 3 : Conditions d'attribution et de retrait des labels “ Pôle national de référence ” et “ Pôle national de référence numérique ” 
+
+###### Article R451-35
+
+Le label “ Pôle national de référence ” ou “ Pôle national de référence numérique ” est attribué, dans le but de rassembler,
+conserver et valoriser des collections non présentées au public, à une personne morale bénéficiant de l'appellation “ musée
+de France ” qui en fait la demande et qui remplit les conditions suivantes : 
+
+1° Présenter un projet scientifique et culturel spécifique justifiant la création d'un pôle national de référence à partir de
+l'un des thèmes dominants de la collection du musée de France ; 
+
+2° Disposer d'une personne responsable du pôle qui présente les qualifications requises pour exercer des missions de
+conservation au sens de l'article R. 442-5 ou de l'article R. 442-6 ou justifiant d'une expertise scientifique liée à la
+collection objet de la demande ; 
+
+3° Pour le label “ Pôle national de référence numérique ” : 
+
+a) Avoir numérisé la collection dont il est propriétaire et pour laquelle il sollicite le label sur un site internet en
+assurant une reproduction haute définition et autoriser l'accès à ce site à partir du portail du catalogue collectif des
+musées de France ; 
+
+b) S'engager à numériser les collections mises à sa disposition par d'autres musées de France pour lesquelles il sollicite le
+label dans un délai précisé dans le projet scientifique et culturel. 
+
+Le label est attribué pour une durée de dix ans.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2017-469 du 31 mars 2017 - art. 1
+
+	**Cite**:
+
+	  - Code du patrimoine - art. R442-5
+
+	**Cité par**:
+
+	  - Code du patrimoine - art. R451-37 (V)
+
+
+###### Article R451-36
+
+La personne morale qui sollicite le label “ Pôle national de référence ” ou “ Pôle national de référence numérique ” adresse
+une demande au ministre chargé de la culture.
+
+La demande est accompagnée :
+
+1° D'un projet scientifique et culturel spécifique exposant le programme, les thématiques et les moyens alloués pour la
+constitution du pôle ;
+
+2° D'un inventaire des biens de la collection objet de la demande ;
+
+3° Pour une demande d'attribution du label “ Pôle national de référence ”, de la liste et des justificatifs des prêts ou
+dépôts consentis par d'autres musées de France pour concourir à la constitution du pôle ;
+
+4° Pour une demande d'attribution du label “ Pôle national de référence numérique ”, des justificatifs établissant l'accord
+des propriétaires pour la reproduction et la diffusion de l'image de leurs œuvres sur le site internet du musée, dans le
+respect des droits d'auteur applicables.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2017-469 du 31 mars 2017 - art. 1
+
+	**Cité par**:
+
+	  - Code du patrimoine - art. R451-37 (V)
+
+
+###### Article R451-37
+
+I.-Le ministre chargé de la culture accuse réception du dossier de demande dès lors qu'il contient les éléments définis à
+l'article R. 451-36 ou, le cas échéant, informe le demandeur des pièces manquantes. En l'absence d'une telle information dans
+un délai d'un mois suivant la saisine du ministre, le dossier de demande est réputé complet. 
+
+II.-Dans un délai de quatre mois au plus tard à compter de la réception du dossier complet, le grand département patrimonial
+concerné établit un rapport sur la conformité de la demande de label aux conditions fixées à l'article R. 451-35. 
+
+III.-Dans un délai de huit mois au plus tard à compter de la réception du dossier complet, le Haut Conseil des musées de
+France rend son avis sur la demande de label. Passé ce délai, il est réputé avoir émis un avis favorable. 
+
+IV.-Dans un délai de neuf mois au plus tard à compter de la réception du dossier complet, le ministre chargé de la culture
+notifie au demandeur sa décision. 
+
+V.-L'arrêté du ministre chargé de la culture attribuant le label précise la dénomination de celui-ci en fonction de la
+thématique choisie par le musée de France. Il est publié au Journal officiel de la République française.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2017-469 du 31 mars 2017 - art. 1
+
+	**Cite**:
+
+	  - Code du patrimoine - art. R451-35
+	  - Code du patrimoine - art. R451-36
+
+
+###### Article R451-38
+
+Le ministre chargé de la culture peut retirer, par arrêté, le label après avis motivé du Haut Conseil des musées de France :
+
+1° Soit de sa propre initiative, lorsqu'il est constaté que les conditions ayant permis leur attribution ne sont plus
+remplies. Dans ce cas, un rapport est établi par le grand département patrimonial. Il est transmis au bénéficiaire du label
+qui dispose de la possibilité de faire valoir ses observations préalablement à l'avis du Haut Conseil des musées de France ;
+
+2° Soit à la demande du musée de France attributaire du label.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2017-469 du 31 mars 2017 - art. 1
+
+
 #### Chapitre II : Conservation et restauration
 
 ##### Section 1 : Dispositions générales
@@ -34021,7 +34139,1053 @@ que les frais de fonctionnement relatifs aux dépenses courantes des opérations
 	  - Décret n°2011-574 du 24 mai 2011 Annexe - art.
 
 
-## LIVRE VI : MONUMENTS HISTORIQUES,  SITES ET ESPACES PROTÉGÉS
+## LIVRE VI : MONUMENTS HISTORIQUES,  SITES PATRIMONIAUX REMARQUABLES ET QUALITÉ ARCHITECTURALE
+
+### TITRE Ier : DISPOSITIONS GÉNÉRALES
+
+#### Chapitre Ier : Institutions
+
+##### Section 1 : Commission nationale du patrimoine et de l'architecture
+
+###### Article R611-1
+
+La Commission nationale du patrimoine et de l'architecture comprend sept sections :
+
+1° Première section : sites patrimoniaux remarquables et abords ;
+
+2° Deuxième section : protection des immeubles au titre des monuments historiques, domaines nationaux et aliénation du
+patrimoine de l'Etat ;
+
+3° Troisième section : projets architecturaux et travaux sur les immeubles ;
+
+4° Quatrième section : protection des objets mobiliers au titre des monuments historiques et travaux ;
+
+5° Cinquième section : protection des instruments de musique au titre des monuments historiques et travaux ;
+
+6° Sixième section : protection des grottes ornées au titre des monuments historiques et travaux ;
+
+7° Septième section : parcs et jardins.
+
+Elle comprend également un comité des sections qui examine les questions autres que celles qui relèvent de la compétence des
+sections et est consulté pour avis dans les conditions prévues à l'article R. 611-12.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°2011-574 du 24 mai 2011 Annexe - art.
+
+	**Modifié par**:
+
+	  - Décret n°2017-456 du 29 mars 2017 - art. 3
+
+
+###### Article R611-2
+
+La Commission nationale du patrimoine et de l'architecture comprend des membres de droit et des membres nommés par arrêté du
+ministre chargé de la culture pour une durée de cinq ans.
+
+Pour chacun des membres nommés autres que les personnalités qualifiées, un suppléant est désigné dans les mêmes conditions ;
+il siège en cas d'absence ou d'empêchement du titulaire. Le suppléant d'un membre titulaire nommé à raison de son mandat
+électif local peut être choisi parmi les membres d'une assemblée autre que celle à laquelle appartient le membre titulaire.
+
+Les membres titulaires choisis à raison de leur mandat électif local, ainsi que leurs suppléants, sont nommés après
+consultation, selon le cas, du président de l'Association des maires de France, de l'Assemblée des communautés de France, de
+l'Assemblée des départements de France ou de l'Association des régions de France.
+
+Les membres peuvent appartenir à plusieurs sections. Ils ne peuvent siéger dans la même section à des titres différents.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°2011-574 du 24 mai 2011 Annexe - art.
+
+	**Modifié par**:
+
+	  - Décret n°2017-456 du 29 mars 2017 - art. 3
+
+	**Cité par**:
+
+	  - Code du patrimoine - art. R611-3 (V)
+
+
+###### Article R611-3
+
+Un député et un sénateur sont désignés membres de la Commission nationale du patrimoine et de l'architecture par leur
+assemblée respective.
+
+Le président de la commission est nommé parmi ces deux parlementaires par arrêté du ministre chargé de la culture.
+
+En cas d'empêchement du président, ses fonctions sont assurées par le directeur général des patrimoines ou son représentant.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°2011-574 du 24 mai 2011 Annexe - art.
+
+	**Modifié par**:
+
+	  - Décret n°2017-456 du 29 mars 2017 - art. 3
+
+	**Cite**:
+
+	  - Code du patrimoine - art. R611-2 (V)
+
+
+###### Article R611-4
+
+La section “ sites patrimoniaux remarquables et abords ” comprend les membres suivants :
+
+1° Dix représentants de l'Etat :
+
+a) Six membres de droit :
+
+– le directeur général des patrimoines ;
+
+– le directeur général de l'aménagement, du logement et de la nature ;
+
+– le directeur de l'habitat, de l'urbanisme et des paysages ;
+
+– le responsable du service de l'architecture ;
+
+– le chef de l'inspection des patrimoines ;
+
+– le sous-directeur des monuments historiques et des espaces protégés ;
+
+b) Quatre membres nommés :
+
+– un membre du Conseil d'Etat nommé sur proposition du vice-président du Conseil d'Etat ;
+
+– un membre de l'inspection des patrimoines ;
+
+– deux membres des services déconcentrés du ministère chargé de la culture, dont au moins un architecte des Bâtiments de
+France ;
+
+2° Cinq membres titulaires d'un mandat électif :
+
+– deux membres titulaires d'un mandat électif national, désignés dans les conditions prévues à l'article R. 611-3 ;
+
+– trois membres titulaires d'un mandat électif local, nommés dans les conditions prévues à l'article R. 611-2 ;
+
+3° Cinq représentants d'associations ou de fondations ayant pour objet de favoriser la connaissance, la protection, la
+conservation et la mise en valeur du patrimoine ;
+
+4° Six personnalités qualifiées, dont au moins deux architectes ayant des compétences en matière de patrimoine et d'urbanisme
+et au moins une personnalité ayant des compétences en matière d'habitat.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°2011-574 du 24 mai 2011 Annexe - art.
+
+	**Modifié par**:
+
+	  - Décret n°2017-456 du 29 mars 2017 - art. 3
+
+
+###### Article R611-5
+
+La section “ protection des immeubles au titre des monuments historiques, domaines nationaux et aliénation du patrimoine de
+l'Etat ” comprend les membres suivants :
+
+1° Dix représentants de l'Etat :
+
+a) Cinq membres de droit :
+
+La section “ protection des immeubles au titre des monuments historiques, domaines nationaux et aliénation du patrimoine de
+l'Etat ” comprend les membres suivants :
+
+1° Dix représentants de l'Etat :
+
+a) Cinq membres de droit :
+
+– le directeur général des patrimoines ;
+
+– le directeur général des finances publiques ;
+
+– le chef de l'inspection des patrimoines ;
+
+– le sous-directeur des monuments historiques et des espaces protégés ;
+
+– le chef de la mission de l'inventaire général du patrimoine culturel ;
+
+b) Cinq membres nommés :
+
+– un membre du Conseil d'Etat nommé sur proposition du vice-président du Conseil d'Etat ;
+
+– deux membres de l'inspection des patrimoines ;
+
+– deux membres des services déconcentrés du ministère chargé de la culture dont au moins un conservateur régional des
+monuments historiques ;
+
+2° Cinq membres titulaires d'un mandat électif :
+
+– deux membres titulaires d'un mandat électif national, désignés dans les conditions prévues à l'article R. 611-3 ;
+
+– trois membres titulaires d'un mandat électif local, nommés dans les conditions prévues à l'article R. 611-2 ;
+
+3° Cinq représentants d'associations ou de fondations ayant pour objet de favoriser la connaissance, la protection, la
+conservation et la mise en valeur du patrimoine ;
+
+4° Six personnalités qualifiées.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°2011-574 du 24 mai 2011 Annexe - art.
+
+	**Modifié par**:
+
+	  - Décret n°2017-456 du 29 mars 2017 - art. 3
+
+
+###### Article R611-6
+
+La section “ projets architecturaux et travaux sur les immeubles ” comprend les membres suivants :
+
+1° Dix représentants de l'Etat :
+
+a) Cinq membres de droit :
+
+– le directeur général des patrimoines ;
+
+– le responsable du service de l'architecture ;
+
+– le chef de l'inspection des patrimoines ;
+
+– le sous-directeur des monuments historiques et des espaces protégés ;
+
+– le sous-directeur de l'archéologie ;
+
+b) Cinq membres nommés :
+
+– trois membres de l'inspection des patrimoines ;
+
+– deux membres des services déconcentrés du ministère chargé de la culture dont un architecte des Bâtiments de France et un
+conservateur régional des monuments historiques ;
+
+2° Cinq membres titulaires d'un mandat électif :
+
+– deux membres titulaires d'un mandat électif national, désignés dans les conditions prévues à l'article R. 611-3 ;
+
+– trois membres titulaires d'un mandat électif local, nommés dans les conditions prévues à l'article R. 611-2 ;
+
+3° Cinq représentants d'associations ou de fondations ayant pour objet de favoriser la connaissance, la protection, la
+conservation et la mise en valeur du patrimoine ;
+
+4° Six personnalités qualifiées, dont au moins deux architectes en chef des monuments historiques et un autre architecte.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°2011-574 du 24 mai 2011 Annexe - art.
+
+	**Modifié par**:
+
+	  - Décret n°2017-456 du 29 mars 2017 - art. 3
+
+
+###### Article R611-7
+
+La section “ protection des objets mobiliers au titre des monuments historiques et travaux ” comprend les membres suivants :
+
+1° Dix représentants de l'Etat :
+
+a) Cinq membres de droit :
+
+– le directeur général des patrimoines ;
+
+– le responsable du service des musées de France ;
+
+– le chef de l'inspection des patrimoines ;
+
+– le sous-directeur des monuments historiques et des espaces protégés ;
+
+– le chef de la mission de l'inventaire général du patrimoine culturel ;
+
+b) Cinq membres nommés :
+
+– trois membres de l'inspection des patrimoines ;
+
+– deux membres des services déconcentrés du ministère chargé de la culture dont au moins un conservateur du patrimoine de la
+spécialité monuments historiques ;
+
+2° Trois membres titulaires d'un mandat électif :
+
+– deux membres titulaires d'un mandat électif national, désignés dans les conditions prévues à l'article R. 611-3 ;
+
+– un membre titulaire d'un mandat électif local, nommé dans les conditions prévues à l'article R. 611-2 ;
+
+3° Trois représentants d'associations ou de fondations ayant pour objet de favoriser la connaissance, la protection, la
+conservation et la mise en valeur du patrimoine ;
+
+4° Dix personnalités qualifiées dont au moins un conservateur des antiquités et objets d'art.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°2011-574 du 24 mai 2011 Annexe - art.
+
+	**Modifié par**:
+
+	  - Décret n°2017-456 du 29 mars 2017 - art. 3
+
+
+###### Article R611-8
+
+La section " protection des instruments de musique au titre des monuments historiques et travaux " comprend les membres
+suivants :
+
+1° Dix représentants de l'Etat :
+
+a) Cinq membres de droit :
+
+– le directeur général des patrimoines ;
+
+– le directeur général de la création artistique ;
+
+– le chef de l'inspection des patrimoines ;
+
+– le sous-directeur des monuments historiques et des espaces protégés ;
+
+– le chef de la mission de l'inventaire général du patrimoine culturel ;
+
+b) Cinq membres nommés :
+
+– deux membres de l'inspection des patrimoines ;
+
+– un membre de l'inspection de la création artistique ;
+
+– deux membres des services déconcentrés du ministère chargé de la culture dont au moins un conservateur du patrimoine de la
+spécialité monuments historiques ;
+
+2° Trois membres titulaires d'un mandat électif :
+
+– deux membres titulaires d'un mandat électif national, désignés dans les conditions prévues à l'article R. 611-3 ;
+
+– un membre titulaire d'un mandat électif local, nommé dans les conditions prévues à l'article R. 611-2 ;
+
+3° Trois représentants d'associations ou de fondations ayant pour objet de favoriser la connaissance, la protection, la
+conservation et la mise en valeur du patrimoine ;
+
+4° Dix personnalités qualifiées dont au moins un conservateur des antiquités et objets d'art.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°2011-574 du 24 mai 2011 Annexe - art.
+
+	**Modifié par**:
+
+	  - Décret n°2017-456 du 29 mars 2017 - art. 3
+
+
+###### Article R611-9
+
+La section “ protection des grottes ornées au titre des monuments historiques et travaux ” comprend les membres suivants :
+
+1° Dix représentants de l'Etat :
+
+a) Cinq membres de droit :
+
+– le directeur général des patrimoines ;
+
+– le chef de l'inspection des patrimoines ;
+
+– le sous-directeur de l'archéologie ;
+
+– le sous-directeur des monuments historiques et des espaces protégés ;
+
+– le responsable du Laboratoire de recherche des monuments historiques ;
+
+b) Cinq membres nommés :
+
+– trois membres de l'inspection des patrimoines ;
+
+– deux membres des services déconcentrés du ministère chargé de la culture dont au moins un conservateur du patrimoine de la
+spécialité archéologie ;
+
+2° Trois membres titulaires d'un mandat électif :
+
+– deux membres titulaires d'un mandat électif national, désignés dans les conditions prévues à l'article R. 611-3 ;
+
+– un membre titulaire d'un mandat électif local, nommé dans les conditions prévues à l'article R. 611-2 ;
+
+3° Trois représentants d'associations ou de fondations ayant pour objet de favoriser la connaissance, la protection, la
+conservation et la mise en valeur du patrimoine ;
+
+4° Dix personnalités qualifiées.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°2011-574 du 24 mai 2011 Annexe - art.
+
+	**Modifié par**:
+
+	  - Décret n°2017-456 du 29 mars 2017 - art. 3
+
+
+###### Article R611-10
+
+La section “ parcs et jardins ” comprend les membres suivants :
+
+1° Dix représentants de l'Etat :
+
+a) Six membres de droit :
+
+– le directeur général des patrimoines ;
+
+– le directeur général de la création artistique ;
+
+– le directeur général de la performance économique et environnementale des entreprises ;
+
+– le directeur général de l'aménagement, du logement et de la nature ;
+
+– le chef de l'inspection des patrimoines ;
+
+– le sous-directeur des monuments historiques et des espaces protégés ;
+
+b) Quatre membres nommés :
+
+– deux membres des services déconcentrés du ministère chargé de la culture dont un architecte des Bâtiments de France et un
+conservateur du patrimoine de la spécialité monuments historiques ;
+
+– un membre de l'inspection des patrimoines ;
+
+– un jardinier en chef ;
+
+2° Cinq membres titulaires d'un mandat électif :
+
+– deux membres titulaires d'un mandat électif national, désignés dans les conditions prévues à l'article R. 611-3 ;
+
+– trois membres titulaires d'un mandat électif local, nommés dans les conditions prévues à l'article R. 611-2 ;
+
+3° Cinq représentants d'associations ou de fondations ayant pour objet de favoriser la connaissance, la protection, la
+conservation et la mise en valeur du patrimoine ;
+
+4° Six personnalités qualifiées dont au moins un architecte en chef des monuments historiques.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°2011-574 du 24 mai 2011 Annexe - art.
+
+	**Modifié par**:
+
+	  - Décret n°2017-456 du 29 mars 2017 - art. 3
+
+
+###### Article R611-11
+
+Le comité des sections comprend les membres suivants :
+
+1° Six membres de droit :
+
+– le président de la commission ;
+
+– le directeur général des patrimoines ;
+
+– le responsable du service de l'architecture ;
+
+– le chef de l'inspection des patrimoines ;
+
+– le sous-directeur des monuments historiques et des espaces protégés ;
+
+– le sous-directeur de l'archéologie ;
+
+2° Un membre du Conseil d'Etat nommé sur proposition du vice-président du Conseil d'Etat ;
+
+3° Deux représentants de chaque section, autres que ceux mentionnés aux 1° et 2°, nommés par arrêté du ministre chargé de la
+culture dont au moins cinq représentants d'associations ou de fondations ayant pour objet de favoriser la connaissance, la
+protection, la conservation et la mise en valeur du patrimoine.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°2011-574 du 24 mai 2011 Annexe - art.
+
+	**Modifié par**:
+
+	  - Décret n°2017-456 du 29 mars 2017 - art. 3
+
+
+###### Article R611-12
+
+Après avis du comité des sections, le règlement intérieur de la commission est fixé, sur proposition de son président, par
+arrêté du ministre chargé de la culture.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°2011-574 du 24 mai 2011 Annexe - art.
+
+	**Modifié par**:
+
+	  - Décret n°2017-456 du 29 mars 2017 - art. 3
+
+
+###### Article R611-13
+
+Les sections et le comité des sections se réunissent sur convocation du président.
+
+Le président convoque également une section ou le comité des sections à la demande du ministre chargé de la culture ou de la
+majorité des membres de la section ou du comité des sections.
+
+Plusieurs sections peuvent être réunies conjointement sur convocation du président.
+
+L'ordre du jour est fixé conjointement par le président et le directeur général des patrimoines ou son représentant.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°2011-574 du 24 mai 2011 Annexe - art.
+
+	**Modifié par**:
+
+	  - Décret n°2017-456 du 29 mars 2017 - art. 3
+
+
+###### Article R611-14
+
+Le directeur régional des affaires culturelles ou son représentant est entendu par la Commission nationale du patrimoine et
+de l'architecture lorsqu'elle procède à l'examen d'affaires relevant de son ressort territorial.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°2011-574 du 24 mai 2011 Annexe - art.
+
+	**Modifié par**:
+
+	  - Décret n°2017-456 du 29 mars 2017 - art. 3
+
+
+###### Article R611-15
+
+Le scrutin secret est de droit pour l'émission des avis lorsqu'il est demandé par le tiers au moins des membres présents.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°2011-574 du 24 mai 2011 Annexe - art.
+
+	**Modifié par**:
+
+	  - Décret n°2017-456 du 29 mars 2017 - art. 3
+
+
+###### Article R611-16
+
+Le secrétariat de la Commission nationale du patrimoine et de l'architecture est assuré par la direction générale des
+patrimoines. Les procès-verbaux des séances sont signés par le président de séance.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°2011-574 du 24 mai 2011 Annexe - art.
+
+	**Modifié par**:
+
+	  - Décret n°2017-456 du 29 mars 2017 - art. 3
+
+
+##### Section 2 : Commission régionale du patrimoine et de l'architecture
+
+###### Article R611-17
+
+La commission régionale du patrimoine et de l'architecture comprend trois sections :
+
+1° Première section : protection et valorisation de l'architecture et du patrimoine immobilier ;
+
+2° Deuxième section : projets architecturaux et travaux sur immeubles ;
+
+3° Troisième section : protection des objets mobiliers et travaux.
+
+La première section est compétente en matière de protection des immeubles au titre des monuments historiques, de plan de
+valorisation de l'architecture et du patrimoine, d'attribution de labels, de périmètre délimité des abords et de documents
+d'urbanisme.
+
+La deuxième section est compétente en matière de projets architecturaux, d'études et de travaux sur immeubles, en cas de
+désaccord entre l'autorité compétente en matière d'autorisations d'urbanisme et l'architecte des Bâtiments de France et en
+cas de dérogation au document d'urbanisme pour les projets dont la réalisation présente un intérêt public du point de vue de
+la qualité ainsi que de l'innovation ou de la création architecturales.
+
+La troisième section est compétente en matière de protection des objets mobiliers au titre des monuments historiques, de
+conservation préventive, d'études et de travaux s'y rapportant.
+
+La commission régionale du patrimoine et de l'architecture comprend également un comité des sections qui examine les
+questions autres que celles qui relèvent de la compétence des sections.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2017-456 du 29 mars 2017 - art. 3
+
+	**Cité par**:
+
+	  - Code du patrimoine - art. R720-9 (V)
+
+
+###### Article R611-18
+
+La commission régionale du patrimoine et de l'architecture comprend des membres de droit et des membres nommés par arrêté du
+préfet de région pour une durée de cinq ans.
+
+Pour chacun des membres nommés autres que les personnalités qualifiées, un suppléant est désigné dans les mêmes conditions ;
+il siège en cas d'absence ou d'empêchement du titulaire. Le suppléant d'un membre titulaire nommé à raison de son mandat
+électif national ou local peut, s'il s'agit d'un mandat électif local, être choisi parmi les membres d'une assemblée locale
+autre que celle à laquelle appartient le membre titulaire.
+
+Les membres titulaires choisis à raison de leur mandat électif national ou local, ainsi que leurs suppléants, sont, s'il
+s'agit d'un mandat électif local, nommés après consultation, selon le cas, du président de l'Association des maires de
+France, de l'Assemblée des communautés de France, de l'Assemblée des départements de France et de l'Association des régions
+de France.
+
+Les membres peuvent appartenir à plusieurs sections. Ils ne peuvent siéger dans la même section à des titres différents.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2017-456 du 29 mars 2017 - art. 3
+
+
+###### Article R611-19
+
+Le président de la commission régionale du patrimoine et de l'architecture est choisi par le préfet de région parmi les
+membres titulaires d'un mandat électif national ou local.
+
+En cas d'empêchement du président, ses fonctions sont assurées par le préfet de région ou son représentant.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2017-456 du 29 mars 2017 - art. 3
+
+
+###### Article R611-20
+
+La section “ protection et valorisation de l'architecture et du patrimoine immobilier ” comprend les membres suivants :
+
+1° Neuf représentants de l'Etat :
+
+a) Six membres de droit :
+
+– le préfet de région ;
+
+– le directeur régional des affaires culturelles ;
+
+– le directeur régional de l'environnement, de l'aménagement et du logement ;
+
+– le chef de l'inspection des patrimoines ;
+
+– le conservateur régional des monuments historiques ;
+
+– le conservateur régional de l'archéologie ;
+
+b) Trois membres nommés :
+
+– un architecte des Bâtiments de France ;
+
+– un conservateur du patrimoine de la spécialité monuments historiques ;
+
+– un responsable d'un service déconcentré chargé de l'architecture ;
+
+2° Six membres titulaires d'un mandat électif national ou local, dont le président de la commission ;
+
+3° Six représentants d'associations ou de fondations ayant pour objet de favoriser la connaissance, la protection, la
+conservation et la mise en valeur du patrimoine ;
+
+4° Six personnalités qualifiées, dont au moins deux architectes et un membre du service régional chargé des opérations
+d'inventaire du patrimoine culturel.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2017-456 du 29 mars 2017 - art. 3
+
+
+###### Article R611-21
+
+La section " projets architecturaux et travaux sur immeubles " comprend les membres suivants :
+
+1° Neuf représentants de l'Etat :
+
+a) Six membres de droit :
+
+– le préfet de région ;
+
+– le directeur régional des affaires culturelles ;
+
+– le directeur régional de l'environnement, de l'aménagement et du logement ;
+
+– le chef de l'inspection des patrimoines ;
+
+– le conservateur régional des monuments historiques ;
+
+– le conservateur régional de l'archéologie ;
+
+b) Trois membres nommés :
+
+– un architecte des Bâtiments de France ;
+
+– un responsable d'un service déconcentré chargé de l'architecture ;
+
+– un conservateur du patrimoine de la spécialité monuments historiques ;
+
+2° Six membres titulaires d'un mandat électif national ou local, dont le président de la commission ;
+
+3° Six représentants d'associations ou de fondations ayant pour objet de favoriser la connaissance, la protection, la
+conservation et la mise en valeur du patrimoine ;
+
+4° Six personnalités qualifiées, dont au moins trois architectes.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2017-456 du 29 mars 2017 - art. 3
+
+
+###### Article R611-22
+
+La section “ protection des objets mobiliers et travaux ” comprend les membres suivants :
+
+1° Neuf représentants de l'Etat :
+
+a) Cinq membres de droit :
+
+– le préfet de région ;
+
+– le directeur régional des affaires culturelles ;
+
+– le chef de l'inspection des patrimoines ;
+
+– le conservateur régional des monuments historiques ;
+
+– le conservateur régional de l'archéologie ;
+
+b) Quatre membres nommés :
+
+– deux conservateurs du patrimoine dont au moins un de la spécialité monuments historiques ;
+
+– un architecte des Bâtiments de France ;
+
+– un membre des services de la police ou de la gendarmerie nationales ;
+
+2° Six membres titulaires d'un mandat électif national ou local, dont le président de la commission ;
+
+3° Six représentants d'associations ou de fondations ayant pour objet de favoriser la connaissance, la protection, la
+conservation et la mise en valeur du patrimoine ;
+
+4° Six personnalités qualifiées dont au moins deux conservateurs des antiquités et objets d'art et un membre du service
+régional chargé des opérations d'inventaire du patrimoine culturel.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2017-456 du 29 mars 2017 - art. 3
+
+
+###### Article R611-23
+
+Au sein de chaque section de la commission régionale du patrimoine et de l'architecture, une délégation permanente peut
+examiner les demandes ou propositions relevant des attributions de la section. Elle peut émettre un avis défavorable au nom
+de la commission ou se prononcer pour le renvoi de ces demandes ou propositions devant la section réunie en formation
+plénière.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2017-456 du 29 mars 2017 - art. 3
+
+	**Cité par**:
+
+	  - Code du patrimoine - art. R710-7 (V)
+	  - Code du patrimoine - art. R730-7 (V)
+	  - Code du patrimoine - art. R780-11-1 (V)
+	  - Code du patrimoine - art. R790-10-1 (V)
+
+
+###### Article R611-24
+
+La délégation permanente de chacune des sections comprend les membres suivants :
+
+1° Quatre représentants de l'Etat :
+
+a) Deux membres de droit ;
+
+– le directeur régional des affaires culturelles ;
+
+– le conservateur régional des monuments historiques ;
+
+b) Deux membres désignés par le préfet de région au sein des membres nommés de la section concernée ;
+
+2° Deux membres titulaires d'un mandat électif national ou local :
+
+– le président de la commission ;
+
+– un membre désigné par le préfet de région parmi les autres titulaires d'un mandat électif national ou local membres de la
+section concernée ;
+
+3° Deux représentants d'associations ou de fondations ayant pour objet de favoriser la connaissance, la protection, la
+conservation et la mise en valeur du patrimoine, désignés par le préfet de région parmi les représentants d'associations ou
+de fondations de la section concernée ;
+
+4° Deux personnalités qualifiées désignées par le préfet de région parmi les personnalités qualifiées de la section
+concernée.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2017-456 du 29 mars 2017 - art. 3
+
+
+###### Article R611-25
+
+Le comité des sections comprend les membres suivants :
+
+1° Quatre membres de droit :
+
+– le président de la commission ;
+
+– le préfet de région ;
+
+– le directeur régional des affaires culturelles ;
+
+– le conservateur régional des monuments historiques ;
+
+2° Deux membres de chaque section, autres que les membres de droit, désignés par le préfet de région dont au moins deux
+représentants d'associations ou de fondations ayant pour objet de favoriser la connaissance, la protection, la conservation
+et la mise en valeur du patrimoine.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2017-456 du 29 mars 2017 - art. 3
+
+
+###### Article R611-26
+
+Après avis du comité des sections, le règlement intérieur de la commission est fixé, sur proposition de son président, par
+arrêté du préfet de région
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2017-456 du 29 mars 2017 - art. 3
+
+
+###### Article R611-27
+
+Les sections et leur délégation permanente se réunissent sur convocation du président.
+
+Le président convoque également une section ou le comité des sections à la demande du préfet de région ou de la majorité des
+membres de la section ou du comité des sections.
+
+Plusieurs sections peuvent être réunies conjointement sur convocation du président.
+
+L'ordre du jour est fixé conjointement par le président et le préfet de région ou son représentant.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2017-456 du 29 mars 2017 - art. 3
+
+
+###### Article R611-28
+
+La commune ou l'établissement public de coopération intercommunale compétent en matière de plan local d'urbanisme, de
+document d'urbanisme en tenant lieu et de carte communale, ainsi que l'autorité compétente en matière d'autorisations
+d'urbanisme sont informées de l'ordre du jour qui les concerne et sont entendues par la commission si elles en font la
+demande.
+
+L'architecte des Bâtiments de France et le conservateur des antiquités et objets d'art sont entendus par la commission
+lorsqu'elle procède à l'examen d'affaires relevant de leur compétence.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2017-456 du 29 mars 2017 - art. 3
+
+	**Cité par**:
+
+	  - Code du patrimoine - art. R720-13 (V)
+	  - Code du patrimoine - art. R780-17 (V)
+	  - Code du patrimoine - art. R790-16 (V)
+
+
+###### Article R611-29
+
+Le scrutin secret est de droit pour l'émission des avis lorsqu'il est demandé par le tiers au moins des membres présents.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2017-456 du 29 mars 2017 - art. 3
+
+
+###### Article R611-30
+
+Le secrétariat de la commission est assuré par la direction régionale des affaires culturelles. Les procès-verbaux des
+séances sont signés par le président de séance.
+
+Le préfet de région établit chaque année un rapport sur les activités de la commission, qui est transmis au ministre chargé
+de la culture.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2017-456 du 29 mars 2017 - art. 3
+
+
+##### Section 3 : Conseil des sites de Corse
+
+###### Article D611-31
+
+Les règles relatives à la composition et au fonctionnement du Conseil des sites de Corse sont fixées aux articles R. 4421-1 à
+R. 4421-15 du code général des collectivités territoriales.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2017-456 du 29 mars 2017 - art. 3
+
+	**Cite**:
+
+	  - Code général des collectivités territoriales - art. R4421-1
+
+
+#### Chapitre II : Dispositions relatives aux biens inscrits au patrimoine mondial
+
+###### Article R612-1
+
+Pour assurer la préservation de la valeur universelle exceptionnelle des biens reconnus en tant que biens du patrimoine
+mondial, l'Etat et les collectivités territoriales ou leurs groupements protègent ces biens et, le cas échéant, tout ou
+partie de leur zone tampon par l'application des dispositions du présent livre, du livre III du code de l'environnement ou du
+livre Ier du code de l'urbanisme.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°2011-574 du 24 mai 2011 Annexe - art.
+
+	**Modifié par**:
+
+	  - Décret n°2017-456 du 29 mars 2017 - art. 3
+
+	**Cite**:
+
+	  - Code du patrimoine - art. L621-30
+
+	**Cité par**:
+
+	  - Code du patrimoine - art. R710-5 (Ab)
+	  - Code du patrimoine - art. R720-11 (Ab)
+	  - Code du patrimoine - art. R720-13 (V)
+	  - Code du patrimoine - art. R730-5 (Ab)
+	  - Code du patrimoine - art. R780-13 (Ab)
+	  - Code du patrimoine - art. R780-17 (V)
+	  - Code du patrimoine - art. R790-12 (Ab)
+	  - Code du patrimoine - art. R790-16 (V)
+	  - Code du patrimoine. - art. R720-9 (M)
+
+
+###### Article R612-2
+
+Le périmètre de la zone tampon et le plan de gestion prévus à l'article L. 612-1 sont arrêtés par le préfet de région. La
+Commission nationale du patrimoine et de l'architecture et la commission régionale du patrimoine et de l'architecture peuvent
+être consultées sur le périmètre de la zone tampon et le plan de gestion. 
+
+Lorsque le périmètre du bien ou de sa zone tampon ou lorsque le plan de gestion concerne plusieurs régions, le préfet de
+région compétent est désigné par le Premier ministre.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°2011-574 du 24 mai 2011 Annexe - art.
+
+	**Modifié par**:
+
+	  - Décret n°2017-456 du 29 mars 2017 - art. 3
+
+	**Cite**:
+
+	  - Code du patrimoine - art. L612-1
+
+	**Cité par**:
+
+	  - Code du patrimoine - art. R780-15 (Ab)
+	  - Code du patrimoine - art. R790-14 (Ab)
+	  - Code du patrimoine. - art. R710-7 (M)
+	  - Code du patrimoine. - art. R730-7 (M)
+
+
+#### Chapitre III : Dispositions diverses 
+
+###### Article D613-1
+
+Les règles relatives aux sites inscrits et classés sont fixées au chapitre Ier du titre IV du livre III intitulé “ Espaces
+naturels ” de la partie réglementaire du code de l'environnement.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2017-456 du 29 mars 2017 - art. 3
+
+
+###### Article R613-2
+
+En application du premier alinéa de l'article L. 611-1, en cas de projet d'aliénation d'un bien appartenant à l'Etat situé à
+l'étranger et présentant une valeur historique ou culturelle particulière, le ministre chargé du domaine saisit le président
+de la Commission nationale du patrimoine et de l'architecture. La Commission nationale dispose d'un délai de six mois pour se
+prononcer. Son avis est communiqué au ministre chargé du domaine en vue de sa transmission à la commission interministérielle
+mentionnée aux articles D. 1221-3 et D. 3221-12 du code général de la propriété des personnes publiques.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2017-456 du 29 mars 2017 - art. 3
+
+	**Cite**:
+
+	  - Code général de la propriété des personnes publ... - art. D3221-12 (V)
+	  - Code général de la propriété des personnes publiques. - art. D1221-3
+	  - Code du patrimoine - art. L611-1
+
 
 ### TITRE II : MONUMENTS HISTORIQUES
 
@@ -36764,10 +37928,6 @@ délivrées par le préfet de région dans les conditions prévues aux articles 
 	  - Code du patrimoine - art. R621-11 (V)
 
 
-##### Section 4 : Dispositions relatives aux immeubles adossés aux immeubles classés et aux immeubles situés dans le champ de visibilité des immeubles classés ou inscrits
-
-##### Sous-section 2 : Travaux sur un immeuble adossé à un immeuble classé ou situé dans le champ de visibilité d'un immeuble classé ou inscrit
-
 ##### Section 4 : Abords
 
 ##### Sous-section 1 : Création et modification du périmètre délimité des abords
@@ -39118,1210 +40278,6 @@ l'autorisation d'affichage accordée en application des articles R. 621-86, R. 6
 	  - Code du patrimoine. - art. R621-86 (V)
 
 
-### TITRE V : QUALITÉ ARCHITECTURALE 
-
-###### Article R650-1
-
-Le label “ Architecture contemporaine remarquable ”, mentionné à l'article L. 650-1, est attribué aux immeubles, aux
-ensembles architecturaux, aux ouvrages d'art et aux aménagements, parmi les réalisations de moins de cent ans d'âge, dont la
-conception présente un intérêt architectural ou technique suffisant. Cet intérêt s'apprécie au regard des critères suivants :
-
-1° La singularité de l'œuvre ;
-
-2° Le caractère innovant ou expérimental de la conception architecturale, urbaine, paysagère ou de la réalisation technique,
-ou sa place dans l'histoire des techniques ;
-
-3° La notoriété de l'œuvre eu égard notamment aux publications dont elle a fait l'objet ou la mentionnant ;
-
-4° L'exemplarité de l'œuvre dans la participation à une politique publique ;
-
-5° La valeur de manifeste de l'œuvre en raison de son appartenance à un mouvement architectural ou d'idées reconnu ;
-
-6° L'appartenance à un ensemble ou à une œuvre dont l'auteur fait l'objet d'une reconnaissance nationale ou locale.
-
-**Liens relatifs à cet article**
-
-	**Créé par**:
-
-	  - Décret n°2017-433 du 28 mars 2017 - art. 1
-
-	**Cite**:
-
-	  - Code du patrimoine - art. L650-1 (V)
-
-
-###### Article R650-2
-
-La demande d'attribution du label est présentée par le propriétaire, ou par toute personne y ayant intérêt au préfet de la
-région où se situe le bien.
-
-L'initiative peut également être prise par le préfet de région.
-
-Un arrêté du ministre chargé de la culture fixe la composition du dossier de demande.
-
-**Liens relatifs à cet article**
-
-	**Créé par**:
-
-	  - Décret n°2017-433 du 28 mars 2017 - art. 1
-
-
-###### Article R650-3
-
-I. - Le préfet de région accuse réception du dossier de demande dès lors que celui-ci est complet, ou, le cas échéant,
-informe le demandeur des pièces manquantes. En l'absence d'une telle information dans un délai de quinze jours suivant la
-saisine, le dossier de demande est réputé complet.
-
-II. - Lorsque le demandeur n'est pas le propriétaire, le préfet de région recueille l'avis de celui-ci avant examen de la
-demande par la commission régionale du patrimoine et de l'architecture.
-
-III. - Le préfet de région notifie au propriétaire sa décision, après avis de la commission régionale du patrimoine et de
-l'architecture.
-
-**Liens relatifs à cet article**
-
-	**Créé par**:
-
-	  - Décret n°2017-433 du 28 mars 2017 - art. 1
-
-
-###### Article R650-4
-
-La décision d'attribution du label mentionne :
-
-1° Les motifs de l'attribution du label ;
-
-2° La date de construction du bien, le cas échéant arrêtée par la commission régionale du patrimoine et de l'architecture
-compétente, et la date d'expiration du label ;
-
-3° La dénomination ou la désignation du bien ;
-
-4° Le nom de l'architecte ou du concepteur de l'ouvrage ;
-
-5° L'adresse ou la localisation du bien et le nom de la commune où il est situé ;
-
-6° L'étendue du label avec les références cadastrales des parcelles, en précisant, le cas échéant, les parties du bien
-auxquelles il s'applique ;
-
-7° Le nom et le domicile du ou des propriétaires.
-
-La décision d'attribution du label rappelle au propriétaire les obligations d'information prévues à l'article R. 650-6.
-
-**Liens relatifs à cet article**
-
-	**Créé par**:
-
-	  - Décret n°2017-433 du 28 mars 2017 - art. 1
-
-
-###### Article R650-5
-
-Une copie de la décision d'attribution du label est adressée à l'autorité compétente pour délivrer les autorisations
-d'urbanisme et au maire de la commune dans laquelle se situe le bien lorsqu'il n'est pas l'autorité compétente pour délivrer
-les autorisations d'urbanisme. L'architecte ou le concepteur de l'ouvrage ou leurs ayants droit sont informés de la décision
-d'attribution du label.
-
-**Liens relatifs à cet article**
-
-	**Créé par**:
-
-	  - Décret n°2017-433 du 28 mars 2017 - art. 1
-
-
-###### Article R650-6
-
-I. – Lorsque le bien faisant l'objet du label n'est pas protégé au titre des abords et des sites patrimoniaux remarquables ou
-identifié en application de l'article L. 151-19 du code de l'urbanisme, le propriétaire de ce bien informe par lettre
-recommandée avec demande d'avis de réception le préfet de région, deux mois au moins avant le dépôt d'une demande de permis
-ou d'une déclaration préalable, de son intention de réaliser des travaux susceptibles de le modifier. Il joint à sa lettre
-une notice descriptive présentant la nature et l'impact des travaux envisagés sur le bien. Un arrêté du ministre chargé de la
-culture précise le contenu de cette notice.
-
-S'il le juge utile, le préfet de région formule des observations et recommandations au propriétaire dans les deux mois
-suivant la réception de la lettre du propriétaire, le cas échéant après avis de la commission régionale du patrimoine et de
-l'architecture.
-
-II. – Le propriétaire d'un bien faisant l'objet d'un label informe le préfet de région de toute mutation de propriété
-concernant ce bien dans un délai fixé par un arrêté du ministère de la culture.
-
-**Liens relatifs à cet article**
-
-	**Créé par**:
-
-	  - Décret n°2017-433 du 28 mars 2017 - art. 1
-
-	**Cite**:
-
-	  - Code de l'urbanisme - art. L151-19 (V)
-
-
-###### Article R650-7
-
-Hors les cas de retrait de plein droit dans les conditions régies par le premier alinéa du I de l'article L. 650-1, le préfet
-de région prononce le retrait du label, après avis de la commission régionale du patrimoine et de l'architecture, lorsque le
-bien est dégradé au point de perdre l'intérêt ayant justifié l'attribution du label.
-
-**Liens relatifs à cet article**
-
-	**Créé par**:
-
-	  - Décret n°2017-433 du 28 mars 2017 - art. 1
-
-	**Cite**:
-
-	  - Code du patrimoine - art. L650-1 (V)
-
-
-## LIVRE VI : MONUMENTS HISTORIQUES,  SITES PATRIMONIAUX REMARQUABLES ET QUALITÉ ARCHITECTURALE
-
-### TITRE Ier : DISPOSITIONS GÉNÉRALES
-
-#### Chapitre Ier : Institutions
-
-##### Section 1 : Commission nationale du patrimoine et de l'architecture
-
-###### Article R611-1
-
-La Commission nationale du patrimoine et de l'architecture comprend sept sections :
-
-1° Première section : sites patrimoniaux remarquables et abords ;
-
-2° Deuxième section : protection des immeubles au titre des monuments historiques, domaines nationaux et aliénation du
-patrimoine de l'Etat ;
-
-3° Troisième section : projets architecturaux et travaux sur les immeubles ;
-
-4° Quatrième section : protection des objets mobiliers au titre des monuments historiques et travaux ;
-
-5° Cinquième section : protection des instruments de musique au titre des monuments historiques et travaux ;
-
-6° Sixième section : protection des grottes ornées au titre des monuments historiques et travaux ;
-
-7° Septième section : parcs et jardins.
-
-Elle comprend également un comité des sections qui examine les questions autres que celles qui relèvent de la compétence des
-sections et est consulté pour avis dans les conditions prévues à l'article R. 611-12.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°2011-574 du 24 mai 2011 Annexe - art.
-
-	**Modifié par**:
-
-	  - Décret n°2017-456 du 29 mars 2017 - art. 3
-
-
-###### Article R611-2
-
-La Commission nationale du patrimoine et de l'architecture comprend des membres de droit et des membres nommés par arrêté du
-ministre chargé de la culture pour une durée de cinq ans.
-
-Pour chacun des membres nommés autres que les personnalités qualifiées, un suppléant est désigné dans les mêmes conditions ;
-il siège en cas d'absence ou d'empêchement du titulaire. Le suppléant d'un membre titulaire nommé à raison de son mandat
-électif local peut être choisi parmi les membres d'une assemblée autre que celle à laquelle appartient le membre titulaire.
-
-Les membres titulaires choisis à raison de leur mandat électif local, ainsi que leurs suppléants, sont nommés après
-consultation, selon le cas, du président de l'Association des maires de France, de l'Assemblée des communautés de France, de
-l'Assemblée des départements de France ou de l'Association des régions de France.
-
-Les membres peuvent appartenir à plusieurs sections. Ils ne peuvent siéger dans la même section à des titres différents.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°2011-574 du 24 mai 2011 Annexe - art.
-
-	**Modifié par**:
-
-	  - Décret n°2017-456 du 29 mars 2017 - art. 3
-
-	**Cité par**:
-
-	  - Code du patrimoine - art. R611-3 (V)
-
-
-###### Article R611-3
-
-Un député et un sénateur sont désignés membres de la Commission nationale du patrimoine et de l'architecture par leur
-assemblée respective.
-
-Le président de la commission est nommé parmi ces deux parlementaires par arrêté du ministre chargé de la culture.
-
-En cas d'empêchement du président, ses fonctions sont assurées par le directeur général des patrimoines ou son représentant.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°2011-574 du 24 mai 2011 Annexe - art.
-
-	**Modifié par**:
-
-	  - Décret n°2017-456 du 29 mars 2017 - art. 3
-
-	**Cite**:
-
-	  - Code du patrimoine - art. R611-2 (V)
-
-
-###### Article R611-4
-
-La section “ sites patrimoniaux remarquables et abords ” comprend les membres suivants :
-
-1° Dix représentants de l'Etat :
-
-a) Six membres de droit :
-
-– le directeur général des patrimoines ;
-
-– le directeur général de l'aménagement, du logement et de la nature ;
-
-– le directeur de l'habitat, de l'urbanisme et des paysages ;
-
-– le responsable du service de l'architecture ;
-
-– le chef de l'inspection des patrimoines ;
-
-– le sous-directeur des monuments historiques et des espaces protégés ;
-
-b) Quatre membres nommés :
-
-– un membre du Conseil d'Etat nommé sur proposition du vice-président du Conseil d'Etat ;
-
-– un membre de l'inspection des patrimoines ;
-
-– deux membres des services déconcentrés du ministère chargé de la culture, dont au moins un architecte des Bâtiments de
-France ;
-
-2° Cinq membres titulaires d'un mandat électif :
-
-– deux membres titulaires d'un mandat électif national, désignés dans les conditions prévues à l'article R. 611-3 ;
-
-– trois membres titulaires d'un mandat électif local, nommés dans les conditions prévues à l'article R. 611-2 ;
-
-3° Cinq représentants d'associations ou de fondations ayant pour objet de favoriser la connaissance, la protection, la
-conservation et la mise en valeur du patrimoine ;
-
-4° Six personnalités qualifiées, dont au moins deux architectes ayant des compétences en matière de patrimoine et d'urbanisme
-et au moins une personnalité ayant des compétences en matière d'habitat.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°2011-574 du 24 mai 2011 Annexe - art.
-
-	**Modifié par**:
-
-	  - Décret n°2017-456 du 29 mars 2017 - art. 3
-
-
-###### Article R611-5
-
-La section “ protection des immeubles au titre des monuments historiques, domaines nationaux et aliénation du patrimoine de
-l'Etat ” comprend les membres suivants :
-
-1° Dix représentants de l'Etat :
-
-a) Cinq membres de droit :
-
-La section “ protection des immeubles au titre des monuments historiques, domaines nationaux et aliénation du patrimoine de
-l'Etat ” comprend les membres suivants :
-
-1° Dix représentants de l'Etat :
-
-a) Cinq membres de droit :
-
-– le directeur général des patrimoines ;
-
-– le directeur général des finances publiques ;
-
-– le chef de l'inspection des patrimoines ;
-
-– le sous-directeur des monuments historiques et des espaces protégés ;
-
-– le chef de la mission de l'inventaire général du patrimoine culturel ;
-
-b) Cinq membres nommés :
-
-– un membre du Conseil d'Etat nommé sur proposition du vice-président du Conseil d'Etat ;
-
-– deux membres de l'inspection des patrimoines ;
-
-– deux membres des services déconcentrés du ministère chargé de la culture dont au moins un conservateur régional des
-monuments historiques ;
-
-2° Cinq membres titulaires d'un mandat électif :
-
-– deux membres titulaires d'un mandat électif national, désignés dans les conditions prévues à l'article R. 611-3 ;
-
-– trois membres titulaires d'un mandat électif local, nommés dans les conditions prévues à l'article R. 611-2 ;
-
-3° Cinq représentants d'associations ou de fondations ayant pour objet de favoriser la connaissance, la protection, la
-conservation et la mise en valeur du patrimoine ;
-
-4° Six personnalités qualifiées.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°2011-574 du 24 mai 2011 Annexe - art.
-
-	**Modifié par**:
-
-	  - Décret n°2017-456 du 29 mars 2017 - art. 3
-
-
-###### Article R611-6
-
-La section “ projets architecturaux et travaux sur les immeubles ” comprend les membres suivants :
-
-1° Dix représentants de l'Etat :
-
-a) Cinq membres de droit :
-
-– le directeur général des patrimoines ;
-
-– le responsable du service de l'architecture ;
-
-– le chef de l'inspection des patrimoines ;
-
-– le sous-directeur des monuments historiques et des espaces protégés ;
-
-– le sous-directeur de l'archéologie ;
-
-b) Cinq membres nommés :
-
-– trois membres de l'inspection des patrimoines ;
-
-– deux membres des services déconcentrés du ministère chargé de la culture dont un architecte des Bâtiments de France et un
-conservateur régional des monuments historiques ;
-
-2° Cinq membres titulaires d'un mandat électif :
-
-– deux membres titulaires d'un mandat électif national, désignés dans les conditions prévues à l'article R. 611-3 ;
-
-– trois membres titulaires d'un mandat électif local, nommés dans les conditions prévues à l'article R. 611-2 ;
-
-3° Cinq représentants d'associations ou de fondations ayant pour objet de favoriser la connaissance, la protection, la
-conservation et la mise en valeur du patrimoine ;
-
-4° Six personnalités qualifiées, dont au moins deux architectes en chef des monuments historiques et un autre architecte.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°2011-574 du 24 mai 2011 Annexe - art.
-
-	**Modifié par**:
-
-	  - Décret n°2017-456 du 29 mars 2017 - art. 3
-
-
-###### Article R611-7
-
-La section “ protection des objets mobiliers au titre des monuments historiques et travaux ” comprend les membres suivants :
-
-1° Dix représentants de l'Etat :
-
-a) Cinq membres de droit :
-
-– le directeur général des patrimoines ;
-
-– le responsable du service des musées de France ;
-
-– le chef de l'inspection des patrimoines ;
-
-– le sous-directeur des monuments historiques et des espaces protégés ;
-
-– le chef de la mission de l'inventaire général du patrimoine culturel ;
-
-b) Cinq membres nommés :
-
-– trois membres de l'inspection des patrimoines ;
-
-– deux membres des services déconcentrés du ministère chargé de la culture dont au moins un conservateur du patrimoine de la
-spécialité monuments historiques ;
-
-2° Trois membres titulaires d'un mandat électif :
-
-– deux membres titulaires d'un mandat électif national, désignés dans les conditions prévues à l'article R. 611-3 ;
-
-– un membre titulaire d'un mandat électif local, nommé dans les conditions prévues à l'article R. 611-2 ;
-
-3° Trois représentants d'associations ou de fondations ayant pour objet de favoriser la connaissance, la protection, la
-conservation et la mise en valeur du patrimoine ;
-
-4° Dix personnalités qualifiées dont au moins un conservateur des antiquités et objets d'art.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°2011-574 du 24 mai 2011 Annexe - art.
-
-	**Modifié par**:
-
-	  - Décret n°2017-456 du 29 mars 2017 - art. 3
-
-
-###### Article R611-8
-
-La section " protection des instruments de musique au titre des monuments historiques et travaux " comprend les membres
-suivants :
-
-1° Dix représentants de l'Etat :
-
-a) Cinq membres de droit :
-
-– le directeur général des patrimoines ;
-
-– le directeur général de la création artistique ;
-
-– le chef de l'inspection des patrimoines ;
-
-– le sous-directeur des monuments historiques et des espaces protégés ;
-
-– le chef de la mission de l'inventaire général du patrimoine culturel ;
-
-b) Cinq membres nommés :
-
-– deux membres de l'inspection des patrimoines ;
-
-– un membre de l'inspection de la création artistique ;
-
-– deux membres des services déconcentrés du ministère chargé de la culture dont au moins un conservateur du patrimoine de la
-spécialité monuments historiques ;
-
-2° Trois membres titulaires d'un mandat électif :
-
-– deux membres titulaires d'un mandat électif national, désignés dans les conditions prévues à l'article R. 611-3 ;
-
-– un membre titulaire d'un mandat électif local, nommé dans les conditions prévues à l'article R. 611-2 ;
-
-3° Trois représentants d'associations ou de fondations ayant pour objet de favoriser la connaissance, la protection, la
-conservation et la mise en valeur du patrimoine ;
-
-4° Dix personnalités qualifiées dont au moins un conservateur des antiquités et objets d'art.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°2011-574 du 24 mai 2011 Annexe - art.
-
-	**Modifié par**:
-
-	  - Décret n°2017-456 du 29 mars 2017 - art. 3
-
-
-###### Article R611-9
-
-La section “ protection des grottes ornées au titre des monuments historiques et travaux ” comprend les membres suivants :
-
-1° Dix représentants de l'Etat :
-
-a) Cinq membres de droit :
-
-– le directeur général des patrimoines ;
-
-– le chef de l'inspection des patrimoines ;
-
-– le sous-directeur de l'archéologie ;
-
-– le sous-directeur des monuments historiques et des espaces protégés ;
-
-– le responsable du Laboratoire de recherche des monuments historiques ;
-
-b) Cinq membres nommés :
-
-– trois membres de l'inspection des patrimoines ;
-
-– deux membres des services déconcentrés du ministère chargé de la culture dont au moins un conservateur du patrimoine de la
-spécialité archéologie ;
-
-2° Trois membres titulaires d'un mandat électif :
-
-– deux membres titulaires d'un mandat électif national, désignés dans les conditions prévues à l'article R. 611-3 ;
-
-– un membre titulaire d'un mandat électif local, nommé dans les conditions prévues à l'article R. 611-2 ;
-
-3° Trois représentants d'associations ou de fondations ayant pour objet de favoriser la connaissance, la protection, la
-conservation et la mise en valeur du patrimoine ;
-
-4° Dix personnalités qualifiées.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°2011-574 du 24 mai 2011 Annexe - art.
-
-	**Modifié par**:
-
-	  - Décret n°2017-456 du 29 mars 2017 - art. 3
-
-
-###### Article R611-10
-
-La section “ parcs et jardins ” comprend les membres suivants :
-
-1° Dix représentants de l'Etat :
-
-a) Six membres de droit :
-
-– le directeur général des patrimoines ;
-
-– le directeur général de la création artistique ;
-
-– le directeur général de la performance économique et environnementale des entreprises ;
-
-– le directeur général de l'aménagement, du logement et de la nature ;
-
-– le chef de l'inspection des patrimoines ;
-
-– le sous-directeur des monuments historiques et des espaces protégés ;
-
-b) Quatre membres nommés :
-
-– deux membres des services déconcentrés du ministère chargé de la culture dont un architecte des Bâtiments de France et un
-conservateur du patrimoine de la spécialité monuments historiques ;
-
-– un membre de l'inspection des patrimoines ;
-
-– un jardinier en chef ;
-
-2° Cinq membres titulaires d'un mandat électif :
-
-– deux membres titulaires d'un mandat électif national, désignés dans les conditions prévues à l'article R. 611-3 ;
-
-– trois membres titulaires d'un mandat électif local, nommés dans les conditions prévues à l'article R. 611-2 ;
-
-3° Cinq représentants d'associations ou de fondations ayant pour objet de favoriser la connaissance, la protection, la
-conservation et la mise en valeur du patrimoine ;
-
-4° Six personnalités qualifiées dont au moins un architecte en chef des monuments historiques.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°2011-574 du 24 mai 2011 Annexe - art.
-
-	**Modifié par**:
-
-	  - Décret n°2017-456 du 29 mars 2017 - art. 3
-
-
-###### Article R611-11
-
-Le comité des sections comprend les membres suivants :
-
-1° Six membres de droit :
-
-– le président de la commission ;
-
-– le directeur général des patrimoines ;
-
-– le responsable du service de l'architecture ;
-
-– le chef de l'inspection des patrimoines ;
-
-– le sous-directeur des monuments historiques et des espaces protégés ;
-
-– le sous-directeur de l'archéologie ;
-
-2° Un membre du Conseil d'Etat nommé sur proposition du vice-président du Conseil d'Etat ;
-
-3° Deux représentants de chaque section, autres que ceux mentionnés aux 1° et 2°, nommés par arrêté du ministre chargé de la
-culture dont au moins cinq représentants d'associations ou de fondations ayant pour objet de favoriser la connaissance, la
-protection, la conservation et la mise en valeur du patrimoine.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°2011-574 du 24 mai 2011 Annexe - art.
-
-	**Modifié par**:
-
-	  - Décret n°2017-456 du 29 mars 2017 - art. 3
-
-
-###### Article R611-12
-
-Après avis du comité des sections, le règlement intérieur de la commission est fixé, sur proposition de son président, par
-arrêté du ministre chargé de la culture.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°2011-574 du 24 mai 2011 Annexe - art.
-
-	**Modifié par**:
-
-	  - Décret n°2017-456 du 29 mars 2017 - art. 3
-
-
-###### Article R611-13
-
-Les sections et le comité des sections se réunissent sur convocation du président.
-
-Le président convoque également une section ou le comité des sections à la demande du ministre chargé de la culture ou de la
-majorité des membres de la section ou du comité des sections.
-
-Plusieurs sections peuvent être réunies conjointement sur convocation du président.
-
-L'ordre du jour est fixé conjointement par le président et le directeur général des patrimoines ou son représentant.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°2011-574 du 24 mai 2011 Annexe - art.
-
-	**Modifié par**:
-
-	  - Décret n°2017-456 du 29 mars 2017 - art. 3
-
-
-###### Article R611-14
-
-Le directeur régional des affaires culturelles ou son représentant est entendu par la Commission nationale du patrimoine et
-de l'architecture lorsqu'elle procède à l'examen d'affaires relevant de son ressort territorial.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°2011-574 du 24 mai 2011 Annexe - art.
-
-	**Modifié par**:
-
-	  - Décret n°2017-456 du 29 mars 2017 - art. 3
-
-
-###### Article R611-15
-
-Le scrutin secret est de droit pour l'émission des avis lorsqu'il est demandé par le tiers au moins des membres présents.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°2011-574 du 24 mai 2011 Annexe - art.
-
-	**Modifié par**:
-
-	  - Décret n°2017-456 du 29 mars 2017 - art. 3
-
-
-###### Article R611-16
-
-Le secrétariat de la Commission nationale du patrimoine et de l'architecture est assuré par la direction générale des
-patrimoines. Les procès-verbaux des séances sont signés par le président de séance.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°2011-574 du 24 mai 2011 Annexe - art.
-
-	**Modifié par**:
-
-	  - Décret n°2017-456 du 29 mars 2017 - art. 3
-
-
-##### Section 2 : Commission régionale du patrimoine et de l'architecture
-
-###### Article R611-17
-
-La commission régionale du patrimoine et de l'architecture comprend trois sections :
-
-1° Première section : protection et valorisation de l'architecture et du patrimoine immobilier ;
-
-2° Deuxième section : projets architecturaux et travaux sur immeubles ;
-
-3° Troisième section : protection des objets mobiliers et travaux.
-
-La première section est compétente en matière de protection des immeubles au titre des monuments historiques, de plan de
-valorisation de l'architecture et du patrimoine, d'attribution de labels, de périmètre délimité des abords et de documents
-d'urbanisme.
-
-La deuxième section est compétente en matière de projets architecturaux, d'études et de travaux sur immeubles, en cas de
-désaccord entre l'autorité compétente en matière d'autorisations d'urbanisme et l'architecte des Bâtiments de France et en
-cas de dérogation au document d'urbanisme pour les projets dont la réalisation présente un intérêt public du point de vue de
-la qualité ainsi que de l'innovation ou de la création architecturales.
-
-La troisième section est compétente en matière de protection des objets mobiliers au titre des monuments historiques, de
-conservation préventive, d'études et de travaux s'y rapportant.
-
-La commission régionale du patrimoine et de l'architecture comprend également un comité des sections qui examine les
-questions autres que celles qui relèvent de la compétence des sections.
-
-**Liens relatifs à cet article**
-
-	**Créé par**:
-
-	  - Décret n°2017-456 du 29 mars 2017 - art. 3
-
-	**Cité par**:
-
-	  - Code du patrimoine - art. R720-9 (V)
-
-
-###### Article R611-18
-
-La commission régionale du patrimoine et de l'architecture comprend des membres de droit et des membres nommés par arrêté du
-préfet de région pour une durée de cinq ans.
-
-Pour chacun des membres nommés autres que les personnalités qualifiées, un suppléant est désigné dans les mêmes conditions ;
-il siège en cas d'absence ou d'empêchement du titulaire. Le suppléant d'un membre titulaire nommé à raison de son mandat
-électif national ou local peut, s'il s'agit d'un mandat électif local, être choisi parmi les membres d'une assemblée locale
-autre que celle à laquelle appartient le membre titulaire.
-
-Les membres titulaires choisis à raison de leur mandat électif national ou local, ainsi que leurs suppléants, sont, s'il
-s'agit d'un mandat électif local, nommés après consultation, selon le cas, du président de l'Association des maires de
-France, de l'Assemblée des communautés de France, de l'Assemblée des départements de France et de l'Association des régions
-de France.
-
-Les membres peuvent appartenir à plusieurs sections. Ils ne peuvent siéger dans la même section à des titres différents.
-
-**Liens relatifs à cet article**
-
-	**Créé par**:
-
-	  - Décret n°2017-456 du 29 mars 2017 - art. 3
-
-
-###### Article R611-19
-
-Le président de la commission régionale du patrimoine et de l'architecture est choisi par le préfet de région parmi les
-membres titulaires d'un mandat électif national ou local.
-
-En cas d'empêchement du président, ses fonctions sont assurées par le préfet de région ou son représentant.
-
-**Liens relatifs à cet article**
-
-	**Créé par**:
-
-	  - Décret n°2017-456 du 29 mars 2017 - art. 3
-
-
-###### Article R611-20
-
-La section “ protection et valorisation de l'architecture et du patrimoine immobilier ” comprend les membres suivants :
-
-1° Neuf représentants de l'Etat :
-
-a) Six membres de droit :
-
-– le préfet de région ;
-
-– le directeur régional des affaires culturelles ;
-
-– le directeur régional de l'environnement, de l'aménagement et du logement ;
-
-– le chef de l'inspection des patrimoines ;
-
-– le conservateur régional des monuments historiques ;
-
-– le conservateur régional de l'archéologie ;
-
-b) Trois membres nommés :
-
-– un architecte des Bâtiments de France ;
-
-– un conservateur du patrimoine de la spécialité monuments historiques ;
-
-– un responsable d'un service déconcentré chargé de l'architecture ;
-
-2° Six membres titulaires d'un mandat électif national ou local, dont le président de la commission ;
-
-3° Six représentants d'associations ou de fondations ayant pour objet de favoriser la connaissance, la protection, la
-conservation et la mise en valeur du patrimoine ;
-
-4° Six personnalités qualifiées, dont au moins deux architectes et un membre du service régional chargé des opérations
-d'inventaire du patrimoine culturel.
-
-**Liens relatifs à cet article**
-
-	**Créé par**:
-
-	  - Décret n°2017-456 du 29 mars 2017 - art. 3
-
-
-###### Article R611-21
-
-La section " projets architecturaux et travaux sur immeubles " comprend les membres suivants :
-
-1° Neuf représentants de l'Etat :
-
-a) Six membres de droit :
-
-– le préfet de région ;
-
-– le directeur régional des affaires culturelles ;
-
-– le directeur régional de l'environnement, de l'aménagement et du logement ;
-
-– le chef de l'inspection des patrimoines ;
-
-– le conservateur régional des monuments historiques ;
-
-– le conservateur régional de l'archéologie ;
-
-b) Trois membres nommés :
-
-– un architecte des Bâtiments de France ;
-
-– un responsable d'un service déconcentré chargé de l'architecture ;
-
-– un conservateur du patrimoine de la spécialité monuments historiques ;
-
-2° Six membres titulaires d'un mandat électif national ou local, dont le président de la commission ;
-
-3° Six représentants d'associations ou de fondations ayant pour objet de favoriser la connaissance, la protection, la
-conservation et la mise en valeur du patrimoine ;
-
-4° Six personnalités qualifiées, dont au moins trois architectes.
-
-**Liens relatifs à cet article**
-
-	**Créé par**:
-
-	  - Décret n°2017-456 du 29 mars 2017 - art. 3
-
-
-###### Article R611-22
-
-La section “ protection des objets mobiliers et travaux ” comprend les membres suivants :
-
-1° Neuf représentants de l'Etat :
-
-a) Cinq membres de droit :
-
-– le préfet de région ;
-
-– le directeur régional des affaires culturelles ;
-
-– le chef de l'inspection des patrimoines ;
-
-– le conservateur régional des monuments historiques ;
-
-– le conservateur régional de l'archéologie ;
-
-b) Quatre membres nommés :
-
-– deux conservateurs du patrimoine dont au moins un de la spécialité monuments historiques ;
-
-– un architecte des Bâtiments de France ;
-
-– un membre des services de la police ou de la gendarmerie nationales ;
-
-2° Six membres titulaires d'un mandat électif national ou local, dont le président de la commission ;
-
-3° Six représentants d'associations ou de fondations ayant pour objet de favoriser la connaissance, la protection, la
-conservation et la mise en valeur du patrimoine ;
-
-4° Six personnalités qualifiées dont au moins deux conservateurs des antiquités et objets d'art et un membre du service
-régional chargé des opérations d'inventaire du patrimoine culturel.
-
-**Liens relatifs à cet article**
-
-	**Créé par**:
-
-	  - Décret n°2017-456 du 29 mars 2017 - art. 3
-
-
-###### Article R611-23
-
-Au sein de chaque section de la commission régionale du patrimoine et de l'architecture, une délégation permanente peut
-examiner les demandes ou propositions relevant des attributions de la section. Elle peut émettre un avis défavorable au nom
-de la commission ou se prononcer pour le renvoi de ces demandes ou propositions devant la section réunie en formation
-plénière.
-
-**Liens relatifs à cet article**
-
-	**Créé par**:
-
-	  - Décret n°2017-456 du 29 mars 2017 - art. 3
-
-	**Cité par**:
-
-	  - Code du patrimoine - art. R710-7 (V)
-	  - Code du patrimoine - art. R730-7 (V)
-	  - Code du patrimoine - art. R780-11-1 (V)
-	  - Code du patrimoine - art. R790-10-1 (V)
-
-
-###### Article R611-24
-
-La délégation permanente de chacune des sections comprend les membres suivants :
-
-1° Quatre représentants de l'Etat :
-
-a) Deux membres de droit ;
-
-– le directeur régional des affaires culturelles ;
-
-– le conservateur régional des monuments historiques ;
-
-b) Deux membres désignés par le préfet de région au sein des membres nommés de la section concernée ;
-
-2° Deux membres titulaires d'un mandat électif national ou local :
-
-– le président de la commission ;
-
-– un membre désigné par le préfet de région parmi les autres titulaires d'un mandat électif national ou local membres de la
-section concernée ;
-
-3° Deux représentants d'associations ou de fondations ayant pour objet de favoriser la connaissance, la protection, la
-conservation et la mise en valeur du patrimoine, désignés par le préfet de région parmi les représentants d'associations ou
-de fondations de la section concernée ;
-
-4° Deux personnalités qualifiées désignées par le préfet de région parmi les personnalités qualifiées de la section
-concernée.
-
-**Liens relatifs à cet article**
-
-	**Créé par**:
-
-	  - Décret n°2017-456 du 29 mars 2017 - art. 3
-
-
-###### Article R611-25
-
-Le comité des sections comprend les membres suivants :
-
-1° Quatre membres de droit :
-
-– le président de la commission ;
-
-– le préfet de région ;
-
-– le directeur régional des affaires culturelles ;
-
-– le conservateur régional des monuments historiques ;
-
-2° Deux membres de chaque section, autres que les membres de droit, désignés par le préfet de région dont au moins deux
-représentants d'associations ou de fondations ayant pour objet de favoriser la connaissance, la protection, la conservation
-et la mise en valeur du patrimoine.
-
-**Liens relatifs à cet article**
-
-	**Créé par**:
-
-	  - Décret n°2017-456 du 29 mars 2017 - art. 3
-
-
-###### Article R611-26
-
-Après avis du comité des sections, le règlement intérieur de la commission est fixé, sur proposition de son président, par
-arrêté du préfet de région
-
-**Liens relatifs à cet article**
-
-	**Créé par**:
-
-	  - Décret n°2017-456 du 29 mars 2017 - art. 3
-
-
-###### Article R611-27
-
-Les sections et leur délégation permanente se réunissent sur convocation du président.
-
-Le président convoque également une section ou le comité des sections à la demande du préfet de région ou de la majorité des
-membres de la section ou du comité des sections.
-
-Plusieurs sections peuvent être réunies conjointement sur convocation du président.
-
-L'ordre du jour est fixé conjointement par le président et le préfet de région ou son représentant.
-
-**Liens relatifs à cet article**
-
-	**Créé par**:
-
-	  - Décret n°2017-456 du 29 mars 2017 - art. 3
-
-
-###### Article R611-28
-
-La commune ou l'établissement public de coopération intercommunale compétent en matière de plan local d'urbanisme, de
-document d'urbanisme en tenant lieu et de carte communale, ainsi que l'autorité compétente en matière d'autorisations
-d'urbanisme sont informées de l'ordre du jour qui les concerne et sont entendues par la commission si elles en font la
-demande.
-
-L'architecte des Bâtiments de France et le conservateur des antiquités et objets d'art sont entendus par la commission
-lorsqu'elle procède à l'examen d'affaires relevant de leur compétence.
-
-**Liens relatifs à cet article**
-
-	**Créé par**:
-
-	  - Décret n°2017-456 du 29 mars 2017 - art. 3
-
-	**Cité par**:
-
-	  - Code du patrimoine - art. R720-13 (V)
-	  - Code du patrimoine - art. R780-17 (V)
-	  - Code du patrimoine - art. R790-16 (V)
-
-
-###### Article R611-29
-
-Le scrutin secret est de droit pour l'émission des avis lorsqu'il est demandé par le tiers au moins des membres présents.
-
-**Liens relatifs à cet article**
-
-	**Créé par**:
-
-	  - Décret n°2017-456 du 29 mars 2017 - art. 3
-
-
-###### Article R611-30
-
-Le secrétariat de la commission est assuré par la direction régionale des affaires culturelles. Les procès-verbaux des
-séances sont signés par le président de séance.
-
-Le préfet de région établit chaque année un rapport sur les activités de la commission, qui est transmis au ministre chargé
-de la culture.
-
-**Liens relatifs à cet article**
-
-	**Créé par**:
-
-	  - Décret n°2017-456 du 29 mars 2017 - art. 3
-
-
-##### Section 3 : Conseil des sites de Corse
-
-###### Article D611-31
-
-Les règles relatives à la composition et au fonctionnement du Conseil des sites de Corse sont fixées aux articles R. 4421-1 à
-R. 4421-15 du code général des collectivités territoriales.
-
-**Liens relatifs à cet article**
-
-	**Créé par**:
-
-	  - Décret n°2017-456 du 29 mars 2017 - art. 3
-
-	**Cite**:
-
-	  - Code général des collectivités territoriales - art. R4421-1
-
-
-#### Chapitre II : Dispositions relatives aux biens inscrits au patrimoine mondial
-
-###### Article R612-1
-
-Pour assurer la préservation de la valeur universelle exceptionnelle des biens reconnus en tant que biens du patrimoine
-mondial, l'Etat et les collectivités territoriales ou leurs groupements protègent ces biens et, le cas échéant, tout ou
-partie de leur zone tampon par l'application des dispositions du présent livre, du livre III du code de l'environnement ou du
-livre Ier du code de l'urbanisme.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°2011-574 du 24 mai 2011 Annexe - art.
-
-	**Modifié par**:
-
-	  - Décret n°2017-456 du 29 mars 2017 - art. 3
-
-	**Cite**:
-
-	  - Code du patrimoine - art. L621-30
-
-	**Cité par**:
-
-	  - Code du patrimoine - art. R710-5 (Ab)
-	  - Code du patrimoine - art. R720-11 (Ab)
-	  - Code du patrimoine - art. R720-13 (V)
-	  - Code du patrimoine - art. R730-5 (Ab)
-	  - Code du patrimoine - art. R780-13 (Ab)
-	  - Code du patrimoine - art. R780-17 (V)
-	  - Code du patrimoine - art. R790-12 (Ab)
-	  - Code du patrimoine - art. R790-16 (V)
-	  - Code du patrimoine. - art. R720-9 (M)
-
-
-###### Article R612-2
-
-Le périmètre de la zone tampon et le plan de gestion prévus à l'article L. 612-1 sont arrêtés par le préfet de région. La
-Commission nationale du patrimoine et de l'architecture et la commission régionale du patrimoine et de l'architecture peuvent
-être consultées sur le périmètre de la zone tampon et le plan de gestion. 
-
-Lorsque le périmètre du bien ou de sa zone tampon ou lorsque le plan de gestion concerne plusieurs régions, le préfet de
-région compétent est désigné par le Premier ministre.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°2011-574 du 24 mai 2011 Annexe - art.
-
-	**Modifié par**:
-
-	  - Décret n°2017-456 du 29 mars 2017 - art. 3
-
-	**Cite**:
-
-	  - Code du patrimoine - art. L612-1
-
-	**Cité par**:
-
-	  - Code du patrimoine - art. R780-15 (Ab)
-	  - Code du patrimoine - art. R790-14 (Ab)
-	  - Code du patrimoine. - art. R710-7 (M)
-	  - Code du patrimoine. - art. R730-7 (M)
-
-
-#### Chapitre III : Dispositions diverses 
-
-###### Article D613-1
-
-Les règles relatives aux sites inscrits et classés sont fixées au chapitre Ier du titre IV du livre III intitulé “ Espaces
-naturels ” de la partie réglementaire du code de l'environnement.
-
-**Liens relatifs à cet article**
-
-	**Créé par**:
-
-	  - Décret n°2017-456 du 29 mars 2017 - art. 3
-
-
-###### Article R613-2
-
-En application du premier alinéa de l'article L. 611-1, en cas de projet d'aliénation d'un bien appartenant à l'Etat situé à
-l'étranger et présentant une valeur historique ou culturelle particulière, le ministre chargé du domaine saisit le président
-de la Commission nationale du patrimoine et de l'architecture. La Commission nationale dispose d'un délai de six mois pour se
-prononcer. Son avis est communiqué au ministre chargé du domaine en vue de sa transmission à la commission interministérielle
-mentionnée aux articles D. 1221-3 et D. 3221-12 du code général de la propriété des personnes publiques.
-
-**Liens relatifs à cet article**
-
-	**Créé par**:
-
-	  - Décret n°2017-456 du 29 mars 2017 - art. 3
-
-	**Cite**:
-
-	  - Code général de la propriété des personnes publ... - art. D3221-12 (V)
-	  - Code général de la propriété des personnes publiques. - art. D1221-3
-	  - Code du patrimoine - art. L611-1
-
-
-### TITRE II : MONUMENTS HISTORIQUES
-
 ### TITRE III : SITES PATRIMONIAUX REMARQUABLES
 
 #### Chapitre Ier : Classement au titre des sites patrimoniaux remarquables
@@ -40769,6 +40725,158 @@ les modalités prévues pour les créances étrangères à l'impôt et au domain
 
 
 ### TITRE V : QUALITÉ ARCHITECTURALE 
+
+###### Article R650-1
+
+Le label “ Architecture contemporaine remarquable ”, mentionné à l'article L. 650-1, est attribué aux immeubles, aux
+ensembles architecturaux, aux ouvrages d'art et aux aménagements, parmi les réalisations de moins de cent ans d'âge, dont la
+conception présente un intérêt architectural ou technique suffisant. Cet intérêt s'apprécie au regard des critères suivants :
+
+1° La singularité de l'œuvre ;
+
+2° Le caractère innovant ou expérimental de la conception architecturale, urbaine, paysagère ou de la réalisation technique,
+ou sa place dans l'histoire des techniques ;
+
+3° La notoriété de l'œuvre eu égard notamment aux publications dont elle a fait l'objet ou la mentionnant ;
+
+4° L'exemplarité de l'œuvre dans la participation à une politique publique ;
+
+5° La valeur de manifeste de l'œuvre en raison de son appartenance à un mouvement architectural ou d'idées reconnu ;
+
+6° L'appartenance à un ensemble ou à une œuvre dont l'auteur fait l'objet d'une reconnaissance nationale ou locale.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2017-433 du 28 mars 2017 - art. 1
+
+	**Cite**:
+
+	  - Code du patrimoine - art. L650-1 (V)
+
+
+###### Article R650-2
+
+La demande d'attribution du label est présentée par le propriétaire, ou par toute personne y ayant intérêt au préfet de la
+région où se situe le bien.
+
+L'initiative peut également être prise par le préfet de région.
+
+Un arrêté du ministre chargé de la culture fixe la composition du dossier de demande.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2017-433 du 28 mars 2017 - art. 1
+
+
+###### Article R650-3
+
+I. - Le préfet de région accuse réception du dossier de demande dès lors que celui-ci est complet, ou, le cas échéant,
+informe le demandeur des pièces manquantes. En l'absence d'une telle information dans un délai de quinze jours suivant la
+saisine, le dossier de demande est réputé complet.
+
+II. - Lorsque le demandeur n'est pas le propriétaire, le préfet de région recueille l'avis de celui-ci avant examen de la
+demande par la commission régionale du patrimoine et de l'architecture.
+
+III. - Le préfet de région notifie au propriétaire sa décision, après avis de la commission régionale du patrimoine et de
+l'architecture.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2017-433 du 28 mars 2017 - art. 1
+
+
+###### Article R650-4
+
+La décision d'attribution du label mentionne :
+
+1° Les motifs de l'attribution du label ;
+
+2° La date de construction du bien, le cas échéant arrêtée par la commission régionale du patrimoine et de l'architecture
+compétente, et la date d'expiration du label ;
+
+3° La dénomination ou la désignation du bien ;
+
+4° Le nom de l'architecte ou du concepteur de l'ouvrage ;
+
+5° L'adresse ou la localisation du bien et le nom de la commune où il est situé ;
+
+6° L'étendue du label avec les références cadastrales des parcelles, en précisant, le cas échéant, les parties du bien
+auxquelles il s'applique ;
+
+7° Le nom et le domicile du ou des propriétaires.
+
+La décision d'attribution du label rappelle au propriétaire les obligations d'information prévues à l'article R. 650-6.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2017-433 du 28 mars 2017 - art. 1
+
+
+###### Article R650-5
+
+Une copie de la décision d'attribution du label est adressée à l'autorité compétente pour délivrer les autorisations
+d'urbanisme et au maire de la commune dans laquelle se situe le bien lorsqu'il n'est pas l'autorité compétente pour délivrer
+les autorisations d'urbanisme. L'architecte ou le concepteur de l'ouvrage ou leurs ayants droit sont informés de la décision
+d'attribution du label.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2017-433 du 28 mars 2017 - art. 1
+
+
+###### Article R650-6
+
+I. – Lorsque le bien faisant l'objet du label n'est pas protégé au titre des abords et des sites patrimoniaux remarquables ou
+identifié en application de l'article L. 151-19 du code de l'urbanisme, le propriétaire de ce bien informe par lettre
+recommandée avec demande d'avis de réception le préfet de région, deux mois au moins avant le dépôt d'une demande de permis
+ou d'une déclaration préalable, de son intention de réaliser des travaux susceptibles de le modifier. Il joint à sa lettre
+une notice descriptive présentant la nature et l'impact des travaux envisagés sur le bien. Un arrêté du ministre chargé de la
+culture précise le contenu de cette notice.
+
+S'il le juge utile, le préfet de région formule des observations et recommandations au propriétaire dans les deux mois
+suivant la réception de la lettre du propriétaire, le cas échéant après avis de la commission régionale du patrimoine et de
+l'architecture.
+
+II. – Le propriétaire d'un bien faisant l'objet d'un label informe le préfet de région de toute mutation de propriété
+concernant ce bien dans un délai fixé par un arrêté du ministère de la culture.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2017-433 du 28 mars 2017 - art. 1
+
+	**Cite**:
+
+	  - Code de l'urbanisme - art. L151-19 (V)
+
+
+###### Article R650-7
+
+Hors les cas de retrait de plein droit dans les conditions régies par le premier alinéa du I de l'article L. 650-1, le préfet
+de région prononce le retrait du label, après avis de la commission régionale du patrimoine et de l'architecture, lorsque le
+bien est dégradé au point de perdre l'intérêt ayant justifié l'attribution du label.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2017-433 du 28 mars 2017 - art. 1
+
+	**Cite**:
+
+	  - Code du patrimoine - art. L650-1 (V)
+
 
 ## LIVRE VII : DISPOSITIONS RELATIVES À L'OUTRE-MER
 
