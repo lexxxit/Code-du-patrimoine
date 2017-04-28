@@ -1,5 +1,5 @@
 # Code du patrimoine  
-Version Consolidée au 2017-04-03
+Version Consolidée au 2017-04-29
 
 # Partie législative
 
@@ -4954,22 +4954,22 @@ L. 221-2 et L. 222-1.
 
 ## LIVRE III : BIBLIOTHÈQUES
 
-### TITRE Ier : BIBLIOTHÈQUES MUNICIPALES.
+### TITRE Ier : DISPOSITIONS COMMUNES
 
 ###### Article L310-1
 
-Les bibliothèques municipales sont organisées et financées par les communes. Leur activité est soumise au contrôle technique
-de l'Etat.
+Les bibliothèques des collectivités territoriales ou de leurs groupements sont organisées et financées par la collectivité ou
+le groupement dont elles relèvent.
 
 **Liens relatifs à cet article**
 
 	**Codifié par**:
 
-	  - Ordonnance 2004-178 2004-02-20 JORF 24 février 2004
+	  - Ordonnance n°2004-178 du 20 février 2004
 
-	**Anciens textes**:
+	**Modifié par**:
 
-	  - Code général des collectivités territoriales - art. L1422-1 (Ab)
+	  - Ordonnance n°2017-650 du 27 avril 2017 - art. 1
 
 	**Cité par**:
 
@@ -4982,23 +4982,23 @@ de l'Etat.
 
 ###### Article L310-2
 
-Les bibliothèques publiques des communes sont rangées en trois catégories :
-
-a) 1re catégorie : bibliothèques dites classées ;
-
-b) 2e catégorie : bibliothèques soumises à un contrôle technique régulier et permanent ;
-
-c) 3e catégorie : bibliothèques pouvant être soumises à des inspections prescrites par l'autorité supérieure.
+L'activité des bibliothèques des collectivités territoriales ou de leurs groupements est soumise au contrôle scientifique et
+technique de l'Etat. Les modalités de ce contrôle sont définies par décret en Conseil d'Etat.
 
 **Liens relatifs à cet article**
 
+	**Cite**:
+
+	  - Loi n°84-16 du 11 janvier 1984 - art. 42
+	  - Code du patrimoine - art. L320-1
+
 	**Codifié par**:
 
-	  - Ordonnance 2004-178 2004-02-20 JORF 24 février 2004
+	  - Ordonnance n°2004-178 du 20 février 2004
 
-	**Anciens textes**:
+	**Modifié par**:
 
-	  - Code général des collectivités territoriales - art. L1422-2 (Ab)
+	  - Ordonnance n°2017-650 du 27 avril 2017 - art. 1
 
 	**Cité par**:
 
@@ -5007,135 +5007,53 @@ c) 3e catégorie : bibliothèques pouvant être soumises à des inspections pres
 	  - Code général des collectivités territoriales - art. R1614-91 (V)
 
 
-###### Article L310-3
-
-Sont fixées par décret en Conseil d'Etat la liste des bibliothèques de 1re catégorie, dites classées, et la répartition des
-autres bibliothèques entre les 2e et 3e catégories.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Ordonnance n°2004-178 du 20 février 2004
-
-	**Abrogé par**:
-
-	  - Ordonnance n°2017-650 du 27 avril 2017 - art. 1
-
-	**Anciens textes**:
-
-	  - Code général des collectivités territoriales - art. L1422-3 (Ab)
-
-	**Cité par**:
-
-	  - Code du patrimoine. - art. R310-1 (V)
-
-
-###### Article L310-4
-
-Le classement d'une bibliothèque ne peut être modifié sans consultation préalable de la commune intéressée.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Ordonnance n°2004-178 du 20 février 2004
-
-	**Abrogé par**:
-
-	  - Ordonnance n°2017-650 du 27 avril 2017 - art. 1
-
-	**Anciens textes**:
-
-	  - Code général des collectivités territoriales - art. L1422-4 (Ab)
-
-
-###### Article L310-5
-
-Une bibliothèque municipale à vocation régionale est un établissement qui est situé sur le territoire d'une commune d'au
-moins 100 000 habitants ou chef-lieu d'une région ou d'un groupement de communes d'au moins 100 000 habitants et qui répond
-notamment à des conditions de surface, d'importance du fonds et de diversité de supports documentaires, d'aptitude à la mise
-en réseau et d'utilisation de moyens modernes de communication fixées par décret en Conseil d'Etat.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Ordonnance n°2004-178 du 20 février 2004
-
-	**Abrogé par**:
-
-	  - Ordonnance n°2017-650 du 27 avril 2017 - art. 1
-
-	**Anciens textes**:
-
-	  - Code général des collectivités territoriales - art. L1422-5 (Ab)
-
-
-###### Article L310-6
-
-Les dispositions des articles L. 310-2 et L. 310-3 ne sont pas applicables aux communes des départements de la Moselle, du
-Bas-Rhin et du Haut-Rhin.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Ordonnance n°2004-178 du 20 février 2004
-
-	**Abrogé par**:
-
-	  - Ordonnance n°2017-650 du 27 avril 2017 - art. 1
-
-	**Anciens textes**:
-
-	  - Code général des collectivités territoriales L2541-1 alinéa 1
-
-	**Cite**:
-
-	  - Code du patrimoine - art. L310-2
-
-
-### TITRE II : BIBLIOTHÈQUES DÉPARTEMENTALES ET RÉGIONALES ET DE LA COLLECTIVITÉ TERRITORIALE DE CORSE.
+### TITRE II : BIBLIOTHÈQUES MUNICIPALES ET INTERCOMMUNALES
 
 ###### Article L320-1
 
-Les règles d'organisation et de fonctionnement régissant les bibliothèques municipales sont applicables aux bibliothèques des
-départements, des régions et de la collectivité territoriale de Corse, à l'exception des bibliothèques départementales de
-prêt.
+Les bibliothèques municipales et intercommunales classées, dont la liste est fixée par décret après consultation des communes
+ou des groupements de communes intéressés, peuvent bénéficier de la mise à disposition de conservateurs généraux et de
+conservateurs des bibliothèques qui ont la qualité de fonctionnaires de l'Etat.
 
 **Liens relatifs à cet article**
 
 	**Codifié par**:
 
-	  - Ordonnance 2004-178 2004-02-20 JORF 24 février 2004
+	  - Ordonnance n°2004-178 du 20 février 2004
 
-	**Anciens textes**:
+	**Modifié par**:
 
-	  - Code général des collectivités territoriales - art. L1422-6 (Ab)
+	  - Ordonnance n°2017-650 du 27 avril 2017 - art. 1
 
 	**Cité par**:
 
 	  - Code de la propriété intellectuelle - art. R133-1 (V)
 	  - Code du patrimoine - art. L310-2 (V)
+	  - Code du patrimoine - art. L320-2 (V)
 	  - Code du patrimoine - art. L730-1 (V)
 	  - Code général des collectivités territoriales - art. L1421-5 (V)
 
 
 ###### Article L320-2
 
-Les bibliothèques centrales de prêt sont transférées aux départements. Elles sont dénommées bibliothèques départementales de
-prêt.
+Par dérogation au II de l'article 42 de la loi n° 84-16 du 11 janvier 1984 portant dispositions statutaires relatives à la
+fonction publique de l'Etat, la mise à disposition des personnels mentionnés à l'article L. 320-1 auprès des communes ou des
+groupements de communes n'est pas soumise à l'obligation de remboursement.
 
 **Liens relatifs à cet article**
 
+	**Cite**:
+
+	  - Loi n°84-16 du 11 janvier 1984 - art. 42
+	  - Code du patrimoine - art. L320-1 (V)
+
 	**Codifié par**:
 
-	  - Ordonnance 2004-178 2004-02-20 JORF 24 février 2004
+	  - Ordonnance n°2004-178 du 20 février 2004
 
-	**Anciens textes**:
+	**Modifié par**:
 
-	  - Code général des collectivités territoriales - art. L1422-7 (Ab)
+	  - Ordonnance n°2017-650 du 27 avril 2017 - art. 1
 
 	**Cité par**:
 
@@ -5143,42 +5061,17 @@ prêt.
 	  - Code général des collectivités territoriales - art. L1614-14 (Ab)
 
 
-###### Article L320-3
+### TITRE III : BIBLIOTHÈQUES DÉPARTEMENTALES
 
-L'activité technique des bibliothèques départementales de prêt est soumise au contrôle de l'Etat.
+###### Article L330-1
 
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Ordonnance n°2004-178 du 20 février 2004
-
-	**Abrogé par**:
-
-	  - Ordonnance n°2017-650 du 27 avril 2017 - art. 1
-
-	**Anciens textes**:
-
-	  - Code général des collectivités territoriales - art. L1422-8 (Ab)
-
-
-###### Article L320-4
-
-Un décret détermine le programme d'équipement des bibliothèques départementales de prêt qui sera exécuté par l'Etat.
+Les bibliothèques centrales de prêt, transférées aux départements, sont dénommées bibliothèques départementales.
 
 **Liens relatifs à cet article**
 
-	**Codifié par**:
-
-	  - Ordonnance n°2004-178 du 20 février 2004
-
-	**Abrogé par**:
+	**Créé par**:
 
 	  - Ordonnance n°2017-650 du 27 avril 2017 - art. 1
-
-	**Anciens textes**:
-
-	  - Code général des collectivités territoriales - art. L1422-9 (Ab)
 
 
 ## LIVRE IV : MUSÉES
