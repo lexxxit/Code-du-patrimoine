@@ -1,5 +1,5 @@
 # Code du patrimoine  
-Version Consolidée au 2017-05-05
+Version Consolidée au 2017-05-11
 
 # Partie législative
 
@@ -27581,11 +27581,14 @@ déclaration visée à l'article R. 452-12 sont fixés par arrêté du ministre 
 ###### Article R522-1
 
 Le préfet de région édicte les prescriptions archéologiques, délivre l'autorisation de fouilles et désigne le responsable
-scientifique de toute opération d'archéologie préventive. Il recueille l'avis de la     commission territoriale de la
-recherche archéologique. 
+scientifique de toute opération d'archéologie préventive. Il recueille l'avis de la commission territoriale de la recherche
+archéologique.
 
 Le contrôle des opérations est exercé sous l'autorité du préfet de région dans les conditions prévues à la section 8 du
 chapitre III du présent titre.
+
+Le ministre chargé de la culture exerce les compétences dévolues au préfet de région lorsque les opérations d'aménagement ou
+de travaux sont situées dans le domaine public maritime et la zone contiguë.
 
 **Liens relatifs à cet article**
 
@@ -27595,41 +27598,7 @@ chapitre III du présent titre.
 
 	**Modifié par**:
 
-	  - Décret n°2017-156 du 8 février 2017 - art. 14
-
-
-##### Section 2 : Rôle des collectivités territoriales
-
-###### Article R522-2
-
-Les services archéologiques des collectivités territoriales prévus à l'article L. 522-7 peuvent réaliser des opérations
-d'archéologie préventive, sous réserve d'obtenir les agréments prévus aux articles R. 522-7 et R. 522-8, et élaborer la carte
-archéologique nationale dans des conditions et suivant des modalités déterminées par convention avec l'Etat conformément à
-l'article R. 522-6.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Loi n°2001-44 du 17 janvier 2001 - art. 3-1 (V), dernier alinéa.
-
-	**Créé par**:
-
-	  - Décret n°2011-574 du 24 mai 2011  - art.
-
-	**Codifié par**:
-
-	  - Décret n°2011-574 du 24 mai 2011 Annexe - art.
-
-	**Abrogé par**:
-
-	  - Décret n°2017-925 du 9 mai 2017 - art. 3
-
-	**Cite**:
-
-	  - Code du patrimoine - art. L522-7
-	  - Code du patrimoine - art. R522-6
-	  - Code du patrimoine - art. R522-7 (Ab)
+	  - Décret n°2017-925 du 9 mai 2017 - art. 2
 
 
 ##### Section 3 : Carte archéologique nationale
@@ -27740,178 +27709,122 @@ les conditions réciproques d'accès aux bases de données.
 
 ##### Section 4 : Agrément des opérateurs d'archéologie préventive
 
-##### Sous-section 1 : Agrément pour la réalisation des diagnostics
-
-###### Article R522-7
-
-L'agrément pour la réalisation de diagnostics ne peut être délivré qu'aux services archéologiques de collectivités
-territoriales ou de groupement de collectivités territoriales. Il permet de réaliser tous types d'opérations de diagnostic
-prescrites dans le ressort territorial de la collectivité ou du groupement de collectivités dont relève le service
-archéologique.
-
-**Nota:**
-
-Décret n° 2017-925 du 9 mai 2017,Art. 15 IV : Les demandes d'agrément, de renouvellement ou de modification d'agrément de
-toute personne de droit public ou privé autre que les services archéologiques des collectivités territoriales prévus à
-l'article L. 522-7, déposées avant la date d'entrée en vigueur du présent décret, demeurent régies par les articles R. 522-8
-à R. 522-11 dans leur rédaction antérieure au présent décret.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°2004-490 du 3 juin 2004 - art. 73 (Ab)
-
-	**Créé par**:
-
-	  - Décret n°2011-574 du 24 mai 2011  - art.
-
-	**Codifié par**:
-
-	  - Décret n°2011-574 du 24 mai 2011 Annexe - art.
-
-	**Abrogé par**:
-
-	  - Décret n°2017-925 du 9 mai 2017 - art. 4
-
-	**Cité par**:
-
-	  - Code du patrimoine - art. R522-2 (Ab)
-	  - Code du patrimoine - art. R522-9 (V)
-
-
-##### Sous-section 2 : Agrément pour la réalisation des fouilles
+##### Sous-section 2
 
 ###### Article R522-8
 
-L'agrément pour la réalisation des fouilles peut être délivré aux services archéologiques de collectivités territoriales ou
-de leurs groupements ainsi qu'à toute personne de droit public ou privé. Il peut être limité à certains domaines de la
-recherche archéologique. La demande d'agrément précise éventuellement les époques ou les domaines souhaités.
+L'agrément est délivré, dans le respect des dispositions de l'article L. 522-1, à toute personne de droit public ou privé
+autre que les services archéologiques de collectivités territoriales prévus à l'article L. 522-7. Il permet la réalisation de
+fouilles préventives sur l'ensemble du territoire national. Il peut être limité à certains domaines ou périodes de la
+recherche archéologique. La demande d'agrément précise éventuellement les périodes ou les domaines souhaités.
 
 **Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°2004-490 du 3 juin 2004 - art. 74 (Ab)
-
-	**Créé par**:
-
-	  - Décret n°2011-574 du 24 mai 2011  - art.
 
 	**Codifié par**:
 
 	  - Décret n°2011-574 du 24 mai 2011 Annexe - art.
 
+	**Modifié par**:
 
-##### Sous-section 3 : Dispositions communes
+	  - Décret n°2017-925 du 9 mai 2017 - art. 4
+
+
+##### Sous-section 3
 
 ###### Article R522-9
 
-Les agréments prévus aux articles R. 522-7 et R. 522-8 sont délivrés par arrêté conjoint du ministre chargé de la culture et
-du ministre chargé de la recherche aux services et personnes de droit public ou privé mentionnés auxdits articles, qui
-disposent de personnels permanents justifiant des qualifications requises en matière d'archéologie et de conservation du
-patrimoine, ainsi que de la capacité administrative, technique et financière de réaliser les opérations d'archéologie
-préventive susceptibles de leur être confiées, dans les conditions exigées par le présent titre. Les qualifications requises
-sont fixées par arrêté du ministre chargé de la culture.
+L'agrément prévu à l'article R. 522-8 est délivré par arrêté conjoint du ministre chargé de la culture et du ministre chargé
+de la recherche aux services et personnes de droit public ou privé, qui disposent de personnels permanents justifiant des
+qualifications requises en matière d'archéologie et de conservation du patrimoine, ainsi que de la capacité administrative,
+technique et financière de réaliser les opérations d'archéologie préventive susceptibles de leur être confiées, dans les
+conditions exigées par le présent titre. Les qualifications requises sont fixées par arrêté du ministre chargé de la culture.
 
 **Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°2004-490 du 3 juin 2004 - art. 75 (Ab)
-
-	**Créé par**:
-
-	  - Décret n°2011-574 du 24 mai 2011  - art.
 
 	**Codifié par**:
 
 	  - Décret n°2011-574 du 24 mai 2011 Annexe - art.
 
+	**Modifié par**:
+
+	  - Décret n°2017-925 du 9 mai 2017 - art. 4
+
 	**Cite**:
 
-	  - Code du patrimoine - art. R522-7 (V)
+	  - Code du patrimoine - art. R522-7
 
 
 ###### Article R522-10
 
 Le dossier de demande d'agrément comporte :
 
-I. ― Pour l'ensemble des demandeurs :
+1° La présentation de l'organisme et des personnels scientifiques justifiant l'agrément pour les périodes et domaines
+sollicités ;
 
-1° Les qualifications, le statut, les spécialités et l'expérience professionnelle, dans le domaine de la recherche
-archéologique, des personnels employés par le service ou l'entité dont l'agrément est demandé ;
+2° Les qualifications, les spécialités et l'expérience professionnelle, dans le domaine de la recherche archéologique et de
+la conservation du patrimoine, des personnels employés par l'organisme dont l'agrément est demandé ;
 
-2° La capacité technique et financière du service ou de l'entité ;
+3° Une attestation précisant la nature du contrat de travail ou justifiant d'une promesse d'embauche des personnels ;
 
-3° L'organisation administrative du service ou de l'entité ainsi que sa place dans l'organisme dont il relève.
+4° Le projet scientifique que l'organisme se propose de développer ou de mettre en œuvre pour la durée de l'agrément ;
 
-II. ― Pour les personnes de droit privé et les établissements publics industriels et commerciaux :
+5° La présentation des moyens techniques et opérationnels dont dispose l'organisme pour réaliser des fouilles préventives ;
 
-1° La présentation générale de l'organisme et le bilan financier ;
+6° L'ensemble des documents permettant d'établir la capacité financière de l'organisme et notamment les comptes certifiés et
+la justification de leur dépôt auprès du tribunal de commerce ;
 
-2° Un descriptif de l'activité de l'entreprise dans le domaine de l'archéologie ;
+7° Le document d'évaluation des risques prévu à l'article R. 4121-1 du code du travail ;
 
-3° La déclaration sur l'honneur prévue à l'article 44 (2°) du code des marchés publics ;
+8° La déclaration sur l'honneur prévue à l'article 48 du décret n° 2016-360 du 25 mars 2016 relatif aux marchés publics ;
 
-4° Et lorsque l'agrément est sollicité par une association :
+9° Et lorsque l'agrément est sollicité par une association :
 
 a) Un exemplaire ou une copie du Journal officiel de la République française contenant l'insertion mentionnée à l'article 5
 de la loi du 1er juillet 1901 relative au contrat d'association, ou, dans les départements du Bas-Rhin, du Haut-Rhin et de la
 Moselle, une copie de la décision du tribunal d'instance ou de la juridiction supérieure inscrivant l'association ;
 
-b) Le rapport moral et le rapport financier approuvés lors de la dernière assemblée générale.
+b) A la place des documents prévus au 6°, le rapport moral et le rapport financier approuvés lors de la dernière assemblée
+générale.
 
 **Liens relatifs à cet article**
 
 	**Cite**:
 
-	  - Loi du 1er juillet 1901 - art. 5 (M)
-	  - Code des marchés publics - art. 44 (V)
-
-	**Anciens textes**:
-
-	  - Décret n°2004-490 du 3 juin 2004 - art. 76 (Ab)
-
-	**Créé par**:
-
-	  - Décret n°2011-574 du 24 mai 2011  - art.
+	  - Loi du 1er juillet 1901 - art. 5
+	  - Code des marchés publics - art. 44
 
 	**Codifié par**:
 
 	  - Décret n°2011-574 du 24 mai 2011 Annexe - art.
 
+	**Modifié par**:
+
+	  - Décret n°2017-925 du 9 mai 2017 - art. 4
+
 
 ###### Article R522-11
 
 La demande d'agrément est adressée au ministre chargé de la culture par lettre recommandée avec demande d'avis de réception.
-Une copie du dossier est adressée au préfet de région territorialement compétent.
 
 Lorsque le dossier est incomplet, le ministre sollicite les pièces manquantes dans les mêmes formes. A défaut de production
 de ces pièces dans le mois suivant la réception de la lettre du ministre, le demandeur est réputé avoir renoncé à sa demande.
 
 Le ministre chargé de la culture et le ministre chargé de la recherche se prononcent, après consultation du Conseil national
-de la recherche archéologique, dans un délai de trois mois à compter de la réception du dossier complet. En cas de demande
-d'agrément présentée par une collectivité territoriale ou un groupement de collectivités territoriales, l'absence de décision
-expresse à l'expiration de ce délai vaut agrément. Dans les autres cas, l'absence de notification de décision dans ce délai
-vaut rejet de la demande.
+de la recherche archéologique, dans un délai de six mois à compter de la réception du dossier complet. L'absence de décision
+expresse à l'expiration de ce délai vaut agrément.
 
 L'arrêté délivrant l'agrément énonce les conditions au vu desquelles l'agrément est accordé. Il est notifié au demandeur et
 publié au Journal officiel de la République française.
 
 **Liens relatifs à cet article**
 
-	**Anciens textes**:
-
-	  - Décret n°2004-490 du 3 juin 2004 - art. 77 (Ab)
-
-	**Créé par**:
-
-	  - Décret n°2011-574 du 24 mai 2011  - art.
-
 	**Codifié par**:
 
 	  - Décret n°2011-574 du 24 mai 2011 Annexe - art.
+
+	**Modifié par**:
+
+	  - Décret n°2017-925 du 9 mai 2017 - art. 4
 
 	**Cité par**:
 
@@ -27924,25 +27837,89 @@ publié au Journal officiel de la République française.
 
 L'agrément est accordé pour une durée de cinq ans.
 
-Il est renouvelable à la demande du bénéficiaire dans les mêmes conditions que l'agrément initial. Les époques ou domaines
-pour lesquels l'agrément a été attribué peuvent être modifiés, à la demande du bénéficiaire et selon la même procédure.
+Le ministre chargé de la culture est informé sans délai par la personne agréée de tout changement substantiel affectant les
+conditions au vu desquelles l'agrément a été accordé.
 
-Le ministre chargé de la culture est informé par l'organisme dans un délai de deux mois de tout changement substantiel
-affectant les conditions au vu desquelles l'agrément a été accordé.
+La personne agréée transmet chaque année au ministre chargé de la culture un bilan de son activité en matière d'archéologie
+préventive, établi conformément à l'article L. 523-8-1.
+
+Il comporte notamment :
+
+- une présentation des opérations archéologiques achevées et en cours, accompagnée, pour ces dernières, d'un état des travaux
+et études à réaliser, des dates prévisionnelles de rendu de rapport d'opération et d'un décompte des charges prévisionnelles
+nécessaires à leur réalisation ainsi que des pièces justifiant de la capacité financière de la personne agréée à achever ces
+opérations ;
+
+- les comptes certifiés de l'année écoulée ;
+
+- un bilan social ;
+
+- un programme annuel de prévention des risques professionnels et d'amélioration des conditions de travail, au sens de
+l'article L. 4612-16 du code du travail ;
+
+- un organigramme et un état des effectifs actualisés.
 
 **Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°2004-490 du 3 juin 2004 - art. 78 (Ab)
-
-	**Créé par**:
-
-	  - Décret n°2011-574 du 24 mai 2011  - art.
 
 	**Codifié par**:
 
 	  - Décret n°2011-574 du 24 mai 2011 Annexe - art.
+
+	**Modifié par**:
+
+	  - Décret n°2017-925 du 9 mai 2017 - art. 4
+
+
+###### Article R522-12-1
+
+Pendant la durée de validité de l'agrément, les périodes ou domaines peuvent être modifiés à la demande du bénéficiaire,
+selon la procédure prévue à l'article R. 522-11.
+
+Le dossier de demande comporte les pièces exigées à l'article R. 522-10 pour les périodes ou domaines sollicités.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2017-925 du 9 mai 2017 - art. 4
+
+
+###### Article R522-12-2
+
+En cas de demande de renouvellement, le dossier comporte en outre un bilan scientifique de l'activité réalisée pendant la
+durée de l'agrément précédent. Ce bilan présente par périodes ou domaines les résultats scientifiques des opérations
+réalisées par l'opérateur dans le cadre de son agrément ainsi que les perspectives scientifiques qu'il entend développer.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2017-925 du 9 mai 2017 - art. 4
+
+
+###### Article R522-12-3
+
+I.-Tout ou partie de l'agrément peut être suspendu par décision motivée conjointe du ministre chargé de la culture et du
+ministre chargé de la recherche, prise après avis du Conseil national de la recherche archéologique, lorsque la personne
+agréée n'a pas respecté les obligations prévues par la présente section ou n'est temporairement plus en mesure de réaliser
+tout ou partie des opérations pour lesquelles elle a obtenu l'agrément.
+
+Le ministre chargé de la culture notifie au titulaire les raisons pour lesquelles il est envisagé de suspendre l'agrément et
+lui impartit un délai, d'une durée minimum de quinze jours, pour présenter ses observations écrites.
+
+II.-La suspension est prononcée pour une durée qui ne peut excéder six mois. Elle est notifiée à la personne dont l'agrément
+est suspendu par courrier recommandé avec demande d'avis de réception.
+
+La levée de la mesure est prononcée après avis du Conseil national de la recherche archéologique.
+
+III.-Durant la période de suspension de l'agrément, la personne agréée ne peut pas conclure de contrats avec des aménageurs
+pour la réalisation de fouilles préventives qui portent sur les périodes ou domaines objets de la suspension.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2017-925 du 9 mai 2017 - art. 4
 
 
 ###### Article R522-13
@@ -27950,30 +27927,227 @@ affectant les conditions au vu desquelles l'agrément a été accordé.
 L'agrément peut être retiré par arrêté conjoint du ministre chargé de la culture et du ministre chargé de la recherche
 lorsque l'organisme agréé ne remplit plus l'une des conditions au vu desquelles il a été agréé, ainsi qu'en cas de non-
 respect des obligations prévues par la présente section, de manquements graves ou répétés dans l'exécution des opérations
-archéologiques ou de mises en demeure prononcées en application de l'article R. 523-61 et demeurées infructueuses. 
+archéologiques ou de mises en demeure prononcées en application de l'article R. 523-61 et demeurées infructueuses. Il peut
+être retiré à la suite d'une décision de suspension d'agrément lorsque les motifs qui ont fondé cette décision perdurent. Le
+retrait peut porter sur la totalité de l'agrément ou sur une partie des périodes ou domaines.
 
 Le ministre chargé de la culture notifie au titulaire les raisons pour lesquelles il est envisagé de retirer l'agrément et
 lui impartit un délai, qui ne peut être inférieur à un mois, pour présenter ses observations écrites, qui sont portées à la
 connaissance du Conseil national de la recherche archéologique, consulté préalablement à la décision de retrait. L'arrêté de
-retrait est publié au Journal officiel de la République française.
+retrait est notifié au demandeur et publié au Journal officiel de la République française.
 
 **Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°2004-490 du 3 juin 2004 - art. 79 (Ab)
-
-	**Créé par**:
-
-	  - Décret n°2011-574 du 24 mai 2011  - art.
 
 	**Codifié par**:
 
 	  - Décret n°2011-574 du 24 mai 2011 Annexe - art.
 
+	**Modifié par**:
+
+	  - Décret n°2017-925 du 9 mai 2017 - art. 4
+
 	**Cite**:
 
-	  - Code du patrimoine. - art. R523-61 (V)
+	  - Code du patrimoine - art. R523-61 (V)
+
+
+##### Section 5 : Habilitation des services archéologiques de collectivités territoriales
+
+
+
+
+###### Article R522-14
+
+L'habilitation est délivrée par arrêté conjoint du ministre chargé de la culture et du ministre chargé de la recherche, dans
+le respect des dispositions de l'article L. 522-1, aux services de collectivités territoriales, ou de leurs groupements
+auxquels la compétence a été transférée, qui disposent de personnels permanents justifiant des qualifications requises en
+matière d'archéologie et de conservation du patrimoine, ainsi que de la capacité technique de réaliser les opérations
+d'archéologie préventive susceptibles de leur être confiées, dans les conditions exigées par le présent titre. Les
+qualifications requises sont fixées par arrêté du ministre chargé de la culture.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2017-925 du 9 mai 2017 - art. 5
+
+
+###### Article R522-15
+
+L'habilitation permet :
+
+1° De réaliser les opérations de diagnostic prescrites dans le ressort territorial de la collectivité ou du groupement de
+collectivités dont relève le service archéologique ;
+
+2° De réaliser les opérations de fouilles prescrites sur le territoire de la région de rattachement de la collectivité ou du
+groupement de collectivités dont relève le service archéologique ;
+
+3° De réaliser les opérations de diagnostic prescrites et localisées en partie sur le territoire de la collectivité
+territoriale dans les conditions définies au cinquième alinéa de l'article L. 523-4 ;
+
+4° De réaliser les opérations de fouilles prescrites en dehors de la région de rattachement de la collectivité territoriale
+dans les conditions définies au troisième alinéa de l'article L. 522-8.
+
+Elle peut être limitée à certains domaines ou périodes de la recherche archéologique. La demande d'habilitation précise
+éventuellement les périodes ou les domaines souhaités.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2017-925 du 9 mai 2017 - art. 5
+
+
+###### Article R522-16
+
+Le dossier de demande d'habilitation comporte :
+
+1° Le statut ainsi que les qualifications, les spécialités et l'expérience professionnelle, dans le domaine de la recherche
+archéologique et de la conservation du patrimoine, des personnels employés par le service dont l'habilitation est demandée ;
+
+2° Le projet scientifique que le service se propose de développer dans son ressort territorial ;
+
+3° Les noms des personnels scientifiques responsables pour chaque période et domaine sollicités ;
+
+4° L'engagement que le document unique d'évaluation des risques professionnels de la collectivité et son programme annuel de
+prévention des risques professionnels et d'amélioration des conditions de travail prennent en compte les risques inhérents
+aux opérations archéologiques ;
+
+5° La présentation des moyens techniques et opérationnels dont dispose le service pour réaliser des opérations d'archéologie
+préventive ;
+
+6° La description de l'organisation administrative du service au sein de la collectivité ou du groupement de collectivités
+dont il relève ;
+
+7° Un projet de convention établi avec le préfet de région territorialement compétent conformément à l'article L. 522-8.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2017-925 du 9 mai 2017 - art. 5
+
+
+###### Article R522-17
+
+I.-La demande d'habilitation est adressée au ministre chargé de la culture par lettre recommandée avec demande d'avis de
+réception. Lorsque le dossier est incomplet, le ministre sollicite les pièces manquantes dans les mêmes formes. A défaut de
+production de ces pièces dans le mois suivant la réception de la lettre du ministre, le demandeur est réputé avoir renoncé à
+sa demande.
+
+II.-Le ministre chargé de la culture et le ministre chargé de la recherche se prononcent, après consultation du Conseil
+national de la recherche archéologique, dans un délai de trois mois à compter de la réception du dossier complet. L'absence
+de décision expresse à l'expiration de ce délai vaut habilitation. L'arrêté délivrant l'habilitation énonce les conditions au
+vu desquelles l'habilitation est accordée. Il est notifié au demandeur et publié au Journal officiel de la République
+française.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2017-925 du 9 mai 2017 - art. 5
+
+
+###### Article R522-18
+
+L'habilitation est accordée sans limitation de durée.
+
+Le ministre chargé de la culture est informé sans délai par le service habilité de tout changement substantiel affectant les
+conditions au vu desquelles l'habilitation a été accordée.
+
+Le service habilité transmet tous les cinq ans au ministre chargé de la culture un bilan de son activité en matière
+d'archéologie préventive, établi conformément à l'article L. 522-8 et qui comporte notamment :
+
+1° Une présentation, par périodes et par domaines, des résultats scientifiques des opérations réalisées par le service dans
+le cadre de son habilitation ainsi que les perspectives scientifiques qu'il entend développer ;
+
+2° Une présentation des opérations archéologiques en cours, accompagnée d'un état des travaux et études à réaliser et des
+dates prévisionnelles de rendu de rapports d'opération ;
+
+3° Un état des moyens techniques et opérationnels dont dispose le service pour réaliser les opérations qui lui sont
+confiées ;
+
+4° Un organigramme et un état des effectifs actualisés ;
+
+5° Le document unique d'évaluation des risques professionnels du service actualisé ;
+
+6° Le bilan financier de son activité en matière d'archéologie préventive.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2017-925 du 9 mai 2017 - art. 5
+
+
+###### Article R522-19
+
+Les périodes ou domaines pour lesquels l'habilitation a été attribuée peuvent être modifiés à la demande du bénéficiaire,
+selon la procédure prévue à l'article R. 522-17.
+
+Le dossier de demande comporte les pièces exigées à l'article R. 522-16 pour les périodes ou domaines sollicités.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2017-925 du 9 mai 2017 - art. 5
+
+
+###### Article R522-20
+
+I.-Tout ou partie de l'habilitation peut être suspendue par décision motivée conjointe du ministre chargé de la culture et du
+ministre chargé de la recherche, prise après avis du Conseil national de la recherche archéologique, lorsque le service
+habilité n'a pas respecté les obligations prévues par la présente section ou n'est temporairement plus en mesure de réaliser
+tout ou partie des opérations pour lesquelles il a obtenu l'habilitation.
+
+Le ministre chargé de la culture notifie au titulaire les raisons pour lesquelles il est envisagé de suspendre l'habilitation
+et lui impartit un délai, qui ne peut être inférieur à quinze jours, pour présenter ses observations écrites, qui sont
+portées à la connaissance du Conseil national de la recherche archéologique.
+
+II.-La suspension est prononcée pour une durée qui ne peut pas excéder six mois. Elle est notifiée au titulaire de
+l'habilitation par courrier recommandé avec demande d'avis de réception.
+
+La levée de la mesure est prononcée après avis du Conseil national de la recherche archéologique.
+
+III.-La décision de suspension de l'habilitation fixe le champ d'activité suspendu qui peut comprendre l'impossibilité pour
+le service :
+
+1° De se voir attribuer une prescription de diagnostic ;
+
+2° De passer un contrat avec un aménageur pour la réalisation de fouilles préventives ;
+
+3° Ou de réaliser une opération de fouilles dont la maîtrise d'ouvrage est assurée par la collectivité territoriale ou le
+groupement de collectivités auquel la compétence a été transférée.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2017-925 du 9 mai 2017 - art. 5
+
+
+###### Article R522-21
+
+L'habilitation peut être retirée par arrêté conjoint du ministre chargé de la culture et du ministre chargé de la recherche
+lorsque le service habilité ne remplit plus l'une des conditions au vu desquelles il a été habilité, ainsi qu'en cas de non-
+respect des obligations prévues par la présente section ou de manquements graves ou répétés dans l'exécution des opérations
+archéologiques ou de mises en demeure prononcées en application de l'article R. 523-61 et demeurées infructueuses. Elle peut
+être retirée à la suite d'une décision de suspension d'habilitation prise sur le fondement de l'article R. 522-20 si les
+motifs qui ont fondé cette décision perdurent.
+
+Le retrait peut porter sur la totalité de l'habilitation ou sur une partie des périodes ou domaines.
+
+Le ministre chargé de la culture notifie au titulaire les raisons pour lesquelles il est envisagé de retirer l'habilitation
+et lui impartit un délai, qui ne peut être inférieur à un mois, pour présenter ses observations écrites, qui sont portées à
+la connaissance du Conseil national de la recherche archéologique, consulté préalablement à la décision de retrait. L'arrêté
+de retrait est notifié au demandeur et publié au Journal officiel de la République française.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2017-925 du 9 mai 2017 - art. 5
 
 
 #### Chapitre III : Mise en œuvre des opérations d'archéologie préventive
@@ -28009,43 +28183,6 @@ scientifique ainsi que des demandes de modification de la consistance des opéra
 	  - Code du patrimoine - art. R523-16 (V)
 	  - Code du patrimoine - art. R523-2 (Ab)
 	  - Code du patrimoine - art. R523-4 (V)
-
-
-###### Article R523-2
-
-Les mesures mentionnées à l'article R. 523-1 sont prescrites par le préfet de région. 
-
-Toutefois, lorsque les aménagements, ouvrages ou travaux affectent ou sont susceptibles d'affecter des biens culturels
-maritimes, le ministre chargé de la culture exerce les compétences dévolues au préfet de région par la réglementation
-relative à l'archéologie préventive. Il est saisi du dossier par le maître d'ouvrage.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°2004-490 du 3 juin 2004 - art. 2 (Ab)
-
-	**Créé par**:
-
-	  - Décret n°2011-574 du 24 mai 2011  - art.
-
-	**Codifié par**:
-
-	  - Décret n°2011-574 du 24 mai 2011 Annexe - art.
-
-	**Cité par**:
-
-	  - Décret n°2013-611 du 10 juillet 2013 - art. 22-1 (VD)
-	  - Décret n°2013-611 du 10 juillet 2013 - art. 7 (VD)
-	  - Décret n°2017-781 du 5 mai 2017 - art. 18
-
-	**Abrogé par**:
-
-	  - Décret n°2017-925 du 9 mai 2017 - art. 6
-
-	**Cite**:
-
-	  - Code du patrimoine - art. R523-1
 
 
 ###### Article R523-3
@@ -28596,39 +28733,46 @@ dans les conditions prévues par la législation sur les monuments historiques.
 
 Lorsque des prescriptions archéologiques ont été formulées ou que le préfet de région a fait connaître son intention d'en
 formuler, les autorités compétentes pour délivrer les autorisations mentionnées à l'article R. 523-4 les assortissent d'une
-mention précisant que l'exécution de ces prescriptions est un préalable à la réalisation des travaux. 
-
-Lorsque l'aménageur modifie son projet en application du 3° de l'article R. 523-15, les modifications de la consistance du
-projet indiquées par le préfet de région ont valeur de prescription. Si celles-ci ne sont pas de nature à imposer le dépôt
-d'une nouvelle demande d'autorisation, ou d'une demande de modification de l'autorisation délivrée, l'aménageur adresse au
-préfet de région une notice technique exposant le contenu des mesures prises.
+mention précisant que l'exécution de ces prescriptions est un préalable à la réalisation des travaux.
 
 **Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°2004-490 du 3 juin 2004 - art. 17 (Ab)
-
-	**Créé par**:
-
-	  - Décret n°2011-574 du 24 mai 2011  - art.
 
 	**Codifié par**:
 
 	  - Décret n°2011-574 du 24 mai 2011 Annexe - art.
 
+	**Modifié par**:
+
+	  - Décret n°2017-925 du 9 mai 2017 - art. 7
+
 	**Cite**:
 
-	  - Code du patrimoine - art. R523-15 (V)
-	  - Code du patrimoine - art. R523-4 (V)
+	  - Code du patrimoine - art. R523-15
+	  - Code du patrimoine - art. R523-4
+
+
+###### Article R523-17-1
+
+Lorsque l'aménageur modifie son projet d'aménagement, de construction d'ouvrage ou de travaux et que les modifications ne
+sont pas de nature à imposer le dépôt d'une nouvelle demande d'autorisation ou d'une demande de modification de
+l'autorisation délivrée, il adresse au préfet de région une notice technique exposant le contenu des modifications proposées.
+
+Le préfet de région émet un arrêté de prescription de modification de consistance du projet, conformément au 3° de l'article
+R. 523-15.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2017-925 du 9 mai 2017 - art. 7
 
 
 ###### Article R523-18
 
-Le préfet de région dispose d'un délai de vingt et un jours à compter de la réception d'un dossier complet pour prescrire la
-réalisation d'un diagnostic ou faire connaître son intention d'édicter une prescription de fouilles ou demander la
-modification de la consistance du projet. Ce délai est porté à deux mois lorsque les aménagements, ouvrages ou travaux
-projetés sont soumis à étude d'impact.
+Le préfet de région dispose d'un délai d'un mois à compter de la réception d'un dossier complet pour prescrire la réalisation
+d'un diagnostic ou faire connaître son intention d'édicter une prescription de fouilles ou demander la modification de la
+consistance du projet. Ce délai est porté à deux mois lorsque les aménagements, ouvrages ou travaux projetés sont soumis à
+étude d'impact.
 
 En l'absence de notification de prescriptions dans le délai applicable en vertu de l'alinéa précédent, le préfet de région
 est réputé avoir renoncé à édicter celles-ci.
@@ -28640,17 +28784,13 @@ Passé ce délai, il est réputé avoir renoncé à édicter de telles prescript
 
 **Liens relatifs à cet article**
 
-	**Anciens textes**:
-
-	  - Décret n°2004-490 du 3 juin 2004 - art. 18 (Ab)
-
-	**Créé par**:
-
-	  - Décret n°2011-574 du 24 mai 2011  - art.
-
 	**Codifié par**:
 
 	  - Décret n°2011-574 du 24 mai 2011 Annexe - art.
+
+	**Modifié par**:
+
+	  - Décret n°2017-925 du 9 mai 2017 - art. 7
 
 	**Cité par**:
 
@@ -28734,31 +28874,27 @@ relatif à la même opération.
 
 ###### Article R523-21
 
-Lorsque des opérations sont réalisées par tranches successives, le calendrier prévisionnel de leur réalisation est communiqué
-au préfet de région qui peut décider de prescrire les mesures prévues à l'article R. 523-15 soit pour la totalité du projet,
-soit lors de l'exécution de chaque tranche. Dans ce dernier cas, il définit par arrêté les délais de sa saisine et la nature
-des documents à fournir. 
+Lorsque des opérations d'aménagement, de construction d'ouvrage ou de travaux sont réalisées par tranches successives, le
+calendrier prévisionnel de leur réalisation est communiqué par l'aménageur au préfet de région qui peut décider de prescrire
+les mesures prévues à l'article R. 523-15 soit pour la totalité du projet, soit lors de l'exécution de chaque tranche
+opérationnelle. Dans ce dernier cas, il définit par arrêté les délais de sa saisine et la nature des documents à fournir.
 
 Les opérations de diagnostic sont toutefois conduites pour l'ensemble du projet si la personne qui réalise ce projet en fait
 la demande.
 
 **Liens relatifs à cet article**
 
-	**Anciens textes**:
-
-	  - Décret n°2004-490 du 3 juin 2004 - art. 21 (Ab)
-
-	**Créé par**:
-
-	  - Décret n°2011-574 du 24 mai 2011  - art.
-
 	**Codifié par**:
 
 	  - Décret n°2011-574 du 24 mai 2011 Annexe - art.
 
+	**Modifié par**:
+
+	  - Décret n°2017-925 du 9 mai 2017 - art. 7
+
 	**Cite**:
 
-	  - Code du patrimoine - art. R523-15 (V)
+	  - Code du patrimoine - art. R523-15
 
 
 ##### Section 5 : Responsabilité scientifique des opérations
@@ -28826,62 +28962,8 @@ Lorsqu'il prescrit un diagnostic prévu au 1° de l'article R. 523-15, le préfe
 
 Les prescriptions archéologiques de diagnostic sont notifiées à l'autorité compétente pour délivrer l'autorisation de
 travaux, à l'aménageur, à l'Institut national de recherches archéologiques préventives ainsi que, s'ils disposent d'un
-service archéologique agréé, aux collectivités territoriales ou aux groupements de collectivités territoriales sur le
-territoire desquels l'opération d'aménagement doit avoir lieu.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°2004-490 du 3 juin 2004 - art. 22 (Ab)
-
-	**Créé par**:
-
-	  - Décret n°2011-574 du 24 mai 2011  - art.
-
-	**Codifié par**:
-
-	  - Décret n°2011-574 du 24 mai 2011 Annexe - art.
-
-
-###### Article R523-25
-
-Les collectivités territoriales ou les groupements de collectivités territoriales dont le service archéologique a été agréé
-peuvent décider :
-
-1° De réaliser le diagnostic d'archéologie préventive pour une opération d'aménagement ou de travaux entrepris sur leur
-territoire ;
-
-2° De réaliser l'ensemble des diagnostics d'archéologie préventive prescrits pour les opérations d'aménagement ou de travaux
-entrepris sur leur territoire.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°2004-490 du 3 juin 2004 - art. 23 (Ab)
-
-	**Créé par**:
-
-	  - Décret n°2011-574 du 24 mai 2011  - art.
-
-	**Codifié par**:
-
-	  - Décret n°2011-574 du 24 mai 2011 Annexe - art.
-
-	**Cité par**:
-
-	  - Code du patrimoine - art. R523-26 (M)
-	  - Code du patrimoine - art. R523-27 (V)
-
-
-###### Article R523-26
-
-Les collectivités ou groupements de collectivités mentionnés à l'article R. 523-25 qui entendent réaliser le diagnostic
-d'archéologie préventive pour une opération, en application du 1° de cet article, doivent faire connaître leur décision en ce
-sens, prise conformément aux dispositions de l'article L. 523-4, au préfet de région dans le délai d'une semaine à compter de
-la réception de la notification de prescription de diagnostic. A défaut de la notification de leur décision dans ce délai,
-ces collectivités ou groupements de collectivités sont réputés avoir renoncé à exercer cette faculté.
+service archéologique habilité, aux collectivités territoriales ou aux groupements de collectivités territoriales sur le
+territoire desquels l'opération d'aménagement doit avoir lieu en tout ou partie.
 
 **Liens relatifs à cet article**
 
@@ -28891,16 +28973,62 @@ ces collectivités ou groupements de collectivités sont réputés avoir renonc�
 
 	**Modifié par**:
 
-	  - Décret n°2015-836 du 9 juillet 2015 - art. 7
+	  - Décret n°2017-925 du 9 mai 2017 - art. 8
+
+
+###### Article R523-25
+
+Les collectivités territoriales ou les groupements de collectivités territoriales dont le service archéologique a été
+habilité peuvent décider :
+
+1° De réaliser le diagnostic d'archéologie préventive pour une opération d'aménagement ou de travaux entrepris en tout ou
+partie sur leur territoire ;
+
+2° De réaliser l'ensemble des diagnostics d'archéologie préventive prescrits pour les opérations d'aménagement ou de travaux
+entrepris sur leur territoire.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°2011-574 du 24 mai 2011 Annexe - art.
+
+	**Modifié par**:
+
+	  - Décret n°2017-925 du 9 mai 2017 - art. 8
+
+	**Cité par**:
+
+	  - Code du patrimoine - art. R523-26 (V)
+	  - Code du patrimoine - art. R523-27 (V)
+
+
+###### Article R523-26
+
+Les collectivités ou groupements de collectivités mentionnés à l'article R. 523-25 qui entendent réaliser le diagnostic
+d'archéologie préventive pour une opération, en application du 1° de cet article, doivent faire connaître leur décision en ce
+sens, prise conformément aux dispositions de l'article L. 523-4, au préfet de région dans le délai de quatorze jours à
+compter de la réception de la notification de prescription de diagnostic. A défaut de la notification de leur décision dans
+ce délai, ces collectivités ou groupements de collectivités sont réputés avoir renoncé à exercer cette faculté.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°2011-574 du 24 mai 2011 Annexe - art.
+
+	**Modifié par**:
+
+	  - Décret n°2017-925 du 9 mai 2017 - art. 8
 
 	**Cite**:
 
 	  - Code du patrimoine - art. L523-4
-	  - Code du patrimoine - art. R523-25
+	  - Code du patrimoine - art. R523-25 (V)
 
 	**Cité par**:
 
-	  - Code du patrimoine - art. R523-29 (M)
+	  - Code du patrimoine - art. R523-29 (V)
 
 
 ###### Article R523-27
@@ -28955,36 +29083,32 @@ région dans un délai d'une semaine à compter de la réception de la prescript
 ###### Article R523-29
 
 A l'expiration des délais mentionnés aux articles R. 523-26 et R. 523-28, le préfet de région notifie l'attribution du
-diagnostic à l'opérateur compétent et informe l'aménageur de l'identité de celui-ci. 
+diagnostic à l'opérateur compétent et informe l'aménageur de l'identité de celui-ci.
 
-Sous réserve des dispositions de l'article R. 523-28, l'opérateur compétent est par ordre de priorité : 
+Sous réserve des dispositions de l'article R. 523-28, l'opérateur compétent est par ordre de priorité :
 
-1° La commune ou l'établissement public de coopération intercommunale ; 
+1° La commune ou le groupement auquel la compétence a été transférée ;
 
-2° Le département, l'institution interdépartementale ou l'organisme interdépartemental ; 
+2° Le département, l'institution interdépartementale ou l'organisme interdépartemental ;
 
-3° La région ou l'entente interrégionale ou, en Corse, la collectivité territoriale de Corse ; 
+3° La région ou l'entente interrégionale ou, en Corse, la collectivité territoriale de Corse ;
 
 4° L'Institut national de recherches archéologiques préventives.
 
 **Liens relatifs à cet article**
 
-	**Anciens textes**:
-
-	  - Décret n°2004-490 du 3 juin 2004 - art. 27 (Ab)
-
-	**Créé par**:
-
-	  - Décret n°2011-574 du 24 mai 2011  - art.
-
 	**Codifié par**:
 
 	  - Décret n°2011-574 du 24 mai 2011 Annexe - art.
 
+	**Modifié par**:
+
+	  - Décret n°2017-925 du 9 mai 2017 - art. 8
+
 	**Cite**:
 
 	  - Code du patrimoine - art. R523-26 (V)
-	  - Code du patrimoine - art. R523-28 (V)
+	  - Code du patrimoine - art. R523-28
 
 
 ##### Sous-section 3 : Les conditions de réalisation du diagnostic
@@ -28994,7 +29118,7 @@ Sous réserve des dispositions de l'article R. 523-28, l'opérateur compétent e
 Dans le délai d'un mois suivant la réception de la notification de l'attribution du diagnostic, l'opérateur élabore un projet
 d'intervention détaillant la mise en œuvre de la prescription et le soumet au préfet de région pour approbation. Si le projet
 soumis n'est pas conforme à la prescription qu'il a édictée, le préfet de région demande à l'opérateur de le modifier. Faute
-d'observation de la part du préfet dans le délai d'un mois, l'approbation est réputée acquise. 
+d'observation de la part du préfet dans le délai d'un mois, l'approbation est réputée acquise.
 
 Dès que le projet d'intervention a été approuvé et au plus tard deux mois après avoir reçu la notification de l'attribution
 du diagnostic, l'opérateur adresse à l'aménageur un projet de convention précisant les conditions de réalisation du
@@ -29005,8 +29129,8 @@ diagnostic, l'opérateur et l'aménageur signent une convention précisant les c
 que prévues à l'article R. 523-31.
 
 A défaut de signature de la convention dans le délai prévu à l'alinéa précédent ou en cas de désaccord sur les éléments
-prévus à l'article R. 523-31, ceux-ci sont fixés par le préfet de région, saisi par la partie la plus diligente, dans le
-délai de quinze jours.
+prévus à l'article R. 523-31, le préfet de région peut être saisi par la partie la plus diligente. Dans le délai de quinze
+jours à compter de sa saisine, le préfet de région fixe les délais de réalisation du diagnostic en cas de désaccord.
 
 **Liens relatifs à cet article**
 
@@ -29016,14 +29140,14 @@ délai de quinze jours.
 
 	**Modifié par**:
 
-	  - Décret n°2015-836 du 9 juillet 2015 - art. 7
+	  - Décret n°2017-925 du 9 mai 2017 - art. 8
 
 	**Cité par**:
 
 	  - Code du patrimoine - art. R523-31 (V)
 	  - Code du patrimoine - art. R523-32 (V)
 	  - Code du patrimoine - art. R523-35 (V)
-	  - Code du patrimoine - art. R523-37 (M)
+	  - Code du patrimoine - art. R523-37 (V)
 
 
 ###### Article R523-31
@@ -29115,35 +29239,6 @@ telles que déterminées au 2° du même article.
 	  - Code du patrimoine. - art. R545-18 (M)
 
 
-###### Article R523-34
-
-En cas de désaccord sur les délais prévus à l'article R. 523-31 entre l'aménageur et l'opérateur, ceux-ci sont fixés par le
-préfet de région, saisi par la partie la plus diligente. Le préfet se prononce dans les quinze jours de sa saisine après
-avoir, s'il le juge utile, consulté la     commission territoriale de la recherche archéologique.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°2011-574 du 24 mai 2011 Annexe - art.
-
-	**Modifié par**:
-
-	  - Décret n°2017-156 du 8 février 2017 - art. 14
-
-	**Abrogé par**:
-
-	  - Décret n°2017-925 du 9 mai 2017 - art. 8
-
-	**Cite**:
-
-	  - Code du patrimoine - art. R523-31
-
-	**Cité par**:
-
-	  - Code du patrimoine - art. R545-18 (V)
-
-
 ###### Article R523-35
 
 La convention prévue à l'article R. 523-30 est transmise au préfet de région.
@@ -29169,85 +29264,71 @@ La convention prévue à l'article R. 523-30 est transmise au préfet de région
 
 ###### Article R523-36
 
-Le rapport de diagnostic complet est transmis au préfet de région qui le porte à la connaissance de l'aménageur et du
-propriétaire du terrain.
+Le préfet de région dispose d'un délai d'un mois à compter de la réception du rapport de diagnostic pour vérifier sa
+conformité aux normes mentionnées à l'article R. 546-4. Lorsque le rapport de diagnostic est incomplet, le préfet de région
+sollicite les pièces manquantes auprès de l'opérateur dans ce même délai.
+
+Lorsque le préfet de région considère que le rapport de diagnostic est conforme, il le transmet à l'aménageur.
 
 **Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°2004-490 du 3 juin 2004 - art. 32 (Ab)
-
-	**Créé par**:
-
-	  - Décret n°2011-574 du 24 mai 2011  - art.
 
 	**Codifié par**:
 
 	  - Décret n°2011-574 du 24 mai 2011 Annexe - art.
+
+	**Modifié par**:
+
+	  - Décret n°2017-925 du 9 mai 2017 - art. 8
 
 
 ###### Article R523-37
 
-Le délai de caducité de la prescription de diagnostic fixé à quatre mois par le troisième alinéa de l'article L. 523-7 court
-à compter de la signature de la convention prévue à l'article R. 523-30. Toutefois, si la convention prévoit une date de
-début d'opération sur le terrain postérieure à ce délai, la caducité intervient le jour suivant cette date dans l'hypothèse
-où, du fait de l'opérateur, le diagnostic n'a pas été engagé sur le terrain. 
-
-Le délai de caducité de la prescription de diagnostic prévu au quatrième alinéa de l'article L. 523-7 est d'un mois à compter
+Le délai de caducité de la prescription de diagnostic prévu au troisième alinéa de l'article L. 523-7 est d'un mois à compter
 de la date conventionnelle d'achèvement des travaux archéologiques sur le terrain. Ce délai est porté à deux mois quand le
-diagnostic a été prescrit à l'occasion de travaux soumis à étude d'impact en application du code de l'environnement. 
+diagnostic a été prescrit à l'occasion de travaux soumis à étude d'impact en application du code de l'environnement.
 
-Les délais prévus aux alinéas précédents sont suspendus en cas de force majeure.
+Les délais prévus à l'alinéa précédent et à l'article R. 523-30 sont suspendus en cas de force majeure.
 
 **Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°2004-490 du 3 juin 2004 - art. 33 (Ab)
-
-	**Créé par**:
-
-	  - Décret n°2011-574 du 24 mai 2011  - art.
 
 	**Codifié par**:
 
 	  - Décret n°2011-574 du 24 mai 2011 Annexe - art.
 
+	**Modifié par**:
+
+	  - Décret n°2017-925 du 9 mai 2017 - art. 8
+
 	**Cite**:
 
+	  - Code du patrimoine - art. L523-7
 	  - Code du patrimoine - art. R523-30 (V)
-	  - Code du patrimoine. - art. L523-7 (V)
 
 
 ###### Article R523-38
 
 Dès qu'il apparaît que le diagnostic ne peut être réalisé dans les délais, l'opérateur en informe le préfet de région. Il
-indique si des vestiges ont été découverts et en fournit une première caractérisation. 
+indique si des vestiges ont été découverts et en fournit une première caractérisation.
 
 Si le diagnostic inachevé a établi la présence de vestiges archéologiques ou que leur découverte est faite pendant les
-travaux d'aménagement, ils sont soumis aux dispositions des articles L. 531-14 à L. 531-16. Toutefois, pour leur conservation
-ou leur sauvegarde, le préfet de région peut édicter une des prescriptions postérieures au diagnostic prévues à l'article R.
-523-15.
+travaux d'aménagement, ils sont soumis aux dispositions des articles L. 531-14 et L. 531-15.  Toutefois, pour leur
+conservation ou leur sauvegarde, le préfet de région peut édicter une des prescriptions postérieures au diagnostic prévues à
+l'article R. 523-15.
 
 **Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°2004-490 du 3 juin 2004 - art. 34 (Ab)
-
-	**Créé par**:
-
-	  - Décret n°2011-574 du 24 mai 2011  - art.
 
 	**Codifié par**:
 
 	  - Décret n°2011-574 du 24 mai 2011 Annexe - art.
 
+	**Modifié par**:
+
+	  - Décret n°2017-925 du 9 mai 2017 - art. 8
+
 	**Cite**:
 
-	  - Code du patrimoine - art. R523-15 (V)
-	  - Code du patrimoine. - art. L531-14 (V)
+	  - Code du patrimoine - art. L531-14
+	  - Code du patrimoine - art. R523-15
 
 
 ##### Section 7 : Mise en œuvre des fouilles
@@ -29256,39 +29337,36 @@ ou leur sauvegarde, le préfet de région peut édicter une des prescriptions po
 
 ###### Article R523-39
 
-Lorsque le préfet de région prescrit, dans les conditions prévues par l'article R. 523-19, la réalisation d'une fouille, il
-assortit son arrêté de prescription d'un cahier des charges scientifique qui : 
+Lorsque le préfet de région prescrit, dans les conditions prévues par l'article R. 523-19 ou R. 523-21, la réalisation d'une
+fouille, il assortit son arrêté de prescription d'une ou plusieurs tranches opérationnelles et d'un cahier des charges
+scientifique qui :
 
 1° Définit les objectifs, les données scientifiques ainsi que les principes méthodologiques et techniques de l'intervention
-et des études à réaliser ; 
+et des études à réaliser ;
 
 2° Précise les qualifications du responsable scientifique de l'opération et, le cas échéant, celles des spécialistes
-nécessaires à l'équipe d'intervention ; 
+nécessaires à l'équipe d'intervention ;
 
-3° Définit la nature prévisible des travaux nécessités par l'opération archéologique. Le cahier des charges scientifique en
-indique, le cas échéant, la durée minimale et fournit une composition indicative de l'équipe ; 
+3° Définit la nature prévisible des travaux nécessités par l'opération archéologique et, le cas échéant, les tranches
+conditionnelles. Il précise, pour chacune des tranches, la durée minimale et fournit une composition indicative de l'équipe ;
 
-4° Détermine les mesures à prendre pour la conservation préventive des vestiges mis au jour ; 
+4° Détermine les mesures à prendre pour la conservation préventive des vestiges mis au jour ;
 
 5° Fixe le délai limite pour la remise du rapport final.
 
 **Liens relatifs à cet article**
 
-	**Anciens textes**:
-
-	  - Décret n°2004-490 du 3 juin 2004 - art. 35 (Ab)
-
-	**Créé par**:
-
-	  - Décret n°2011-574 du 24 mai 2011  - art.
-
 	**Codifié par**:
 
 	  - Décret n°2011-574 du 24 mai 2011 Annexe - art.
 
+	**Modifié par**:
+
+	  - Décret n°2017-925 du 9 mai 2017 - art. 9
+
 	**Cite**:
 
-	  - Code du patrimoine - art. R523-19 (V)
+	  - Code du patrimoine - art. R523-19
 
 
 ##### Sous-section 2 : Les conditions de réalisation des fouilles
@@ -29336,66 +29414,74 @@ ministre chargé de la culture, sont réalisées sous la maîtrise d'ouvrage de 
 ###### Article R523-42
 
 Les opérations de fouilles peuvent être confiées à l'Institut national de recherches archéologiques préventives, à un service
-archéologique territorial agréé ou à toute autre personne titulaire de l'agrément prévu à la section 4 du chapitre II du
+archéologique territorial habilité ou à toute autre personne titulaire de l'agrément prévu à la section 4 du chapitre II du
 présent titre.
 
 **Liens relatifs à cet article**
 
-	**Anciens textes**:
-
-	  - Décret n°2004-490 du 3 juin 2004 - art. 38 (Ab)
-
-	**Créé par**:
-
-	  - Décret n°2011-574 du 24 mai 2011  - art.
-
 	**Codifié par**:
 
 	  - Décret n°2011-574 du 24 mai 2011 Annexe - art.
+
+	**Modifié par**:
+
+	  - Décret n°2017-925 du 9 mai 2017 - art. 9
 
 
 ###### Article R523-43
 
-Si l'aménageur est une personne publique soumise au code des marchés publics, la passation du contrat de fouilles est soumise
-aux règles de passation des marchés de travaux fixées par ce code.
-
-Si l'aménageur est une personne soumise à l'ordonnance n° 2005-649 du 6 juin 2005 relative aux marchés passés par certaines
-personnes publiques ou privées non soumises au code des marchés publics, la passation du contrat de fouilles est régie par
-les règles de passation des marchés de travaux fixées par le décret n° 2005-1742 du 30 décembre 2005 fixant les règles
-applicables aux marchés passés par les pouvoirs adjudicateurs mentionnés à l'article 3 de cette ordonnance.
+Si l'aménageur est une personne soumise à l'ordonnance n° 2015-899 du 25 juillet 2015 relative aux marchés publics, la
+passation du contrat de fouilles est régie par les textes relatifs aux marchés publics.
 
 **Liens relatifs à cet article**
 
-	**Anciens textes**:
-
-	  - Décret n°2004-490 du 3 juin 2004 - art. 39 (Ab)
-
 	**Cite**:
 
-	  - Ordonnance n°2005-649 du 6 juin 2005 (V)
-	  - Décret n°2005-1742 du 30 décembre 2005 (V)
-
-	**Créé par**:
-
-	  - Décret n°2011-574 du 24 mai 2011  - art.
+	  - Ordonnance n°2005-649 du 6 juin 2005
+	  - Décret n°2005-1742 du 30 décembre 2005
 
 	**Codifié par**:
 
 	  - Décret n°2011-574 du 24 mai 2011 Annexe - art.
+
+	**Modifié par**:
+
+	  - Décret n°2017-925 du 9 mai 2017 - art. 9
 
 	**Cité par**:
 
 	  - Code du patrimoine - art. R523-45 (V)
 
 
+###### Article R523-43-1
+
+I.-Préalablement au choix de l'opérateur par l'aménageur, celui-ci transmet toutes les offres recevables au préfet de région,
+qu'elles relèvent d'un contrat de droit privé ou d'un marché public. Dans ce dernier cas, l'aménageur transmet également le
+règlement de consultation.
+
+Ces offres comprennent notamment le projet scientifique d'intervention et les conditions de sa mise en œuvre. Ce projet
+détermine les modalités de la réalisation de l'opération archéologique prescrite, notamment les méthodes et techniques
+employées, les mesures de prévention des risques, les mesures de prévention en matière d'hygiène et de sécurité, ainsi que
+les moyens humains et matériels prévus. Il est établi par l'opérateur, sur la base du cahier des charges scientifique
+mentionné à l'article R. 523-39.
+
+En application du troisième alinéa de l'article L. 523-9, le préfet de région transmet à l'aménageur son avis motivé sur
+chacune des offres dans un délai d'un mois à compter de la réception de l'ensemble des offres.
+
+II.-Lorsque l'aménageur dispose d'un service habilité pour réaliser la prescription de fouilles et qu'il la lui confie, il
+transmet au préfet de région le projet scientifique d'intervention qu'il a élaboré et les conditions de sa mise en œuvre,
+tels que prévus au deuxième alinéa. Cette transmission vaut demande d'autorisation de fouilles.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2017-925 du 9 mai 2017 - art. 9
+
+
 ###### Article R523-44
 
-L'aménageur conclut avec l'opérateur un contrat qui définit le projet scientifique d'intervention et les conditions de sa
-mise en œuvre. Ce projet détermine les modalités de la réalisation de l'opération archéologique prescrite, notamment les
-méthodes et techniques employées et les moyens humains et matériels prévus. Il est établi par l'opérateur sur la base du
-cahier des charges scientifique.
-
-Le contrat précise :
+L'aménageur conclut avec l'opérateur un contrat qui précise :
 
 1° La date prévisionnelle de début de l'opération de fouilles, sa durée et le prix de réalisation des fouilles ;
 
@@ -29405,68 +29491,58 @@ Le contrat précise :
 
 4° La date de remise du rapport final d'opération.
 
-Si l'aménageur est une personne publique soumise au code des marchés publics, le contrat contient en outre les mentions
-obligatoires prévues par ce code.
+Le contrat comporte, en annexe, le projet scientifique d'intervention et les pièces justifiant des conditions d'emploi du
+responsable scientifique proposé pour l'opération.
 
-Si l'aménageur est une personne publique ou privée soumise à l'ordonnance n° 2005-649 du 6 juin 2005 relative aux marchés
-passés par certaines personnes publiques ou privées non soumises au code des marchés publics, le contrat contient en outre
-les mentions obligatoires prévues par le décret n° 2005-1742 du 30 décembre 2005 fixant les règles applicables aux marchés
-passés par les pouvoirs adjudicateurs mentionnés à l'article 3 de cette ordonnance.
+Si l'aménageur est une personne soumise à l'ordonnance n° 2015-899 du 25 juillet 2015 relative aux marchés publics, le
+contrat contient en outre les mentions obligatoires prévues par les textes relatifs aux marchés publics.
 
 **Liens relatifs à cet article**
 
-	**Anciens textes**:
-
-	  - Décret n°2004-490 du 3 juin 2004 - art. 40 (Ab)
-
 	**Cite**:
 
-	  - Ordonnance n°2005-649 du 6 juin 2005 (V)
-	  - Décret n°2005-1742 du 30 décembre 2005 (V)
-
-	**Créé par**:
-
-	  - Décret n°2011-574 du 24 mai 2011  - art.
+	  - Ordonnance n°2005-649 du 6 juin 2005
+	  - Décret n°2005-1742 du 30 décembre 2005
 
 	**Codifié par**:
 
 	  - Décret n°2011-574 du 24 mai 2011 Annexe - art.
 
+	**Modifié par**:
+
+	  - Décret n°2017-925 du 9 mai 2017 - art. 9
+
 	**Cité par**:
 
-	  - Code du patrimoine - art. R523-47 (M)
+	  - Code du patrimoine - art. R523-47 (V)
 	  - Code du patrimoine - art. R523-51 (V)
 	  - Code du patrimoine. - art. R524-27 (V)
 
 
 ###### Article R523-45
 
-Le contrat prévu à l'article R. 523-43, signé par les deux parties et accompagné du justificatif de l'agrément de
-l'opérateur, est transmis par l'aménageur au préfet de région. Cette transmission vaut demande de l'autorisation de fouilles
-prévue au deuxième alinéa de l'article L. 523-9. 
+Le contrat prévu à l'article R. 523-44, signé par les deux parties et accompagné du justificatif de l'habilitation ou de
+l'agrément de l'opérateur, est transmis par l'aménageur au préfet de région. Cette transmission vaut demande de
+l'autorisation de fouilles prévue au quatrième alinéa de l'article L. 523-9. 
 
 Lorsque l'aménageur est une personne privée, la transmission est complétée par une déclaration sur l'honneur dûment datée et
 signée attestant que les conditions prévues à l'article R. 523-49 sont satisfaites.
 
 **Liens relatifs à cet article**
 
-	**Anciens textes**:
-
-	  - Décret n°2004-490 du 3 juin 2004 - art. 41 (Ab)
-
-	**Créé par**:
-
-	  - Décret n°2011-574 du 24 mai 2011  - art.
-
 	**Codifié par**:
 
 	  - Décret n°2011-574 du 24 mai 2011 Annexe - art.
 
+	**Modifié par**:
+
+	  - Décret n°2017-925 du 9 mai 2017 - art. 9
+
 	**Cite**:
 
-	  - Code du patrimoine - art. R523-43 (V)
-	  - Code du patrimoine - art. R523-49 (V)
-	  - Code du patrimoine. - art. L523-9 (V)
+	  - Code du patrimoine - art. L523-9
+	  - Code du patrimoine - art. R523-43
+	  - Code du patrimoine - art. R523-49
 
 	**Cité par**:
 
@@ -29476,57 +29552,58 @@ signée attestant que les conditions prévues à l'article R. 523-49 sont satisf
 
 ###### Article R523-46
 
-Le préfet de région dispose d'un délai de deux mois à compter de la réception du dossier transmis pour délivrer
-l'autorisation de fouilles ou la refuser en cas de non-conformité du projet soumis au cahier des charges scientifique.
-L'absence de décision notifiée dans le délai précité vaut refus de l'autorisation.
+I.-Le préfet de région dispose d'un délai d'un mois à compter de la réception du dossier transmis en application de l'article
+R. 523-45 pour délivrer l'autorisation de fouilles ou pour la refuser lorsque les éléments contractuels mentionnés à
+l'article R. 523-44 ne permettent pas de réaliser la prescription de fouilles. L'absence de décision notifiée dans le délai
+précité vaut autorisation.
 
-En cas de refus, le préfet peut proposer à l'aménageur de lui présenter un projet amendé dans un délai et selon des
-modifications qu'il lui indique. Le préfet dispose alors d'un délai de quinze jours à compter de la nouvelle présentation du
-projet pour notifier sa décision. A défaut, la demande d'autorisation est réputée rejetée.
+Lorsque l'aménageur n'a pas transmis l'ensemble des offres mentionnées à l'article R. 523-43-1 ou dépose sa demande
+d'autorisation de fouilles avant d'avoir reçu l'avis motivé du préfet de région ou avant l'expiration du délai d'un mois
+mentionné au dernier alinéa de l'article R. 523-43-1, le délai prévu au premier alinéa est de trois mois.
 
-L'arrêté d'autorisation comporte le nom du responsable scientifique des fouilles, désigné par le préfet de région, sur
+II.-Lorsque l'aménageur dispose d'un service habilité pour réaliser la prescription de fouilles et qu'il la lui confie, le
+préfet de région dispose d'un délai d'un mois à compter de la réception du dossier transmis en application du dernier alinéa
+de l'article R. 523-43-1 pour délivrer l'autorisation de fouilles ou pour la refuser en cas de non-conformité du projet
+soumis au cahier des charges scientifiques. L'absence de décision notifiée dans le délai précité vaut autorisation.
+
+III.-L'arrêté d'autorisation comporte le nom du responsable scientifique de la fouille, désigné par le préfet de région, sur
 proposition de l'opérateur.
 
 **Liens relatifs à cet article**
 
-	**Anciens textes**:
-
-	  - Décret n°2004-490 du 3 juin 2004 - art. 42 (Ab)
-
-	**Créé par**:
-
-	  - Décret n°2011-574 du 24 mai 2011  - art.
-
 	**Codifié par**:
 
 	  - Décret n°2011-574 du 24 mai 2011 Annexe - art.
+
+	**Modifié par**:
+
+	  - Décret n°2017-925 du 9 mai 2017 - art. 9
 
 
 ###### Article R523-47
 
 Lorsque le déroulement des opérations fait apparaître la nécessité d'une modification substantielle du projet scientifique
 d'intervention, un projet révisé est soumis au préfet de région, qui dispose d'un délai de quinze jours pour l'approuver ou
-en demander la modification. A défaut de notification d'une décision dans ce délai, le projet révisé est réputé refusé. 
+en demander la modification. L'absence de décision notifiée dans le délai précité vaut autorisation.
 
 En cas de découvertes survenues pendant l'opération conduisant à remettre en cause les résultats du diagnostic et les données
-scientifiques du cahier des charges, le préfet de région peut formuler des prescriptions complémentaires. 
+scientifiques du cahier des charges, le préfet de région peut formuler des prescriptions complémentaires.
+
+Lorsqu'au cours des opérations, il apparaît nécessaire pour l'opérateur de recourir à un sous-traitant pour la réalisation de
+prestations scientifiques, celui-ci le déclare au préfet de région préalablement à son engagement.
 
 Les modifications et prescriptions complémentaires mentionnées aux alinéas précédents ne peuvent conduire à modifier
 l'économie générale du contrat mentionné à l'article R. 523-44.
 
 **Liens relatifs à cet article**
 
-	**Anciens textes**:
-
-	  - Décret n°2004-490 du 3 juin 2004 - art. 43 (Ab), alinéas 1 à 3.
-
-	**Créé par**:
-
-	  - Décret n°2011-574 du 24 mai 2011  - art.
-
 	**Codifié par**:
 
 	  - Décret n°2011-574 du 24 mai 2011 Annexe - art.
+
+	**Modifié par**:
+
+	  - Décret n°2017-925 du 9 mai 2017 - art. 9
 
 	**Cite**:
 
@@ -29849,118 +29926,24 @@ qu'aucune décision négative n'est intervenue.
 	  - Code du patrimoine. - art. R524-31 (V)
 
 
-##### Section 8 : Le contrôle des opérations d'archéologie préventive
+##### Section 8 : Le contrôle scientifique et technique des opérations d'archéologie préventive
 
 ###### Article R523-60
 
-Les opérations d'archéologie préventive sont exécutées sous le contrôle des services de l'Etat. L'aménageur et l'opérateur de
-l'intervention archéologique sont tenus de faire connaître aux services intéressés les dates de début et de fin du diagnostic
-des fouilles, au moins cinq jours ouvrables avant le début de l'opération.
+Les opérations d'archéologie préventive sont exécutées sous le contrôle scientifique et technique des services de l'Etat
+chargés de l'archéologie. L'aménageur et l'opérateur de l'intervention archéologique sont tenus de faire connaître aux
+services intéressés les dates de début et de fin du diagnostic des fouilles, au moins cinq jours ouvrables avant le début de
+l'opération.
 
-Les observations du représentant de l'Etat formulées à l'issue des visites de contrôle ou réunions de chantier sont
-communiquées par écrit à l'opérateur et au responsable scientifique, ainsi que, dans le cas des fouilles, à l'aménageur.
+Le responsable scientifique mentionné à l'article R. 523-22 informe par écrit les services de l'Etat chargés de l'archéologie
+de l'évolution de l'opération dans les conditions déterminées par ces derniers.
+
+Les observations des services de l'Etat chargés de l'archéologie formulées à l'issue des visites de contrôle ou réunions de
+chantier sont communiquées par écrit à l'opérateur et au responsable scientifique, ainsi que, dans le cas des fouilles, à
+l'aménageur.
 
 L'aménageur, l'opérateur et le responsable scientifique de l'opération assurent, chacun pour ce qui le concerne, la mise en
-œuvre effective des observations et des instructions du représentant de l'Etat.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°2004-490 du 3 juin 2004 - art. 54 (Ab)
-
-	**Créé par**:
-
-	  - Décret n°2011-574 du 24 mai 2011  - art.
-
-	**Codifié par**:
-
-	  - Décret n°2011-574 du 24 mai 2011 Annexe - art.
-
-
-###### Article R523-61
-
-En cas de non-respect des observations et instructions du représentant de l'Etat, le préfet de région met le responsable
-scientifique et l'opérateur en demeure de s'y conformer. Il procède de même en cas d'obstruction au contrôle. Dans le cas des
-fouilles, l'aménageur est informé de cette mise en demeure. 
-
-Si les intéressés ne prennent pas les mesures demandées dans le délai prescrit, le préfet de région peut : 
-
-1° En cas de manquement imputable au responsable scientifique, en désigner un nouveau ; 
-
-2° En cas de manquement imputable à l'opérateur, engager la procédure de retrait de l'autorisation des fouilles, telle que
-prévue à l'article L. 531-6. Il doit notifier à l'aménageur et à l'opérateur son intention de provoquer le retrait. Les
-fouilles sont alors suspendues. Pendant la durée de la suspension, l'aménageur prend toute mesure utile à la conservation des
-vestiges mis au jour et à la sécurité du chantier. Les fouilles ne peuvent être reprises que sur décision expresse du préfet.
-Toutefois, si celui-ci ne s'est pas prononcé dans un délai de six mois sur la suite à donner à son intention de provoquer le
-retrait, les fouilles peuvent être reprises dans les conditions fixées par l'arrêté d'autorisation. 
-
-En cas de retrait de l'autorisation de fouilles du fait de l'opérateur, les dispositions du premier alinéa de l'article L.
-531-7 sont applicables.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°2004-490 du 3 juin 2004 - art. 55 (Ab)
-
-	**Créé par**:
-
-	  - Décret n°2011-574 du 24 mai 2011  - art.
-
-	**Codifié par**:
-
-	  - Décret n°2011-574 du 24 mai 2011 Annexe - art.
-
-	**Cite**:
-
-	  - Code du patrimoine - art. L531-6 (V)
-	  - Code du patrimoine. - art. L531-7 (V)
-
-	**Cité par**:
-
-	  - Code du patrimoine - art. R545-17 (V)
-	  - Code du patrimoine. - art. R522-13 (M)
-
-
-##### Section 9 : Dispositions relatives aux rapports d'opérations,  à la documentation scientifique et aux objets mobiliers
-
-###### Article R523-62
-
-A l'issue de toute opération, sont remis à l'Etat, dans les délais et les formes précisés au présent chapitre, un rapport
-d'opération, la documentation scientifique constituée au cours de l'opération ainsi que le mobilier archéologique découvert.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°2004-490 du 3 juin 2004 - art. 56 (Ab)
-
-	**Créé par**:
-
-	  - Décret n°2011-574 du 24 mai 2011  - art.
-
-	**Codifié par**:
-
-	  - Décret n°2011-574 du 24 mai 2011 Annexe - art.
-
-	**Abrogé par**:
-
-	  - Décret n°2017-925 du 9 mai 2017 - art. 11
-
-
-###### Article R523-63
-
-L'opérateur des fouilles remet au préfet de région le rapport de fouilles complet, élaboré à l'issue de l'analyse et de
-l'exploitation des données, sous l'autorité du responsable scientifique de l'opération, dans le délai fixé par le cahier des
-charges scientifique. Il informe l'aménageur de cette remise. 
-
-Le préfet de région vérifie la conformité du rapport aux normes visées à l'article R. 523-64 et fait procéder à son
-évaluation scientifique par la     commission territoriale de la recherche archéologique. Il informe l'aménageur, l'opérateur
-et le responsable scientifique des fouilles et leur communique, le cas échéant, des recommandations en vue de l'exploitation
-scientifique du rapport. 
-
-Un exemplaire du rapport est adressé à l'aménageur et à l'Institut national de recherches archéologiques préventives.
+œuvre effective des observations des services de l'Etat chargés de l'archéologie.
 
 **Liens relatifs à cet article**
 
@@ -29970,185 +29953,48 @@ Un exemplaire du rapport est adressé à l'aménageur et à l'Institut national 
 
 	**Modifié par**:
 
-	  - Décret n°2017-156 du 8 février 2017 - art. 14
+	  - Décret n°2017-925 du 9 mai 2017 - art. 10
 
-	**Abrogé par**:
 
-	  - Décret n°2017-925 du 9 mai 2017 - art. 11
+###### Article R523-61
+
+En cas de non-respect des observations des services de l'Etat chargés de l'archéologie, le préfet de région met le
+responsable scientifique et l'opérateur en demeure de s'y conformer. Il procède de même en cas d'obstruction au contrôle.
+L'aménageur est informé de cette mise en demeure.
+
+Si les intéressés ne prennent pas les mesures demandées dans le délai prescrit, le préfet de région peut :
+
+1° En cas de manquement imputable au responsable scientifique, en désigner un nouveau ;
+
+2° En cas de manquement imputable à l'opérateur, lui notifier qu'il envisage de retirer l'attribution du diagnostic ou
+l'autorisation de fouilles. L'opération est alors interrompue et l'aménageur et l'opérateur prennent toute mesure utile à la
+conservation des biens mis au jour et à la sécurité du chantier. L'opérateur dispose de quinze jours pour présenter ses
+observations. L'opération ne peut être reprise que sur décision expresse du préfet de région. Toutefois, si celui-ci ne s'est
+pas prononcé dans un délai de trois mois sur la suite à donner à son intention de provoquer le retrait, l'opération peut être
+reprise dans les conditions fixées par l'arrêté de prescription.
+
+En cas de retrait de l'attribution du diagnostic ou de l'autorisation de fouilles du fait de l'opérateur, celui-ci ne peut
+prétendre à aucune indemnité en raison de son éviction ou des dépenses qu'il a exposées.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°2011-574 du 24 mai 2011 Annexe - art.
+
+	**Modifié par**:
+
+	  - Décret n°2017-925 du 9 mai 2017 - art. 10
 
 	**Cite**:
 
-	  - Code du patrimoine - art. R523-64
+	  - Code du patrimoine - art. L531-6
+	  - Code du patrimoine - art. L531-7
 
 	**Cité par**:
 
+	  - Code du patrimoine - art. R522-13 (V)
 	  - Code du patrimoine - art. R545-17 (V)
-
-
-###### Article R523-64
-
-Les normes de contenu et de présentation du rapport de fouilles ainsi que celles du rapport de diagnostic sont définies par
-arrêté conjoint du ministre chargé de la culture et du ministre chargé de la recherche.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°2004-490 du 3 juin 2004 - art. 58 (Ab)
-
-	**Créé par**:
-
-	  - Décret n°2011-574 du 24 mai 2011  - art.
-
-	**Codifié par**:
-
-	  - Décret n°2011-574 du 24 mai 2011 Annexe - art.
-
-	**Abrogé par**:
-
-	  - Décret n°2017-925 du 9 mai 2017 - art. 11
-
-	**Cité par**:
-
-	  - Code du patrimoine - art. R523-63 (Ab)
-
-
-###### Article R523-65
-
-Les objets mobiliers provenant des opérations d'archéologie préventive ne peuvent être placés sous la garde de l'opérateur
-pendant une durée supérieure à deux ans à compter de la date de délivrance de l'attestation de libération du terrain.
-
-Pendant cette durée, l'opérateur dresse l'inventaire des objets mobiliers correspondant à chaque opération, qui est annexé au
-rapport de diagnostic ou de fouilles, prend les dispositions nécessaires à la sécurité des objets mobiliers et assure, en
-tant que de besoin, leur mise en état pour étude.
-
-A la remise du rapport et, au plus tard, à l'expiration du délai de deux ans, le mobilier archéologique est remis au préfet
-de région.
-
-Avec le mobilier archéologique, l'opérateur remet au préfet de région, aux fins d'archivage, la documentation scientifique
-constituée en cours d'opération.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°2004-490 du 3 juin 2004 - art. 59 (Ab)
-
-	**Créé par**:
-
-	  - Décret n°2011-574 du 24 mai 2011  - art.
-
-	**Codifié par**:
-
-	  - Décret n°2011-574 du 24 mai 2011 Annexe - art.
-
-	**Abrogé par**:
-
-	  - Décret n°2017-925 du 9 mai 2017 - art. 11
-
-
-###### Article R523-66
-
-Le ministre chargé de la culture définit par arrêté, après avis du ministre chargé de la recherche et consultation du Conseil
-national de la recherche archéologique, les normes d'identification, d'inventaire, de classement et de conditionnement de la
-documentation scientifique et du mobilier archéologique issu des diagnostics et fouilles.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°2004-490 du 3 juin 2004 - art. 60 (Ab)
-
-	**Créé par**:
-
-	  - Décret n°2011-574 du 24 mai 2011  - art.
-
-	**Codifié par**:
-
-	  - Décret n°2011-574 du 24 mai 2011 Annexe - art.
-
-	**Abrogé par**:
-
-	  - Décret n°2017-925 du 9 mai 2017 - art. 11
-
-
-###### Article R523-67
-
-Dans un délai de six mois à compter de leur remise par l'opérateur, le préfet de région transmet le rapport et l'inventaire
-des objets au propriétaire du terrain et l'informe qu'il dispose d'un an pour faire valoir, s'il le souhaite, son droit de
-propriété sur la moitié du mobilier archéologique inventorié. Dans ce cas, le mobilier est partagé, à l'amiable ou à dire
-d'expert, en deux lots équivalents en valeur, attribués à défaut d'accord amiable par tirage au sort. Le préfet de région
-peut toutefois exercer sur tout ou partie des objets mobiliers le droit de revendication prévu à l'article L. 531-16. 
-
-La détermination de la valeur des objets mobiliers par expertise s'effectue selon les modalités prévues par la réglementation
-sur l'archéologie terrestre et subaquatique. Les experts sont choisis sur la liste prévue à l'article R. 531-12.
-
-Si, à l'expiration du délai d'un an, le propriétaire du terrain n'a pas fait valoir ses droits, le préfet de région prend
-acte de sa renonciation. Il constate par arrêté la propriété de l'Etat sur le mobilier archéologique issu de l'opération en
-cause dont l'inventaire est annexé à cet arrêté. Il en informe le propriétaire du terrain et la commune sur le territoire de
-laquelle le terrain se situe.
-
-**Nota:**
-
-Décret n° 2017-925 du 9 mai 2017,Art. 15 I : Les dispositions des 'articles R. 523-67 et R. 531-12 à R. 531-19 dans leur
-version antérieure au présent décret restent applicables aux biens archéologiques mobiliers mis au jour avant la publication
-de la loi n° 2016-925 du 7 juillet 2016 relative à la liberté de la création, à l'architecture et au patrimoine.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°2004-490 du 3 juin 2004 - art. 61 (Ab)
-
-	**Créé par**:
-
-	  - Décret n°2011-574 du 24 mai 2011  - art.
-
-	**Codifié par**:
-
-	  - Décret n°2011-574 du 24 mai 2011 Annexe - art.
-
-	**Abrogé par**:
-
-	  - Décret n°2017-925 du 9 mai 2017 - art. 11
-
-	**Cite**:
-
-	  - Code du patrimoine - art. L531-16
-	  - Code du patrimoine - art. R531-12
-
-
-###### Article R523-68
-
-La commune sur le territoire de laquelle les objets mobiliers ont été découverts peut demander que la propriété des mobiliers
-archéologiques attribuée à l'Etat lui soit transférée à titre gratuit.
-
-Au cas où la commune intéressée renonce à en faire la demande dans le délai prévu au troisième alinéa ou n'offre pas des
-conditions de conservation satisfaisantes, le transfert de propriété des objets mobiliers à titre gratuit peut être sollicité
-par toute autre collectivité territoriale ou groupement de collectivités dans le ressort desquels ces objets ont été trouvés.
-
-Si à l'expiration d'un délai de six mois la collectivité territoriale ou le groupement de collectivités n'a pas fait valoir
-ses droits, elle est réputée avoir renoncé.
-
-Un arrêté du ministre chargé de la culture précise les conditions exigées pour une bonne conservation des objets mobiliers.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°2004-490 du 3 juin 2004 - art. 62 (Ab)
-
-	**Créé par**:
-
-	  - Décret n°2011-574 du 24 mai 2011  - art.
-
-	**Codifié par**:
-
-	  - Décret n°2011-574 du 24 mai 2011 Annexe - art.
-
-	**Abrogé par**:
-
-	  - Décret n°2017-925 du 9 mai 2017 - art. 11
 
 
 #### Chapitre IV : Financement de l'archéologie préventive
@@ -30976,31 +30822,6 @@ contrôle du préfet de région dans le respect des prescriptions qui assortisse
 	  - Code du patrimoine - art. R531-1 (V)
 
 
-###### Article R531-4
-
-Le préfet de région statue, en application de l'article L. 531-4, sur les mesures définitives à prendre à l'égard des
-découvertes de caractère immobilier faites au cours des fouilles, sauf en cas de classement au titre des monuments
-historiques prononcé par le ministre chargé de la culture.
-
-**Liens relatifs à cet article**
-
-	**Créé par**:
-
-	  - Décret n°2011-574 du 24 mai 2011  - art.
-
-	**Codifié par**:
-
-	  - Décret n°2011-574 du 24 mai 2011 Annexe - art.
-
-	**Abrogé par**:
-
-	  - Décret n°2017-925 du 9 mai 2017 - art. 11
-
-	**Cite**:
-
-	  - Code du patrimoine - art. L531-4
-
-
 ##### Section 2 : Exécution de fouilles par l'Etat
 
 ###### Article R531-5
@@ -31113,339 +30934,6 @@ prescrire toute mesure utile pour l'étude et la conservation des vestiges déco
 	**Cite**:
 
 	  - Code du patrimoine. - art. L531-15 (V)
-
-
-###### Article R531-10
-
-Le préfet de région est compétent pour statuer sur les mesures définitives à prendre à l'égard des découvertes à caractère
-immobilier faites fortuitement, en application de l'article L. 531-16, sauf en cas de classement au titre des monuments
-historiques prononcé par le ministre chargé de la culture.
-
-**Liens relatifs à cet article**
-
-	**Créé par**:
-
-	  - Décret n°2011-574 du 24 mai 2011  - art.
-
-	**Codifié par**:
-
-	  - Décret n°2011-574 du 24 mai 2011 Annexe - art.
-
-	**Abrogé par**:
-
-	  - Décret n°2017-925 du 9 mai 2017 - art. 11
-
-	**Cite**:
-
-	  - Code du patrimoine - art. L531-16
-
-
-##### Section 4 : Objets
-
-###### Article R531-11
-
-Le préfet de région est compétent pour revendiquer les objets mobiliers provenant de fouilles effectuées en application des
-articles L. 531-1, L. 531-9 et L. 531-14.
-
-**Liens relatifs à cet article**
-
-	**Créé par**:
-
-	  - Décret n°2011-574 du 24 mai 2011  - art.
-
-	**Codifié par**:
-
-	  - Décret n°2011-574 du 24 mai 2011 Annexe - art.
-
-	**Abrogé par**:
-
-	  - Décret n°2017-925 du 9 mai 2017 - art. 11
-
-	**Cite**:
-
-	  - Code du patrimoine - art. L531-9
-
-
-###### Article R531-12
-
-Lorsqu'il y a lieu, par application des articles L. 523-14, L. 531-5, 
-L. 531-11 et L. 531-16, de déterminer par expertise la valeur des objets mobiliers provenant de fouilles archéologiques ou de
-découvertes fortuites, soit pour un partage d'objets, soit pour l'exercice du droit de revendication conféré à l'Etat, les
-experts sont choisis sur une liste dressée par le Conseil national de la recherche archéologique. 
-
-Cette liste comprend, des experts représentatifs des différents domaines scientifiques constituant la discipline.
-
-**Nota:**
-
-Décret n° 2017-925 du 9 mai 2017,Art. 15 I : Les dispositions des 'articles R. 523-67 et R. 531-12 à R. 531-19 dans leur
-version antérieure au présent décret restent applicables aux biens archéologiques mobiliers mis au jour avant la publication
-de la loi n° 2016-925 du 7 juillet 2016 relative à la liberté de la création, à l'architecture et au patrimoine.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°2011-574 du 24 mai 2011 Annexe - art.
-
-	**Modifié par**:
-
-	  - Décret n°2017-156 du 8 février 2017 - art. 2
-
-	**Abrogé par**:
-
-	  - Décret n°2017-925 du 9 mai 2017 - art. 11
-
-	**Cite**:
-
-	  - Code du patrimoine - art. L523-14
-	  - Code du patrimoine - art. L531-11
-	  - Code du patrimoine - art. L531-16
-	  - Code du patrimoine - art. L531-5
-
-	**Cité par**:
-
-	  - Code du patrimoine - art. R523-67 (Ab)
-	  - Code du patrimoine - art. R531-13 (Ab)
-	  - Code du patrimoine - art. R531-16 (Ab)
-	  - Code du patrimoine - art. R531-18 (Ab)
-	  - Code du patrimoine - art. R545-2 (V)
-
-
-###### Article R531-13
-
-L'expertise est confiée à deux experts choisis sur la liste prévue à l'article R. 531-12, l'un par le préfet de région,
-l'autre par le ou les ayants droit aux découvertes faites au cours des fouilles ou aux découvertes fortuites. 
-
-Le préfet de région notifie par lettre recommandée avec demande d'avis de réception aux ayants droit le nom de l'expert qu'il
-a désigné, ainsi qu'une copie intégrale de la liste des experts, et les invite à choisir sur cette liste leur expert. 
-
-Dans un délai de deux mois à compter de cette notification, les intéressés informent le préfet de région par lettre
-recommandée avec demande d'avis de réception du choix de leur expert et de l'acceptation de ce dernier. 
-
-Faute pour le ou les ayants droit de désigner un expert dans le délai de deux mois qui leur est imparti, ou faute pour les
-divers intéressés de s'entendre sur le choix d'un expert commun, l'expert des ayants droit est désigné par le président du
-tribunal de grande instance dans le ressort duquel la découverte a eu lieu.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret du 19 avril 1947 - art. 2 (Ab)
-	  - Décret du 19 avril 1947 - art. 3 (Ab)
-
-	**Créé par**:
-
-	  - Décret n°2011-574 du 24 mai 2011  - art.
-
-	**Codifié par**:
-
-	  - Décret n°2011-574 du 24 mai 2011 Annexe - art.
-
-	**Abrogé par**:
-
-	  - Décret n°2017-925 du 9 mai 2017 - art. 11
-
-	**Cite**:
-
-	  - Code du patrimoine - art. R531-12
-
-
-###### Article R531-14
-
-Lorsqu'à la suite de fouilles exécutées par l'Etat, le préfet de région revendique, par application des dispositions de
-l'article L. 531-11, un ou plusieurs des objets mobiliers trouvés, la propriété de ces objets est attribuée par priorité,
-quelle que soit leur valeur, à l'Etat, à charge pour lui de verser au propriétaire du terrain une indemnité égale à la moitié
-de cette valeur.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret du 19 avril 1947 - art. 4 (Ab)
-	  - Décret du 19 avril 1947 - art. 5 (Ab)
-
-	**Créé par**:
-
-	  - Décret n°2011-574 du 24 mai 2011  - art.
-
-	**Codifié par**:
-
-	  - Décret n°2011-574 du 24 mai 2011 Annexe - art.
-
-	**Abrogé par**:
-
-	  - Décret n°2017-925 du 9 mai 2017 - art. 11
-
-	**Cite**:
-
-	  - Code du patrimoine - art. L531-11
-
-	**Cité par**:
-
-	  - Code du patrimoine - art. R531-15 (Ab)
-
-
-###### Article R531-15
-
-Lorsqu'à la suite de fouilles exécutées par l'Etat, il y a lieu de procéder, entre celui-ci et le propriétaire du terrain
-dans lequel les découvertes ont été faites, au partage des objets mobiliers n'ayant pas donné lieu à une revendication de
-l'Etat dans les conditions visées à l'article R. 531-14, les experts établissent une estimation détaillée des objets trouvés.
-Ils répartissent ensuite, suivant cette estimation, lesdits objets en deux lots de valeur égale, ou de valeur aussi
-rapprochée que possible. Ces lots sont, à défaut d'accord amiable, dévolus à l'Etat et au propriétaire du terrain par voie de
-tirage au sort. 
-
-Lorsque les lots attribués n'ont pas exactement la même valeur, la partie qui reçoit le lot le plus élevé doit verser à
-l'autre une soulte égale à l'excédent de la valeur de son lot. Le lot n'est remis à l'intéressé qu'après paiement de la
-soulte. 
-
-En cas de partage d'objets dans les conditions mentionnées au présent article entre l'Etat et le propriétaire du terrain où
-ces objets ont été découverts, les frais d'expertise sont supportés, par moitié, par chacune des deux parties.
-
-**Liens relatifs à cet article**
-
-	**Créé par**:
-
-	  - Décret n°2011-574 du 24 mai 2011  - art.
-
-	**Codifié par**:
-
-	  - Décret n°2011-574 du 24 mai 2011 Annexe - art.
-
-	**Abrogé par**:
-
-	  - Décret n°2017-925 du 9 mai 2017 - art. 11
-
-	**Cite**:
-
-	  - Code du patrimoine - art. R531-14 (Ab)
-
-
-###### Article R531-16
-
-Les experts mentionnés à l'article R. 531-12 sont dispensés de prêter serment. 
-
-Ils accomplissent simultanément leur mission. Ils avisent au moins quinze jours à l'avance et par lettre recommandée avec
-demande d'avis de réception du jour et de l'heure de leurs opérations les ayants droit ainsi que les représentants du préfet
-de région désignés pour suivre l'expertise.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret du 19 avril 1947 - art. 6 (Ab)
-
-	**Créé par**:
-
-	  - Décret n°2011-574 du 24 mai 2011  - art.
-
-	**Codifié par**:
-
-	  - Décret n°2011-574 du 24 mai 2011 Annexe - art.
-
-	**Abrogé par**:
-
-	  - Décret n°2017-925 du 9 mai 2017 - art. 11
-
-	**Cite**:
-
-	  - Code du patrimoine - art. R531-12
-
-
-###### Article R531-17
-
-Les experts constatent les résultats de leur expertise dans un rapport conjoint revêtu de leurs deux signatures. En cas
-d'avis différents, ils exposent séparément les motifs de leur divergence d'opinion et indiquent leurs conclusions.
-
-Ils remettent leur rapport en autant d'exemplaires qu'il y a de parties intéressées au préfet de région, dans le délai que
-celui-ci leur a fixé et qui, sauf circonstances exceptionnelles, ne peut dépasser trois mois.
-
-Le préfet de région transmet sans délai un exemplaire du rapport à chacune des parties intéressées.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret du 19 avril 1947 - art. 7 (Ab)
-
-	**Créé par**:
-
-	  - Décret n°2011-574 du 24 mai 2011  - art.
-
-	**Codifié par**:
-
-	  - Décret n°2011-574 du 24 mai 2011 Annexe - art.
-
-	**Abrogé par**:
-
-	  - Décret n°2017-925 du 9 mai 2017 - art. 11
-
-
-###### Article R531-18
-
-Si les conclusions des deux experts sont divergentes, un troisième expert, dont l'avis est déterminant, est choisi sur la
-liste prévue à l'article R. 531-12. 
-
-A défaut d'accord amiable, ce troisième expert est désigné, à la diligence du préfet de région par le président du tribunal
-de grande instance dans le ressort duquel le lieu de la découverte se trouve situé. 
-
-Le tiers expert accomplit sa mission dans les conditions prévues à la présente section.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret du 19 avril 1947 - art. 8 (Ab)
-
-	**Créé par**:
-
-	  - Décret n°2011-574 du 24 mai 2011  - art.
-
-	**Codifié par**:
-
-	  - Décret n°2011-574 du 24 mai 2011 Annexe - art.
-
-	**Abrogé par**:
-
-	  - Décret n°2017-925 du 9 mai 2017 - art. 11
-
-	**Cite**:
-
-	  - Code du patrimoine - art. R531-12 (Ab)
-
-
-###### Article R531-19
-
-Le délai de deux mois imparti à l'Etat par le dernier paragraphe de l'article L. 531-16 pour faire connaître s'il renonce à
-exercer son droit de revendication sur les objets mobiliers soumis à l'expertise part du jour de la remise au préfet de
-région du rapport établi par les deux experts ou, le cas échéant, par le tiers expert.
-
-**Nota:**
-
-Décret n° 2017-925 du 9 mai 2017,Art. 15 I : Les dispositions des 'articles R. 523-67 et R. 531-12 à R. 531-19 dans leur
-version antérieure au présent décret restent applicables aux biens archéologiques mobiliers mis au jour avant la publication
-de la loi n° 2016-925 du 7 juillet 2016 relative à la liberté de la création, à l'architecture et au patrimoine.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret du 19 avril 1947 - art. 9 (Ab)
-
-	**Créé par**:
-
-	  - Décret n°2011-574 du 24 mai 2011  - art.
-
-	**Codifié par**:
-
-	  - Décret n°2011-574 du 24 mai 2011 Annexe - art.
-
-	**Abrogé par**:
-
-	  - Décret n°2017-925 du 9 mai 2017 - art. 11
-
-	**Cite**:
-
-	  - Code du patrimoine - art. L531-16
 
 
 #### Chapitre II : Biens culturels maritimes
@@ -31990,32 +31478,16 @@ au profit de l'Etat.
 
 ### TITRE IV : DISPOSITIONS DIVERSES
 
-#### Chapitre Ier : Régime de propriété des vestiges immobiliers
+#### Chapitre Ier : Régime de propriété du patrimoine archéologique
+
+##### Section 1 : Biens archéologiques immobiliers
 
 ###### Article R541-1
 
-Sauf lorsque le propriétaire du fonds contenant un vestige archéologique immobilier, issu de fouilles ou découvert
-fortuitement, établit qu'il en est propriétaire, la propriété de ce vestige est régie par les dispositions du premier alinéa
-de l'article L. 541-1 du présent code et de l'article 713 du code civil. 
-
-La commune sur le territoire de laquelle le vestige a été découvert dispose d'un délai de six mois pour délibérer sur
-l'incorporation du vestige dans son domaine public ou pour renoncer à ses droits sur le vestige. 
-
-A défaut de délibération dans le délai précité, la commune est réputée avoir renoncé à exercer ses droits sur le vestige. 
-
-En cas de renoncement de la commune, un arrêté du préfet de région constate que le vestige est propriété de l'Etat. Cet
-arrêté est publié au fichier immobilier dans les conditions de droit commun. 
-
-Si l'intérêt archéologique du vestige le justifie, le préfet de région autorise l'incorporation du bien au domaine public
-affecté au ministère chargé de la culture, après avis de la     commission territoriale de la recherche archéologique. 
-
-Lorsque le vestige n'est pas incorporé au domaine public, il peut être cédé à l'amiable par l'Etat, dans les conditions
-définies à l'article R. 129-4 du code du domaine de l'Etat. 
-
-Si, dans un délai de six mois à compter du renoncement de la commune, le préfet n'a procédé ni à son incorporation au domaine
-public de l'Etat ni à sa cession amiable, l'Etat est réputé avoir renoncé à la propriété de ce vestige. Le propriétaire du
-fonds peut, à tout moment après l'expiration de ce délai, demander au préfet de constater cette renonciation par un acte qui
-est publié au fichier immobilier dans les conditions de droit commun.
+Lorsque le bien archéologique immobilier a été mis au jour sur un terrain dont la propriété a été acquise après la
+publication de la loi n° 2001-44 du 17 janvier 2001 relative à l'archéologie préventive, un arrêté du préfet de région
+constate que ce bien est propriété de l'Etat en application de l'article L. 541-1. Cet arrêté est publié au fichier
+immobilier dans les conditions de droit commun.
 
 **Liens relatifs à cet article**
 
@@ -32025,7 +31497,7 @@ est publié au fichier immobilier dans les conditions de droit commun.
 
 	**Modifié par**:
 
-	  - Décret n°2017-156 du 8 février 2017 - art. 14
+	  - Décret n°2017-925 du 9 mai 2017 - art. 12
 
 	**Cite**:
 
@@ -32053,9 +31525,9 @@ d'expropriation du fonds où se trouve celui-ci.
 
 	  - Décret n°2011-574 du 24 mai 2011 Annexe - art.
 
-	**Modifié par**:
+	**Liens**:
 
-	  - Décret n°2017-156 du 8 février 2017 - art. 14
+	  - DEPLACE: Décret n°2017-925 du 9 mai 2017 - art. 12
 
 	**Cité par**:
 
@@ -32073,21 +31545,17 @@ le fonds, saisi par la partie la plus diligente.
 
 **Liens relatifs à cet article**
 
-	**Anciens textes**:
-
-	  - Décret n°2004-490 du 3 juin 2004 - art. 65 (Ab)
-
-	**Créé par**:
-
-	  - Décret n°2011-574 du 24 mai 2011  - art.
-
 	**Codifié par**:
 
 	  - Décret n°2011-574 du 24 mai 2011 Annexe - art.
 
+	**Liens**:
+
+	  - DEPLACE: Décret n°2017-925 du 9 mai 2017 - art. 12
+
 	**Cite**:
 
-	  - Code du patrimoine. - art. L541-1 (V)
+	  - Code du patrimoine - art. L541-1
 
 
 ###### Article R541-4
@@ -32099,17 +31567,13 @@ chargé du budget.
 
 **Liens relatifs à cet article**
 
-	**Anciens textes**:
-
-	  - Décret n°2004-490 du 3 juin 2004 - art. 66 (Ab)
-
-	**Créé par**:
-
-	  - Décret n°2011-574 du 24 mai 2011  - art.
-
 	**Codifié par**:
 
 	  - Décret n°2011-574 du 24 mai 2011 Annexe - art.
+
+	**Liens**:
+
+	  - DEPLACE: Décret n°2017-925 du 9 mai 2017 - art. 12
 
 	**Cité par**:
 
@@ -32133,17 +31597,13 @@ le cas prévu au 2°, l'intéressement ne peut excéder 25 % du résultat.
 
 **Liens relatifs à cet article**
 
-	**Anciens textes**:
-
-	  - Décret n°2004-490 du 3 juin 2004 - art. 67 (Ab)
-
-	**Créé par**:
-
-	  - Décret n°2011-574 du 24 mai 2011  - art.
-
 	**Codifié par**:
 
 	  - Décret n°2011-574 du 24 mai 2011 Annexe - art.
+
+	**Liens**:
+
+	  - DEPLACE: Décret n°2017-925 du 9 mai 2017 - art. 12
 
 
 ###### Article R541-6
@@ -32154,17 +31614,241 @@ l'exercice de leurs fonctions.
 
 **Liens relatifs à cet article**
 
-	**Anciens textes**:
-
-	  - Décret n°2004-490 du 3 juin 2004 - art. 68 (Ab)
-
-	**Créé par**:
-
-	  - Décret n°2011-574 du 24 mai 2011  - art.
-
 	**Codifié par**:
 
 	  - Décret n°2011-574 du 24 mai 2011 Annexe - art.
+
+	**Liens**:
+
+	  - DEPLACE: Décret n°2017-925 du 9 mai 2017 - art. 12
+
+
+###### Article R541-7
+
+Le préfet de région statue, en application de l'article L. 541-2, sur les mesures définitives à prendre à l'égard des biens
+archéologiques immobiliers mis au jour.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2017-925 du 9 mai 2017 - art. 12
+
+
+##### Section 2 : Biens archéologiques mobiliers 
+
+##### Sous-section 1 : Propriété 
+
+###### Article R541-8
+
+La commission d'experts scientifiques compétente pour évaluer l'intérêt des biens archéologiques mobiliers découverts
+fortuitement, en application de l'article L. 541-4, est la commission territoriale de la recherche archéologique du lieu de
+la découverte.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2017-925 du 9 mai 2017 - art. 12
+
+
+###### Article R541-9
+
+La reconnaissance de l'intérêt scientifique de l'objet est constatée par un arrêté du préfet de région.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2017-925 du 9 mai 2017 - art. 12
+
+
+###### Article R541-10
+
+En application de l'article L. 541-5, pour les biens mis au jour depuis l'entrée en vigueur de la loi du 7 juillet 2016
+relative à la liberté de création, à l'architecture et au patrimoine, le préfet de région notifie ses droits au propriétaire
+du terrain et, en cas de découverte fortuite, à l'inventeur par lettre recommandée avec demande d'avis de réception.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2017-925 du 9 mai 2017 - art. 12
+
+
+###### Article R541-11
+
+Si, à l'expiration du délai d'un an à compter de la notification prévue au troisième alinéa de l'article L. 541-5, le
+propriétaire du terrain ou, le cas échéant, l'inventeur n'a pas fait valoir ses droits, le préfet de région prend acte de sa
+renonciation. Il constate par arrêté la propriété de l'Etat sur le mobilier archéologique issu de l'opération en cause,
+auquel il a été renoncé, dont l'inventaire est annexé à cet arrêté. Il en informe le propriétaire du terrain et, le cas
+échéant l'inventeur.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2017-925 du 9 mai 2017 - art. 12
+
+
+##### Sous-section 2 :  Ensemble archéologique mobilier et aliénation des biens mobiliers
+
+
+
+
+###### Article R541-12
+
+La reconnaissance de la cohérence d'un ensemble de biens archéologiques mobiliers en raison de son intérêt scientifique fait
+l'objet d'une décision du préfet de région, qui peut consulter préalablement la commission territoriale de la recherche
+archéologique compétente.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2017-925 du 9 mai 2017 - art. 12
+
+
+###### Article R541-13
+
+Un arrêté du ministre chargé de la culture fixe le modèle national de la déclaration préalable prévue au second alinéa de
+l'article L. 541-6.
+
+La déclaration précise :
+
+1° L'identité du ou des déclarants ;
+
+2° Les modalités de l'aliénation ou de la division par lot ou pièce envisagée ;
+
+3° S'agissant d'une aliénation, la description du bien archéologique mobilier telle qu'elle figure à l'inventaire
+scientifique de l'opération archéologique correspondante ou dans la décision de reconnaissance d'un ensemble archéologique
+mobilier ;
+
+4° S'agissant de la division par lot ou pièce d'un ensemble archéologique mobilier, la description du lot ou de la pièce
+concerné telle qu'elle figure à l'inventaire scientifique de l'opération archéologique correspondante ;
+
+5° L'adresse de l'immeuble où est conservé le bien archéologique mobilier ou l'ensemble archéologique mobilier concerné.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2017-925 du 9 mai 2017 - art. 12
+
+
+###### Article R541-14
+
+La déclaration est effectuée par le propriétaire au plus tard un mois avant la date prévue pour le transfert de propriété.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2017-925 du 9 mai 2017 - art. 12
+
+
+##### Section 3 :  Transfert et droit de revendication 
+
+###### Article R541-15
+
+La décision de transférer à titre gratuit la propriété d'un bien archéologique mobilier appartenant à l'Etat à toute personne
+publique qui s'engage à en assurer la conservation et l'accessibilité sous le contrôle scientifique et technique des services
+chargés de l'archéologie est prise par le préfet de région.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2017-925 du 9 mai 2017 - art. 12
+
+
+###### Article R541-16
+
+Le préfet de région est compétent pour revendiquer un bien archéologique mobilier en application de l'article L. 541-8.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2017-925 du 9 mai 2017 - art. 12
+
+
+###### Article R541-17
+
+Pour l'application de l'article L. 541-8, une liste d'experts représentatifs des différents domaines scientifiques
+constituant la discipline archéologique est dressée par le Conseil national de la recherche archéologique.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2017-925 du 9 mai 2017 - art. 12
+
+
+###### Article R541-18
+
+La décision de revendiquer la propriété d'un bien archéologique mobilier est notifiée au propriétaire du bien par le préfet
+de région par lettre recommandée avec demande d'avis de réception.
+
+A défaut de réponse ou en cas de refus du propriétaire sur le montant de l'indemnité du bien archéologique mobilier à
+l'expiration d'un délai de deux mois après réception de la proposition, le préfet de région choisit un ou plusieurs experts
+sur la liste dressée par le Conseil national de la recherche archéologique et notifie son choix par lettre recommandée avec
+demande d'avis de réception au propriétaire du bien archéologique mobilier.
+
+Lorsque le préfet de région propose plusieurs experts, le propriétaire choisit l'un d'entre eux.
+
+A défaut de réponse ou en cas de refus du propriétaire du bien archéologique mobilier à l'expiration d'un délai de deux mois
+après réception de la proposition, le préfet de région saisit le juge judiciaire.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2017-925 du 9 mai 2017 - art. 12
+
+
+###### Article R541-19
+
+L'expert avise le propriétaire et le responsable du service chargé de l'archéologie au moins quinze jours à l'avance par
+lettre recommandée avec demande d'avis de réception de la date des réunions d'expertise.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2017-925 du 9 mai 2017 - art. 12
+
+
+###### Article R541-20
+
+L'expert constate les résultats de son expertise dans un rapport. Il remet son rapport en autant d'exemplaires qu'il y a de
+parties intéressées au préfet de région, dans le délai que celui-ci lui a fixé et qui, sauf circonstances exceptionnelles, ne
+peut dépasser trois mois. Le préfet de région transmet sans délai un exemplaire du rapport à chacune des parties intéressées.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2017-925 du 9 mai 2017 - art. 12
+
+
+##### Section 4 :  Dispositions diverses 
+
+###### Article R541-21
+
+Lorsque l'aménageur ou le titulaire de l'autorisation de l'opération programmée n'est pas le propriétaire du terrain ou
+lorsque l'opération archéologique porte sur des parcelles appartenant à plusieurs propriétaires, l'aménageur ou l'opérateur
+ou le titulaire de l'opération programmée informe le préfet de région de l'identité des propriétaires fonciers au plus tard
+au moment de la remise du rapport d'opération.
+
+Le préfet de région notifie à chaque propriétaire foncier concerné et, en cas de découverte fortuite, à l'inventeur, les
+droits de propriété sur les biens archéologiques mis au jour. L'inventaire de ces biens est annexé à la notification.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2017-925 du 9 mai 2017 - art. 12
 
 
 #### Chapitre II : Utilisation des détecteurs de métaux
@@ -32361,26 +32045,26 @@ Le Conseil national de la recherche archéologique examine et il propose toute m
 patrimoine archéologique et à son inventaire, à la publication et à la diffusion des résultats de la recherche ainsi qu'à la
 protection, à la conservation et à la mise en valeur de ce patrimoine.
 
-A ce titre, le Conseil national de la recherche archéologique : 
+A ce titre, le Conseil national de la recherche archéologique :
 
 1° Propose au ministre chargé de la culture les objectifs généraux de la recherche, assure une mission de prospective
 scientifique ainsi que l'harmonisation nationale des programmations interrégionales et émet des avis sur les principes, les
-méthodes et les normes de la recherche en archéologie ; 
+méthodes et les normes de la recherche en archéologie ;
 
 2° Peut être consulté sur tout dossier transmis au ministre chargé de la culture par le préfet d'une région, siège de
-commission territoriale de la recherche archéologique, en particulier sur les dossiers concernant plusieurs interrégions ; 
+commission territoriale de la recherche archéologique, en particulier sur les dossiers concernant plusieurs interrégions ;
 
-3° Contribue à la mise en place de réseaux et de partenariats scientifiques aux niveaux national et international ; 
+3° Contribue à la mise en place de réseaux et de partenariats scientifiques aux niveaux national et international ;
 
 4° Participe à la réflexion en matière d'archéologie dans le cadre de la coopération européenne et internationale et en
-apprécie les effets, notamment dans les domaines de la formation et des échanges de savoir-faire ; 
+apprécie les effets, notamment dans les domaines de la formation et des échanges de savoir-faire ;
 
-5° Procède à toute évaluation scientifique à la demande du ministre chargé de la culture ; 
+5° Procède à toute évaluation scientifique à la demande du ministre chargé de la culture ;
 
-6° Etablit la liste des experts, prévue à l'article R. 531-12, compétents pour déterminer la valeur d'objets provenant de
-fouilles archéologiques et de découvertes fortuites. 
+6° Etablit la liste des experts compétents pour déterminer la valeur d'objets provenant de fouilles archéologiques et de
+découvertes fortuites.
 
-Il émet, en outre, les avis mentionnés aux articles R. 522-11, R. 541-4 et R. 541-5.
+Il émet, en outre, les avis mentionnés aux articles R. 522-11, R. 522-17, R. 541-4 et R. 541-5.
 
 **Liens relatifs à cet article**
 
@@ -32390,8 +32074,7 @@ Il émet, en outre, les avis mentionnés aux articles R. 522-11, R. 541-4 et R. 
 
 	**Modifié par**:
 
-	  - Décret n°2017-156 du 8 février 2017 - art. 14
-	  - Décret n°2017-156 du 8 février 2017 - art. 3
+	  - Décret n°2017-925 du 9 mai 2017 - art. 13
 
 	**Cite**:
 
@@ -32402,8 +32085,8 @@ Il émet, en outre, les avis mentionnés aux articles R. 522-11, R. 541-4 et R. 
 
 ###### Article R545-3
 
-Le Conseil national de la recherche archéologique élabore périodiquement, en vue de la programmation nationale de
-l'archéologie, un rapport détaillé sur l'état de la recherche archéologique effectuée sur le territoire national.
+Le Conseil national de la recherche archéologique élabore périodiquement, en vue de la programmation nationale de la
+recherche archéologique, un rapport détaillé sur l'état de la recherche archéologique effectuée sur le territoire national.
 
 Il peut avoir recours à des personnalités extérieures pour exercer des missions d'expertise.
 
@@ -32419,7 +32102,7 @@ préventives ainsi que, le cas échéant, les rapports rédigés par ces organis
 
 	**Modifié par**:
 
-	  - Décret n°2017-156 du 8 février 2017 - art. 4
+	  - Décret n°2017-925 du 9 mai 2017 - art. 13
 
 
 ###### Article R545-4
@@ -32542,26 +32225,22 @@ Le Conseil national de la recherche archéologique se réunit au moins deux fois
 
 ###### Article R545-7
 
-Le Conseil national de la recherche archéologique peut déléguer ses attributions mentionnées à l'article R. 522-11 à la
-délégation permanente prévue à l'article R. 545-8.
+Le Conseil national de la recherche archéologique peut déléguer ses attributions mentionnées aux articles R. 522-11 et R.
+522-17 à la délégation permanente prévue à l'article R. 545-8.
 
 **Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°2007-823 du 11 mai 2007 - art. 7 (Ab)
-
-	**Créé par**:
-
-	  - Décret n°2011-574 du 24 mai 2011  - art.
 
 	**Codifié par**:
 
 	  - Décret n°2011-574 du 24 mai 2011 Annexe - art.
 
+	**Modifié par**:
+
+	  - Décret n°2017-925 du 9 mai 2017 - art. 13
+
 	**Cite**:
 
-	  - Code du patrimoine. - art. R522-11 (V)
+	  - Code du patrimoine - art. R522-11
 
 
 ###### Article R545-8
@@ -32595,29 +32274,25 @@ Le mandat des membres élus de la délégation permanente est de deux ans. Il es
 
 ###### Article R545-9
 
-Lorsque la délégation permanente émet l'avis mentionné à l'article R. 522-11, le président peut, en cas d'urgence, procéder à
-une consultation écrite de ses membres, y compris par voie électronique. 
+Lorsque la délégation permanente émet l'avis mentionné aux articles R. 522-11 et R. 522-17, le président peut, en cas
+d'urgence, procéder à une consultation écrite de ses membres, y compris par voie électronique.
 
 La délégation permanente rend compte de ses travaux devant la formation plénière du Conseil national de la recherche
 archéologique.
 
 **Liens relatifs à cet article**
 
-	**Anciens textes**:
-
-	  - Décret n°2007-823 du 11 mai 2007 - art. 9 (Ab)
-
-	**Créé par**:
-
-	  - Décret n°2011-574 du 24 mai 2011  - art.
-
 	**Codifié par**:
 
 	  - Décret n°2011-574 du 24 mai 2011 Annexe - art.
 
+	**Modifié par**:
+
+	  - Décret n°2017-925 du 9 mai 2017 - art. 13
+
 	**Cite**:
 
-	  - Code du patrimoine. - art. R522-11 (V)
+	  - Code du patrimoine - art. R522-11
 
 
 ##### Sous-section 3 : Commission des opérations sous-marines
@@ -32710,25 +32385,24 @@ Le scrutin secret est de droit lorsqu'il est demandé par le tiers au moins des 
 
 Le Conseil national de la recherche archéologique adopte un règlement intérieur.
 
-Les membres du Conseil national de la recherche archéologique, de la délégation permanente et de la commission des opérations
-sous-marines exercent leurs fonctions à titre gratuit.
+A l'exception du vice-président, les membres du Conseil national de la recherche archéologique, de la délégation permanente
+et de la commission des opérations sous-marines exercent leurs fonctions à titre gratuit.
 
 Toutefois, leurs frais de déplacement et de séjour sont remboursés dans les conditions prévues par la réglementation
 applicable aux fonctionnaires de l'Etat.
 
+Le vice-président perçoit une indemnité forfaitaire dont le montant est fixé par arrêté du ministre de la culture et du
+ministre chargé du budget.
+
 **Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°2007-823 du 11 mai 2007 - art. 12 (Ab)
-
-	**Créé par**:
-
-	  - Décret n°2011-574 du 24 mai 2011  - art.
 
 	**Codifié par**:
 
 	  - Décret n°2011-574 du 24 mai 2011 Annexe - art.
+
+	**Modifié par**:
+
+	  - Décret n°2017-925 du 9 mai 2017 - art. 13
 
 
 ###### Article R545-13
@@ -32825,36 +32499,35 @@ représentant.
 Chaque commission territoriale de la recherche archéologique procède à l'évaluation scientifique des opérations
 archéologiques et de leurs résultats. Elle examine pour chaque région le bilan de l'année écoulée et le programme de l'année
 à venir et formule toute proposition et tout avis sur l'ensemble de l'activité archéologique, y compris pour le développement
-des études et des publications. 
+des études et des publications.
 
 Elle participe à l'élaboration de la programmation scientifique et établit, à l'issue de son mandat, un rapport sur
-l'activité de la recherche archéologique dans son ressort. 
+l'activité de la recherche archéologique dans son ressort.
 
-A ce titre, la commission interrégionale, saisie par le préfet de région : 
+A ce titre, la commission interrégionale, saisie par le préfet de région :
 
 1° Emet un avis sur les demandes d'autorisation de fouilles dans les conditions de l'article L. 531-1 et de l'article R.
 531-1 ainsi que sur les opérations de fouilles préventives soumises à autorisation en application du quatrième alinéa de
-l'article L. 523-9 ; 
+l'article L. 523-9 ;
 
-2° Emet un avis conforme avant le retrait d'une autorisation de fouilles dans les conditions de l'article L. 531-6 et de
-l'article R. 523-61 ; 
+2° Emet un avis conforme avant le retrait d'une attribution de diagnostic ou d'une autorisation de fouilles dans les
+conditions de l'article L. 531-6 et de l'article R. 523-61 ;
 
 3° Emet un avis sur les projets de définition de zones de présomption de prescription archéologique préventive dans les
-conditions de l'article R. 523-6 ; 
+conditions de l'article R. 523-6 ;
 
 4° Formule une proposition sur le montant de l'indemnité spéciale due en cas de retrait de l'autorisation de fouilles au
-profit de l'Etat en application de l'article L. 531-8 ; 
+profit de l'Etat en application de l'article L. 531-8 ;
 
 5° Emet un avis avant toute décision prolongeant la durée de l'intervention archéologique préventive en cas de découverte
-d'importance exceptionnelle dans les conditions de l'article R. 523-48 ; 
+d'importance exceptionnelle dans les conditions de l'article R. 523-48 ;
 
-6° Evalue les rapports de fouilles préventives conformément à l'article R. 523-63 ; 
+6° Evalue les rapports de fouilles préventives conformément à l'article R. 523-63 ;
 
-7° Emet un avis préalablement aux décisions relatives aux vestiges immobiliers visées par les articles R. 541-1 et R.
-541-2 ; 
+7° Emet un avis préalablement aux décisions relatives aux vestiges immobiliers visées par l'article R. 541-2 ;
 
 8° Emet un avis sur l'intérêt scientifique d'un bien archéologique mobilier découvert fortuitement dans les conditions fixées
-par l'article L. 541-4. 
+par l'article L. 541-4.
 
 A la demande du ministre chargé de la culture, elle émet un avis sur les opérations archéologiques sous-marines dans les cas
 définis aux articles R. 532-8, R. 532-9, R. 532-12, R. 532-15, R. 532-18 et R. 532-19.
@@ -32867,7 +32540,7 @@ définis aux articles R. 532-8, R. 532-9, R. 532-12, R. 532-15, R. 532-18 et R. 
 
 	**Modifié par**:
 
-	  - Décret n°2017-156 du 8 février 2017 - art. 8
+	  - Décret n°2017-925 du 9 mai 2017 - art. 13
 
 	**Cite**:
 
@@ -32875,17 +32548,17 @@ définis aux articles R. 532-8, R. 532-9, R. 532-12, R. 532-15, R. 532-18 et R. 
 	  - Code du patrimoine - art. L531-1
 	  - Code du patrimoine - art. L531-8
 	  - Code du patrimoine - art. L541-4
-	  - Code du patrimoine - art. R523-48 (V)
-	  - Code du patrimoine - art. R523-6 (V)
+	  - Code du patrimoine - art. R523-48
+	  - Code du patrimoine - art. R523-6
 	  - Code du patrimoine - art. R523-61
-	  - Code du patrimoine - art. R523-63 (Ab)
-	  - Code du patrimoine - art. R531-1 (V)
-	  - Code du patrimoine - art. R532-12 (V)
-	  - Code du patrimoine - art. R532-15 (V)
-	  - Code du patrimoine - art. R532-18 (V)
-	  - Code du patrimoine - art. R532-19 (V)
-	  - Code du patrimoine - art. R541-1 (M)
-	  - Code du patrimoine - art. R541-2 (M)
+	  - Code du patrimoine - art. R523-63
+	  - Code du patrimoine - art. R531-1
+	  - Code du patrimoine - art. R532-12
+	  - Code du patrimoine - art. R532-15
+	  - Code du patrimoine - art. R532-18
+	  - Code du patrimoine - art. R532-19
+	  - Code du patrimoine - art. R541-1
+	  - Code du patrimoine - art. R541-2
 
 
 ###### Article R545-18
@@ -34085,6 +33758,100 @@ que les frais de fonctionnement relatifs aux dépenses courantes des opérations
 	**Codifié par**:
 
 	  - Décret n°2011-574 du 24 mai 2011 Annexe - art.
+
+
+#### Chapitre VI : Rapports d'opérations et données scientifiques 
+
+###### Article R546-1
+
+A l'issue de toute opération, les données scientifiques de l'opération, accompagnées d'un rapport d'opération, sont remises à
+l'Etat.
+
+Les données scientifiques d'une opération archéologique sont constituées des vestiges archéologiques mis au jour et de la
+documentation archéologique de l'opération.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2017-925 du 9 mai 2017 - art. 14
+
+
+###### Article R546-2
+
+Pendant la durée de garde des données scientifiques, sous le contrôle scientifique et technique des services de l'Etat
+chargés de l'archéologie, le responsable de l'opération ou le titulaire de l'autorisation de l'opération programmée assure la
+sécurité des vestiges archéologiques, leur conservation préventive et, en tant que de besoin, leur mise en état pour étude.
+Il dresse l'inventaire des données scientifiques et l'annexe au rapport d'opération.
+
+A la remise du rapport d'opération, les données scientifiques constituées au cours de l'opération sont remises au préfet de
+région.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2017-925 du 9 mai 2017 - art. 14
+
+
+###### Article R546-3
+
+Les normes d'identification, d'inventaire, de classement et de conditionnement des données scientifiques issues des
+opérations archéologiques sont définies par arrêté du ministre chargé de la culture.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2017-925 du 9 mai 2017 - art. 14
+
+
+###### Article R546-4
+
+Les normes de contenu, de présentation et de transmission du rapport d'opération sont définies par arrêté du ministre chargé
+de la culture.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2017-925 du 9 mai 2017 - art. 14
+
+
+###### Article R546-5
+
+L'opérateur ou le titulaire de l'autorisation de l'opération programmée remet au préfet de région le rapport d'opération,
+élaboré à l'issue de l'analyse et de l'exploitation des données scientifiques, sous l'autorité du responsable scientifique de
+l'opération, dans le délai fixé par le contrat ou par le préfet de région.
+
+Le préfet de région vérifie la conformité du rapport aux normes mentionnées à l'article R. 546-4 et fait procéder à son
+évaluation scientifique par la commission territoriale de la recherche archéologique. Il informe de cette conformité
+l'aménageur, l'opérateur, le responsable de l'opération ou le titulaire de l'autorisation de l'opération programmée et leur
+adresse, le cas échéant, des recommandations en vue de l'exploitation scientifique du rapport. Le préfet de région transmet
+le rapport sous format numérique à la collectivité territoriale disposant d'un service archéologique sur le territoire de
+laquelle l'opération a été en tout ou partie réalisée.
+
+Lorsque le rapport est remis dans le cadre d'une opération préventive, le préfet de région transmet également le rapport sous
+format numérique à l'aménageur, à l'Institut national de recherches archéologiques préventives s'il n'est pas l'opérateur et
+au service public d'archives départementales.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2017-925 du 9 mai 2017 - art. 14
+
+
+###### Article R546-6
+
+L'Etat informe le propriétaire du terrain et, en cas de découverte fortuite, l'inventeur que le rapport d'opération est
+disponible sur demande auprès de son service en charge de l'archéologie.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2017-925 du 9 mai 2017 - art. 14
 
 
 ## LIVRE VI : MONUMENTS HISTORIQUES,  SITES PATRIMONIAUX REMARQUABLES ET QUALITÉ ARCHITECTURALE
