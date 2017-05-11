@@ -1,5 +1,5 @@
 # Code du patrimoine  
-Version Consolidée au 2017-05-11
+Version Consolidée au 2017-05-12
 
 # Partie législative
 
@@ -24591,24 +24591,35 @@ et D. 423-13.
 
 ###### Article D422-6
 
-Le Conseil artistique des musées nationaux comprend vingt-trois membres, dont le président nommé par arrêté du ministre
-chargé de la culture parmi les personnalités mentionnées au 4° du présent article : 
+Le Conseil artistique des musées nationaux comprend les vingt et un membres suivants :
 
-1° Le directeur général des patrimoines, ou son représentant, responsable du service des musées de France, vice-président ; 
+1° Quatre membres de droit :
 
-2° Cinq conservateurs généraux du patrimoine en exercice ou honoraires, dont deux responsables d'un musée national ; 
+a) Le directeur général des patrimoines, ou le responsable du service des musées de France qui le représente, qui en est le
+vice-président ;
 
-3° Cinq présidents de commission d'acquisition d'établissement public ; 
+b) Le président de la commission interministérielle d'agrément pour la conservation du patrimoine artistique national ;
 
-4° Douze personnalités choisies en raison de leur compétence nommées par le ministre chargé de la culture, dont un membre de
-l'Institut de France proposé par le chancelier de l'Institut de France et au moins deux professeurs au Collège de France ou
-d'université en exercice ou honoraires. 
+c) Le président de la Commission consultative des trésors nationaux ;
 
-Les personnalités mentionnées aux 2° à 4° sont nommées pour une durée de trois ans renouvelable. 
+d) Le directeur du Centre de recherche et de restauration des musées de France ;
+
+2° Quatre conservateurs généraux du patrimoine en exercice ou honoraires ;
+
+3° Cinq présidents de commission d'acquisition d'établissement public ;
+
+4° Huit personnalités choisies en raison de leur compétence, dont au moins un membre du Conseil d'Etat qui en est le
+président.
+
+Les personnalités mentionnées aux 2° à 4° sont nommées par arrêté du ministre chargé de la culture pour une durée de quatre
+ans, renouvelable une fois.
 
 Le président de l'établissement public de la Réunion des musées nationaux et du Grand Palais des Champs-Elysées, ou son
-représentant, et le        contrôleur budgétaire de cet établissement public assistent aux séances du conseil artistique avec
-voix consultative.
+représentant, assiste aux séances du conseil artistique avec voix consultative.
+
+Toute vacance, pour quelque cause que ce soit, ou perte de la qualité au titre de laquelle les membres de la commission ont
+été nommés, donne lieu à remplacement pour la durée du mandat restant à courir. Si la vacance intervient moins de six mois
+avant l'échéance du mandat, il n'est procédé à aucun remplacement.
 
 **Liens relatifs à cet article**
 
@@ -24618,11 +24629,11 @@ voix consultative.
 
 	**Modifié par**:
 
-	  - Décret n°2012-1247 du 7 novembre 2012 - art. 2 (V)
+	  - Décret n°2017-1047 du 10 mai 2017 - art. 1
 
 	**Cité par**:
 
-	  - Code du patrimoine. - art. D423-5 (M)
+	  - Code du patrimoine - art. D423-5 (V)
 
 
 ###### Article D422-7
@@ -24643,6 +24654,31 @@ Le Conseil artistique des musées nationaux se réunit au moins six fois par an 
 	**Codifié par**:
 
 	  - Décret n°2011-574 du 24 mai 2011 Annexe - art.
+
+
+###### Article D422-7-1
+
+Le Conseil artistique des musées nationaux comprend une délégation permanente chargée d'examiner, en cas d'urgence, les
+projets d'acquisition des musées nationaux énumérés aux articles D. 421-2.
+
+La délégation permanente comprend les sept membres suivants :
+
+1° Le président du Conseil artistique des musées nationaux, qui la préside ;
+
+2° Le directeur général des patrimoines, ou le responsable du service des musées de France qui le représente ;
+
+3° Trois membres nommés parmi les personnes mentionnées aux 2° et 3° de l'article D. 422-6 ;
+
+4° Deux membres nommés parmi les personnalités mentionnées au 4° de l'article D. 422-6.
+
+Les membres de la délégation permanente mentionnés aux 3° et 4° sont nommés par arrêté du ministre chargé de la culture pour
+une durée de quatre ans, renouvelable une fois. Des membres suppléants sont désignés dans les mêmes conditions.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2017-1047 du 10 mai 2017 - art. 1
 
 
 ###### Article D422-8
@@ -24667,45 +24703,24 @@ musées nationaux.
 
 ###### Article D422-9
 
-Les membres du Conseil artistique des musées nationaux et toute personne appelée à assister aux séances sont tenus d'observer
-le secret sur le contenu des délibérations.
+I.-Les membres du conseil artistique et de la délégation permanente prévue à l'article D. 422-7-1 ne prennent pas part aux
+délibérations lorsque la proposition d'acquisition qui en est l'objet concerne l'enrichissement des collections nationales
+confiées à la garde du musée dans lequel ils exercent des responsabilités.
+
+II.-Les membres du Conseil artistique des musées nationaux et toute personne appelée à assister aux séances sont tenus
+d'observer le secret sur le contenu des délibérations.
+
+III.-Les membres de la commission et de la délégation permanente exercent leurs fonctions à titre gratuit. Toutefois, leurs
+frais de déplacement et de séjour peuvent être remboursés dans les conditions prévues par la réglementation applicable aux
+personnels civils de l'Etat.
 
 **Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°2003-1302 du 26 décembre 2003 - art. 6 (Ab), alinéa 6.
-
-	**Créé par**:
-
-	  - Décret n°2011-574 du 24 mai 2011  - art.
 
 	**Codifié par**:
 
 	  - Décret n°2011-574 du 24 mai 2011 Annexe - art.
 
-
-###### Article D422-10
-
-Les membres du Conseil artistique des musées nationaux exercent leurs fonctions à titre gratuit. Toutefois leurs frais de
-déplacement et de séjour peuvent être remboursés dans les conditions prévues par la réglementation applicable aux personnels
-civils de l'Etat.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°2003-1302 du 26 décembre 2003 - art. 8 (Ab)
-
-	**Créé par**:
-
-	  - Décret n°2011-574 du 24 mai 2011  - art.
-
-	**Codifié par**:
-
-	  - Décret n°2011-574 du 24 mai 2011 Annexe - art.
-
-	**Abrogé par**:
+	**Modifié par**:
 
 	  - Décret n°2017-1047 du 10 mai 2017 - art. 1
 
@@ -24783,35 +24798,24 @@ statutaires particulières, à l'avis du Conseil artistique des musées nationau
 
 ###### Article D423-5
 
-En cas d'urgence, le projet d'acquisition est examiné par une délégation permanente composée : 
+En cas d'urgence, le projet d'acquisition est examiné par la délégation permanente prévue à l'article D. 422-7-1.
 
-1° Du président du Conseil artistique des musées nationaux ; 
-
-2° Du directeur général des patrimoines ou son représentant mentionné au 1° de l'article D. 422-6 ; 
-
-3° De quatre membres élus en son sein parmi les personnes mentionnées aux 2° et 3° de l'article D. 422-6 ; 
-
-4° De deux membres élus en son sein parmi les personnalités mentionnées au 4° de l'article D. 422-6. 
-
-Des suppléants sont désignés dans les mêmes conditions que les membres titulaires élus.
+Le président rend compte des avis de la délégation permanente à la commission des acquisitions lors de la séance qui leur
+fait suite.
 
 **Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°2003-1302 du 26 décembre 2003 - art. 7 (Ab)
-
-	**Créé par**:
-
-	  - Décret n°2011-574 du 24 mai 2011  - art.
 
 	**Codifié par**:
 
 	  - Décret n°2011-574 du 24 mai 2011 Annexe - art.
 
+	**Modifié par**:
+
+	  - Décret n°2017-1047 du 10 mai 2017 - art. 1
+
 	**Cite**:
 
-	  - Code du patrimoine. - art. D422-6 (V)
+	  - Code du patrimoine - art. D422-6 (V)
 
 
 ###### Article R423-1
