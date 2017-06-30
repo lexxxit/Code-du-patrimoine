@@ -1,5 +1,5 @@
 # Code du patrimoine  
-Version Consolidée au 2017-05-12
+Version Consolidée au 2017-07-01
 
 # Partie législative
 
@@ -2685,16 +2685,26 @@ Dans ce cas, le conseil d'administration statue à la majorité des deux tiers.
 
 ###### Article L143-13
 
-Le contrôle de la "Fondation du patrimoine" par la Cour des comptes est prévu à l'article L. 111-8-1 du code des juridictions
-financières ci-après reproduit :
-
-"Art. L. 111-8-1. - La "Fondation du patrimoine" est soumise au contrôle de la Cour des comptes."
+Le contrôle de la "Fondation du patrimoine" par la Cour des comptes est prévu au deuxième alinéa de l'article L. 111-12 du
+code des juridictions financières.
 
 **Liens relatifs à cet article**
 
 	**Codifié par**:
 
-	  - Ordonnance 2004-178 2004-02-20 JORF 24 février 2004
+	  - Ordonnance n°2004-178 du 20 février 2004
+
+	**Modifié par**:
+
+	  - Ordonnance n°2016-1360 du 13 octobre 2016 - art. 51
+
+	**Cite**:
+
+	  - Code des juridictions financières - art. L111-12
+
+	**Liens**:
+
+	  - PILOTE_SUIVEUR: Code des juridictions financières - art. L111-8-1
 
 
 ###### Article L143-14
@@ -16317,6 +16327,157 @@ Le secrétariat de la commission est assuré par le service des musées de Franc
 	**Cite**:
 
 	  - Code du patrimoine. - art. L115-1 (V)
+
+
+#### Chapitre VI : Fonds régionaux d'art contemporain 
+
+##### Section 1 : Attribution et retrait du label 
+
+###### Article R116-1
+
+I.-Les modalités d'attribution du label “ fonds régional d'art contemporain ”, dit “ FRAC ”, prévu à l'article L. 116-1 sont
+régies par le décret n° 2017-432 du 28 mars 2017 relatif aux labels et au conventionnement dans les domaines du spectacle
+vivant et des arts plastiques.
+
+Le projet artistique et culturel qui doit être présenté en application de l'article 2 de ce décret traite également de la
+stratégie d'enrichissement, de conservation, d'étude scientifique et de mise en valeur de la collection. La convention
+pluriannuelle comporte des objectifs relatifs à ces points. Le bilan prévu à l'article 4 en rend compte.
+
+II.-Dans le cas où la personne morale bénéficiaire du label ne respecte pas les obligations prévues au présent code et aux
+articles 2,4 et 5 du décret n° 2017-432 du 28 mars 2017, le ministre chargé de la culture, après consultation des
+collectivités territoriales partenaires, peut la mettre en demeure de se conformer à ces obligations dans un délai maximum de
+six mois.
+
+La mise en demeure est notifiée au dirigeant de la personne morale. Les collectivités territoriales partenaires en sont
+informées.
+
+III.-Si la mise en demeure prévue au II reste sans effet à l'expiration du délai, le ministre chargé de la culture, après
+consultation des collectivités territoriales partenaires, peut prononcer par arrêté la suspension du label.
+
+La décision de suspension, qui est motivée, est notifiée à la personne bénéficiaire du label. Les collectivités partenaires
+en sont informées.
+
+La suspension du label est prononcée pour une durée maximale d'un an.
+
+Durant la période de suspension, le ministre chargé de la culture, après consultation des collectivités territoriales
+partenaires, peut décider du retrait partiel ou total du soutien financier de l'Etat.
+
+Durant la période de suspension, la structure ne peut se prévaloir du label.
+
+La suspension peut, en outre, être retenue comme fait déclencheur des clauses résolutoires de la convention pluriannuelle
+d'objectifs et, le cas échéant, des autres conventions signées par l'Etat avec la structure.
+
+IV.-Si, au terme de la période de suspension, les manquements constatés persistent, le ministre chargé de la culture, après
+consultation des collectivités territoriales partenaires et après qu'ont été définies les conditions ultérieures de
+dévolution de propriété, de conservation et de gestion des biens de la collection acquis par dons et legs ou avec le concours
+de l'Etat ou d'une collectivité publique, peut prononcer par arrêté le retrait du label, après avis de la Commission
+scientifique nationale des collections.
+
+La décision de retrait, qui est motivée, est notifiée à la personne morale bénéficiaire du label. Les collectivités
+partenaires sont informées.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2017-432 du 28 mars 2017 - art. 9
+
+
+###### Article R116-2
+
+Pour l'application du 6° de l'article 2 du décret mentionné à l'article R. 116-1, la personne morale qui demande le label
+doit bénéficier du soutien financier de la région dans laquelle elle a son siège.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2017-432 du 28 mars 2017 - art. 9
+
+
+###### Article R116-3
+
+Outre les obligations prévues aux articles 2,4 et 5 du décret mentionné à l'article R. 116-1, les personnes morales
+bénéficiaires du label “ FRAC ” sont soumises aux obligations prévues par les articles R. 116-4 à R. 116-7.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2017-432 du 28 mars 2017 - art. 9
+
+
+##### Section 2 :  Enrichissement des collections des fonds régionaux d'art contemporain 
+
+###### Article R116-4
+
+L'instance mentionnée au 1° de l'article L. 116-1 examine tout projet d'acquisition d'œuvres ou d'objets d'art destinés à
+intégrer la collection.
+
+Elle est présidée par le directeur de la structure et composée de quatre à six personnalités qualifiées dans le domaine de
+l'art contemporain, dont au moins un artiste.
+
+Un représentant du directeur régional des affaires culturelles et un représentant du conseil régional assistent aux séances
+avec voix consultative.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2017-432 du 28 mars 2017 - art. 9
+
+
+##### Section 3 :  Gestion des collections des fonds régionaux d'art contemporain 
+
+
+
+
+###### Article R116-5
+
+I.-La collection est présentée et conservée dans des conditions garantissant la sécurité et l'intégrité des œuvres.
+
+II.-La personne morale propriétaire de la collection ou qui en a la garde établit et tient régulièrement à jour un inventaire
+des biens acquis, prêtés ou déposés.
+
+Elle procède à l'inscription des œuvres sur une base de données commune à l'ensemble des structures bénéficiant du label et
+accessible aux services de l'Etat.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2017-432 du 28 mars 2017 - art. 9
+
+
+###### Article R116-6
+
+Les prêts et les dépôts des œuvres et objets d'art constituant la collection “ FRAC ” donnent lieu à l'établissement d'une
+convention entre le directeur de la structure bénéficiant du label et l'emprunteur ou le dépositaire. Cette convention
+précise notamment la durée du prêt ou du dépôt, la valeur d'assurance de l'œuvre, les conditions de présentation, ainsi que
+les engagements de l'emprunteur ou du dépositaire.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2017-432 du 28 mars 2017 - art. 9
+
+
+###### Article R116-7
+
+Le prêt ou le dépôt donne lieu, préalablement à sa mise en œuvre, à la souscription par le bénéficiaire d'une assurance pour
+le transport et le séjour de l'œuvre ou de l'objet d'art couvrant les risques de vol, de disparition, de détérioration ou de
+destruction, pour un montant défini dans la convention de prêt ou de dépôt.
+
+La convention de dépôt peut être conclue pour une période maximale de cinq ans renouvelable.
+
+Les dépôts donnent lieu à un récolement tous les cinq ans.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2017-432 du 28 mars 2017 - art. 9
 
 
 ### TITRE II : ACQUISITION DE BIENS CULTURELS
@@ -40624,6 +40785,28 @@ bien est dégradé au point de perdre l'intérêt ayant justifié l'attribution 
 
 ###### Article R710-1
 
+Pour l'application en Guyane, en Martinique et à Mayotte de l'article R. 116-1, les mots : “ Fonds régional ” sont remplacés
+par les mots : “ Fonds territorial ” .
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°2014-119 du 11 février 2014 - art.
+
+	**Modifié par**:
+
+	  - Décret n°2017-432 du 28 mars 2017 - art. 10
+
+	**Cite**:
+
+	  - Code du patrimoine - art. R442-5
+	  - Code du patrimoine - art. R451-7
+	  - Code du patrimoine - art. R452-5
+
+
+###### Article R710-1-1
+
 En Guadeloupe, en Guyane, en Martinique et à La Réunion, la commission scientifique régionale des collections des musées de
 France, prévue aux articles R. 451-7 et suivants et aux articles R. 452-5 et suivants, compétente en matière d'acquisition de
 biens culturels et de restauration des collections, comprend, outre le directeur des affaires culturelles, président : 
@@ -40641,31 +40824,13 @@ générale des patrimoines ou du centre de recherche et de restauration des mus�
 
 **Liens relatifs à cet article**
 
-	**Anciens textes**:
-
-	  - Décret n°2002-628 du 25 avril 2002 - art. 21, alinéas 1 à 5, ecqc GGMR  (Ab)
-
-	**Codifié par**:
-
-	  - Décret n°2014-119 du 11 février 2014 - art.
-
 	**Créé par**:
 
-	  - Décret n°2014-119 du 11 février 2014 - art.
+	  - Décret n°2017-432 du 28 mars 2017 - art. 10
 
-	**Liens**:
+	**Anciens textes**:
 
-	  - TRANSFERE: Décret n°2017-432 du 28 mars 2017 - art. 10
-
-	**Nouveaux textes**:
-
-	  - Code du patrimoine - art. R710-1-1 (VD)
-
-	**Cite**:
-
-	  - Code du patrimoine. - art. R442-5 (V)
-	  - Code du patrimoine. - art. R451-7 (V)
-	  - Code du patrimoine. - art. R452-5 (V)
+	  - Code du patrimoine - art. R710-1 (VT)
 
 
 ###### Article R710-2
@@ -40929,6 +41094,18 @@ L'article R. 111-23 n'est pas applicable à Saint-Pierre-et-Miquelon.
 	**Cite**:
 
 	  - Code du patrimoine. - art. R111-23 (V)
+
+
+###### Article R720-1-1
+
+Pour l'application à Saint-Pierre-et-Miquelon de l'article R. 116-1, les mots : “ fonds régional ” sont remplacés par les
+mots : “ fonds territorial ”.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2017-432 du 28 mars 2017 - art. 10
 
 
 ###### Article R720-3
@@ -42808,6 +42985,18 @@ L'article R. 111-23 n'est pas applicable à Saint-Barthélemy.
 	  - Code du patrimoine - art. R111-23 (V)
 
 
+###### Article R780-1-1
+
+Pour l'application à Saint-Barthélemy de l'article R. 116-1, les mots : “ fonds régional ” sont remplacés par les mots : “
+fonds territorial ”.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2017-432 du 28 mars 2017 - art. 10
+
+
 ###### Article R780-3
 
 I. ― Pour l'application à Saint-Barthélemy de l'article R. 212-57 : 
@@ -43222,6 +43411,18 @@ L'article R. 111-23 n'est pas applicable à Saint-Martin.
 	**Cite**:
 
 	  - Code du patrimoine - art. R111-23 (V)
+
+
+###### Article R790-1-1
+
+Pour l'application à Saint-Martin de l'article R. 116-1, les mots : “ fonds régional ” sont remplacés par les mots : “ fonds
+territorial ”.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2017-432 du 28 mars 2017 - art. 10
 
 
 ###### Article R790-3
