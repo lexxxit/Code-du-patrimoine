@@ -1,5 +1,5 @@
 # Code du patrimoine  
-Version Consolidée au 2017-07-01
+Version Consolidée au 2018-01-01
 
 # Partie législative
 
@@ -2170,8 +2170,8 @@ Il a pour mission d'entretenir, conserver et restaurer les monuments nationaux a
 garde, d'en favoriser la connaissance, de les présenter au public et d'en développer la fréquentation lorsque celle-ci est
 compatible avec leur conservation et leur utilisation. 
 
-Par dérogation à l'article L. 621-29-2, il peut également se voir confier la maîtrise d'ouvrage des travaux de restauration
-sur d'autres monuments historiques appartenant à l'Etat et affectés au ministère chargé de la culture. 
+Par dérogation à l'article L. 621-11, il peut également se voir confier la maîtrise d'ouvrage des travaux de restauration sur
+d'autres monuments historiques appartenant à l'Etat et affectés au ministère chargé de la culture. 
 
 Il est administré par un conseil d'administration et dirigé par un président nommé par décret. Le conseil d'administration
 est composé de représentants de l'Etat, notamment de membres du Conseil d'Etat et de la Cour des comptes, de personnalités
@@ -2183,6 +2183,12 @@ des manifestations artistiques et culturelles, le produit des droits de prises d
 service rendu, les dons et legs et toute autre recette provenant de l'exercice de ses activités. 
 
 Un décret en Conseil d'Etat détermine les conditions d'application du présent article.
+
+**Nota:**
+
+Conformément aux dispositions de l'article 23 de l'ordonnance n° 2017-651 du 27 avril 2017, ces dispositions entrent en
+vigueur à une date fixée par décret et au plus tard le 1er janvier 2018. Les demandes déposées et les procédures engagées
+avant cette date demeurent régies par les dispositions antérieures.
 
 **Liens relatifs à cet article**
 
@@ -2199,11 +2205,11 @@ Un décret en Conseil d'Etat détermine les conditions d'application du présent
 
 	**Modifié par**:
 
-	  - Loi n°2007-1822 du 24 décembre 2007 - art. 50
+	  - Ordonnance n°2017-651 du 27 avril 2017 - art. 11
 
 	**Cite**:
 
-	  - Code du patrimoine. - art. L621-29-2 (V)
+	  - Code du patrimoine - art. L621-11 (VT)
 
 	**Anciens textes**:
 
@@ -2571,14 +2577,20 @@ Lorsqu'elle possède des parts ou actions de sociétés détenues ou contrôlée
 
 Dans les conditions prévues par le code de l'expropriation pour cause d'utilité publique, peuvent être menées par l'Etat, sur
 demande ou avec l'accord de la " Fondation du patrimoine ", au bénéfice et à la charge de celle-ci, la procédure
-d'expropriation prévue par l'article L. 621-18 et la procédure de préemption prévue par les articles L. 123-1 à L. 123-3.
+d'expropriation prévue par l'article L. 621-22 et la procédure de préemption prévue par les articles L. 123-1 à L. 123-3. 
 
 La " Fondation du patrimoine " gère les biens mentionnés au précédent alinéa aux fins et dans les conditions définies par un
 cahier des charges. Elle peut les céder de gré à gré à des personnes publiques ou privées dans les conditions prévues à
-l'article L. 621-21. 
+l'article L. 621-25. 
 
-Les dispositions de l'article L. 621-22 sont applicables à l'aliénation des immeubles classés acquis par la " Fondation du
+Les dispositions de l'article L. 621-26 sont applicables à l'aliénation des immeubles classés acquis par la " Fondation du
 patrimoine " en application du présent article.
+
+**Nota:**
+
+Conformément aux dispositions de l'article 23 de l'ordonnance n° 2017-651 du 27 avril 2017, ces dispositions entrent en
+vigueur à une date fixée par décret et au plus tard le 1er janvier 2018. Les demandes déposées et les procédures engagées
+avant cette date demeurent régies par les dispositions antérieures.
 
 **Liens relatifs à cet article**
 
@@ -2592,13 +2604,14 @@ patrimoine " en application du présent article.
 
 	**Modifié par**:
 
-	  - Loi n°2016-1087 du 8 août 2016 - art. 168
+	  - Ordonnance n°2017-651 du 27 avril 2017 - art. 12
 
 	**Cite**:
 
 	  - Code du patrimoine - art. L123-1
-	  - Code du patrimoine - art. L621-18
-	  - Code du patrimoine - art. L621-21
+	  - Code du patrimoine - art. L621-22 (VT)
+	  - Code du patrimoine - art. L621-25 (VT)
+	  - Code du patrimoine - art. L621-26 (VT)
 
 
 ###### Article L143-9
@@ -3275,9 +3288,8 @@ celles-ci sont, à défaut d'affectation déterminée par l'acte de suppression,
 ###### Article L212-6
 
 Les collectivités territoriales sont propriétaires de leurs archives. Elles en assurent elles-mêmes la conservation et la
-mise en valeur. Toutefois, les régions et la collectivité territoriale de Corse peuvent également confier la conservation de
-leurs archives, par convention, respectivement au service d'archives du département où se trouve le chef-lieu de la région ou
-de la collectivité territoriale de Corse.
+mise en valeur. Toutefois, les régions peuvent également confier la conservation de leurs archives, par convention, au
+service d'archives du département où se trouve le chef-lieu de la région.
 
 **Liens relatifs à cet article**
 
@@ -3293,12 +3305,11 @@ de la collectivité territoriale de Corse.
 
 	**Codifié par**:
 
-	  - Ordonnance 2004-178 2004-02-20 JORF 24 février 2004
+	  - Ordonnance n°2004-178 du 20 février 2004
 
-	**Anciens textes**:
+	**Modifié par**:
 
-	  - Code général des collectivités territoriales - art. L1421-1 (M)
-	  - Code général des collectivités territoriales - art. L1421-3 (M)
+	  - Ordonnance n°2016-1562 du 21 novembre 2016 - art. 32
 
 
 ###### Article L212-6-1
@@ -3339,11 +3350,11 @@ concours financiers de l'Etat dans les conditions en vigueur au 1er janvier 1986
 
 ###### Article L212-8
 
-Les services départementaux d'archives sont financés par le département. Ils sont tenus de recevoir et de gérer les archives
-des services déconcentrés de l'Etat ayant leur siège dans le département. Ceux-ci sont tenus de les y verser. Il en va de
-même des autres archives publiques constituées dans leur ressort ainsi que des archives que les communes sont tenues ou
-décident de déposer aux archives départementales. Les services départementaux d'archives peuvent également recevoir des
-archives privées.
+Les services départementaux d'archives sont financés par le département ou, en Corse, par la collectivité de Corse. Ils sont
+tenus de recevoir et de gérer les archives des services déconcentrés de l'Etat ayant leur siège dans le département. Ceux-ci
+sont tenus de les y verser. Il en va de même des autres archives publiques constituées dans leur ressort ainsi que des
+archives que les communes sont tenues ou décident de déposer aux archives départementales. Les services départementaux
+d'archives peuvent également recevoir des archives privées.
 
 Le service départemental d'archives du Rhône exerce les missions définies au premier alinéa sur les territoires du
 département du Rhône et de la métropole de Lyon. Il assure également la conservation et la mise en valeur des archives de la
@@ -3357,10 +3368,18 @@ Le remboursement des dépenses prévu au cinquième alinéa de l'article L. 5111
 département du Rhône et de la métropole de Lyon. 
 
 Pour l'application des dispositions du livre II du présent code au département du Rhône et à la métropole de Lyon, les mots :
-"   service départemental d'archives ", " archives du département " et " archives départementales " sont remplacés par les
-mots : " service d'archives du département du Rhône et de la métropole de Lyon ".
+" service départemental d'archives ", " archives du département " et " archives départementales "  sont remplacés par  les
+mots : " service d'archives du département du Rhône et de la métropole de Lyon ". 
+
+Pour l'application des dispositions du livre II du présent code à la collectivité de Corse, les mots : " service
+départemental d'archives ", " archives du département " et " archives départementales " sont remplacés par les mots : "
+service d'archives de la collectivité de Corse ".
 
 **Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance n°2004-178 du 20 février 2004
 
 	**Cité par**:
 
@@ -3370,7 +3389,7 @@ mots : " service d'archives du département du Rhône et de la métropole de Lyo
 
 	**Modifié par**:
 
-	  - ORDONNANCE n°2014-1543 du 19 décembre 2014 - art. 27
+	  - Ordonnance n°2016-1562 du 21 novembre 2016 - art. 32
 
 	**Cite**:
 
@@ -3381,8 +3400,8 @@ mots : " service d'archives du département du Rhône et de la métropole de Lyo
 
 Par dérogation au II de l'article 42 de la loi n° 84-16 du 11 janvier 1984 portant dispositions statutaires relatives à la
 fonction publique de l'Etat, la mise à disposition des personnels scientifiques et de documentation de l'Etat auprès des
-départements pour exercer leurs fonctions dans les services départementaux d'archives n'est pas soumise à l'obligation de
-remboursement. 
+départements ou, en Corse, de la collectivité de Corse pour exercer leurs fonctions dans les services départementaux
+d'archives n'est pas soumise à l'obligation de remboursement. 
 
 Les directeurs des services départementaux d'archives sont choisis parmi les conservateurs ou les conservateurs généraux du
 patrimoine de l'Etat. 
@@ -3399,14 +3418,14 @@ Un décret en Conseil d'Etat fixe les modalités d'application du présent artic
 
 	  - Loi n°84-16 du 11 janvier 1984 - art. 42
 
-	**Modifié par**:
-
-	  - Loi n°2008-696  du 15 juillet 2008 - art. 7
-
 	**Cité par**:
 
 	  - Décret n°2009-1127 du 17 septembre 2009 - art. 1 (V)
 	  - Décret n°2013-830 du 16 septembre 2013 - art. 4 (VD)
+
+	**Modifié par**:
+
+	  - Ordonnance n°2016-1562 du 21 novembre 2016 - art. 32
 
 
 ###### Article L212-10
@@ -4078,19 +4097,19 @@ Le conseil départemental  statue sur l'exercice du droit de préemption prévu 
 
 ###### Article L212-36
 
-Le conseil régional et l'assemblée territoriale de Corse ou, en dehors de leurs sessions, leur commission permanente, se
-prononcent sur l'opportunité de faire jouer au profit de la région ou de la collectivité territoriale de Corse le droit de
-préemption prévu par la législation sur les archives.
+Le conseil régional et l'Assemblée de Corse ou, en dehors de leurs sessions, leur commission permanente, se prononcent sur
+l'opportunité de faire jouer au profit de la région ou de la collectivité territoriale de Corse le droit de préemption prévu
+par la législation sur les archives.
 
 **Liens relatifs à cet article**
 
 	**Codifié par**:
 
-	  - Ordonnance 2004-178 2004-02-20 JORF 24 février 2004
+	  - Ordonnance n°2004-178 du 20 février 2004
 
-	**Anciens textes**:
+	**Modifié par**:
 
-	  - Code général des collectivités territoriales - art. L1421-2 (M)
+	  - Ordonnance n°2016-1562 du 21 novembre 2016 - art. 32
 
 
 ###### Article L212-37
@@ -6215,24 +6234,32 @@ du rapport de diagnostic. En l'absence de prescriptions dans les délais, l'Etat
 ###### Article L522-3
 
 Les prescriptions de l'Etat peuvent s'appliquer à des opérations non soumises à la redevance prévue à l'article L. 524-2.
-
 Lorsque l'intérêt des vestiges impose leur conservation, l'autorité administrative notifie au propriétaire une instance de
-classement de tout ou partie du terrain dans les conditions prévues par les dispositions relatives aux monuments historiques.
+protection de tout ou partie du terrain dans les conditions prévues par les dispositions relatives aux monuments historiques.
+
+**Nota:**
+
+Conformément aux dispositions de l'article 23 de l'ordonnance n° 2017-651 du 27 avril 2017, ces dispositions entrent en
+vigueur à une date fixée par décret et au plus tard le 1er janvier 2018. Les demandes déposées et les procédures engagées
+avant cette date demeurent régies par les dispositions antérieures.
 
 **Liens relatifs à cet article**
 
 	**Anciens textes**:
 
-	  - Loi n°2001-44 2001-01-17 art. 2 al. 3, al. 4
 	  - Loi n°2001-44 du 17 janvier 2001 - art. 2 (V)
 
 	**Codifié par**:
 
-	  - Ordonnance 2004-178 2004-02-20 JORF 24 février 2004
+	  - Ordonnance n°2004-178 du 20 février 2004
+
+	**Modifié par**:
+
+	  - Ordonnance n°2017-651 du 27 avril 2017 - art. 13
 
 	**Cite**:
 
-	  - Code du patrimoine - art. L524-2 (V)
+	  - Code du patrimoine - art. L524-2
 
 
 ###### Article L522-4
@@ -8310,7 +8337,13 @@ judiciaire.
 Lorsque les biens archéologiques immobiliers sont mis à jour sur des terrains dont la propriété a été acquise avant la
 promulgation de la loi n° 2001-44 du 17 janvier 2001 relative à l'archéologie préventive, l'autorité administrative statue
 sur les mesures définitives à prendre à l'égard de ces biens. Elle peut, à cet effet, ouvrir pour ces biens une instance de
-classement en application de l'article L. 621-7.
+protection en application de l'article L. 621-7.
+
+**Nota:**
+
+Conformément aux dispositions de l'article 23 de l'ordonnance n° 2017-651 du 27 avril 2017, ces dispositions entrent en
+vigueur à une date fixée par décret et au plus tard le 1er janvier 2018. Les demandes déposées et les procédures engagées
+avant cette date demeurent régies par les dispositions antérieures.
 
 **Liens relatifs à cet article**
 
@@ -8324,11 +8357,11 @@ classement en application de l'article L. 621-7.
 
 	**Modifié par**:
 
-	  - Loi n°2016-925 du 7 juillet 2016 - art. 70 (V)
+	  - Ordonnance n°2017-651 du 27 avril 2017 - art. 13
 
 	**Cite**:
 
-	  - Code du patrimoine - art. L621-7 (V)
+	  - Code du patrimoine - art. L621-7
 
 	**Cité par**:
 
@@ -9028,35 +9061,39 @@ modalités de fonctionnement.
 
 La Commission nationale du patrimoine et de l'architecture est consultée en matière de création, de gestion et de suivi de
 servitudes d'utilité publique et de documents d'urbanisme institués dans un but de protection, de conservation et de mise en
-valeur du patrimoine culturel, notamment dans les cas prévus aux articles L. 621-4, L. 621-5, L. 621-6, L. 621-8, L. 621-12,
-L. 621-29-9, L. 621-31, L. 621-35, L. 622-1, L. 622-1-1, L. 622-1-2, L. 622-3, L. 622-4, L. 622-4-1 et L. 631-2 du présent
-code et à l'article L. 313-1 du code de l'urbanisme. Elle est également consultée sur tout projet de vente ou d'aliénation du
-patrimoine français de l'Etat situé à l'étranger présentant une valeur historique ou culturelle particulière. 
+valeur du patrimoine culturel, notamment dans les cas prévus aux articles L. 621-2, L. 621-3, L. 621-4, L. 621-5, L. 621-15,
+L. 621-26, L. 621-31, L. 621-34, L. 622-2, L. 622-3, L. 622-4, L. 622-5, L. 622-7 et L. 631-2 du présent code et à l'article
+L. 313-1 du code de l'urbanisme. Elle est également consultée sur tout projet de vente ou d'aliénation du patrimoine français
+de l'Etat situé à l'étranger présentant une valeur historique ou culturelle particulière.
 
 Elle peut proposer toutes mesures propres à assurer la protection, la conservation et la mise en valeur du patrimoine et de
 l'architecture. Elle peut demander à l'Etat d'engager une procédure de classement ou d'inscription au titre des monuments
-historiques ou de classement au titre des sites patrimoniaux remarquables en application des articles L. 621-1, L. 621-25, L.
-622-1, L. 622-20, L. 631-1 ou L. 631-2 du présent code. 
+historiques ou de classement au titre des sites patrimoniaux remarquables en application des articles L. 621-1, L. 621-5, L.
+622-1, L. 622-7, L. 622-20, L. 631-1 ou L. 631-2 du présent code.
 
-Elle procède à l'évaluation des politiques de protection, de conservation et de mise en valeur du patrimoine culturel. 
+Elle procède à l'évaluation des politiques de protection, de conservation et de mise en valeur du patrimoine culturel.
 
 En outre, elle peut être consultée sur les études, sur les travaux et sur toute question relative au patrimoine et à
 l'architecture en application du présent livre et de la sous-section 2 de la section 4 du chapitre Ier du titre V du livre
-Ier et du chapitre III du titre Ier du livre III du code de l'urbanisme. 
+Ier et du chapitre III du titre Ier du livre III du code de l'urbanisme.
 
 Placée auprès du ministre chargé de la culture, elle comprend des personnes titulaires d'un mandat électif national, des
 personnes titulaires d'un mandat électif local, des représentants de l'Etat, des représentants d'associations ou de
 fondations ayant pour objet de favoriser la connaissance, la protection, la conservation et la mise en valeur du patrimoine
-et des personnalités qualifiées. 
+et des personnalités qualifiées.
 
 Son président est choisi parmi les titulaires d'un mandat électif national qui en sont membres. En cas d'empêchement du
 président, la présidence de la commission est assurée par un représentant désigné à cet effet par le ministre chargé de la
-culture. 
+culture.
 
 Un décret en Conseil d'Etat précise sa composition, les conditions de désignation de ses membres et ses modalités de
 fonctionnement.
 
-.
+**Nota:**
+
+Conformément aux dispositions de l'article 23 de l'ordonnance n° 2017-651 du 27 avril 2017, ces dispositions entrent en
+vigueur à une date fixée par décret et au plus tard le 1er janvier 2018. Les demandes déposées et les procédures engagées
+avant cette date demeurent régies par les dispositions antérieures.
 
 **Liens relatifs à cet article**
 
@@ -9079,32 +9116,32 @@ fonctionnement.
 
 	**Modifié par**:
 
-	  - Loi n°2016-925 du 7 juillet 2016 - art. 74
+	  - Ordonnance n°2017-651 du 27 avril 2017 - art. 2
 
 	**Cite**:
 
-	  - Code de l'urbanisme - art. L151-17 (V)
-	  - Code de l'urbanisme - art. L313-1 (V)
-	  - Code du patrimoine - art. L621-1 (V)
-	  - Code du patrimoine - art. L621-12 (V)
-	  - Code du patrimoine - art. L621-25 (V)
-	  - Code du patrimoine - art. L621-29-9 (V)
-	  - Code du patrimoine - art. L621-31 (V)
-	  - Code du patrimoine - art. L621-35 (V)
-	  - Code du patrimoine - art. L621-4 (V)
-	  - Code du patrimoine - art. L621-8 (V)
-	  - Code du patrimoine - art. L622-1 (V)
-	  - Code du patrimoine - art. L622-10 (V)
-	  - Code du patrimoine - art. L631-1 (V)
-	  - Code du patrimoine - art. L631-2 (V)
+	  - Code de l'urbanisme - art. L151-17
+	  - Code de l'urbanisme - art. L313-1
+	  - Code du patrimoine - art. L621-1 (VD)
+	  - Code du patrimoine - art. L621-12 (VD)
+	  - Code du patrimoine - art. L621-25 (VD)
+	  - Code du patrimoine - art. L621-29-9 (VT)
+	  - Code du patrimoine - art. L621-31
+	  - Code du patrimoine - art. L621-35 (VD)
+	  - Code du patrimoine - art. L621-4 (VD)
+	  - Code du patrimoine - art. L621-8 (VD)
+	  - Code du patrimoine - art. L622-1 (VD)
+	  - Code du patrimoine - art. L622-10 (VD)
+	  - Code du patrimoine - art. L631-1
+	  - Code du patrimoine - art. L631-2
 
 
 ###### Article L611-2
 
 La commission régionale du patrimoine et de l'architecture est consultée en matière de création, de gestion et de suivi de
 servitudes d'utilité publique et de documents d'urbanisme institués dans un but de protection, de conservation et de mise en
-valeur du patrimoine culturel, notamment dans les cas prévus aux articles L. 621-31, L. 622-10, L. 631-4, L. 632-2 et L.
-650-1 du présent code et aux articles L. 151-29-1 et L. 152-6 du code de l'urbanisme. 
+valeur du patrimoine culturel, notamment dans les cas prévus aux articles L. 621-5, L. 621-31, L. 622-7, L. 622-16, L. 631-4,
+L. 632-2 et L. 650-1 du présent code et aux articles L. 151-29-1 et L. 152-6 du code de l'urbanisme. 
 
 Elle peut proposer toutes mesures propres à assurer la protection, la conservation et la mise en valeur du patrimoine et de
 l'architecture. 
@@ -9123,11 +9160,13 @@ présidence est assurée par le représentant de l'Etat dans la région.
 Un décret en Conseil d'Etat détermine la composition, les conditions de désignation des membres et les modalités de
 fonctionnement de la commission.
 
+**Nota:**
+
+Conformément aux dispositions de l'article 23 de l'ordonnance n° 2017-651 du 27 avril 2017, ces dispositions entrent en
+vigueur à une date fixée par décret et au plus tard le 1er janvier 2018. Les demandes déposées et les procédures engagées
+avant cette date demeurent régies par les dispositions antérieures.
+
 **Liens relatifs à cet article**
-
-	**Créé par**:
-
-	  - Loi n°2016-925 du 7 juillet 2016 - art. 74
 
 	**Cité par**:
 
@@ -9141,13 +9180,20 @@ fonctionnement de la commission.
 	  - Code général des collectivités territoriales - art. L4421-4 (V)
 	  - Code général des collectivités territoriales - art. R4421-1 (V)
 
+	**Modifié par**:
+
+	  - Ordonnance n°2017-651 du 27 avril 2017 - art. 3
+
 	**Cite**:
 
-	  - Code de l'urbanisme - art. L151-17 (V)
+	  - Code de l'urbanisme - art. L151-17
 	  - Code du patrimoine - art. L621-31 (V)
-	  - Code du patrimoine - art. L631-4 (V)
-	  - Code du patrimoine - art. L632-2 (V)
-	  - Code du patrimoine - art. L650-1 (V)
+	  - Code du patrimoine - art. L621-5 (VT)
+	  - Code du patrimoine - art. L622-16 (VT)
+	  - Code du patrimoine - art. L622-7 (VT)
+	  - Code du patrimoine - art. L631-4
+	  - Code du patrimoine - art. L632-2
+	  - Code du patrimoine - art. L650-1
 
 
 ###### Article L611-3
@@ -9254,35 +9300,47 @@ l'environnement.
 
 #### Chapitre 1er : Immeubles
 
-##### Section 1 : Classement des immeubles.
+##### Section 1 : Classement et inscription des immeubles
 
 ###### Article L621-1
 
-Les immeubles dont la conservation présente, au point de vue de l'histoire ou de l'art, un intérêt public sont classés comme
-monuments historiques en totalité ou en partie par les soins de l'autorité administrative.
+Les immeubles ou parties d'immeubles, bâtis ou non bâtis, dont la conservation présente un intérêt public au point de vue de
+l'histoire, de l'art, de l'architecture, de l'archéologie, de l'ethnologie, de la science ou de la technique peuvent être
+classés au titre des monuments historiques. 
 
-Sont notamment compris parmi les immeubles susceptibles d'être classés au titre des monuments historiques :
+Peuvent être classés au même titre les immeubles ou parties d'immeubles qui forment avec un immeuble classé un ensemble
+cohérent ou dont la préservation, la réhabilitation ou la démolition est susceptible de contribuer à la conservation ou à la
+mise en valeur d'un immeuble classé. 
 
-a) Les monuments mégalithiques, les terrains qui renferment des stations ou gisements préhistoriques ;
+Sont classés et soumis aux dispositions du présent titre : 
 
-b) Les immeubles dont le classement est nécessaire pour isoler, dégager, assainir ou mettre en valeur un immeuble classé au
-titre des monuments historiques.
+1° Les immeubles figurant sur la liste publiée au Journal officiel de la République française du 18 avril 1914, sauf s'ils
+ont fait l'objet d'un déclassement ultérieur ; 
+
+2° Les immeubles ayant fait l'objet de décrets ou d'arrêtés de classement conformément aux dispositions de la loi du 30 mars
+1887 ; 
+
+3° Les immeubles ayant fait l'objet de décrets ou d'arrêtés de classement conformément aux dispositions de la loi du 31
+décembre 1913 ; 
+
+4° Les parties d'un domaine national qui appartiennent à l'Etat ou à l'un de ses établissements publics, dès l'entrée en
+vigueur du décret délimitant le domaine national dans les conditions prévues à l'article L. 621-34.
+
+**Nota:**
+
+Conformément aux dispositions de l'article 23 de l'ordonnance n° 2017-651 du 27 avril 2017, ces dispositions entrent en
+vigueur à une date fixée par décret et au plus tard le 1er janvier 2018. Les demandes déposées et les procédures engagées
+avant cette date demeurent régies par les dispositions antérieures.
 
 **Liens relatifs à cet article**
 
 	**Anciens textes**:
 
 	  - Loi n°1913-12-31 du 31 décembre 1913 - art. 1 (V)
-	  - Loi n°1913-12-31 art. 1er al. 1 à 5 (1ère phrase)
 
 	**Codifié par**:
 
-	  - Ordonnance 2004-178 2004-02-20 JORF 24 février 2004
-
-	**Modifié par**:
-
-	  - Ordonnance 2005-1128 2005-09-08 art. 3 I, II JORF 9 septembre 2005
-	  - Ordonnance n°2005-1128 du 8 septembre 2005 - art. 3 () JORF 9 septembre 2005
+	  - Ordonnance n°2004-178 du 20 février 2004
 
 	**Cité par**:
 
@@ -9292,7 +9350,7 @@ titre des monuments historiques.
 	  - Code de l'énergie - art. R234-3 (VD)
 	  - Code de la construction et de l'habitation. - art. R*111-18-10 (V)
 	  - Code de la construction et de l'habitation. - art. R111-19-10 (V)
-	  - Code du patrimoine - art. L611-1 (V)
+	  - Code du patrimoine - art. L611-1 (VD)
 	  - Code du patrimoine - art. L622-1 (V)
 	  - Code du patrimoine - art. L730-1 (V)
 	  - Code du patrimoine. - art. L641-1 (M)
@@ -9300,23 +9358,82 @@ titre des monuments historiques.
 	  - Code minier - art. 79 (VT)
 	  - Code pénal - art. R645-13 (V)
 
+	**Modifié par**:
 
-###### Article L621-3
+	  - Ordonnance n°2017-651 du 27 avril 2017 - art. 4
 
-Sont également classés et soumis aux dispositions du présent titre :
+	**Cite**:
 
-a) Les immeubles figurant sur la liste publiée au Journal officiel du 18 avril 1914 ;
+	  - Code du patrimoine - art. L621-34 (VD)
 
-b) Les immeubles ayant fait l'objet d'arrêtés ou de décrets de classement, conformément aux dispositions de la loi du 30 mars
-1887.
+
+###### Article L621-2
+
+L'immeuble appartenant à l'Etat ou à l'un de ses établissements publics est classé par décision de l'autorité administrative.
+
+**Nota:**
+
+Conformément aux dispositions de l'article 23 de l'ordonnance n° 2017-651 du 27 avril 2017, ces dispositions entrent en
+vigueur à une date fixée par décret et au plus tard le 1er janvier 2018. Les demandes déposées et les procédures engagées
+avant cette date demeurent régies par les dispositions antérieures.
 
 **Liens relatifs à cet article**
 
+	**Anciens textes**:
+
+	  - Loi n°1913-12-31 du 31 décembre 1913 - art. 1 (V)
+
+	**Codifié par**:
+
+	  - Ordonnance n°2004-178 du 20 février 2004
+
+	**Modifié par**:
+
+	  - Ordonnance n°2017-651 du 27 avril 2017 - art. 4
+
+	**Cite**:
+
+	  - Code de l'urbanisme - art. L126-1
+
 	**Cité par**:
 
-	  - Décret n°2016-412 du 7 avril 2016 - art. 1
-	  - Code de l'énergie - art. R234-3 (VD)
-	  - Code du domaine de l'Etat - art. R27 (Ab)
+	  - Code de l'urbanisme - art. L313-2-1 (M)
+	  - Code de l'urbanisme - art. R*123-15 (M)
+	  - Code de la construction et de l'habitation. - art. R511-2 (M)
+	  - Code de la santé publique - art. R1331-4 (M)
+	  - Code du patrimoine. - art. L611-1 (M)
+	  - Code minier - art. 79 (VT)
+
+	**Nouveaux textes**:
+
+	  - Code du patrimoine. - art. L621-30-1 (V)
+
+
+###### Article L621-3
+
+L'immeuble appartenant à toute personne publique ou privée autre que celles mentionnées à l'article L. 621-2 est classé par
+décision de l'autorité administrative si le propriétaire y consent.
+
+A défaut de consentement du propriétaire, le classement d'office peut être prononcé par décret en Conseil d'Etat. Le décret
+détermine, le cas échéant, les conditions de classement et notamment les servitudes et obligations qui en découlent.
+
+Le classement d'office d'un immeuble ou d'une partie d'immeuble appartenant à une personne privée peut ouvrir droit à
+indemnité au profit du propriétaire s'il résulte des servitudes et obligations dont il s'agit une modification de l'état ou
+de l'utilisation des lieux causant un préjudice direct, matériel et certain. La demande d'indemnité est formée dans les six
+mois à compter de la notification du décret de classement. A défaut d'accord amiable, l'indemnité est fixée par le juge de
+l'expropriation.
+
+L'indemnité n'est pas due lorsque le Premier ministre décide d'engager l'expropriation de l'immeuble conformément au code de
+l'expropriation pour cause d'utilité publique, ou s'il renonce au classement d'office en abrogeant le décret de classement
+dans un délai de trois mois à compter de l'accord amiable ou de la notification du jugement mentionnés au troisième alinéa.
+
+**Nota:**
+
+Conformément aux dispositions de l'article 23 de l'ordonnance n° 2017-651 du 27 avril 2017, ces dispositions entrent en
+vigueur à une date fixée par décret et au plus tard le 1er janvier 2018. Les demandes déposées et les procédures engagées
+avant cette date demeurent régies par les dispositions antérieures.
+
+**Liens relatifs à cet article**
 
 	**Cite**:
 
@@ -9324,20 +9441,34 @@ b) Les immeubles ayant fait l'objet d'arrêtés ou de décrets de classement, co
 
 	**Anciens textes**:
 
-	  - Loi n°1913-12-31 art. 2 al. 1, al. 2
-	  - Loi n°1913-12-31 art. 38 (en ce qui concerne les immeubles)
 	  - Loi n°1913-12-31 du 31 décembre 1913 - art. 2 (V)
 	  - Loi n°1913-12-31 du 31 décembre 1913 - art. 38 (Ab)
 
 	**Codifié par**:
 
-	  - Ordonnance 2004-178 2004-02-20 JORF 24 février 2004
+	  - Ordonnance n°2004-178 du 20 février 2004
+
+	**Cité par**:
+
+	  - Décret n°2016-412 du 7 avril 2016 - art. 1
+	  - Code de l'énergie - art. R234-3 (VD)
+	  - Code du domaine de l'Etat - art. R27 (Ab)
+
+	**Modifié par**:
+
+	  - Ordonnance n°2017-651 du 27 avril 2017 - art. 4
 
 
 ###### Article L621-4
 
-L'immeuble appartenant à l'Etat ou à un établissement public de l'Etat est classé au titre des monuments historiques par
-décision de l'autorité administrative, après avis de la Commission nationale du patrimoine et de l'architecture.
+Le déclassement total ou partiel d'un immeuble classé est prononcé par décret en Conseil d'Etat, soit à l'initiative de
+l'autorité administrative, soit à la demande du propriétaire.
+
+**Nota:**
+
+Conformément aux dispositions de l'article 23 de l'ordonnance n° 2017-651 du 27 avril 2017, ces dispositions entrent en
+vigueur à une date fixée par décret et au plus tard le 1er janvier 2018. Les demandes déposées et les procédures engagées
+avant cette date demeurent régies par les dispositions antérieures.
 
 **Liens relatifs à cet article**
 
@@ -9351,22 +9482,36 @@ décision de l'autorité administrative, après avis de la Commission nationale 
 
 	**Modifié par**:
 
-	  - Loi n°2016-925 du 7 juillet 2016 - art. 75
+	  - Ordonnance n°2017-651 du 27 avril 2017 - art. 4
 
 	**Cité par**:
 
-	  - Code du patrimoine - art. L611-1 (V)
+	  - Code du patrimoine - art. L611-1 (VD)
 	  - Code du patrimoine - art. L621-6 (VD)
 
 
 ###### Article L621-5
 
-L'immeuble appartenant à une collectivité territoriale ou à un de ses établissements publics est classé au titre des
-monuments historiques par décision de l'autorité administrative, après avis de la Commission nationale du patrimoine et de
-l'architecture, s'il y a consentement du propriétaire.
+Les immeubles ou parties d'immeubles, bâtis ou non bâtis, dont la conservation ne justifie pas un classement immédiat mais
+présente un intérêt public au point de vue de l'histoire, de l'art, de l'architecture, de l'archéologie, de l'ethnologie, de
+la science ou de la technique, peuvent être inscrits au titre des monuments historiques par décision de l'autorité
+administrative. 
 
-En cas de désaccord, le classement d'office est prononcé par décret en Conseil d'Etat, pris après avis de la Commission
-nationale du patrimoine et de l'architecture.
+Peuvent être inscrits au même titre les immeubles ou parties d'immeubles qui forment avec un immeuble ou une partie
+d'immeuble classé ou inscrit un ensemble cohérent ou les immeubles dont la préservation, la réhabilitation ou la démolition
+sont susceptibles de contribuer à la conservation ou à la mise en valeur d'un immeuble classé ou inscrit. 
+
+Sont inscrites et soumises aux dispositions du présent titre les parties d'un domaine national, non classées au titre des
+monuments historiques, qui appartiennent à une personne publique autre que l'Etat ou l'un de ses établissements publics, ou à
+une personne privée, dès l'entrée en vigueur du décret délimitant le domaine national dans les conditions prévues par
+l'article L. 621-34. Elles peuvent être classées au titre des monuments historiques dans les conditions définies à la
+présente section.
+
+**Nota:**
+
+Conformément aux dispositions de l'article 23 de l'ordonnance n° 2017-651 du 27 avril 2017, ces dispositions entrent en
+vigueur à une date fixée par décret et au plus tard le 1er janvier 2018. Les demandes déposées et les procédures engagées
+avant cette date demeurent régies par les dispositions antérieures.
 
 **Liens relatifs à cet article**
 
@@ -9391,27 +9536,23 @@ nationale du patrimoine et de l'architecture.
 
 	**Modifié par**:
 
-	  - Loi n°2016-925 du 7 juillet 2016 - art. 75
+	  - Ordonnance n°2017-651 du 27 avril 2017 - art. 4
+
+	**Cite**:
+
+	  - Code du patrimoine - art. L621-34 (VD)
 
 
 ###### Article L621-6
 
-L'immeuble appartenant à toute personne autre que celles énumérées aux articles L. 621-4 et L. 621-5 est classé au titre des
-monuments historiques par décision de l'autorité administrative, après avis de la Commission nationale du patrimoine et de
-l'architecture, s'il y a consentement du propriétaire. La décision détermine les conditions du classement. 
+La désinscription totale ou partielle d'un immeuble au titre des monuments historiques est prononcée selon les mêmes formes
+et procédures que l'inscription.
 
-A défaut du consentement du propriétaire, le classement d'office est prononcé par décret en Conseil d'Etat, pris après avis
-de la Commission nationale du patrimoine et de l'architecture, qui détermine les conditions de classement et notamment les
-servitudes et obligations qui en découlent. 
+**Nota:**
 
-Le classement d'office peut donner droit à indemnité au profit du propriétaire s'il résulte, des servitudes et obligations
-dont il s'agit, une modification à l'état ou à l'utilisation des lieux déterminant un préjudice direct, matériel et certain.
-La demande de l'indemnité devra être produite dans les six mois à dater de la notification du décret de classement. A défaut
-d'accord amiable, l'indemnité est fixée par le juge de l'expropriation. 
-
-Le Premier ministre peut ne pas donner suite au classement d'office dans les conditions ainsi fixées. Il doit alors, dans un
-délai de trois mois à compter de la notification du jugement, soit abroger le décret de classement, soit poursuivre
-l'expropriation de l'immeuble.
+Conformément aux dispositions de l'article 23 de l'ordonnance n° 2017-651 du 27 avril 2017, ces dispositions entrent en
+vigueur à une date fixée par décret et au plus tard le 1er janvier 2018. Les demandes déposées et les procédures engagées
+avant cette date demeurent régies par les dispositions antérieures.
 
 **Liens relatifs à cet article**
 
@@ -9433,36 +9574,38 @@ l'expropriation de l'immeuble.
 
 	**Modifié par**:
 
-	  - Loi n°2016-925 du 7 juillet 2016 - art. 75
+	  - Ordonnance n°2017-651 du 27 avril 2017 - art. 4
 
 	**Cite**:
 
-	  - Code du patrimoine - art. L621-4 (V)
+	  - Code du patrimoine - art. L621-4
 
 
 ###### Article L621-7
 
-Lorsque la conservation d'un immeuble est menacée, l'autorité administrative peut notifier au propriétaire par décision prise
-sans formalité préalable une instance de classement au titre des monuments historiques.
+Lorsque la conservation d'un immeuble est menacée, l'autorité administrative peut notifier au propriétaire, par décision
+prise sans formalité préalable, une instance de protection au titre des monuments historiques.
 
-A compter du jour où l'autorité administrative notifie au propriétaire une instance de classement au titre des monuments
-historiques, tous les effets du classement s'appliquent de plein droit à l'immeuble visé. Ils cessent de s'appliquer si la
-décision de classement n'intervient pas dans les douze mois de cette notification.
+A compter du jour où l'instance de protection est notifiée au propriétaire, les effets du classement s'appliquent de plein
+droit à l'immeuble pendant douze mois, à l'exclusion de la servitude d'abords prévue à la section 4 du présent chapitre.
+Toutefois, ces effets cessent de s'appliquer si l'instance de protection est abrogée avant l'expiration du délai de douze
+mois.
+
+**Nota:**
+
+Conformément aux dispositions de l'article 23 de l'ordonnance n° 2017-651 du 27 avril 2017, ces dispositions entrent en
+vigueur à une date fixée par décret et au plus tard le 1er janvier 2018. Les demandes déposées et les procédures engagées
+avant cette date demeurent régies par les dispositions antérieures.
 
 **Liens relatifs à cet article**
 
 	**Anciens textes**:
 
-	  - Loi n°1913-12-31 art. 1er al. 7
 	  - Loi n°1913-12-31 du 31 décembre 1913 - art. 1 (V)
 
 	**Codifié par**:
 
-	  - Ordonnance 2004-178 2004-02-20 JORF 24 février 2004
-
-	**Modifié par**:
-
-	  - Ordonnance n°2005-1128 du 8 septembre 2005 - art. 6 () JORF 9 septembre 2005
+	  - Ordonnance n°2004-178 du 20 février 2004
 
 	**Cité par**:
 
@@ -9475,42 +9618,62 @@ décision de classement n'intervient pas dans les douze mois de cette notificati
 	  - Code minier (nouveau) - art. L161-1 (V)
 	  - Code minier - art. 79 (VT)
 
+	**Modifié par**:
+
+	  - Ordonnance n°2017-651 du 27 avril 2017 - art. 4
+
 
 ###### Article L621-8
 
-Le déclassement total ou partiel d'un immeuble classé est prononcé par décret en Conseil d'Etat, soit sur la proposition de
-l'autorité administrative, soit à la demande du propriétaire.
+Les effets du classement ou de l'inscription suivent l'immeuble ou la partie d'immeuble en quelques mains qu'il passe.
+
+**Nota:**
+
+Conformément aux dispositions de l'article 23 de l'ordonnance n° 2017-651 du 27 avril 2017, ces dispositions entrent en
+vigueur à une date fixée par décret et au plus tard le 1er janvier 2018. Les demandes déposées et les procédures engagées
+avant cette date demeurent régies par les dispositions antérieures.
 
 **Liens relatifs à cet article**
 
-	**Cité par**:
-
-	  - Code du patrimoine - art. L611-1 (V)
-
 	**Anciens textes**:
 
-	  - Loi n°1913-12-31 art. 13 (première phrase)
 	  - Loi n°1913-12-31 du 31 décembre 1913 - art. 13 (V)
 
 	**Codifié par**:
 
-	  - Ordonnance 2004-178 2004-02-20 JORF 24 février 2004
+	  - Ordonnance n°2004-178 du 20 février 2004
 
+	**Modifié par**:
+
+	  - Ordonnance n°2017-651 du 27 avril 2017 - art. 4
+
+	**Cité par**:
+
+	  - Code du patrimoine - art. L611-1 (VD)
+
+
+##### Section 2 : Conservation et restauration des immeubles classés ou inscrits
 
 ###### Article L621-9
 
-L'immeuble classé au titre des monuments historiques ne peut être détruit ou déplacé, même en partie, ni être l'objet d'un
-travail de restauration, de réparation ou de modification quelconque, sans autorisation de l'autorité administrative. 
+L'immeuble classé ou inscrit au titre des monuments historiques ne peut être détruit, modifié, restauré ou déplacé, même en
+partie, sans autorisation de l'autorité administrative.
 
-Les effets mobiliers attachés à perpétuelle demeure, au sens des articles 524 et 525 du code civil, à un immeuble classé ou à
-une partie d'immeuble classée au titre des monuments historiques ne peuvent en être détachés sans autorisation de l'autorité
-administrative. 
+Les effets mobiliers attachés à perpétuelle demeure, au sens des articles 524 et 525 du code civil, à un immeuble classé ou
+inscrit ou à une partie d'immeuble classée ou inscrite au titre des monuments historiques, ne peuvent en être détachés sans
+autorisation de l'autorité administrative.
 
-Les travaux autorisés en application du premier alinéa s'exécutent sous le contrôle scientifique et technique des services de
-l'Etat chargés des monuments historiques. 
+Les travaux autorisés sont réalisés sous le contrôle scientifique et technique des services de l'Etat chargés des monuments
+historiques.
 
-Un décret en Conseil d'Etat précise les catégories de professionnels auxquels le propriétaire ou l'affectataire d'un immeuble
-classé au titre des monuments historiques est tenu de confier la maîtrise d'œuvre des travaux.
+Un décret en Conseil d'Etat précise les catégories de professionnels auxquels le maître d'ouvrage est tenu de confier la
+maîtrise d'œuvre des travaux sur un immeuble classé ou inscrit au titre des monuments historiques
+
+**Nota:**
+
+Conformément aux dispositions de l'article 23 de l'ordonnance n° 2017-651 du 27 avril 2017, ces dispositions entrent en
+vigueur à une date fixée par décret et au plus tard le 1er janvier 2018. Les demandes déposées et les procédures engagées
+avant cette date demeurent régies par les dispositions antérieures.
 
 **Liens relatifs à cet article**
 
@@ -9559,7 +9722,7 @@ classé au titre des monuments historiques est tenu de confier la maîtrise d'œ
 
 	**Modifié par**:
 
-	  - Loi n°2016-925 du 7 juillet 2016 - art. 75
+	  - Ordonnance n°2017-651 du 27 avril 2017 - art. 4
 
 	**Cite**:
 
@@ -9568,62 +9731,42 @@ classé au titre des monuments historiques est tenu de confier la maîtrise d'œ
 
 ###### Article L621-10
 
-Les règles applicables aux travaux exemptés de permis de construire sur un immeuble classé au titre des monuments historiques
-sont fixées au premier alinéa de l'article L. 422-1, au premier alinéa de l'article L. 422-2 et aux deuxième et troisième
-alinéas de l'article L. 422-4 du code de l'urbanisme ci-après reproduits : 
+I. – Lorsque l'immeuble classé ou inscrit au titre des monuments historiques est situé dans un site classé, l'autorisation
+prévue par l'article L. 621-9 tient lieu de l'autorisation prévue aux articles L. 341-7 et L. 341-10 du code de
+l'environnement, si l'autorité administrative chargée des sites a donné son accord.
 
-" Art. L. 422-1, alinéa 1er.-Sont exemptés du permis de construire les constructions ou travaux couverts par le secret de la
-défense nationale, les dispositifs techniques nécessaires aux systèmes de radiocommunication numérique de la police et de la
-gendarmerie nationales, les travaux d'entretien ou de réparations ordinaires des immeubles inscrits et les travaux de
-ravalement, à l'exception de ceux portant sur les immeubles inscrits. Sont également exemptés les travaux d'entretien, de
-réparation ou de restauration des immeubles classés. Il en est de même des travaux relatifs à la reconstruction
-d'établissements pénitentiaires après mutinerie ou des travaux réalisés à l'intérieur de l'enceinte de ces établissements
-nécessitant le secret pour des raisons de sécurité. " 
+II. – Lorsque l'immeuble classé ou inscrit est un établissement recevant du public, l'autorisation prévue par l'article L.
+621-9 tient lieu de l'autorisation prévue par l'article L. 111-8 du code de la construction et de l'habitation si l'autorité
+administrative compétente a donné son accord, le cas échéant assorti de prescriptions relatives à l'exploitation des
+bâtiments, en application de l'article L. 123-2 du code de la construction et de l'habitation.
 
-" Art. L. 422-2, alinéa 1er.-Les constructions ou travaux exemptés du permis de construire, à l'exception de ceux couverts
-par le secret de la défense nationale et de ceux, visés au premier alinéa de l'article L. 422-1, répondant aux besoins des
-services du ministère de l'intérieur ou des établissements pénitentiaires, font l'objet d'une déclaration auprès du maire de
-la commune avant le commencement des travaux. " 
-
-" Art. L. 422-4, alinéas 2 et 3.-Pour les immeubles classés, la déclaration prévue à l'article L. 422-2 ne tient pas lieu de
-la demande d'autorisation mentionnée à l'article L. 621-9 du code du patrimoine. 
-
-" Les dispositions de l'article L. 422-3 ne sont pas applicables aux immeubles classés. "
+III. – Lorsque l'immeuble classé ou inscrit est un immeuble de grande hauteur, l'autorisation prévue par l'article L. 621-9
+tient lieu de l'autorisation prévue par l'article L. 122-1 du code de la construction et de l'habitation si l'autorité
+chargée de la police de la sécurité a donné son accord.
 
 **Nota:**
 
-NOTA : Ordonnance n° 2005-1128, art. 38 : "Les dispositions des articles 4, 12, 16, 17, 18, 24, 25, 26, 28, 29, 32, 33, 34,
-35 et 36 entrent en vigueur à une date fixée par décret en Conseil d'Etat et au plus tard le 1er janvier 2007."
-
-NOTA : L'article 41 de l'ordonnance n° 2005-1527 énonce : "La présente ordonnance entrera en vigueur à des dates fixées par
-décret en Conseil d'Etat et au plus tard le 1er juillet 2007."
-
-Le décret n° 2007-18 du 5 janvier 2007, en son article 26 fixe cette date au 1er juillet 2007, sous les réserves énoncées
-dans ce même article 26.
-
-En dernier lieu, l'article 72 de la loi n° 2007-209 du 19 février 2007 reporte la date limite d'entrée en vigueur de
-l'ordonnnance au 1er octobre 2007.
+Conformément aux dispositions de l'article 23 de l'ordonnance n° 2017-651 du 27 avril 2017, ces dispositions entrent en
+vigueur à une date fixée par décret et au plus tard le 1er janvier 2018. Les demandes déposées et les procédures engagées
+avant cette date demeurent régies par les dispositions antérieures.
 
 **Liens relatifs à cet article**
 
 	**Codifié par**:
 
-	  - Ordonnance 2004-178 2004-02-20 JORF 24 février 2004
+	  - Ordonnance n°2004-178 du 20 février 2004
 
 	**Modifié par**:
 
-	  - Ordonnance n°2005-1128 du 8 septembre 2005 - art. 33
-
-	**Abrogé par**:
-
-	  - Ordonnance n°2005-1527 du 8 décembre 2005 - art. 38
+	  - Ordonnance n°2017-651 du 27 avril 2017 - art. 4
 
 	**Cite**:
 
-	  - Code de l'urbanisme - art. L422-1 (V)
-	  - Code de l'urbanisme - art. L422-4 (M)
-	  - Code de l'urbanisme L422-4, L621-9
-	  - Code du patrimoine L422-1, L422-2, L422-3
+	  - Code de la construction et de l'habitation. - art. L111-8 (V)
+	  - Code de la construction et de l'habitation. - art. L122-1 (V)
+	  - Code de la construction et de l'habitation. - art. L123-2 (V)
+	  - Code de l'environnement - art. L341-10 (VT)
+	  - Code de l'environnement - art. L341-7 (V)
 
 	**Cité par**:
 
@@ -9633,20 +9776,42 @@ l'ordonnnance au 1er octobre 2007.
 
 ###### Article L621-11
 
-L'autorité administrative peut toujours faire exécuter par les soins de son administration et aux frais de l'Etat, avec le
-concours éventuel des intéressés, les travaux de réparation ou d'entretien qui sont jugés indispensables à la conservation
-des monuments classés au titre des monuments historiques n'appartenant pas à l'Etat.
+Le propriétaire ou le bénéficiaire de la mise à disposition est responsable de la conservation de l'immeuble classé ou
+inscrit au titre des monuments historiques qui lui appartient ou qui est mis à sa disposition.
+
+Sans préjudice des dispositions des articles L. 621-14 et L. 621-16 à L. 621-18, le maître d'ouvrage des travaux sur
+l'immeuble classé ou inscrit est le propriétaire ou le bénéficiaire de la mise à disposition si les conditions de cette
+dernière le prévoient.
+
+Les services de l'Etat chargés des monuments historiques peuvent apporter une assistance gratuite au propriétaire ou au
+bénéficiaire de la mise à disposition d'un immeuble classé ou inscrit qui ne dispose pas, du fait de l'insuffisance de ses
+ressources ou de la complexité du projet de travaux, des moyens nécessaires à l'exercice de la maîtrise d'ouvrage de
+l'opération. Un décret en Conseil d'Etat précise les conditions de cette assistance, ainsi que le contenu et les modalités
+des missions de maîtrise d'ouvrage exercées à ce titre par les services de l'Etat.
+
+Une assistance de l'Etat en matière de maîtrise d'ouvrage peut également être apportée lorsqu'aucune des deux conditions
+mentionnées à l'alinéa précédent n'est remplie, dès lors que le propriétaire ou le bénéficiaire de la mise à disposition
+établit la carence de l'offre privée et des autres collectivités publiques. Dans ce cas, la prestation est rémunérée par
+application d'un barème, établi en fonction des coûts réels, fixé par décret en Conseil d'Etat.
+
+Une convention signée avec le maître d'ouvrage définit les modalités particulières de l'assistance à la maîtrise d'ouvrage
+assurée par les services de l'Etat.
+
+**Nota:**
+
+Conformément aux dispositions de l'article 23 de l'ordonnance n° 2017-651 du 27 avril 2017, ces dispositions entrent en
+vigueur à une date fixée par décret et au plus tard le 1er janvier 2018. Les demandes déposées et les procédures engagées
+avant cette date demeurent régies par les dispositions antérieures.
 
 **Liens relatifs à cet article**
 
 	**Anciens textes**:
 
 	  - Loi n°1913-12-31 du 31 décembre 1913 - art. 9 (V)
-	  - Loi n°1913-12-31 art. 9 al. 3
 
 	**Codifié par**:
 
-	  - Ordonnance 2004-178 2004-02-20 JORF 24 février 2004
+	  - Ordonnance n°2004-178 du 20 février 2004
 
 	**Cité par**:
 
@@ -9656,21 +9821,23 @@ des monuments classés au titre des monuments historiques n'appartenant pas à l
 	  - Code du patrimoine - art. L730-1 (V)
 	  - Code du patrimoine. - art. R621-45 (V)
 
+	**Modifié par**:
+
+	  - Ordonnance n°2017-651 du 27 avril 2017 - art. 4
+
 
 ###### Article L621-12
 
-Indépendamment des dispositions de l'article L. 621-11, lorsque la conservation d'un immeuble classé au titre des monuments
-historiques est gravement compromise par l'inexécution de travaux de réparation ou d'entretien, l'autorité administrative
-peut, après avis de la Commission nationale du patrimoine et de l'architecture, mettre en demeure le propriétaire de faire
-procéder auxdits travaux, en lui indiquant le délai dans lequel ceux-ci devront être entrepris et la part de dépense qui sera
-supportée par l'Etat, laquelle ne pourra être inférieure à 50 %. La mise en demeure précisera les modalités de versement de
-la part de l'Etat. 
+Lorsque les études et les travaux de mise en sécurité, d'entretien et de restauration des immeubles ou parties d'immeubles
+classés ou inscrits au titre des monuments historiques, ainsi que l'assistance à maîtrise d'ouvrage et l'assurance dommage-
+ouvrage, font l'objet d'aides de la part des collectivités publiques, un échéancier prévoit le versement d'un acompte avant
+le début de chaque tranche de travaux.
 
-La mise en demeure est notifiée au propriétaire. Si ce dernier en conteste le bien-fondé, le tribunal administratif statue
-sur le litige et peut, le cas échéant, après expertise, ordonner l'exécution de tout ou partie des travaux prescrits par
-l'administration. 
+**Nota:**
 
-Le recours au tribunal administratif est suspensif.
+Conformément aux dispositions de l'article 23 de l'ordonnance n° 2017-651 du 27 avril 2017, ces dispositions entrent en
+vigueur à une date fixée par décret et au plus tard le 1er janvier 2018. Les demandes déposées et les procédures engagées
+avant cette date demeurent régies par les dispositions antérieures.
 
 **Liens relatifs à cet article**
 
@@ -9686,44 +9853,40 @@ Le recours au tribunal administratif est suspensif.
 
 	  - Décret n°2007-487 du 30 mars 2007 - art. 27 (Ab)
 	  - Décret n°2007-487 du 30 mars 2007 - art. 32 (Ab)
-	  - Code du patrimoine - art. L611-1 (V)
+	  - Code du patrimoine - art. L611-1 (VD)
 	  - Code du patrimoine - art. R621-46 (V)
 	  - Code du patrimoine. - art. R621-51 (V)
 
 	**Modifié par**:
 
-	  - Loi n°2016-925 du 7 juillet 2016 - art. 75
-
-	**Cite**:
-
-	  - Code du patrimoine - art. L621-11
+	  - Ordonnance n°2017-651 du 27 avril 2017 - art. 4
 
 
 ###### Article L621-13
 
-Sans préjudice de l'application de l'article L. 621-15, faute par le propriétaire de se conformer, soit à la mise en demeure
-s'il ne l'a pas contestée, soit à la décision de la juridiction administrative, l'autorité administrative peut soit exécuter
-d'office les travaux, soit poursuivre l'expropriation de l'immeuble au nom de l'Etat. Si les travaux sont exécutés d'office,
-le propriétaire peut solliciter l'Etat d'engager la procédure d'expropriation. L'Etat fait connaître sa décision sur cette
-requête, qui ne suspend pas l'exécution des travaux, dans un délai de six mois au plus et au terme d'une procédure fixée par
-décret en Conseil d'Etat. Si l'autorité administrative a décidé de poursuivre l'expropriation au nom de l'Etat, une
-collectivité territoriale ou un établissement public peut décider de se substituer à l'Etat comme bénéficiaire, avec l'accord
-de cette autorité.
+Par dérogation à l'article L. 581-2 du code de l'environnement, dans le cadre de l'instruction des demandes d'autorisation de
+travaux sur les immeubles classés ou inscrits, l'autorité administrative chargée des monuments historiques peut autoriser
+l'installation de bâches d'échafaudage comportant un espace dédié à l'affichage. 
+
+Les recettes perçues par le maître d'ouvrage pour cet affichage sont affectées au financement des travaux. 
+
+Les modalités d'application du présent article sont fixées par décret en Conseil d'Etat.
+
+**Nota:**
+
+Conformément aux dispositions de l'article 23 de l'ordonnance n° 2017-651 du 27 avril 2017, ces dispositions entrent en
+vigueur à une date fixée par décret et au plus tard le 1er janvier 2018. Les demandes déposées et les procédures engagées
+avant cette date demeurent régies par les dispositions antérieures.
 
 **Liens relatifs à cet article**
 
 	**Anciens textes**:
 
 	  - Loi n°1913-12-31 du 31 décembre 1913 - art. 9-1 (Ab)
-	  - Loi n°1913-12-31 art. 9-1 al. 4
 
 	**Codifié par**:
 
-	  - Ordonnance 2004-178 2004-02-20 JORF 24 février 2004
-
-	**Modifié par**:
-
-	  - Ordonnance n°2005-1128 du 8 septembre 2005 - art. 8 () JORF 9 septembre 2005
+	  - Ordonnance n°2004-178 du 20 février 2004
 
 	**Cité par**:
 
@@ -9732,55 +9895,61 @@ de cette autorité.
 	  - Code du patrimoine. - art. R621-47 (V)
 	  - Code du patrimoine. - art. R621-51 (V)
 
-	**Cite**:
+	**Modifié par**:
 
-	  - Code du patrimoine - art. L621-15 (V)
+	  - Ordonnance n°2017-651 du 27 avril 2017 - art. 4
 
 
 ###### Article L621-14
 
-En cas d'exécution d'office, le propriétaire est tenu de rembourser à l'Etat le coût des travaux exécutés par celui-ci, dans
-la limite de la moitié de son montant. La créance ainsi née au profit de l'Etat est recouvrée suivant la procédure applicable
-aux créances de l'Etat étrangères à l'impôt et aux domaines, aux échéances fixées par l'autorité administrative qui pourra
-les échelonner sur une durée de quinze ans au plus, les sommes dues portant intérêt au taux légal à compter de la
-notification de leur montant au propriétaire.
+L'autorité administrative peut faire exécuter par les soins de son administration et aux frais de l'Etat, avec l'accord et le
+concours éventuel du propriétaire ou du bénéficiaire de la mise à disposition, les travaux indispensables à la conservation
+des immeubles classés ou inscrits au titre des monuments historiques n'appartenant pas à l'Etat.
 
-Eventuellement saisi par le propriétaire et compte tenu des moyens financiers de celui-ci, le tribunal administratif pourra
-modifier, dans la même limite maximale, l'échelonnement des paiements. Toutefois, en cas de mutation de l'immeuble à titre
-onéreux, la totalité des sommes restant dues devient immédiatement exigible à moins que l'autorité administrative n'ait
-accepté la substitution de l'acquéreur dans les obligations du vendeur. Les droits de l'Etat sont garantis par une hypothèque
-légale inscrite sur l'immeuble à la diligence de l'Etat. Le propriétaire peut toujours s'exonérer de sa dette en faisant
-abandon de son immeuble à l'Etat.
+**Nota:**
+
+Conformément aux dispositions de l'article 23 de l'ordonnance n° 2017-651 du 27 avril 2017, ces dispositions entrent en
+vigueur à une date fixée par décret et au plus tard le 1er janvier 2018. Les demandes déposées et les procédures engagées
+avant cette date demeurent régies par les dispositions antérieures.
 
 **Liens relatifs à cet article**
 
 	**Anciens textes**:
 
-	  - Loi n°1913-12-31 art. 9-1 al. 5
 	  - Loi n°1913-12-31 du 31 décembre 1913 - art. 9-1 (Ab)
 
 	**Codifié par**:
 
-	  - Ordonnance 2004-178 2004-02-20 JORF 24 février 2004
+	  - Ordonnance n°2004-178 du 20 février 2004
 
 	**Cité par**:
 
 	  - Décret n°2007-487 du 30 mars 2007 - art. 29 (Ab)
 	  - Code du patrimoine. - art. R621-48 (V)
 
+	**Modifié par**:
+
+	  - Ordonnance n°2017-651 du 27 avril 2017 - art. 4
+
 
 ###### Article L621-15
 
-Pour assurer l'exécution des travaux urgents de consolidation dans les immeubles classés au titre des monuments historiques
-ou des travaux de réparation ou d'entretien faute desquels la conservation des immeubles serait compromise, l'autorité
-administrative, à défaut d'accord avec les propriétaires, peut, s'il est nécessaire, autoriser l'occupation temporaire de ces
-immeubles ou des immeubles voisins.
+Indépendamment des dispositions de l'article L. 621-14, lorsque la conservation d'un immeuble classé au titre des monuments
+historiques est gravement compromise par l'inexécution de travaux, l'autorité administrative peut mettre le propriétaire en
+demeure de faire procéder à ces travaux. La mise en demeure fixe le délai dans lequel les travaux devront être entrepris
+ainsi que la part de dépense qui sera supportée par l'Etat, qui ne pourra être inférieure à 50 %.
 
-Cette occupation est ordonnée par un arrêté préfectoral préalablement notifié au propriétaire et sa durée ne peut en aucun
-cas excéder six mois.
+Le propriétaire peut contester la mise en demeure devant le tribunal administratif. Celui-ci peut, après expertise, ordonner
+l'exécution de tout ou partie des travaux prescrits par l'administration.
 
-En cas de préjudice causé, elle donne lieu à une indemnité qui est réglée dans les conditions prévues par la loi du 29
-décembre 1892 relative aux dommages causés à la propriété privée par l'exécution des travaux publics.
+Le recours au tribunal administratif est suspensif sauf si l'administration a motivé la mise en demeure par la nécessité
+d'exécuter des travaux en urgence afin d'éviter une dégradation imminente et irréversible de l'immeuble.
+
+**Nota:**
+
+Conformément aux dispositions de l'article 23 de l'ordonnance n° 2017-651 du 27 avril 2017, ces dispositions entrent en
+vigueur à une date fixée par décret et au plus tard le 1er janvier 2018. Les demandes déposées et les procédures engagées
+avant cette date demeurent régies par les dispositions antérieures.
 
 **Liens relatifs à cet article**
 
@@ -9790,12 +9959,15 @@ décembre 1892 relative aux dommages causés à la propriété privée par l'ex�
 
 	**Anciens textes**:
 
-	  - Loi n°1913-12-31 art. 10
 	  - Loi n°1913-12-31 du 31 décembre 1913 - art. 10 (Ab)
 
 	**Codifié par**:
 
-	  - Ordonnance 2004-178 2004-02-20 JORF 24 février 2004
+	  - Ordonnance n°2004-178 du 20 février 2004
+
+	**Modifié par**:
+
+	  - Ordonnance n°2017-651 du 27 avril 2017 - art. 4
 
 	**Cité par**:
 
@@ -9804,10 +9976,21 @@ décembre 1892 relative aux dommages causés à la propriété privée par l'ex�
 
 ###### Article L621-16
 
-Les servitudes légales qui peuvent causer la dégradation des monuments ne sont pas applicables aux immeubles classés au titre
-des monuments historiques.
+Si le propriétaire ne se conforme pas à la mise en demeure prévue à l'article L. 621-15, l'autorité administrative peut, sans
+préjudice des dispositions de l'article L. 621-18, exécuter d'office les travaux ou poursuivre l'expropriation de l'immeuble
+au nom de l'Etat.
 
-Aucune servitude ne peut être établie par convention sur un immeuble classé sans l'agrément de l'autorité administrative.
+Lorsque l'autorité administrative a décidé d'exécuter d'office les travaux, le propriétaire peut solliciter l'engagement de
+la procédure d'expropriation, par une demande qui ne suspend pas l'exécution des travaux. L'Etat fait connaître sa décision
+dans un délai de six mois, au terme d'une procédure fixée par décret en Conseil d'Etat. Si l'autorité administrative décide
+de poursuivre l'expropriation au nom de l'Etat, une collectivité territoriale ou un établissement public peut se substituer à
+l'Etat comme bénéficiaire, avec l'accord de cette autorité.
+
+**Nota:**
+
+Conformément aux dispositions de l'article 23 de l'ordonnance n° 2017-651 du 27 avril 2017, ces dispositions entrent en
+vigueur à une date fixée par décret et au plus tard le 1er janvier 2018. Les demandes déposées et les procédures engagées
+avant cette date demeurent régies par les dispositions antérieures.
 
 **Liens relatifs à cet article**
 
@@ -9817,7 +10000,7 @@ Aucune servitude ne peut être établie par convention sur un immeuble classé s
 
 	**Codifié par**:
 
-	  - Ordonnance 2004-178 2004-02-20 JORF 24 février 2004
+	  - Ordonnance n°2004-178 du 20 février 2004
 
 	**Cité par**:
 
@@ -9826,48 +10009,74 @@ Aucune servitude ne peut être établie par convention sur un immeuble classé s
 	  - Code du patrimoine. - art. R621-49 (V)
 	  - Code du patrimoine. - art. R624-1 (V)
 
+	**Modifié par**:
+
+	  - Ordonnance n°2017-651 du 27 avril 2017 - art. 4
+
 
 ###### Article L621-17
 
-Nul ne peut acquérir de droit par prescription sur un immeuble classé au titre des monuments historiques.
+En cas d'exécution d'office, le propriétaire est tenu de rembourser à l'Etat le coût des travaux exécutés par celui-ci, dans
+la limite de la moitié de leur montant. La créance ainsi née au profit de l'Etat est recouvrée suivant la procédure
+applicable aux créances de l'Etat étrangères à l'impôt et aux domaines, aux échéances fixées par l'autorité administrative
+qui pourra les échelonner sur une durée de quinze ans au plus, les sommes dues portant intérêt au taux légal à compter de la
+notification de leur montant au propriétaire.
+
+Eventuellement saisi par le propriétaire et compte tenu des moyens financiers de celui-ci, le tribunal administratif peut
+modifier, dans la même limite maximale, l'échelonnement des paiements. Toutefois, en cas de mutation de l'immeuble à titre
+onéreux, la totalité des sommes restant dues devient immédiatement exigible à moins que l'autorité administrative ait accepté
+la substitution de l'acquéreur dans les obligations du vendeur. Les droits de l'Etat sont garantis par une hypothèque légale
+inscrite sur l'immeuble à la diligence de l'Etat. Le propriétaire peut s'exonérer de sa dette en faisant abandon de la
+propriété de son immeuble à l'Etat.
+
+**Nota:**
+
+Conformément aux dispositions de l'article 23 de l'ordonnance n° 2017-651 du 27 avril 2017, ces dispositions entrent en
+vigueur à une date fixée par décret et au plus tard le 1er janvier 2018. Les demandes déposées et les procédures engagées
+avant cette date demeurent régies par les dispositions antérieures.
 
 **Liens relatifs à cet article**
 
 	**Anciens textes**:
 
-	  - Loi n°1913-12-31 art. 12 al. 2
 	  - Loi n°1913-12-31 du 31 décembre 1913 - art. 12 (Ab)
 
 	**Codifié par**:
 
-	  - Ordonnance 2004-178 2004-02-20 JORF 24 février 2004
+	  - Ordonnance n°2004-178 du 20 février 2004
+
+	**Modifié par**:
+
+	  - Ordonnance n°2017-651 du 27 avril 2017 - art. 4
 
 
 ###### Article L621-18
 
-L'autorité administrative peut toujours, en se conformant aux prescriptions du code de l'expropriation pour cause d'utilité
-publique, poursuivre au nom de l'Etat l'expropriation d'un immeuble déjà classé au titre des monuments historiques ou soumis
-à une instance de classement, en raison de l'intérêt public qu'il offre au point de vue de l'histoire ou de l'art. Les
-collectivités territoriales ont la même faculté.
+Pour assurer, conformément aux dispositions de l'article L. 621-16, l'exécution des travaux faute desquels la conservation de
+l'immeuble classé serait gravement compromise, l'autorité administrative, à défaut d'accord avec les propriétaires, peut,
+s'il est nécessaire, autoriser l'occupation temporaire de cet immeuble ou des immeubles voisins.
 
-La même faculté est ouverte à l'égard des immeubles dont l'acquisition est nécessaire pour isoler, dégager, assainir ou
-mettre en valeur un immeuble classé au titre des monuments historiques ou soumis à une instance de classement ou qui se
-trouvent situés dans le champ de visibilité d'un tel immeuble.
+L'occupation est ordonnée par un arrêté préfectoral préalablement notifié au propriétaire. Sa durée ne peut excéder six mois.
+
+Si l'occupation cause au propriétaire un préjudice anormal, elle donne lieu à une indemnité qui est réglée dans les
+conditions prévues par la loi du 29 décembre 1892 relative aux dommages causés à la propriété privée par l'exécution des
+travaux publics.
+
+**Nota:**
+
+Conformément aux dispositions de l'article 23 de l'ordonnance n° 2017-651 du 27 avril 2017, ces dispositions entrent en
+vigueur à une date fixée par décret et au plus tard le 1er janvier 2018. Les demandes déposées et les procédures engagées
+avant cette date demeurent régies par les dispositions antérieures.
 
 **Liens relatifs à cet article**
 
 	**Anciens textes**:
 
-	  - Loi n°1913-12-31 art. 6
 	  - Loi n°1913-12-31 du 31 décembre 1913 - art. 6 (Ab)
 
 	**Codifié par**:
 
-	  - Ordonnance 2004-178 2004-02-20 JORF 24 février 2004
-
-	**Modifié par**:
-
-	  - Ordonnance n°2005-1128 du 8 septembre 2005 - art. 3 () JORF 9 septembre 2005
+	  - Ordonnance n°2004-178 du 20 février 2004
 
 	**Cité par**:
 
@@ -9876,51 +10085,72 @@ trouvent situés dans le champ de visibilité d'un tel immeuble.
 	  - Code du patrimoine - art. L143-8 (V)
 	  - Code du patrimoine. - art. R621-51 (V)
 
+	**Modifié par**:
+
+	  - Ordonnance n°2017-651 du 27 avril 2017 - art. 4
+
 
 ###### Article L621-19
 
-A compter du jour où l'autorité administrative notifie au propriétaire d'un immeuble non classé au titre des monuments
-historiques son intention d'en poursuivre l'expropriation, tous les effets du classement s'appliquent de plein droit à
-l'immeuble visé. Ils cessent de s'appliquer si la déclaration d'utilité publique n'intervient pas dans les douze mois de
-cette notification.
+Lorsqu'un immeuble ou une partie d'immeuble protégé au titre des monuments historiques a été morcelé ou lorsqu'un effet
+mobilier qui lui était attaché à perpétuelle demeure en a été détaché en violation de l'article L. 621-9, l'autorité
+administrative peut mettre en demeure l'auteur du morcellement ou du détachement illicite de procéder, dans un délai qu'elle
+détermine, à la remise en place sous sa direction et sa surveillance, aux frais des auteurs des faits, vendeurs et acheteurs
+pris solidairement.
 
-Lorsque l'utilité publique a été déclarée, l'immeuble peut être classé au titre des monuments historiques sans autres
-formalités par décision de l'autorité administrative. A défaut de décision de classement, l'immeuble demeure néanmoins
-provisoirement soumis à tous les effets du classement, mais cette sujétion cesse de plein droit si, dans les trois mois de la
-déclaration d'utilité publique, l'administration ne poursuit pas l'obtention du jugement d'expropriation.
+En cas d'urgence, l'autorité administrative met l'auteur du manquement en demeure de prendre, dans un délai qu'elle
+détermine, les mesures nécessaires pour prévenir la détérioration, la dégradation ou la destruction des biens concernés.
+
+**Nota:**
+
+Conformément aux dispositions de l'article 23 de l'ordonnance n° 2017-651 du 27 avril 2017, ces dispositions entrent en
+vigueur à une date fixée par décret et au plus tard le 1er janvier 2018. Les demandes déposées et les procédures engagées
+avant cette date demeurent régies par les dispositions antérieures.
 
 **Liens relatifs à cet article**
 
 	**Anciens textes**:
 
-	  - Loi n°1913-12-31 art. 7
 	  - Loi n°1913-12-31 du 31 décembre 1913 - art. 7 (Ab)
 
 	**Codifié par**:
 
-	  - Ordonnance 2004-178 2004-02-20 JORF 24 février 2004
+	  - Ordonnance n°2004-178 du 20 février 2004
+
+	**Modifié par**:
+
+	  - Ordonnance n°2017-651 du 27 avril 2017 - art. 4
 
 	**Cité par**:
 
 	  - Code du patrimoine. - art. L624-2 (V)
 
 
+##### Section 3 : Régime de propriété des immeubles classés ou inscrits
+
 ###### Article L621-20
 
-Aucun immeuble classé au titre des monuments historiques ou proposé pour le classement ne peut être compris dans une enquête
-aux fins d'expropriation pour cause d'utilité publique qu'après que l'autorité administrative aura été appelée à présenter
-ses observations.
+Quiconque aliène un immeuble classé ou inscrit au titre des monuments historiques est tenu de faire connaître au futur
+acquéreur l'existence de la protection.
+
+L'aliénation doit être notifiée à l'autorité administrative par celui qui l'a consentie dans un délai fixé par décret en
+Conseil d'Etat.
+
+**Nota:**
+
+Conformément aux dispositions de l'article 23 de l'ordonnance n° 2017-651 du 27 avril 2017, ces dispositions entrent en
+vigueur à une date fixée par décret et au plus tard le 1er janvier 2018. Les demandes déposées et les procédures engagées
+avant cette date demeurent régies par les dispositions antérieures.
 
 **Liens relatifs à cet article**
 
 	**Anciens textes**:
 
 	  - Loi n°1913-12-31 du 31 décembre 1913 - art. 11 (Ab)
-	  - Loi n°1913-12-31 art. 11
 
 	**Codifié par**:
 
-	  - Ordonnance 2004-178 2004-02-20 JORF 24 février 2004
+	  - Ordonnance n°2004-178 du 20 février 2004
 
 	**Cité par**:
 
@@ -9928,32 +10158,40 @@ ses observations.
 	  - Code du patrimoine - art. L642-1 (VD)
 	  - Code du patrimoine. - art. R621-50 (V)
 
+	**Modifié par**:
+
+	  - Ordonnance n°2017-651 du 27 avril 2017 - art. 4
+
 
 ###### Article L621-21
 
-Les immeubles classés au titre des monuments historiques, expropriés par application des dispositions du présent titre,
-peuvent être cédés de gré à gré à des personnes publiques ou privées. Les acquéreurs s'engagent à les utiliser aux fins et
-dans les conditions prévues au cahier des charges annexé à l'acte de cession. En cas de cession à une personne privée, le
-principe et les conditions de la cession sont approuvés par décret en Conseil d'Etat, l'ancien propriétaire ayant été mis en
-mesure de présenter ses observations. 
+Les servitudes légales qui peuvent causer la dégradation des monuments ne sont pas applicables aux immeubles classés ou
+inscrits au titre des monuments historiques.
 
-Les dispositions de l'article L. 621-22 sont applicables aux cessions faites à des personnes publiques, en vertu des
-dispositions du premier alinéa du présent article.
+Aucune servitude ne peut être établie par convention sur un immeuble classé ou inscrit sans l'accord de l'autorité
+administrative.
+
+Nul ne peut acquérir de droit par prescription sur un immeuble classé ou inscrit au titre des monuments historiques.
+
+**Nota:**
+
+Conformément aux dispositions de l'article 23 de l'ordonnance n° 2017-651 du 27 avril 2017, ces dispositions entrent en
+vigueur à une date fixée par décret et au plus tard le 1er janvier 2018. Les demandes déposées et les procédures engagées
+avant cette date demeurent régies par les dispositions antérieures.
 
 **Liens relatifs à cet article**
 
 	**Anciens textes**:
 
-	  - Loi n°1913-12-31 art. 9-2
 	  - Loi n°1913-12-31 du 31 décembre 1913 - art. 9-2 (Ab)
 
 	**Codifié par**:
 
-	  - Ordonnance 2004-178 2004-02-20 JORF 24 février 2004
+	  - Ordonnance n°2004-178 du 20 février 2004
 
 	**Modifié par**:
 
-	  - Ordonnance n°2005-1128 du 8 septembre 2005 - art. 9 () JORF 9 septembre 2005
+	  - Ordonnance n°2017-651 du 27 avril 2017 - art. 4
 
 	**Cité par**:
 
@@ -9962,16 +10200,22 @@ dispositions du premier alinéa du présent article.
 
 	**Cite**:
 
-	  - Code du patrimoine - art. L621-22 (V)
+	  - Code du patrimoine - art. L621-22
 
 
 ###### Article L621-22
 
-L'immeuble classé au titre des monuments historiques qui appartient              à une collectivité territoriale ou à l'un de
-ses établissements publics ne peut être aliéné qu'après que l'autorité administrative compétente a été appelée à présenter
-ses observations. Elle devra les présenter dans le délai de deux mois après la notification. L'autorité administrative
-compétente pourra, dans le délai de cinq ans, faire prononcer la nullité de l'aliénation consentie sans l'accomplissement de
-cette formalité.
+L'autorité administrative peut, en se conformant aux prescriptions du code de l'expropriation pour cause d'utilité publique,
+poursuivre au nom de l'Etat l'expropriation d'un immeuble dont l'acquisition est indispensable à la conservation ou à la mise
+en valeur d'un immeuble classé au titre des monuments historiques.
+
+Les collectivités territoriales ont la même faculté..
+
+**Nota:**
+
+Conformément aux dispositions de l'article 23 de l'ordonnance n° 2017-651 du 27 avril 2017, ces dispositions entrent en
+vigueur à une date fixée par décret et au plus tard le 1er janvier 2018. Les demandes déposées et les procédures engagées
+avant cette date demeurent régies par les dispositions antérieures.
 
 **Liens relatifs à cet article**
 
@@ -9994,78 +10238,96 @@ cette formalité.
 
 	**Modifié par**:
 
-	  - Loi n°2016-925 du 7 juillet 2016 - art. 76
+	  - Ordonnance n°2017-651 du 27 avril 2017 - art. 4
 
 
 ###### Article L621-23
 
-Les effets du classement suivent l'immeuble classé au titre des monuments historiques, en quelques mains qu'il passe.
+A compter du jour où l'autorité administrative notifie au propriétaire d'un immeuble non protégé au titre des monuments
+historiques son intention d'en poursuivre l'expropriation, en application de l'article L. 621-22, les effets du classement
+s'appliquent de plein droit à l'immeuble, à l'exclusion de la servitude d'abords prévue à la section 4 du présent chapitre.
+Ils cessent de s'appliquer si la déclaration d'utilité publique n'intervient pas dans les douze mois de cette notification.
+
+Lorsque l'utilité publique a été déclarée, l'immeuble peut être classé ou inscrit au titre des monuments historiques sans
+autre formalité par l'autorité administrative. La décision d'inscription met fin aux effets du classement. A défaut de
+décision de classement ou d'inscription, l'immeuble demeure provisoirement soumis aux effets du classement à l'exclusion de
+la servitude d'abords. Toutefois, cette sujétion cesse de plein droit si, dans les trois mois de la déclaration d'utilité
+publique, l'administration ne poursuit pas l'obtention du jugement d'expropriation.
+
+**Nota:**
+
+Conformément aux dispositions de l'article 23 de l'ordonnance n° 2017-651 du 27 avril 2017, ces dispositions entrent en
+vigueur à une date fixée par décret et au plus tard le 1er janvier 2018. Les demandes déposées et les procédures engagées
+avant cette date demeurent régies par les dispositions antérieures.
 
 **Liens relatifs à cet article**
 
 	**Anciens textes**:
 
-	  - Loi n°1913-12-31 art. 8 al. 1
 	  - Loi n°1913-12-31 du 31 décembre 1913 - art. 8 (V)
 
 	**Codifié par**:
 
-	  - Ordonnance 2004-178 2004-02-20 JORF 24 février 2004
+	  - Ordonnance n°2004-178 du 20 février 2004
 
-	**Abrogé par**:
+	**Modifié par**:
 
-	  - Ordonnance n°2005-1128 du 8 septembre 2005 - art. 10
+	  - Ordonnance n°2017-651 du 27 avril 2017 - art. 4
 
 
 ###### Article L621-24
 
-Quiconque aliène un immeuble classé au titre des monuments historiques est tenu de faire connaître à l'acquéreur l'existence
-du classement.
+L'autorité administrative chargée des monuments historiques est appelée à présenter ses observations préalablement à toute
+enquête aux fins d'expropriation pour cause d'utilité publique concernant un immeuble protégé ou placé sous instance de
+protection.
 
-Toute aliénation d'un immeuble classé au titre des monuments historiques doit, dans les quinze jours de sa date, être
-notifiée à l'autorité administrative par celui qui l'a consentie.
+**Nota:**
+
+Conformément aux dispositions de l'article 23 de l'ordonnance n° 2017-651 du 27 avril 2017, ces dispositions entrent en
+vigueur à une date fixée par décret et au plus tard le 1er janvier 2018. Les demandes déposées et les procédures engagées
+avant cette date demeurent régies par les dispositions antérieures.
 
 **Liens relatifs à cet article**
 
 	**Anciens textes**:
 
-	  - Loi n°1913-12-31 art. 8 al. 2, al. 3
 	  - Loi n°1913-12-31 du 31 décembre 1913 - art. 8 (V)
 
 	**Codifié par**:
 
-	  - Ordonnance 2004-178 2004-02-20 JORF 24 février 2004
+	  - Ordonnance n°2004-178 du 20 février 2004
 
-	**Abrogé par**:
+	**Modifié par**:
 
-	  - Ordonnance n°2005-1128 du 8 septembre 2005 - art. 10
+	  - Ordonnance n°2017-651 du 27 avril 2017 - art. 4
 
 	**Cité par**:
 
 	  - Code du patrimoine - art. L624-1 (V)
 
 
-##### Section 2 : Inscription des immeubles.
-
 ###### Article L621-25
 
-Les immeubles ou parties d'immeubles publics ou privés qui, sans justifier une demande de classement immédiat au titre des
-monuments historiques, présentent un intérêt d'histoire ou d'art suffisant pour en rendre désirable la préservation peuvent,
-à toute époque, être inscrits, par décision de l'autorité administrative, au titre des monuments historiques.
+L'immeuble classé au titre des monuments historiques, exproprié par application des dispositions de l'article L. 621-16, peut
+être cédé de gré à gré à une personne publique ou privée. L'acquéreur s'engage à l'utiliser aux fins et dans les conditions
+prévues au cahier des charges annexé à l'acte de cession. En cas de cession à une personne privée, le principe et les
+conditions de la cession sont approuvés par décret en Conseil d'Etat, l'ancien propriétaire ayant été mis en mesure de
+présenter ses observations.
 
-Peut être également inscrit dans les mêmes conditions tout immeuble nu ou bâti situé dans le champ de visibilité d'un
-immeuble déjà classé ou inscrit au titre des monuments historiques.
+Les dispositions de l'article L. 621-26 sont applicables aux cessions faites à des personnes publiques, en vertu des
+dispositions du premier alinéa du présent article.
+
+**Nota:**
+
+Conformément aux dispositions de l'article 23 de l'ordonnance n° 2017-651 du 27 avril 2017, ces dispositions entrent en
+vigueur à une date fixée par décret et au plus tard le 1er janvier 2018. Les demandes déposées et les procédures engagées
+avant cette date demeurent régies par les dispositions antérieures.
 
 **Liens relatifs à cet article**
 
 	**Codifié par**:
 
-	  - Ordonnance 2004-178 2004-02-20 JORF 24 février 2004
-
-	**Modifié par**:
-
-	  - Ordonnance 2005-1128 2005-09-08 art. 11 I, II JORF 9 septembre 2005
-	  - Ordonnance n°2005-1128 du 8 septembre 2005 - art. 11 () JORF 9 septembre 2005
+	  - Ordonnance n°2004-178 du 20 février 2004
 
 	**Cité par**:
 
@@ -10079,37 +10341,43 @@ immeuble déjà classé ou inscrit au titre des monuments historiques.
 	  - Code de la construction et de l'habitation. - art. R511-2 (V)
 	  - Code de la santé publique - art. R1331-4 (V)
 	  - Code du patrimoine - art. L143-8 (VD)
-	  - Code du patrimoine - art. L611-1 (V)
+	  - Code du patrimoine - art. L611-1 (VD)
 	  - Code du patrimoine. - art. L621-34 (Ab)
 	  - Code général de la propriété des personnes publ... - art. L2222-16 (VD)
 
-	**Anciens textes**:
+	**Modifié par**:
 
-	  - Loi n°1913-12-31 art. 2 al. 4, al. 5 (1ère phrase)
+	  - Ordonnance n°2017-651 du 27 avril 2017 - art. 4
 
 
 ###### Article L621-26
 
-Sont notamment compris parmi les immeubles susceptibles d'être inscrits au titre des monuments historiques les monuments
-mégalithiques, les stations préhistoriques ainsi que les terrains qui renferment des champs de fouilles pouvant intéresser la
-préhistoire, l'histoire, l'art ou l'archéologie.
+L'immeuble classé ou inscrit au titre des monuments historiques qui appartient à l'Etat, à une collectivité territoriale ou à
+un établissement public, ne peut être aliéné qu'après que l'autorité administrative chargée des monuments historiques a été
+appelée à présenter ses observations, dans un délai et dans des conditions précisés par décret en Conseil d'Etat.
+
+L'autorité administrative compétente peut, dans le délai de cinq ans, faire prononcer la nullité de l'aliénation consentie
+sans l'accomplissement de ces formalités.
+
+**Nota:**
+
+Conformément aux dispositions de l'article 23 de l'ordonnance n° 2017-651 du 27 avril 2017, ces dispositions entrent en
+vigueur à une date fixée par décret et au plus tard le 1er janvier 2018. Les demandes déposées et les procédures engagées
+avant cette date demeurent régies par les dispositions antérieures.
 
 **Liens relatifs à cet article**
 
 	**Anciens textes**:
 
 	  - Loi n°41-4011 du 27 septembre 1941 - art. 22 (Ab)
-	  - Loi n°1941-09-27 art. 22
 
 	**Codifié par**:
 
-	  - Ordonnance 2004-178 2004-02-20 JORF 24 février 2004
+	  - Ordonnance n°2004-178 du 20 février 2004
 
 	**Modifié par**:
 
-	  - Ordonnance 2005-1128 2005-09-08 art. 3 I, art. 11 I, III JORF 9 septembre 2005
-	  - Ordonnance n°2005-1128 du 8 septembre 2005 - art. 11 () JORF 9 septembre 2005
-	  - Ordonnance n°2005-1128 du 8 septembre 2005 - art. 3 () JORF 9 septembre 2005
+	  - Ordonnance n°2017-651 du 27 avril 2017 - art. 4
 
 	**Cité par**:
 
@@ -10120,36 +10388,15 @@ préhistoire, l'histoire, l'art ou l'archéologie.
 
 ###### Article L621-27
 
-L'inscription au titre des monuments historiques est notifiée aux propriétaires et entraînera pour eux l'obligation de ne
-procéder à aucune modification de l'immeuble ou partie de l'immeuble inscrit, sans avoir, quatre mois auparavant, avisé
-l'autorité administrative de leur intention et indiqué les travaux qu'ils se proposent de réaliser. 
-
-Lorsque les constructions ou les travaux envisagés sur les immeubles inscrits au titre des monuments historiques sont soumis
-à permis de construire, à permis de démolir, à permis d'aménager ou à déclaration préalable, la décision accordant le permis
-ou la décision de non-opposition ne peut intervenir sans l'accord de l'autorité administrative chargée des monuments
-historiques. 
-
-Les effets mobiliers attachés à perpétuelle demeure, au sens des articles 524 et 525 du code civil, à un immeuble inscrit ou
-à une partie d'immeuble inscrite au titre des monuments historiques ne peuvent en être détachés sans autorisation de
-l'autorité administrative. 
-
-Les autres travaux envisagés sur les immeubles inscrits au titre des monuments historiques ne peuvent être entrepris sans la
-déclaration prévue au premier alinéa. L'autorité administrative ne peut s'opposer à ces travaux qu'en engageant la procédure
-de classement au titre des monuments historiques prévue par le présent titre. 
-
-Les travaux sur les immeubles inscrits sont exécutés sous le contrôle scientifique et technique des services de l'Etat
-chargés des monuments historiques.
+En cas de mutation d'un immeuble classé ou inscrit au titre des monuments historiques, le propriétaire ou le bénéficiaire de
+la mise à disposition transmet les études et les documents afférents aux travaux réalisés sur cet immeuble au nouveau
+propriétaire ou au nouveau bénéficiaire de la mise à disposition.
 
 **Nota:**
 
-L'article 41 de l'ordonnance n° 2005-1527 énonce : " La présente ordonnance entrera en vigueur à des dates fixées par décret
-en Conseil d'Etat et au plus tard le 1er juillet 2007. " 
-
-Le décret n° 2007-18 du 5 janvier 2007, en son article 26 fixe cette date au 1er juillet 2007, sous les réserves énoncées
-dans ce même article 26. 
-
-En dernier lieu, l'article 72 de la loi n° 2007-209 du 19 février 2007 reporte la date limite d'entrée en vigueur de
-l'ordonnance au 1er octobre 2007.
+Conformément aux dispositions de l'article 23 de l'ordonnance n° 2017-651 du 27 avril 2017, ces dispositions entrent en
+vigueur à une date fixée par décret et au plus tard le 1er janvier 2018. Les demandes déposées et les procédures engagées
+avant cette date demeurent régies par les dispositions antérieures.
 
 **Liens relatifs à cet article**
 
@@ -10187,50 +10434,40 @@ l'ordonnance au 1er octobre 2007.
 
 	**Modifié par**:
 
-	  - Loi n°2016-925 du 7 juillet 2016 - art. 75
+	  - Ordonnance n°2017-651 du 27 avril 2017 - art. 4
 
 	**Cite**:
 
-	  - Code civil - art. 524 (V)
+	  - Code civil - art. 524
 
 
 ###### Article L621-28
 
-Les règles applicables aux travaux d'entretien ou de réparations ordinaires exemptés du permis de construire sur un immeuble
-inscrit au titre des monuments historiques sont fixées au premier alinéa de l'article L. 422-1 et au premier alinéa de
-l'article L. 422-2 du code de l'urbanisme reproduits à l'article L. 621-10 du présent code.
+Pour l'application des articles 829, 860 et 922 du code civil, lorsqu'un immeuble classé ou inscrit au titre des monuments
+historiques, transmis par donation ou succession, est affecté d'une clause d'inaliénabilité, l'évaluation de l'immeuble est
+diminuée des charges, y compris d'entretien, nécessaires à sa préservation pendant la durée de la clause.
 
 **Nota:**
 
-NOTA : L'article 41 de l'ordonnance n° 2005-1527 énonce : "La présente ordonnance entrera en vigueur à des dates fixées par
-décret en Conseil d'Etat et au plus tard le 1er juillet 2007."
-
-Le décret n° 2007-18 du 5 janvier 2007, en son article 26 fixe cette date au 1er juillet 2007, sous les réserves énoncées
-dans ce même article 26.
-
-En dernier lieu, l'article 72 de la loi n° 2007-209 du 19 février 2007 reporte la date limite d'entrée en vigueur de
-l'ordonnance au 1er octobre 2007.
+Conformément aux dispositions de l'article 23 de l'ordonnance n° 2017-651 du 27 avril 2017, ces dispositions entrent en
+vigueur à une date fixée par décret et au plus tard le 1er janvier 2018. Les demandes déposées et les procédures engagées
+avant cette date demeurent régies par les dispositions antérieures.
 
 **Liens relatifs à cet article**
 
 	**Codifié par**:
 
-	  - Ordonnance 2004-178 2004-02-20 JORF 24 février 2004
+	  - Ordonnance n°2004-178 du 20 février 2004
 
 	**Modifié par**:
 
-	  - Ordonnance n°2005-1128 du 8 septembre 2005 - art. 11 () JORF 9 septembre 2005
-	  - Ordonnance n°2005-1128 du 8 septembre 2005 - art. 13 () JORF 9 septembre 2005
-
-	**Abrogé par**:
-
-	  - Ordonnance n°2005-1527 du 8 décembre 2005 - art. 38
+	  - Ordonnance n°2017-651 du 27 avril 2017 - art. 4
 
 	**Cite**:
 
-	  - Code de l'urbanisme - art. L422-1 (V)
-	  - Code du patrimoine L621-10, L422-1
-	  - Code du patrimoine. - art. L621-10 (M)
+	  - Code civil - art. 829 (V)
+	  - Code civil - art. 860 (V)
+	  - Code civil - art. 922 (V)
 
 	**Cité par**:
 
@@ -10240,241 +10477,45 @@ l'ordonnance au 1er octobre 2007.
 
 ###### Article L621-29
 
-L'autorité administrative est autorisée à subventionner dans la limite de 40 % de la dépense effective les travaux
-d'entretien et de réparation que nécessite la conservation des immeubles ou parties d'immeubles inscrits au titre des
-monuments historiques.
+L'acquisition d'un fragment d'immeuble protégé au titre des monuments historiques ou d'un effet mobilier détaché en violation
+de l'article L. 621-9 est nulle.
+
+L'autorité administrative et le propriétaire originaire peuvent exercer les actions en nullité ou en revendication dans un
+délai de cinq ans à compter de la date à laquelle ils ont eu connaissance de l'acquisition. Elles s'exercent sans préjudice
+des demandes en dommages-intérêts qui peuvent être dirigées soit contre les parties contractantes solidairement responsables,
+soit contre l'officier public qui a prêté son concours à l'aliénation. Lorsque l'aliénation illicite a été consentie par une
+personne publique ou par un établissement d'utilité publique, cette action en dommages-intérêts est exercée par l'autorité
+administrative au nom et au profit de l'Etat.
+
+L'acquéreur ou sous-acquéreur de bonne foi entre les mains duquel l'objet est revendiqué a droit au remboursement de son prix
+d'acquisition. Si la revendication est exercée par l'autorité administrative, celle-ci aura recours contre le vendeur
+originaire pour le montant intégral de l'indemnité qu'elle aura dû payer à l'acquéreur ou sous-acquéreur..
+
+**Nota:**
+
+Conformément aux dispositions de l'article 23 de l'ordonnance n° 2017-651 du 27 avril 2017, ces dispositions entrent en
+vigueur à une date fixée par décret et au plus tard le 1er janvier 2018. Les demandes déposées et les procédures engagées
+avant cette date demeurent régies par les dispositions antérieures.
 
 **Liens relatifs à cet article**
 
 	**Anciens textes**:
 
 	  - Loi n°1913-12-31 du 31 décembre 1913 - art. 2 (V)
-	  - Loi n°1913-12-31 art. 2 al. 9
 
 	**Codifié par**:
 
-	  - Ordonnance 2004-178 2004-02-20 JORF 24 février 2004
+	  - Ordonnance n°2004-178 du 20 février 2004
 
 	**Modifié par**:
 
-	  - Ordonnance n°2005-1128 du 8 septembre 2005 - art. 11 () JORF 9 septembre 2005
-	  - Ordonnance n°2005-1128 du 8 septembre 2005 - art. 14 () JORF 9 septembre 2005
+	  - Ordonnance n°2017-651 du 27 avril 2017 - art. 4
 
 	**Cité par**:
 
 	  - Code du domaine de l'Etat - art. R27 (Ab)
 	  - Code du patrimoine - art. L730-1 (V)
 	  - Code du patrimoine. - art. R621-72 (V)
-
-
-##### Section 3 : Dispositions communes aux immeubles classés et aux immeubles inscrits.
-
-###### Article L621-29-1
-
-Le propriétaire ou l'affectataire domanial a la responsabilité de la conservation du monument historique classé ou inscrit
-qui lui appartient ou lui est affecté.
-
-**Liens relatifs à cet article**
-
-	**Créé par**:
-
-	  - Ordonnance n°2005-1128 du 8 septembre 2005 - art. 15 () JORF 9 septembre 2005
-
-	**Abrogé par**:
-
-	  - Ordonnance n°2017-651 du 27 avril 2017 - art. 4
-
-
-###### Article L621-29-2
-
-Le maître d'ouvrage des travaux sur l'immeuble classé ou inscrit est le propriétaire ou l'affectataire domanial si les
-conditions de la remise en dotation le prévoient.
-
-Les services de l'Etat chargés des monuments historiques peuvent apporter une assistance gratuite au propriétaire ou à
-l'affectataire domanial d'un immeuble classé ou inscrit qui ne dispose pas, du fait de l'insuffisance de ses ressources ou de
-la complexité du projet de travaux, des moyens nécessaires à l'exercice de la maîtrise d'ouvrage de l'opération. Un décret en
-Conseil d'Etat précise les conditions d'accès à cette assistance, ainsi que le contenu et les modalités des missions de
-maîtrise d'ouvrage exercées à ce titre par les services de l'Etat.
-
-Une assistance de l'Etat en matière de maîtrise d'ouvrage peut également être apportée lorsqu'aucune des deux conditions
-mentionnées à l'alinéa précédent n'est remplie, dès lors que le propriétaire ou l'affectataire domanial établit la carence de
-l'offre privée et des autres collectivités publiques. Dans ce cas, la prestation est rémunérée par application d'un barème,
-établi en fonction des coûts réels, fixé par décret en Conseil d'Etat.
-
-Une convention signée avec le propriétaire ou l'affectataire domanial définit les modalités particulières de l'assistance à
-la maîtrise d'ouvrage assurée par les services de l'Etat.
-
-**Liens relatifs à cet article**
-
-	**Créé par**:
-
-	  - Ordonnance n°2005-1128 du 8 septembre 2005 - art. 15 () en vigueur le 1er octobre 2007
-
-	**Cité par**:
-
-	  - Décret n°2009-748 du 22 juin 2009 - art. 1 (Ab)
-	  - Décret n°2009-748 du 22 juin 2009 - art. 3 (Ab)
-	  - Code du patrimoine. - art. L141-1 (V)
-	  - Code du patrimoine. - art. R621-70 (V)
-
-	**Abrogé par**:
-
-	  - Ordonnance n°2017-651 du 27 avril 2017 - art. 4
-
-
-###### Article L621-29-3
-
-En cas de mutation d'un immeuble classé ou inscrit, le propriétaire ou l'affectataire domanial transmet les études et les
-documents afférents aux travaux de conservation ou de restauration réalisés sur cet immeuble au nouveau propriétaire ou au
-nouvel affectataire domanial.
-
-**Liens relatifs à cet article**
-
-	**Créé par**:
-
-	  - Ordonnance n°2005-1128 du 8 septembre 2005 - art. 15 () JORF 9 septembre 2005
-
-	**Abrogé par**:
-
-	  - Ordonnance n°2017-651 du 27 avril 2017 - art. 4
-
-
-###### Article L621-29-4
-
-Lorsque les travaux d'entretien, de réparation et de mise en sécurité des immeubles classés ou inscrits, les études
-préalables, les travaux de restauration de ces immeubles ainsi que l'assistance à maîtrise d'ouvrage et l'assurance dommage-
-ouvrage font l'objet, dans les conditions prévues par les lois et règlements, d'aides de la part des collectivités publiques,
-un échéancier prévoit le versement au propriétaire d'un acompte avant le début de chaque tranche de travaux.
-
-**Liens relatifs à cet article**
-
-	**Créé par**:
-
-	  - Ordonnance n°2005-1128 du 8 septembre 2005 - art. 15 () JORF 9 septembre 2005
-
-	**Abrogé par**:
-
-	  - Ordonnance n°2017-651 du 27 avril 2017 - art. 4
-
-
-###### Article L621-29-5
-
-Les effets du classement ou de l'inscription au titre des monuments historiques suivent l'immeuble ou la partie d'immeuble en
-quelques mains qu'il passe.
-
-**Liens relatifs à cet article**
-
-	**Créé par**:
-
-	  - Ordonnance n°2005-1128 du 8 septembre 2005 - art. 15 () JORF 9 septembre 2005
-
-	**Abrogé par**:
-
-	  - Ordonnance n°2017-651 du 27 avril 2017 - art. 4
-
-
-###### Article L621-29-6
-
-Quiconque aliène un immeuble classé ou inscrit au titre des monuments historiques est tenu de faire connaître au futur
-acquéreur l'existence du classement ou de l'inscription.
-
-Toute aliénation d'un immeuble classé ou inscrit doit, dans un délai fixé par voie réglementaire, être notifiée à l'autorité
-administrative par celui qui l'a consentie.
-
-**Liens relatifs à cet article**
-
-	**Créé par**:
-
-	  - Ordonnance n°2005-1128 du 8 septembre 2005 - art. 15 () JORF 9 septembre 2005
-
-	**Abrogé par**:
-
-	  - Ordonnance n°2017-651 du 27 avril 2017 - art. 4
-
-	**Cité par**:
-
-	  - Code du patrimoine - art. L642-1 (V)
-
-
-###### Article L621-29-7
-
-Pour l'application des articles 829
-,860 et 922 du code civil, lorsqu'un immeuble classé ou inscrit au titre des monuments historiques, transmis par donation ou
-succession, est affecté d'une clause d'inaliénabilité, l'évaluation de l'immeuble est diminuée des charges, y compris
-d'entretien, nécessaires à sa préservation durant toute la durée de la clause.
-
-**Liens relatifs à cet article**
-
-	**Créé par**:
-
-	  - Loi n°2006-728 du 23 juin 2006 - art. 37 () JORF 24 juin 2006 en vigueur le 1er janvier 2007
-
-	**Abrogé par**:
-
-	  - Ordonnance n°2017-651 du 27 avril 2017 - art. 4
-
-	**Cite**:
-
-	  - Code civil - art. 829
-	  - Code civil - art. 860
-	  - Code civil - art. 922
-
-
-###### Article L621-29-8
-
-Par dérogation à l'article L. 581-2 du code de l'environnement, dans le cadre de l'instruction des demandes d'autorisation de
-travaux sur les immeubles classés ou des demandes d'accord de travaux sur les immeubles inscrits, l'autorité administrative
-chargée des monuments historiques peut autoriser l'installation de bâches d'échafaudage comportant un espace dédié à
-l'affichage. 
-
-Les recettes perçues par le propriétaire du monument pour cet affichage sont affectées par le maître d'ouvrage au financement
-des travaux. 
-
-Les modalités d'application du présent article sont fixées par décret en Conseil d'Etat.
-
-**Liens relatifs à cet article**
-
-	**Créé par**:
-
-	  - Loi n°2006-1666 du 21 décembre 2006 - art. 103 () JORF 27 décembre 2006
-
-	**Cité par**:
-
-	  - Décret n°2007-645 du 30 avril 2007 - art. 1 (Ab)
-	  - Code du patrimoine. - art. R621-86 (V)
-
-	**Abrogé par**:
-
-	  - Ordonnance n°2017-651 du 27 avril 2017 - art. 4
-
-	**Cite**:
-
-	  - Code de l'environnement - art. L581-2
-
-
-###### Article L621-29-9
-
-L'immeuble classé ou inscrit au titre des monuments historiques appartenant à l'Etat ou à l'un de ses établissements publics
-ne peut être aliéné qu'après observations du ministre chargé de la culture prises après avis de la Commission nationale du
-patrimoine et de l'architecture.
-
-Dans un délai de cinq ans, l'autorité administrative peut faire prononcer la nullité de l'aliénation consentie sans
-l'accomplissement de la formalité mentionnée au premier alinéa.
-
-**Liens relatifs à cet article**
-
-	**Créé par**:
-
-	  - Loi n°2016-925 du 7 juillet 2016 - art. 76
-
-	**Abrogé par**:
-
-	  - Ordonnance n°2017-651 du 27 avril 2017 - art. 4
-
-	**Cité par**:
-
-	  - Code du patrimoine - art. L611-1 (VD)
-	  - Code du patrimoine - art. R621-84-1 (V)
 
 
 ##### Section 4 : Abords
@@ -10704,29 +10745,19 @@ l'article L. 632-2 du présent code
 
 ##### Section 5 : Dispositions diverses.
 
+##### Sous-section  1 : Définition, liste et délimitation
+
 ###### Article L621-33
 
-Lorsqu'un immeuble ou une partie d'immeuble protégé au titre des monuments historiques a été morcelé ou lorsqu'un effet
-mobilier qui lui était attaché à perpétuelle demeure a été détaché d'un immeuble protégé au titre des monuments historiques
-en violation des articles L. 621-9 ou L. 621-27, l'autorité administrative peut mettre en demeure l'auteur du morcellement ou
-du détachement illicite de procéder, dans un délai qu'elle détermine, à la remise en place, sous sa direction et sa
-surveillance, aux frais des auteurs des faits, vendeurs et acheteurs pris solidairement. 
+Les domaines nationaux sont des ensembles immobiliers présentant un lien exceptionnel avec l'histoire de la Nation et dont
+l'Etat est, au moins pour partie, propriétaire. Ces biens ont vocation à être conservés et restaurés par l'Etat dans le
+respect de leur caractère historique, artistique, paysager et écologique.
 
-En cas d'urgence, l'autorité administrative met en demeure l'auteur du morcellement ou du détachement illicite de prendre,
-dans un délai qu'elle détermine, les mesures nécessaires pour prévenir la détérioration, la dégradation et la destruction des
-biens concernés. 
+**Nota:**
 
-L'acquisition d'un fragment d'immeuble protégé au titre des monuments historiques ou d'un effet mobilier détaché en violation
-des mêmes articles L. 621-9 ou L. 621-27 est nulle. L'autorité administrative et le propriétaire originaire peuvent exercer
-les actions en nullité ou en revendication dans un délai de cinq ans à compter de la date à laquelle ils ont eu connaissance
-de l'acquisition. Elles s'exercent sans préjudice des demandes en dommages-intérêts qui peuvent être dirigées soit contre les
-parties contractantes solidairement responsables, soit contre l'officier public qui a prêté son concours à l'aliénation.
-Lorsque l'aliénation illicite a été consentie par une personne publique ou par un établissement d'utilité publique, cette
-action en dommages-intérêts est exercée par l'autorité administrative au nom et au profit de l'Etat. 
-
-L'acquéreur ou le sous-acquéreur de bonne foi entre les mains duquel l'objet est revendiqué a droit au remboursement de son
-prix d'acquisition. Si la revendication est exercée par l'autorité administrative, celle-ci a recours contre le vendeur
-originaire pour le montant intégral de l'indemnité qu'elle aura dû payer à l'acquéreur ou au sous-acquéreur.
+Conformément aux dispositions de l'article 23 de l'ordonnance n° 2017-651 du 27 avril 2017, ces dispositions entrent en
+vigueur à une date fixée par décret et au plus tard le 1er janvier 2018. Les demandes déposées et les procédures engagées
+avant cette date demeurent régies par les dispositions antérieures.
 
 **Liens relatifs à cet article**
 
@@ -10740,39 +10771,37 @@ originaire pour le montant intégral de l'indemnité qu'elle aura dû payer à l
 
 	**Modifié par**:
 
-	  - Loi n°2016-925 du 7 juillet 2016 - art. 75
+	  - Ordonnance n°2017-651 du 27 avril 2017 - art. 5
 
 	**Cite**:
 
-	  - Code du patrimoine - art. L621-27 (V)
-	  - Code du patrimoine - art. L621-9 (V)
+	  - Code du patrimoine - art. L621-27
+	  - Code du patrimoine - art. L621-9
 
 	**Cité par**:
 
 	  - Code du patrimoine - art. R621-97 (V)
 
 
-##### Section 6 : Domaines nationaux 
-
-
-
-##### Sous-section 1 : Définition, liste et délimitation 
-
-
-
 ###### Article L621-34
 
-Les domaines nationaux sont des ensembles immobiliers présentant un lien exceptionnel avec l'histoire de la Nation et dont
-l'Etat est, au moins pour partie, propriétaire. 
+La liste des domaines nationaux et leur périmètre sont déterminés par décret en Conseil d'Etat sur proposition du ministre
+chargé de la culture, après avis du ministre chargé des domaines.
 
-Ces biens ont vocation à être conservés et restaurés par l'Etat dans le respect de leur caractère historique, artistique,
-paysager et écologique.
+Les domaines nationaux peuvent comprendre des biens immobiliers appartenant à l'Etat, à des collectivités territoriales, à
+des établissements publics ou à des personnes privées.
+
+**Nota:**
+
+Conformément aux dispositions de l'article 23 de l'ordonnance n° 2017-651 du 27 avril 2017, ces dispositions entrent en
+vigueur à une date fixée par décret et au plus tard le 1er janvier 2018. Les demandes déposées et les procédures engagées
+avant cette date demeurent régies par les dispositions antérieures.
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Loi n°2016-925 du 7 juillet 2016 - art. 75
+	  - Ordonnance n°2017-651 du 27 avril 2017 - art. 5
 
 	**Cité par**:
 
@@ -10781,97 +10810,138 @@ paysager et écologique.
 	  - Code du patrimoine - art. R621-98 (V)
 
 
+##### Sous-section 2 : Régime de propriété
+
 ###### Article L621-35
 
-La liste des domaines nationaux et leur périmètre sont déterminés par décret en Conseil d'Etat sur proposition du ministre
-chargé de la culture, après avis de la Commission nationale du patrimoine et de l'architecture et du ministre chargé des
-domaines. Les propositions du ministre chargé de la culture et les avis de la Commission nationale du patrimoine et de
-l'architecture formulés en application de la première phrase sont rendus publics. 
+Les parties des domaines nationaux qui appartiennent à l'Etat ou à l'un de ses établissements publics sont inaliénables et
+imprescriptibles. Elles sont inconstructibles, à l'exception des bâtiments ou structures nécessaires à leur entretien ou à
+leur visite par le public ou s'inscrivant dans un projet de restitution architecturale, de création artistique ou de mise en
+valeur.
 
-Les domaines nationaux peuvent comprendre des biens immobiliers appartenant à l'Etat, à des collectivités territoriales, à
-des établissements publics ou à des personnes privées.
+Les parties appartenant à un établissement public de l'Etat peuvent toutefois être cédées à une autre personne publique, sans
+que cette cession puisse remettre en cause le caractère inconstructible attaché à ces parties, sous réserve des exceptions
+prévues à l'alinéa précédent.
+
+Par dérogation aux articles L. 3211-5, L. 3211-5-1 et L. 3211-21 du code général de la propriété des personnes publiques, les
+parties des domaines nationaux gérées par l'Office national des forêts en application du 1° du I de l'article L. 211-1 du
+code forestier ne peuvent faire l'objet d'aucune aliénation, même sous forme d'échange. Cette mesure n'est pas applicable aux
+opérations de cessions engagées avant le 8 juillet 2016, dont la liste est fixée par décret.
+
+**Nota:**
+
+Conformément aux dispositions de l'article 23 de l'ordonnance n° 2017-651 du 27 avril 2017, ces dispositions entrent en
+vigueur à une date fixée par décret et au plus tard le 1er janvier 2018. Les demandes déposées et les procédures engagées
+avant cette date demeurent régies par les dispositions antérieures.
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Loi n°2016-925 du 7 juillet 2016 - art. 75
+	  - Ordonnance n°2017-651 du 27 avril 2017 - art. 5
 
 	**Cité par**:
 
 	  - Décret n°2017-720 du 2 mai 2017 (V)
-	  - Code du patrimoine - art. L611-1 (V)
-
-
-##### Sous-section 2 : Protection au titre des monuments historiques 
-
-###### Article L621-36
-
-Les parties des domaines nationaux qui appartiennent à l'Etat ou à l'un de ses établissements publics sont inaliénables et
-imprescriptibles. Leur gestion est exercée dans le respect de l'ordre public et de la dignité humaine. Les parties
-appartenant à un établissement public de l'Etat peuvent toutefois être cédées à une autre personne publique, sans que cette
-cession puisse remettre en cause le caractère inconstructible attaché à ces parties, sous réserve des exceptions prévues à
-l'article L. 621-37.
-
-**Liens relatifs à cet article**
-
-	**Créé par**:
-
-	  - Loi n°2016-925 du 7 juillet 2016 - art. 75
+	  - Code du patrimoine - art. L611-1 (VD)
 
 	**Cite**:
 
-	  - Code du patrimoine - art. L621-37 (V)
+	  - Code général de la propriété des personnes publ... - art. L3211-21 (V)
+	  - Code général de la propriété des personnes publ... - art. L3211-5 (V)
 
 
-###### Article L621-37
+##### Sous-section 3 : Droit de préemption
 
-Les parties d'un domaine national qui appartiennent à l'Etat ou à l'un de ses établissements publics sont de plein droit
-intégralement classées au titre des monuments historiques dès l'entrée en vigueur du décret délimitant le domaine national.
+###### Article L621-36
 
-Elles sont inconstructibles, à l'exception des bâtiments ou structures nécessaires à leur entretien ou à leur visite par le
-public ou s'inscrivant dans un projet de restitution architecturale, de création artistique ou de mise en valeur.
+L'Etat est informé avant toute cession d'une partie d'un domaine national appartenant à une autre personne, publique ou
+privée. Il peut exercer un droit de préemption. Les conditions d'application du présent article sont déterminées par décret
+en Conseil d'Etat.
+
+**Nota:**
+
+Conformément aux dispositions de l'article 23 de l'ordonnance n° 2017-651 du 27 avril 2017, ces dispositions entrent en
+vigueur à une date fixée par décret et au plus tard le 1er janvier 2018. Les demandes déposées et les procédures engagées
+avant cette date demeurent régies par les dispositions antérieures.
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Loi n°2016-925 du 7 juillet 2016 - art. 75
+	  - Ordonnance n°2017-651 du 27 avril 2017 - art. 5
+
+	**Cite**:
+
+	  - Code du patrimoine - art. L621-37 (VD)
+
+
+##### Sous-section 4 : Gestion des domaines nationaux
+
+###### Article L621-37
+
+La gestion des domaines nationaux est exercée dans le respect de l'ordre public et de la dignité humaine.
+
+**Nota:**
+
+Conformément aux dispositions de l'article 23 de l'ordonnance n° 2017-651 du 27 avril 2017, ces dispositions entrent en
+vigueur à une date fixée par décret et au plus tard le 1er janvier 2018. Les demandes déposées et les procédures engagées
+avant cette date demeurent régies par les dispositions antérieures.
+
+**Liens relatifs à cet article**
+
+	**Modifié par**:
+
+	  - Ordonnance n°2017-651 du 27 avril 2017 - art. 5
 
 	**Cité par**:
 
-	  - Code du patrimoine - art. L621-36 (V)
+	  - Code du patrimoine - art. L621-36 (VD)
 
 
 ###### Article L621-38
 
-A l'exception de celles qui sont déjà classées au titre des monuments historiques, les parties d'un domaine national qui
-appartiennent à une personne publique autre que l'Etat ou l'un de ses établissements publics ou à une personne privée sont de
-plein droit intégralement inscrites au titre des monuments historiques dès l'entrée en vigueur du décret délimitant le
-domaine national. Elles peuvent être classées au titre des monuments historiques dans les conditions définies à la section 1
-du présent chapitre.
+L'utilisation à des fins commerciales de l'image des immeubles qui constituent les domaines nationaux, sur tout support, est
+soumise à l'autorisation préalable du gestionnaire de la partie concernée du domaine national. Cette autorisation peut
+prendre la forme d'un acte unilatéral ou d'un contrat, assorti ou non de conditions financières. La redevance tient compte
+des avantages de toute nature procurés au titulaire de l'autorisation.
+
+L'autorisation mentionnée au précédent alinéa n'est pas requise lorsque l'image est utilisée dans le cadre de l'exercice de
+missions de service public, ou à des fins culturelles, artistiques, pédagogiques, d'enseignement, de recherche, d'information
+et d'illustration de l'actualité.
+
+Un décret en Conseil d'Etat définit les modalités d'application du présent article.
+
+**Nota:**
+
+Conformément aux dispositions de l'article 23 de l'ordonnance n° 2017-651 du 27 avril 2017, ces dispositions entrent en
+vigueur à une date fixée par décret et au plus tard le 1er janvier 2018. Les demandes déposées et les procédures engagées
+avant cette date demeurent régies par les dispositions antérieures.
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Loi n°2016-925 du 7 juillet 2016 - art. 75
+	  - Ordonnance n°2017-651 du 27 avril 2017 - art. 5
 
-
-##### Sous-section 3 : Droit de préemption 
 
 ###### Article L621-39
 
-L'Etat est informé avant toute cession de l'une des parties d'un domaine national appartenant à une personne autre que lui ou
-l'un de ses établissements publics. Il peut exercer un droit de préemption. 
+Afin de faciliter leur conservation, leur mise en valeur et leur développement, l'établissement public du domaine national de
+Chambord peut se voir confier, par décret en Conseil d'Etat, la gestion d'autres domaines nationaux, ainsi que d'autres
+domaines et immeubles appartenant à l'Etat.
 
-Un décret en Conseil d'Etat définit les modalités d'application du présent article
+**Nota:**
+
+Conformément aux dispositions de l'article 23 de l'ordonnance n° 2017-651 du 27 avril 2017, ces dispositions entrent en
+vigueur à une date fixée par décret et au plus tard le 1er janvier 2018. Les demandes déposées et les procédures engagées
+avant cette date demeurent régies par les dispositions antérieures.
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Loi n°2016-925 du 7 juillet 2016 - art. 75
+	  - Ordonnance n°2017-651 du 27 avril 2017 - art. 5
 
 	**Cité par**:
 
@@ -10879,93 +10949,38 @@ Un décret en Conseil d'Etat définit les modalités d'application du présent a
 	  - Code du patrimoine - art. R621-99 (V)
 
 
-##### Sous-section 4 : Gestion des parties des domaines nationaux appartenant à l'Etat
+##### Section 5 : Domaines nationaux
 
-###### Article L621-40
+##### Sous-section  1 : Définition, liste et délimitation
 
-Par dérogation aux articles L. 3211-5, L. 3211-5-1 et L. 3211-21 du code général de la propriété des personnes publiques, les
-parties des domaines nationaux gérées par l'Office national des forêts en application du 1° du I de l'article L. 211-1 du
-code forestier ne peuvent faire l'objet d'aucune aliénation, même sous forme d'échange.
+##### Sous-section 2 : Régime de propriété
 
-**Nota:**
+##### Sous-section 3 : Droit de préemption
 
-Conformément à l'article 75 II de la loi n° 2016-925 du 7 juillet 2016, les présentes dispositions ne sont pas applicables
-aux opérations de cessions engagées avant la publication de ladite loi, dont la liste est fixée par décret.
-
-**Liens relatifs à cet article**
-
-	**Créé par**:
-
-	  - Loi n°2016-925 du 7 juillet 2016 - art. 75
-
-	**Abrogé par**:
-
-	  - Ordonnance n°2017-651 du 27 avril 2017 - art. 5
-
-	**Cite**:
-
-	  - Code général de la propriété des personnes publiques. - art. L3211-21
-	  - Code général de la propriété des personnes publiques. - art. L3211-5
-	  - Code forestier (nouveau) - art. L211-1
-
-
-###### Article L621-41
-
-Afin de faciliter leur conservation, leur mise en valeur et leur développement, l'établissement public du domaine national de
-Chambord peut se voir confier, par décret en Conseil d'Etat, la gestion d'autres domaines nationaux ainsi que de domaines et
-d'immeubles appartenant à l'Etat.
-
-**Liens relatifs à cet article**
-
-	**Créé par**:
-
-	  - Loi n°2016-925 du 7 juillet 2016 - art. 75
-
-	**Abrogé par**:
-
-	  - Ordonnance n°2017-651 du 27 avril 2017 - art. 5
-
-
-##### Sous-section 5 : Gestion et exploitation de la marque et du droit à l'image des domaines nationaux
-
-###### Article L621-42
-
-L'utilisation à des fins commerciales de l'image des immeubles qui constituent les domaines nationaux, sur tout support, est
-soumise à l'autorisation préalable du gestionnaire de la partie concernée du domaine national. Cette autorisation peut
-prendre la forme d'un acte unilatéral ou d'un contrat, assorti ou non de conditions financières. 
-
-La redevance tient compte des avantages de toute nature procurés au titulaire de l'autorisation. 
-
-L'autorisation mentionnée au premier alinéa n'est pas requise lorsque l'image est utilisée dans le cadre de l'exercice de
-missions de service public ou à des fins culturelles, artistiques, pédagogiques, d'enseignement, de recherche, d'information
-et d'illustration de l'actualité. 
-
-Un décret en Conseil d'Etat définit les modalités d'application du présent article.
-
-**Liens relatifs à cet article**
-
-	**Créé par**:
-
-	  - Loi n°2016-925 du 7 juillet 2016 - art. 75
-
-	**Abrogé par**:
-
-	  - Ordonnance n°2017-651 du 27 avril 2017 - art. 5
-
+##### Sous-section 4 : Gestion des domaines nationaux
 
 #### Chapitre 2 : Objets mobiliers
 
-##### Section 1 : Classement des objets mobiliers.
+##### Section 1 : Classement et inscription des objets mobiliers
 
 ###### Article L622-1
 
-Les objets mobiliers, soit meubles proprement dits, soit immeubles par destination, dont la conservation présente, au point
-de vue de l'histoire, de l'art, de la science ou de la technique, un intérêt public peuvent être classés au titre des
-monuments historiques par décision de l'autorité administrative. 
+Les objets mobiliers, soit meubles, soit immeubles par destination, dont la conservation présente un intérêt public au point
+de vue de l'histoire, de l'art, de l'architecture, de l'archéologie, de l'ethnologie, de la science ou de la technique
+peuvent être classés au titre des monuments historiques.
 
-Les effets du classement prévus dans la présente section s'appliquent aux biens devenus meubles par suite de leur détachement
-d'immeubles classés en application de l'article L. 621-1, ainsi qu'aux immeubles par destination classés qui sont redevenus
-meubles.
+Sont également classés au titre des monuments historiques les objets mobiliers, soit meubles, soit immeubles par destination,
+classés au même titre en application de la loi du 30 mars 1887.
+
+Les effets du classement prévus à la présente section s'appliquent aux biens devenus meubles par suite de leur détachement
+d'immeubles classés au titre des monuments historiques, sans préjudice de l'application éventuelle des dispositions de
+l'article L. 641-1.
+
+**Nota:**
+
+Conformément aux dispositions de l'article 23 de l'ordonnance n° 2017-651 du 27 avril 2017, ces dispositions entrent en
+vigueur à une date fixée par décret et au plus tard le 1er janvier 2018. Les demandes déposées et les procédures engagées
+avant cette date demeurent régies par les dispositions antérieures.
 
 **Liens relatifs à cet article**
 
@@ -10975,97 +10990,42 @@ meubles.
 
 	**Codifié par**:
 
-	  - Ordonnance 2004-178 2004-02-20 JORF 24 février 2004
+	  - Ordonnance n°2004-178 du 20 février 2004
 
 	**Modifié par**:
 
-	  - Ordonnance n°2005-1128 du 8 septembre 2005 - art. 19 () JORF 9 septembre 2005
+	  - Ordonnance n°2017-651 du 27 avril 2017 - art. 6
 
 	**Cité par**:
 
 	  - Code des douanes - art. 224 (V)
 	  - Code du domaine de l'Etat - art. R27 (Ab)
-	  - Code du patrimoine - art. L611-1 (V)
+	  - Code du patrimoine - art. L611-1 (VD)
 	  - Code du patrimoine - art. L622-1-1 (VT)
 	  - Code du patrimoine - art. L730-1 (V)
 	  - Code général de la propriété des personnes publ... - art. L2222-16 (VD)
 
 	**Cite**:
 
-	  - Code du patrimoine - art. L621-1 (V)
+	  - Code du patrimoine - art. L641-1 (VD)
 
 
-###### Article L622-1-1
+###### Article L622-2
 
 Un ensemble ou une collection d'objets mobiliers dont la conservation dans son intégrité et sa cohérence présente un intérêt
 public au point de vue de l'histoire, de l'art, de l'architecture, de l'archéologie, de l'ethnologie, de la science ou de la
 technique peut être classé au titre des monuments historiques comme ensemble historique mobilier par décision de l'autorité
-administrative, après avis de la Commission nationale du patrimoine et de l'architecture. 
-
-Cet ensemble ne peut être divisé ou aliéné par lot ou pièce sans autorisation de cette autorité. 
+administrative.
 
 Les effets du classement s'appliquent à chaque élément de l'ensemble historique mobilier classé et subsistent pour un élément
 s'il est dissocié de l'ensemble. Toutefois, lorsque l'élément dissocié ne bénéficie pas d'un classement en application de
 l'article L. 622-1, les effets du classement peuvent être levés pour cet élément par l'autorité administrative.
 
-**Liens relatifs à cet article**
+**Nota:**
 
-	**Créé par**:
-
-	  - Loi n°2016-925 du 7 juillet 2016 - art. 75
-
-	**Abrogé par**:
-
-	  - Ordonnance n°2017-651 du 27 avril 2017 - art. 6
-
-	**Cite**:
-
-	  - Code du patrimoine - art. L622-1
-
-	**Cité par**:
-
-	  - Code du patrimoine - art. L641-2 (V)
-	  - Code du patrimoine - art. R622-8 (V)
-
-
-###### Article L622-1-2
-
-Lorsque des objets mobiliers classés ou un ensemble historique mobilier classé sont attachés, par des liens historiques ou
-artistiques remarquables, à un immeuble classé et forment avec lui un ensemble d'une qualité et d'une cohérence dont la
-conservation dans son intégrité présente un intérêt public, ces objets mobiliers ou cet ensemble historique mobilier peuvent
-être grevés d'une servitude de maintien dans les lieux par décision de l'autorité administrative, après avis de la Commission
-nationale du patrimoine et de l'architecture et accord du propriétaire. Cette servitude peut être levée dans les mêmes
-conditions. En cas de refus de l'autorité administrative de lever la servitude, les sujétions anormales qui peuvent en
-résulter sont compensées par une indemnité. A défaut d'accord amiable, l'action en indemnité est portée devant le juge
-judiciaire. 
-
-Le déplacement de cet objet mobilier ou de tout ou partie de cet ensemble historique mobilier classé est subordonné à une
-autorisation de l'autorité administrative. 
-
-La servitude de maintien dans les lieux peut être prononcée en même temps que la décision de classement des objets mobiliers
-ou de l'ensemble historique mobilier, ou postérieurement à celle-ci.
-
-**Liens relatifs à cet article**
-
-	**Créé par**:
-
-	  - Loi n°2016-925 du 7 juillet 2016 - art. 75
-
-	**Abrogé par**:
-
-	  - Ordonnance n°2017-651 du 27 avril 2017 - art. 6
-
-	**Cité par**:
-
-	  - Code du patrimoine - art. L641-2 (V)
-	  - Code du patrimoine - art. R622-1-2 (V)
-
-
-###### Article L622-2
-
-Les objets mobiliers appartenant à l'Etat ou à un établissement public de l'Etat sont classés au titre des monuments
-historiques par décision de l'autorité administrative, après avis de la Commission nationale du patrimoine et de
-l'architecture.
+Conformément aux dispositions de l'article 23 de l'ordonnance n° 2017-651 du 27 avril 2017, ces dispositions entrent en
+vigueur à une date fixée par décret et au plus tard le 1er janvier 2018. Les demandes déposées et les procédures engagées
+avant cette date demeurent régies par les dispositions antérieures.
 
 **Liens relatifs à cet article**
 
@@ -11079,7 +11039,7 @@ l'architecture.
 
 	**Modifié par**:
 
-	  - Loi n°2016-925 du 7 juillet 2016 - art. 75
+	  - Ordonnance n°2017-651 du 27 avril 2017 - art. 6
 
 	**Cité par**:
 
@@ -11088,10 +11048,24 @@ l'architecture.
 
 ###### Article L622-3
 
-Les objets mobiliers appartenant à une collectivité territoriale ou à l'un de ses établissements publics sont classés au
-titre des monuments historiques par décision de l'autorité administrative, après avis de la Commission nationale du
-patrimoine et de l'architecture, s'il y a consentement du propriétaire. En cas de désaccord, le classement d'office est
-prononcé par décret en Conseil d'Etat après avis de la Commission nationale du patrimoine et de l'architecture.
+Lorsque des objets mobiliers classés ou un ensemble historique mobilier classé sont attachés, par des liens historiques ou
+artistiques remarquables, à un immeuble classé, et forment avec lui un ensemble d'une qualité et d'une cohérence dont la
+conservation dans son intégrité présente un intérêt public, ces objets mobiliers ou cet ensemble historique mobilier peuvent
+être grevés d'une servitude de maintien dans les lieux par décision de l'autorité administrative, sous réserve du
+consentement du propriétaire.
+
+Cette servitude peut être levée dans les mêmes conditions. En cas de refus de l'autorité administrative de lever la
+servitude, les sujétions anormales qui peuvent en résulter sont compensées par une indemnité. A défaut d'accord amiable,
+l'action en indemnité est portée devant le juge judiciaire.
+
+La servitude de maintien dans les lieux peut être prononcée en même temps que la décision de classement des objets mobiliers
+ou de l'ensemble historique mobilier, ou postérieurement à celle-ci.
+
+**Nota:**
+
+Conformément aux dispositions de l'article 23 de l'ordonnance n° 2017-651 du 27 avril 2017, ces dispositions entrent en
+vigueur à une date fixée par décret et au plus tard le 1er janvier 2018. Les demandes déposées et les procédures engagées
+avant cette date demeurent régies par les dispositions antérieures.
 
 **Liens relatifs à cet article**
 
@@ -11105,7 +11079,7 @@ prononcé par décret en Conseil d'Etat après avis de la Commission nationale d
 
 	**Modifié par**:
 
-	  - Loi n°2016-925 du 7 juillet 2016 - art. 75
+	  - Ordonnance n°2017-651 du 27 avril 2017 - art. 6
 
 	**Cité par**:
 
@@ -11114,17 +11088,14 @@ prononcé par décret en Conseil d'Etat après avis de la Commission nationale d
 
 ###### Article L622-4
 
-Les objets mobiliers appartenant à une personne privée peuvent être classés au titre des monuments historiques, avec le
-consentement du propriétaire, par décision de l'autorité administrative, après avis de la Commission nationale du patrimoine
-et de l'architecture. 
+L'objet mobilier ou l'ensemble historique mobilier appartenant à l'Etat ou à l'un de ses établissements publics est classé au
+titre des monuments historiques par décision de l'autorité administrative.
 
-A défaut de consentement du propriétaire, le classement d'office est prononcé par un décret en Conseil d'Etat pris après avis
-de la Commission nationale du patrimoine et de l'architecture. 
+**Nota:**
 
-Le classement pourra donner lieu au paiement d'une indemnité représentative du préjudice résultant pour le propriétaire de
-l'application de la servitude de classement d'office. La demande d'indemnité devra être produite dans les six mois à dater de
-la notification du décret de classement. A défaut d'accord amiable, l'indemnité est fixée, selon le montant de la demande,
-par le tribunal d'instance ou de grande instance.
+Conformément aux dispositions de l'article 23 de l'ordonnance n° 2017-651 du 27 avril 2017, ces dispositions entrent en
+vigueur à une date fixée par décret et au plus tard le 1er janvier 2018. Les demandes déposées et les procédures engagées
+avant cette date demeurent régies par les dispositions antérieures.
 
 **Liens relatifs à cet article**
 
@@ -11138,63 +11109,46 @@ par le tribunal d'instance ou de grande instance.
 
 	**Modifié par**:
 
-	  - Loi n°2016-925 du 7 juillet 2016 - art. 75
+	  - Ordonnance n°2017-651 du 27 avril 2017 - art. 6
 
 	**Cité par**:
 
 	  - CODE GENERAL DES IMPOTS, CGI. - art. 238 bis-0 AB (V)
 	  - Code de l'organisation judiciaire - art. R221-21 (Ab)
+	  - Code du patrimoine - art. L622-4-1 (VT)
 	  - Code du patrimoine. - art. L611-1 (M)
-
-
-###### Article L622-4-1
-
-Les ensembles ou collections d'objets mobiliers appartenant à un propriétaire autre que l'Etat ou qu'un établissement public
-de l'Etat sont classés au titre des monuments historiques comme ensembles historiques mobiliers par décision de l'autorité
-administrative, après avis de la Commission nationale du patrimoine et de l'architecture et accord du propriétaire. 
-
-En cas de désaccord, le classement d'office est prononcé par décret en Conseil d'Etat, sous les mêmes conditions et dans les
-mêmes formes que celles prévues à l'article L. 622-4.
-
-**Liens relatifs à cet article**
-
-	**Créé par**:
-
-	  - Loi n°2016-925 du 7 juillet 2016 - art. 75
-
-	**Modifié par**:
-
-	  - Ordonnance n°2017-651 du 27 avril 2017 - art. 6
-
-	**Cite**:
-
-	  - Code du patrimoine - art. L622-4 (VD)
 
 
 ###### Article L622-5
 
-Lorsque la conservation ou le maintien sur le territoire national d'un objet mobilier est menacée, l'autorité administrative
-peut notifier au propriétaire par décision sans formalité préalable une instance de classement au titre des monuments
-historiques.
+L'objet mobilier ou l'ensemble historique mobilier appartenant à toute autre personne publique ou privée est classé au titre
+des monuments historiques par décision de l'autorité administrative, si le propriétaire y consent.
 
-A compter du jour où l'autorité administrative notifie au propriétaire une instance de classement au titre des monuments
-historiques, tous les effets du classement s'appliquent de plein droit à l'objet mobilier visé. Ils cessent de s'appliquer si
-la décision de classement n'intervient pas dans les douze mois de cette notification.
+A défaut de consentement du propriétaire, le classement d'office peut être prononcé par décret en Conseil d'Etat.
+
+Le classement d'office d'un objet mobilier ou d'un ensemble historique mobilier appartenant à une personne privée peut ouvrir
+droit à indemnité si les servitudes et obligations liées au classement causent au propriétaire un préjudice direct, matériel
+et certain. La demande d'indemnité est formée dans les six mois à compter de la notification du décret de classement. A
+défaut d'accord amiable, l'indemnité est fixée par le tribunal d'instance ou de grande instance.
+
+L'indemnité n'est pas due si le Premier ministre renonce au classement d'office en abrogeant le décret de classement dans un
+délai de trois mois à compter de la notification du jugement mentionné au troisième alinéa.
+
+**Nota:**
+
+Conformément aux dispositions de l'article 23 de l'ordonnance n° 2017-651 du 27 avril 2017, ces dispositions entrent en
+vigueur à une date fixée par décret et au plus tard le 1er janvier 2018. Les demandes déposées et les procédures engagées
+avant cette date demeurent régies par les dispositions antérieures.
 
 **Liens relatifs à cet article**
 
 	**Anciens textes**:
 
-	  - Loi n°1913-12-31 art. 14 al. 3
 	  - Loi n°1913-12-31 du 31 décembre 1913 - art. 14 (Ab)
 
 	**Codifié par**:
 
-	  - Ordonnance 2004-178 2004-02-20 JORF 24 février 2004
-
-	**Modifié par**:
-
-	  - Ordonnance n°2005-1128 du 8 septembre 2005 - art. 20 () JORF 9 septembre 2005
+	  - Ordonnance n°2004-178 du 20 février 2004
 
 	**Cité par**:
 
@@ -11203,44 +11157,59 @@ la décision de classement n'intervient pas dans les douze mois de cette notific
 	  - Code du patrimoine. - art. R622-10 (V)
 	  - Code du patrimoine. - art. R622-5 (V)
 
+	**Modifié par**:
+
+	  - Ordonnance n°2017-651 du 27 avril 2017 - art. 6
+
 
 ###### Article L622-6
 
-Le déclassement d'un objet mobilier classé au titre des monuments historiques peut être prononcé par l'autorité
-administrative soit d'office, soit à la demande du propriétaire. Il est notifié aux intéressés.
+Le déclassement d'un objet mobilier classé au titre des monuments historiques ou d'un ensemble historique mobilier est
+prononcé selon les mêmes formes et procédures que le classement. Il est notifié aux intéressés.
+
+**Nota:**
+
+Conformément aux dispositions de l'article 23 de l'ordonnance n° 2017-651 du 27 avril 2017, ces dispositions entrent en
+vigueur à une date fixée par décret et au plus tard le 1er janvier 2018. Les demandes déposées et les procédures engagées
+avant cette date demeurent régies par les dispositions antérieures.
 
 **Liens relatifs à cet article**
 
 	**Anciens textes**:
 
-	  - Loi n°1913-12-31 art. 24
 	  - Loi n°1913-12-31 du 31 décembre 1913 - art. 24 (Ab)
 
 	**Codifié par**:
 
-	  - Ordonnance 2004-178 2004-02-20 JORF 24 février 2004
+	  - Ordonnance n°2004-178 du 20 février 2004
+
+	**Modifié par**:
+
+	  - Ordonnance n°2017-651 du 27 avril 2017 - art. 6
 
 
 ###### Article L622-7
 
-Les objets classés au titre des monuments historiques ne peuvent être modifiés, réparés ou restaurés sans l'autorisation de
-l'autorité administrative compétente.
+Les objets mobiliers, soit meubles, soit immeubles par destination, dont la conservation ne justifie pas un classement
+immédiat mais présente un intérêt public au point de vue de l'histoire, de l'art, de l'architecture, de l'archéologie, de
+l'ethnologie, de la science ou de la technique, peuvent être inscrits au titre des monuments historiques par décision de
+l'autorité administrative.
 
-Les travaux autorisés s'exécutent sous le contrôle scientifique et technique des services de l'Etat chargés des monuments
-historiques. Un décret en Conseil d'Etat précise les catégories de professionnels auxquels le propriétaire ou l'affectataire
-d'un objet mobilier classé au titre des monuments historiques ou d'un orgue classé est tenu de confier la maîtrise d'œuvre
-des travaux.
+**Nota:**
+
+Conformément aux dispositions de l'article 23 de l'ordonnance n° 2017-651 du 27 avril 2017, ces dispositions entrent en
+vigueur à une date fixée par décret et au plus tard le 1er janvier 2018. Les demandes déposées et les procédures engagées
+avant cette date demeurent régies par les dispositions antérieures.
 
 **Liens relatifs à cet article**
 
 	**Anciens textes**:
 
 	  - Loi n°1913-12-31 du 31 décembre 1913 - art. 22 (V)
-	  - Loi n°1913-12-31 art. 22 al. 1
 
 	**Codifié par**:
 
-	  - Ordonnance 2004-178 2004-02-20 JORF 24 février 2004
+	  - Ordonnance n°2004-178 du 20 février 2004
 
 	**Cité par**:
 
@@ -11263,27 +11232,29 @@ des travaux.
 
 	**Modifié par**:
 
-	  - Ordonnance n°2005-1128 du 8 septembre 2005 - art. 21 () JORF 9 septembre 2005 en vigueur le 1er octobre 2007
+	  - Ordonnance n°2017-651 du 27 avril 2017 - art. 6
 
 
 ###### Article L622-8
 
-Il est procédé, par l'autorité administrative, au moins tous les cinq ans, au récolement des objets mobiliers classés au
-titre des monuments historiques.
+L'objet mobilier appartenant à une personne privée ne peut être inscrit au titre des monuments historiques que si le
+propriétaire y consent.
 
-En outre, les propriétaires ou détenteurs de ces objets sont tenus, lorsqu'ils en sont requis, de les présenter aux agents
-accrédités par l'autorité administrative.
+**Nota:**
+
+Conformément aux dispositions de l'article 23 de l'ordonnance n° 2017-651 du 27 avril 2017, ces dispositions entrent en
+vigueur à une date fixée par décret et au plus tard le 1er janvier 2018. Les demandes déposées et les procédures engagées
+avant cette date demeurent régies par les dispositions antérieures.
 
 **Liens relatifs à cet article**
 
 	**Anciens textes**:
 
 	  - Loi n°1913-12-31 du 31 décembre 1913 - art. 23 (Ab)
-	  - Loi n°1913-12-31 art. 23
 
 	**Codifié par**:
 
-	  - Ordonnance 2004-178 2004-02-20 JORF 24 février 2004
+	  - Ordonnance n°2004-178 du 20 février 2004
 
 	**Cité par**:
 
@@ -11294,29 +11265,31 @@ accrédités par l'autorité administrative.
 	  - Code du patrimoine. - art. R622-24 (V)
 	  - Code du patrimoine. - art. R622-25 (V)
 
+	**Modifié par**:
+
+	  - Ordonnance n°2017-651 du 27 avril 2017 - art. 6
+
 
 ###### Article L622-9
 
-Les différents services de l'Etat, les collectivités territoriales et les établissements publics ou d'utilité publique sont
-tenus d'assurer la garde et la conservation des objets mobiliers classés au titre des monuments historiques dont ils sont
-propriétaires, affectataires ou dépositaires et de prendre à cet effet les mesures nécessaires.
+La désinscription d'un objet mobilier au titre des monuments historiques est prononcée selon la procédure prévue à l'article
+L. 622-7. Elle est notifiée aux intéressés.
 
-Les dépenses nécessitées par ces mesures sont, à l'exception des frais de construction ou de reconstruction des locaux,
-obligatoires pour les collectivités territoriales.
+**Nota:**
 
-A défaut pour une collectivité territoriale de prendre les mesures reconnues nécessaires par l'autorité administrative, il
-peut y être pourvu d'office, après une mise en demeure restée sans effet, par décision de la même autorité.
+Conformément aux dispositions de l'article 23 de l'ordonnance n° 2017-651 du 27 avril 2017, ces dispositions entrent en
+vigueur à une date fixée par décret et au plus tard le 1er janvier 2018. Les demandes déposées et les procédures engagées
+avant cette date demeurent régies par les dispositions antérieures.
 
 **Liens relatifs à cet article**
 
 	**Anciens textes**:
 
 	  - Loi n°1913-12-31 du 31 décembre 1913 - art. 25 (Ab)
-	  - Loi n°1913-12-31 art. 25
 
 	**Codifié par**:
 
-	  - Ordonnance 2004-178 2004-02-20 JORF 24 février 2004
+	  - Ordonnance n°2004-178 du 20 février 2004
 
 	**Cité par**:
 
@@ -11329,22 +11302,24 @@ peut y être pourvu d'office, après une mise en demeure restée sans effet, par
 
 	**Modifié par**:
 
-	  - Ordonnance 2006-460 2006-07-01 art. 7 II JORF 22 avril 2006 en vigueur le 1er juillet 2006
+	  - Ordonnance n°2017-651 du 27 avril 2017 - art. 6
 
 
 ###### Article L622-10
 
-Lorsque l'autorité administrative estime que la conservation ou la sécurité d'un objet classé au titre des monuments
-historiques, appartenant à une collectivité territoriale ou à un établissement public est mise en péril et lorsque la
-collectivité propriétaire, affectataire ou dépositaire ne veut ou ne peut pas prendre immédiatement les mesures jugées
-nécessaires par l'administration, pour remédier à cet état de choses, l'autorité administrative peut ordonner d'urgence, par
-arrêté motivé, aux frais de l'administration, les mesures conservatoires utiles et, de même, en cas de nécessité dûment
-démontrée, le transfert provisoire de l'objet dans un trésor de cathédrale, s'il est affecté au culte, et, s'il ne l'est pas,
-dans un musée ou autre lieu public de l'Etat ou d'une collectivité territoriale, offrant les garanties de sécurité voulues
-et, autant que possible, situé dans le voisinage de son emplacement primitif. 
+Lorsque la conservation ou le maintien sur le territoire national d'un objet mobilier est menacée, l'autorité administrative
+peut notifier au propriétaire, par décision sans formalité préalable, une instance de protection au titre des monuments
+historiques.
 
-Dans un délai de trois mois à compter de ce transfert provisoire, les conditions nécessaires pour la garde et la conservation
-de l'objet dans son emplacement primitif devront être déterminées par la commission mentionnée à l'article L. 611-2.
+A compter du jour où l'instance de protection est notifiée au propriétaire, les effets du classement s'appliquent de plein
+droit à l'objet pendant douze mois. Toutefois, ces effets cessent de s'appliquer si l'instance de protection est abrogée
+avant l'expiration du délai de douze mois.
+
+**Nota:**
+
+Conformément aux dispositions de l'article 23 de l'ordonnance n° 2017-651 du 27 avril 2017, ces dispositions entrent en
+vigueur à une date fixée par décret et au plus tard le 1er janvier 2018. Les demandes déposées et les procédures engagées
+avant cette date demeurent régies par les dispositions antérieures.
 
 **Liens relatifs à cet article**
 
@@ -11359,60 +11334,74 @@ de l'objet dans son emplacement primitif devront être déterminées par la comm
 	**Cité par**:
 
 	  - Décret n°2007-487 du 30 mars 2007 - art. 69 (Ab)
-	  - Code du patrimoine - art. L611-1 (V)
+	  - Code du patrimoine - art. L611-1 (VD)
 	  - Code du patrimoine - art. L611-2 (V)
-	  - Code du patrimoine - art. L612-2 (Ab)
 	  - Code du patrimoine. - art. R622-27 (V)
 
 	**Modifié par**:
 
-	  - Loi n°2016-925 du 7 juillet 2016 - art. 75
+	  - Ordonnance n°2017-651 du 27 avril 2017 - art. 6
 
 
 ###### Article L622-11
 
-La collectivité propriétaire, affectataire ou dépositaire peut, à toute époque, obtenir la réintégration de l'objet dans son
-emplacement primitif, si elle justifie que les conditions exigées y sont désormais réalisées.
+Les effets du classement ou de l'inscription au titre des monuments historiques d'un objet mobilier, les effets du classement
+d'un ensemble historique mobilier et les effets de la servitude de maintien dans les lieux suivent les biens, en quelques
+mains qu'ils passent.
+
+**Nota:**
+
+Conformément aux dispositions de l'article 23 de l'ordonnance n° 2017-651 du 27 avril 2017, ces dispositions entrent en
+vigueur à une date fixée par décret et au plus tard le 1er janvier 2018. Les demandes déposées et les procédures engagées
+avant cette date demeurent régies par les dispositions antérieures.
 
 **Liens relatifs à cet article**
 
 	**Anciens textes**:
 
-	  - Loi n°1913-12-31 art. 26 al. 3
 	  - Loi n°1913-12-31 du 31 décembre 1913 - art. 26 (V)
 
 	**Codifié par**:
 
-	  - Ordonnance 2004-178 2004-02-20 JORF 24 février 2004
+	  - Ordonnance n°2004-178 du 20 février 2004
 
+	**Modifié par**:
+
+	  - Ordonnance n°2017-651 du 27 avril 2017 - art. 6
+
+
+##### Section 2 : Conservation et restauration des objets mobiliers classés ou inscrits
 
 ###### Article L622-12
 
-Les gardiens d'immeubles ou d'objets classés au titre des monuments historiques appartenant à des collectivités territoriales
-ou à des établissements publics, doivent être agréés et commissionnés par l'autorité administrative.
+L'objet mobilier classé ou inscrit au titre des monuments historiques ne peut être détruit, modifié ou restauré sans
+autorisation de l'autorité administrative.
 
-L'autorité administrative est tenue de faire connaître son agrément ou son refus d'agréer dans un délai fixé par voie
-réglementaire. Faute par la personne publique intéressée de présenter un gardien à l'agrément de l'autorité administrative,
-celle-ci pourra en désigner un d'office.
+Les travaux autorisés sont réalisés sous le contrôle scientifique et technique des services de l'Etat chargés des monuments
+historiques.
 
-Le montant du traitement des gardiens doit être approuvé par l'autorité administrative.
+Un décret en Conseil d'Etat précise les catégories de professionnels auxquels le maître d'ouvrage est tenu de confier la
+maîtrise d'œuvre ou la conception des travaux sur un objet mobilier classé ou inscrit..
 
-Les gardiens ne peuvent être révoqués que par l'autorité administrative. Ils doivent être assermentés.
+**Nota:**
+
+Conformément aux dispositions de l'article 23 de l'ordonnance n° 2017-651 du 27 avril 2017, ces dispositions entrent en
+vigueur à une date fixée par décret et au plus tard le 1er janvier 2018. Les demandes déposées et les procédures engagées
+avant cette date demeurent régies par les dispositions antérieures.
 
 **Liens relatifs à cet article**
 
 	**Anciens textes**:
 
-	  - Loi n°1913-12-31 art. 27
 	  - Loi n°1913-12-31 du 31 décembre 1913 - art. 27 (V)
 
 	**Codifié par**:
 
-	  - Ordonnance 2004-178 2004-02-20 JORF 24 février 2004
+	  - Ordonnance n°2004-178 du 20 février 2004
 
-	**Abrogé par**:
+	**Modifié par**:
 
-	  - Ordonnance n°2005-1128 du 8 septembre 2005 - art. 22 () JORF 9 septembre 2005
+	  - Ordonnance n°2017-651 du 27 avril 2017 - art. 6
 
 	**Cité par**:
 
@@ -11421,18 +11410,46 @@ Les gardiens ne peuvent être révoqués que par l'autorité administrative. Ils
 
 ###### Article L622-13
 
-Tous les objets mobiliers classés au titre des monuments historiques sont imprescriptibles.
+Sans préjudice des dispositions de l'article L. 622-16, le propriétaire ou l'affectataire domanial est responsable de la
+conservation de l'objet mobilier classé ou inscrit au titre des monuments historiques qui lui appartient ou qui est mis à sa
+disposition. Il est tenu d'en assurer la garde et la conservation et de prendre à cet effet les mesures nécessaires.
+
+Le maître d'ouvrage des travaux sur l'objet mobilier classé ou inscrit est le propriétaire ou l'affectataire si les
+conditions de la mise à disposition le prévoient.
+
+Les services de l'Etat chargés des monuments historiques peuvent apporter une assistance gratuite au propriétaire ou à
+l'affectataire d'un objet mobilier classé ou inscrit qui ne dispose pas, du fait de l'insuffisance de ses ressources ou de la
+complexité du projet de travaux, des moyens nécessaires à l'exercice de la maîtrise d'ouvrage de l'opération. Un décret en
+Conseil d'Etat précise les conditions de cette assistance, ainsi que le contenu et les modalités des missions de maîtrise
+d'ouvrage exercées à ce titre par les services de l'Etat.
+
+Une assistance de l'Etat en matière de maîtrise d'ouvrage peut également être apportée lorsqu'aucune des conditions
+mentionnées à l'alinéa précédent n'est remplie, dès lors que le propriétaire ou l'affectataire établit la carence de l'offre
+privée et des autres collectivités publiques. Dans ce cas, la prestation est rémunérée par application d'un barème, établi en
+fonction des coûts réels, fixé par décret en Conseil d'Etat.
+
+Une convention signée avec le maître d'ouvrage définit les modalités particulières de l'assistance à la maîtrise d'ouvrage
+assurée par les services de l'Etat.
+
+**Nota:**
+
+Conformément aux dispositions de l'article 23 de l'ordonnance n° 2017-651 du 27 avril 2017, ces dispositions entrent en
+vigueur à une date fixée par décret et au plus tard le 1er janvier 2018. Les demandes déposées et les procédures engagées
+avant cette date demeurent régies par les dispositions antérieures.
 
 **Liens relatifs à cet article**
 
 	**Anciens textes**:
 
-	  - Loi n°1913-12-31 art. 18 al. 3
 	  - Loi n°1913-12-31 du 31 décembre 1913 - art. 18 (Ab)
 
 	**Codifié par**:
 
-	  - Ordonnance 2004-178 2004-02-20 JORF 24 février 2004
+	  - Ordonnance n°2004-178 du 20 février 2004
+
+	**Modifié par**:
+
+	  - Ordonnance n°2017-651 du 27 avril 2017 - art. 6
 
 	**Cité par**:
 
@@ -11441,66 +11458,95 @@ Tous les objets mobiliers classés au titre des monuments historiques sont impre
 
 ###### Article L622-14
 
-Les objets classés au titre des monuments historiques appartenant à l'Etat sont inaliénables.
+Lorsque les études et les travaux de mise en sécurité, d'entretien et de restauration des objets mobiliers classés ou
+inscrits au titre des monuments historiques, ainsi que l'assistance à maîtrise d'ouvrage, font l'objet d'aides de la part des
+collectivités publiques, un échéancier prévoit le versement d'un acompte avant le début de chaque tranche de travaux.
 
-Les objets classés au titre des monuments historiques appartenant à une collectivité territoriale ou à un établissement
-public ou d'utilité publique ne peuvent être aliénés qu'avec l'accord de l'autorité administrative et dans les formes prévues
-par les lois et règlements. La propriété ne peut en être transférée qu'à l'Etat, à une personne publique ou à un
-établissement d'utilité publique.
+**Nota:**
+
+Conformément aux dispositions de l'article 23 de l'ordonnance n° 2017-651 du 27 avril 2017, ces dispositions entrent en
+vigueur à une date fixée par décret et au plus tard le 1er janvier 2018. Les demandes déposées et les procédures engagées
+avant cette date demeurent régies par les dispositions antérieures.
 
 **Liens relatifs à cet article**
 
 	**Anciens textes**:
 
-	  - Loi n°1913-12-31 art. 18 al. 2, al. 3
 	  - Loi n°1913-12-31 du 31 décembre 1913 - art. 18 (Ab)
 
 	**Codifié par**:
 
-	  - Ordonnance 2004-178 2004-02-20 JORF 24 février 2004
+	  - Ordonnance n°2004-178 du 20 février 2004
+
+	**Modifié par**:
+
+	  - Ordonnance n°2017-651 du 27 avril 2017 - art. 6
 
 	**Cité par**:
 
-	  - Code du patrimoine - art. L622-17 (V)
+	  - Code du patrimoine - art. L622-17 (VD)
 	  - Code du patrimoine - art. L624-4 (V)
 	  - Code du patrimoine - art. L642-2 (V)
 
 
 ###### Article L622-15
 
-Les effets du classement d'un objet mobilier au titre des monuments historiques suivent l'objet, en quelques mains qu'il
-passe.
+Les dépenses nécessaires à la garde et à la conservation des objets mobiliers classés au titre des monuments historiques
+sont, à l'exception des frais de construction ou de reconstruction des locaux, obligatoires pour les collectivités
+territoriales.
+
+A défaut pour une collectivité territoriale de prendre les mesures reconnues nécessaires par l'autorité administrative, il
+peut y être pourvu d'office, après une mise en demeure restée sans effet, par décision de la même autorité.
+
+**Nota:**
+
+Conformément aux dispositions de l'article 23 de l'ordonnance n° 2017-651 du 27 avril 2017, ces dispositions entrent en
+vigueur à une date fixée par décret et au plus tard le 1er janvier 2018. Les demandes déposées et les procédures engagées
+avant cette date demeurent régies par les dispositions antérieures.
 
 **Liens relatifs à cet article**
 
 	**Anciens textes**:
 
-	  - Loi n°1913-12-31 art. 19 al. 1
 	  - Loi n°1913-12-31 du 31 décembre 1913 - art. 19 (Ab)
 
 	**Codifié par**:
 
-	  - Ordonnance 2004-178 2004-02-20 JORF 24 février 2004
+	  - Ordonnance n°2004-178 du 20 février 2004
 
-	**Abrogé par**:
+	**Modifié par**:
 
-	  - Ordonnance n°2005-1128 du 8 septembre 2005 - art. 22 () JORF 9 septembre 2005
+	  - Ordonnance n°2017-651 du 27 avril 2017 - art. 6
 
 
 ###### Article L622-16
 
-Tout particulier qui aliène un objet classé au titre des monuments historiques est tenu de faire connaître à l'acquéreur
-l'existence du classement.
+Lorsque l'autorité administrative estime que la conservation ou la sécurité d'un objet mobilier classé au titre des monuments
+historiques, appartenant à une collectivité territoriale ou à un établissement public, est mise en péril et lorsque la
+collectivité propriétaire, affectataire ou dépositaire ne prend pas immédiatement les mesures nécessaires pour y remédier,
+l'autorité administrative peut, par arrêté motivé, ordonner la mise en œuvre d'urgence aux frais de l'Etat, des mesures
+conservatoires utiles. En cas de nécessité, l'autorité administrative peut également ordonner, aux mêmes conditions, le
+transfert provisoire de l'objet dans un centre de conservation et d'études, un trésor de cathédrale, un musée de France ou
+tout autre lieu public de l'Etat ou d'une collectivité territoriale offrant les garanties de sécurité voulues et, autant que
+possible, situé dans le voisinage de son emplacement primitif.
 
-Toute aliénation doit, dans les quinze jours de la date de son accomplissement, être notifiée à l'autorité administrative par
-celui qui l'a consentie.
+Dans un délai de trois mois à compter de ce transfert provisoire, l'autorité administrative détermine les mesures nécessaires
+pour assurer la garde et la conservation de l'objet dans son emplacement primitif.
+
+La collectivité propriétaire, affectataire ou dépositaire peut à tout moment obtenir la réintégration de l'objet dans son
+emplacement primitif, si elle justifie que les mesures exigées ont été mises en œuvre.
+
+**Nota:**
+
+Conformément aux dispositions de l'article 23 de l'ordonnance n° 2017-651 du 27 avril 2017, ces dispositions entrent en
+vigueur à une date fixée par décret et au plus tard le 1er janvier 2018. Les demandes déposées et les procédures engagées
+avant cette date demeurent régies par les dispositions antérieures.
 
 **Liens relatifs à cet article**
 
 	**Anciens textes**:
 
 	  - Loi n°1913-12-31 du 31 décembre 1913 - art. 19 (Ab)
-	  - Loi n°1913-12-31 art. 19 al. 2, al. 3
 
 	**Cité par**:
 
@@ -11512,23 +11558,24 @@ celui qui l'a consentie.
 
 	**Codifié par**:
 
-	  - Ordonnance 2004-178 2004-02-20 JORF 24 février 2004
+	  - Ordonnance n°2004-178 du 20 février 2004
+
+	**Modifié par**:
+
+	  - Ordonnance n°2017-651 du 27 avril 2017 - art. 6
 
 
 ###### Article L622-17
 
-L'acquisition faite en violation de l'article L. 622-14 est nulle. Les actions en nullité ou en revendication peuvent être
-exercées à toute époque tant par l'autorité administrative que par le propriétaire originaire. Elles s'exercent sans
-préjudice des demandes en dommages-intérêts qui peuvent être dirigées soit contre les parties contractantes solidairement
-responsables, soit contre l'officier public qui a prêté son concours à l'aliénation. Lorsque l'aliénation illicite a été
-consentie par une personne publique ou un établissement d'utilité publique, cette action en dommages-intérêts est exercée par
-l'autorité administrative au nom et au profit de l'Etat. 
+Le déplacement d'un objet mobilier classé ou de tout ou partie d'un ensemble historique mobilier classé grevé d'une servitude
+de maintien dans les lieux en application de l'article L. 622-3 est subordonné à une autorisation de l'autorité
+administrative.
 
-L'acquéreur ou sous-acquéreur de bonne foi, entre les mains duquel l'objet est revendiqué, a droit au remboursement de son
-prix d'acquisition. Si la revendication est exercée par l'autorité administrative, celle-ci aura recours contre le vendeur
-originaire pour le montant intégral de l'indemnité qu'elle aura dû payer à l'acquéreur ou sous-acquéreur. 
+**Nota:**
 
-Les dispositions du présent article sont applicables aux objets perdus ou volés.
+Conformément aux dispositions de l'article 23 de l'ordonnance n° 2017-651 du 27 avril 2017, ces dispositions entrent en
+vigueur à une date fixée par décret et au plus tard le 1er janvier 2018. Les demandes déposées et les procédures engagées
+avant cette date demeurent régies par les dispositions antérieures.
 
 **Liens relatifs à cet article**
 
@@ -11550,17 +11597,35 @@ Les dispositions du présent article sont applicables aux objets perdus ou volé
 
 	**Modifié par**:
 
-	  - Loi n°2016-925 du 7 juillet 2016 - art. 75
+	  - Ordonnance n°2017-651 du 27 avril 2017 - art. 6
 
 	**Cite**:
 
-	  - Code du patrimoine - art. L622-14
+	  - Code du patrimoine - art. L622-14 (VD)
 
 
 ###### Article L622-18
 
-L'exportation hors de France des objets classés au titre des monuments historiques est interdite, sans préjudice des
-dispositions relatives à l'exportation temporaire prévue à l'article L. 111-7.
+Le propriétaire, le détenteur, l'affectataire domanial ou le dépositaire d'un objet mobilier classé ou inscrit qui a
+l'intention de déplacer cet objet d'un lieu à un autre est tenu d'en faire préalablement la déclaration à l'autorité
+administrative dans un délai fixé par décret en Conseil d'Etat.
+
+Le déplacement d'un objet mobilier classé ou inscrit appartenant à l'Etat, à une collectivité territoriale ou à l'un de leurs
+établissements publics a lieu sous le contrôle scientifique et technique des services de l'Etat chargés des monuments
+historiques.
+
+Le déplacement d'un objet mobilier classé ou inscrit appartenant à un propriétaire privé peut avoir lieu, à la demande de ce
+dernier, avec l'assistance technique des services de l'Etat chargés des monuments historiques.
+
+Les modalités d'application du présent article, notamment le contenu et la procédure d'instruction de la déclaration
+préalable, les conditions d'exercice du contrôle scientifique et technique ainsi que le bénéfice de l'assistance technique
+des services de l'Etat chargés des monuments historiques, sont déterminés par décret en Conseil d'Etat.
+
+**Nota:**
+
+Conformément aux dispositions de l'article 23 de l'ordonnance n° 2017-651 du 27 avril 2017, ces dispositions entrent en
+vigueur à une date fixée par décret et au plus tard le 1er janvier 2018. Les demandes déposées et les procédures engagées
+avant cette date demeurent régies par les dispositions antérieures.
 
 **Liens relatifs à cet article**
 
@@ -11570,11 +11635,15 @@ dispositions relatives à l'exportation temporaire prévue à l'article L. 111-7
 
 	**Codifié par**:
 
-	  - Ordonnance 2004-178 2004-02-20 JORF 24 février 2004
+	  - Ordonnance n°2004-178 du 20 février 2004
+
+	**Modifié par**:
+
+	  - Ordonnance n°2017-651 du 27 avril 2017 - art. 6
 
 	**Cite**:
 
-	  - Code du patrimoine - art. L111-7 (V)
+	  - Code du patrimoine - art. L111-7
 
 	**Cité par**:
 
@@ -11584,69 +11653,86 @@ dispositions relatives à l'exportation temporaire prévue à l'article L. 111-7
 
 ###### Article L622-19
 
-Les dispositions du présent titre sont applicables à tous les objets mobiliers, soit meubles proprement dits, soit immeubles
-par destination, régulièrement classés au titre des monuments historiques avant le 4 janvier 1914.
+L'exportation hors de France d'un objet mobilier classé au titre des monuments historiques est interdite, sous réserve des
+dispositions relatives à l'exportation temporaire prévue à l'article L. 111-7.
+
+**Nota:**
+
+Conformément aux dispositions de l'article 23 de l'ordonnance n° 2017-651 du 27 avril 2017, ces dispositions entrent en
+vigueur à une date fixée par décret et au plus tard le 1er janvier 2018. Les demandes déposées et les procédures engagées
+avant cette date demeurent régies par les dispositions antérieures.
 
 **Liens relatifs à cet article**
 
 	**Anciens textes**:
 
-	  - Loi n°1913-12-31 art. 38 (en ce qui concerne les meubles)
 	  - Loi n°1913-12-31 du 31 décembre 1913 - art. 38 (Ab)
 
 	**Codifié par**:
 
-	  - Ordonnance 2004-178 2004-02-20 JORF 24 février 2004
+	  - Ordonnance n°2004-178 du 20 février 2004
 
+	**Modifié par**:
 
-##### Section 2 : Inscription des objets mobiliers.
+	  - Ordonnance n°2017-651 du 27 avril 2017 - art. 6
+
+	**Cite**:
+
+	  - Code du patrimoine - art. L111-7 (V)
+
 
 ###### Article L622-20
 
-Les objets mobiliers, soit meubles proprement dits, soit immeubles par destination qui, sans justifier une demande de
-classement immédiat, présentent, au point de vue de l'histoire, de l'art, de la science ou de la technique, un intérêt
-suffisant pour en rendre désirable la préservation, peuvent, à toute époque, être inscrits au titre des monuments
-historiques. Les objets mobiliers appartenant à une personne privée ne peuvent être inscrits qu'avec son consentement.
+L'autorité administrative procède au récolement des objets mobiliers classés et inscrits au titre des monuments historiques
+dans des conditions définies par décret en Conseil d'Etat.
+
+Les propriétaires, affectataires, dépositaires ou détenteurs de ces objets mobiliers sont tenus de les présenter aux agents
+accrédités par l'autorité administrative lorsque ceux-ci en font la demande.
+
+**Nota:**
+
+Conformément aux dispositions de l'article 23 de l'ordonnance n° 2017-651 du 27 avril 2017, ces dispositions entrent en
+vigueur à une date fixée par décret et au plus tard le 1er janvier 2018. Les demandes déposées et les procédures engagées
+avant cette date demeurent régies par les dispositions antérieures.
 
 **Liens relatifs à cet article**
 
 	**Anciens textes**:
 
-	  - Loi n°1913-12-31 art. 24 bis, al. 1
 	  - Loi n°1913-12-31 du 31 décembre 1913 - art. 24 bis (V)
 
 	**Codifié par**:
 
-	  - Ordonnance 2004-178 2004-02-20 JORF 24 février 2004
+	  - Ordonnance n°2004-178 du 20 février 2004
 
 	**Modifié par**:
 
-	  - Ordonnance n°2005-1128 du 8 septembre 2005 - art. 24 () JORF 9 septembre 2005 en vigueur le 1er avril 2007
+	  - Ordonnance n°2017-651 du 27 avril 2017 - art. 6
 
 	**Cité par**:
 
 	  - Code du patrimoine - art. L642-1 (VD)
 
 
+##### Section 3 : Régime de propriété des objets mobiliers classés ou inscrits
+
 ###### Article L622-21
 
-Cette inscription est prononcée par décision de l'autorité administrative, qui est notifiée au propriétaire, au détenteur, à
-l'affectataire domanial et au dépositaire de l'objet.
+Les objets mobiliers classés ou inscrits au titre des monuments historiques sont imprescriptibles.
 
 **Liens relatifs à cet article**
 
 	**Anciens textes**:
 
-	  - Loi n°1913-12-31 art. 24 bis, al. 2 à 4
 	  - Loi n°1913-12-31 du 31 décembre 1913 - art. 24 bis (V)
 
 	**Codifié par**:
 
-	  - Ordonnance 2004-178 2004-02-20 JORF 24 février 2004
+	  - Ordonnance n°2004-178 du 20 février 2004
 
 	**Modifié par**:
 
-	  - Ordonnance n°2005-1128 du 8 septembre 2005 - art. 25 () JORF 9 septembre 2005 en vigueur le 1er avril 2007
+	  - Ordonnance n°2017-651 du 27 avril 2017 - art. 6
 
 	**Cité par**:
 
@@ -11655,27 +11741,32 @@ l'affectataire domanial et au dépositaire de l'objet.
 
 ###### Article L622-22
 
-Le propriétaire, le détenteur, l'affectataire domanial ou le dépositaire d'un objet mobilier inscrit au titre des monuments
-historiques qui a l'intention de modifier, réparer ou restaurer cet objet est tenu d'en faire préalablement la déclaration à
-l'autorité administrative dans des conditions et délai fixés par décret en Conseil d'Etat. 
+Les objets mobiliers classés ou inscrits au titre des monuments historiques appartenant à une personne publique ou à un
+établissement d'utilité publique ne peuvent être aliénés qu'avec l'accord de l'autorité administrative chargée des monuments
+historiques. La propriété ne peut en être transférée qu'à une personne publique ou à un établissement d'utilité publique. 
 
-Les professionnels habilités à assurer la maîtrise d'œuvre des travaux de réparation ou de restauration des orgues inscrits
-ou des parties non protégées des orgues partiellement protégés sont déterminés dans les conditions prévues à l'article L.
-622-7.
+Un ensemble historique mobilier classé en application de l'article L. 622-2 ne peut être divisé ou aliéné par lot ou pièce
+sans autorisation de l'autorité administrative.
+
+**Nota:**
+
+Conformément aux dispositions de l'article 23 de l'ordonnance n° 2017-651 du 27 avril 2017, ces dispositions entrent en
+vigueur à une date fixée par décret et au plus tard le 1er janvier 2018. Les demandes déposées et les procédures engagées
+avant cette date demeurent régies par les dispositions antérieures.
 
 **Liens relatifs à cet article**
 
 	**Codifié par**:
 
-	  - Ordonnance 2004-178 2004-02-20 JORF 24 février 2004
+	  - Ordonnance n°2004-178 du 20 février 2004
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Ordonnance n°2005-1128 du 8 septembre 2005 - art. 26 () JORF 9 septembre 2005 en vigueur le 1er avril 2007
+	  - Ordonnance n°2017-651 du 27 avril 2017 - art. 6
 
 	**Cite**:
 
-	  - Code du patrimoine - art. L622-7 (V)
+	  - Code du patrimoine - art. L622-2 (VT)
 
 	**Cité par**:
 
@@ -11685,51 +11776,72 @@ ou des parties non protégées des orgues partiellement protégés sont détermi
 
 ###### Article L622-23
 
-Quiconque aliène un objet inscrit au titre des monuments historiques est tenu de faire connaître au futur acquéreur
-l'existence de l'inscription.
+Quiconque aliène un objet mobilier classé ou inscrit au titre des monuments historiques est tenu de faire connaître au futur
+acquéreur l'existence de la protection.
 
-L'objet mobilier inscrit au titre des monuments historiques appartenant à une collectivité territoriale ou à l'un de ses
-établissements publics ne peut être aliéné à titre gratuit ou onéreux sans que l'autorité administrative ne soit informée à
-l'avance de l'intention de cession dans un délai fixé par décret en Conseil d'Etat.
+L'aliénation doit être notifiée à l'autorité administrative par celui qui l'a consentie dans un délai fixé par décret en
+Conseil d'Etat.
 
-Toute aliénation doit, dans un délai fixé par voie réglementaire, être notifiée à l'autorité administrative par celui qui l'a
-consentie.
+**Nota:**
+
+Conformément aux dispositions de l'article 23 de l'ordonnance n° 2017-651 du 27 avril 2017, ces dispositions entrent en
+vigueur à une date fixée par décret et au plus tard le 1er janvier 2018. Les demandes déposées et les procédures engagées
+avant cette date demeurent régies par les dispositions antérieures.
 
 **Liens relatifs à cet article**
 
 	**Codifié par**:
 
-	  - Ordonnance 2004-178 2004-02-20 JORF 24 février 2004
+	  - Ordonnance n°2004-178 du 20 février 2004
 
 	**Cite**:
 
-	  - Ordonnance 2005-1128 2005-09-08 art. 38
+	  - Ordonnance n°2005-1128 du 8 septembre 2005
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Ordonnance n°2005-1128 du 8 septembre 2005 - art. 26 () JORF 9 septembre 2005 en vigueur le 1er avril 2007
+	  - Ordonnance n°2017-651 du 27 avril 2017 - art. 6
 
 	**Cité par**:
 
 	  - Code du patrimoine - art. L642-1 (VD)
 
 
-##### Section 3 : Dispositions communes aux objets classés et aux objets inscrits.
-
 ###### Article L622-24
 
-Le propriétaire ou l'affectataire domanial a la responsabilité de la conservation de l'objet mobilier classé ou inscrit qui
-lui appartient ou qui lui est affecté.
+L'acquisition faite en violation des dispositions de l'article L. 621-22 est nulle. 
+
+L'action en nullité ou en revendication peut être exercée à tout moment par l'autorité administrative ou par le propriétaire
+originaire. Elle s'exerce sans préjudice des demandes en dommages-intérêts qui peuvent être dirigées soit contre les parties
+contractantes solidairement responsables, soit contre l'officier public qui a prêté son concours à l'aliénation. Lorsque
+l'aliénation illicite a été consentie par une personne publique ou un établissement d'utilité publique, l'action en dommages-
+intérêts est exercée par l'autorité administrative au nom et au profit de l'Etat. 
+
+L'acquéreur ou sous-acquéreur de bonne foi, entre les mains duquel l'objet est revendiqué, a droit au remboursement de son
+prix d'acquisition. Si la revendication est exercée par l'autorité administrative, celle-ci aura recours contre le vendeur
+originaire pour le montant intégral de l'indemnité qu'elle aura dû payer à l'acquéreur ou sous-acquéreur. 
+
+Les dispositions du présent article sont applicables aux objets perdus ou volés.
+
+**Nota:**
+
+Conformément aux dispositions de l'article 23 de l'ordonnance n° 2017-651 du 27 avril 2017, ces dispositions entrent en
+vigueur à une date fixée par décret et au plus tard le 1er janvier 2018. Les demandes déposées et les procédures engagées
+avant cette date demeurent régies par les dispositions antérieures.
 
 **Liens relatifs à cet article**
 
 	**Codifié par**:
 
-	  - Ordonnance 2004-178 2004-02-20 JORF 24 février 2004
+	  - Ordonnance n°2004-178 du 20 février 2004
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Ordonnance n°2005-1128 du 8 septembre 2005 - art. 27 () JORF 9 septembre 2005
+	  - Ordonnance n°2017-651 du 27 avril 2017 - art. 6
+
+	**Cite**:
+
+	  - Code du patrimoine - art. L621-22 (VT)
 
 	**Cité par**:
 
@@ -11738,132 +11850,28 @@ lui appartient ou qui lui est affecté.
 
 ###### Article L622-25
 
-Le maître d'ouvrage des travaux sur l'objet mobilier classé ou inscrit est le propriétaire ou l'affectataire domanial si les
-conditions de la remise en dotation le prévoient.
+En cas de mutation d'un objet mobilier classé ou inscrit, le propriétaire ou l'affectataire domanial transmet les études et
+les documents afférents aux travaux de conservation ou de restauration réalisés sur cet objet mobilier au nouveau
+propriétaire ou au nouvel affectataire domanial
 
-Les services de l'Etat chargés des monuments historiques peuvent apporter une assistance gratuite au propriétaire ou à
-l'affectataire domanial d'un objet mobilier classé ou inscrit qui ne dispose pas, du fait de l'insuffisance de ses ressources
-ou de la complexité du projet de travaux, des moyens nécessaires à l'exercice de la maîtrise d'ouvrage de l'opération. Un
-décret en Conseil d'Etat précise les conditions ouvrant la possibilité de cette assistance, ainsi que le contenu et les
-modalités des missions de maîtrise d'ouvrage exercées à ce titre par les services de l'Etat.
+**Nota:**
 
-Une assistance de l'Etat en matière de maîtrise d'ouvrage peut également être apportée lorsqu'aucune des conditions
-mentionnées à l'alinéa précédent n'est remplie, dès lors que le propriétaire ou l'affectataire domanial établit la carence de
-l'offre privée et des autres collectivités publiques. Dans ce cas, la prestation est rémunérée par application d'un barème,
-établi en fonction des coûts réels, fixé par décret en Conseil d'Etat.
-
-Une convention signée avec le propriétaire ou l'affectataire domanial définit les modalités particulières de l'assistance à
-la maîtrise d'ouvrage assurée par les services de l'Etat.
+Conformément aux dispositions de l'article 23 de l'ordonnance n° 2017-651 du 27 avril 2017, ces dispositions entrent en
+vigueur à une date fixée par décret et au plus tard le 1er janvier 2018. Les demandes déposées et les procédures engagées
+avant cette date demeurent régies par les dispositions antérieures.
 
 **Liens relatifs à cet article**
 
 	**Codifié par**:
 
-	  - Ordonnance 2004-178 2004-02-20 JORF 24 février 2004
-
-	**Créé par**:
-
-	  - Ordonnance n°2005-1128 du 8 septembre 2005 - art. 27 () JORF 9 septembre 2005 en vigueur le 1er octobre 2007
+	  - Ordonnance n°2004-178 du 20 février 2004
 
 	**Cité par**:
 
 	  - Décret n°2009-748 du 22 juin 2009 - art. 1 (Ab)
 	  - Code du patrimoine. - art. R622-45 (V)
 
-
-###### Article L622-26
-
-En cas de mutation d'un objet mobilier classé ou inscrit, le propriétaire ou l'affectataire domanial transmet les études et
-les documents afférents aux travaux de conservation ou de restauration réalisés sur cet objet mobilier au nouveau
-propriétaire ou au nouvel affectataire domanial.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Ordonnance n°2004-178 du 20 février 2004
-
-	**Créé par**:
-
-	  - Ordonnance n°2005-1128 du 8 septembre 2005 - art. 27 () JORF 9 septembre 2005
-
-	**Abrogé par**:
-
-	  - Ordonnance n°2017-651 du 27 avril 2017 - art. 6
-
-
-###### Article L622-27
-
-Lorsque les travaux d'entretien, de réparation et de mise en sécurité des objets mobiliers classés ou inscrits, les études
-préalables et les travaux de restauration de ces objets mobiliers ainsi que l'assistance à maîtrise d'ouvrage font l'objet,
-dans les conditions prévues par les lois et règlements, d'aides de la part des collectivités publiques, un échéancier prévoit
-le versement au propriétaire d'un acompte avant le début de chaque tranche de travaux.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Ordonnance n°2004-178 du 20 février 2004
-
-	**Créé par**:
-
-	  - Ordonnance n°2005-1128 du 8 septembre 2005 - art. 27 () JORF 9 septembre 2005 en vigueur le 1er octobre 2007
-
-	**Abrogé par**:
-
-	  - Ordonnance n°2017-651 du 27 avril 2017 - art. 6
-
-
-###### Article L622-28
-
-Le propriétaire, le détenteur, l'affectataire domanial ou le dépositaire d'un objet mobilier classé ou inscrit au titre des
-monuments historiques qui a l'intention de déplacer cet objet d'un lieu dans un autre est tenu d'en faire préalablement la
-déclaration à l'autorité administrative dans un délai fixé par décret en Conseil d'Etat.
-
-Le déplacement des objets mobiliers classés ou inscrits appartenant à l'Etat, aux collectivités territoriales ou à leurs
-établissements publics a lieu sous le contrôle scientifique et technique des services de l'Etat chargés des monuments
-historiques. Le déplacement des objets mobiliers classés ou inscrits appartenant à des propriétaires privés peut avoir lieu,
-à la demande de ceux-ci, avec l'assistance technique des services de l'Etat chargés des monuments historiques.
-
-Les modalités d'application du présent article, notamment le contenu et la procédure d'instruction de la déclaration
-préalable, les conditions d'exercice du contrôle scientifique et technique ainsi que le bénéfice de l'assistance technique
-des services de l'Etat chargés des monuments historiques, sont déterminées par décret en Conseil d'Etat.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Ordonnance 2004-178 2004-02-20 JORF 24 février 2004
-
-	**Créé par**:
-
-	  - Ordonnance n°2005-1128 du 8 septembre 2005 - art. 27 () JORF 9 septembre 2005 en vigueur le 1er octobre 2007
-
-	**Abrogé par**:
-
-	  - Ordonnance n°2017-651 du 27 avril 2017 - art. 6
-
-	**Cité par**:
-
-	  - Code du patrimoine - art. L642-1 (V)
-
-
-###### Article L622-29
-
-Les effets du classement ou de l'inscription au titre des monuments historiques d'un objet mobilier suivent l'objet en
-quelques mains qu'il passe.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Ordonnance n°2004-178 du 20 février 2004
-
-	**Créé par**:
-
-	  - Ordonnance n°2005-1128 du 8 septembre 2005 - art. 27 () JORF 9 septembre 2005
-
-	**Abrogé par**:
+	**Modifié par**:
 
 	  - Ordonnance n°2017-651 du 27 avril 2017 - art. 6
 
@@ -12319,35 +12327,31 @@ situé dans un site patrimonial remarquable pour lequel une demande de permis de
 
 ###### Article L641-1
 
-I.-Est puni des peines prévues à l'article L. 480-4 du code de l'urbanisme le fait de réaliser des travaux : 
+I.-Est puni des peines prévues à l'article L. 480-4 du code de l'urbanisme le fait de réaliser des travaux :
 
-1° Sans l'autorisation prévue à l'article L. 621-9 du présent code relatif aux travaux sur les immeubles classés au titre des
-monuments historiques et au détachement d'un effet mobilier attaché à perpétuelle demeure à l'immeuble ; 
+1° Sans l'autorisation prévue à l'article L. 621-9 du présent code relatif aux travaux sur les immeubles classés ou inscrits
+au titre des monuments historiques et au détachement d'un effet mobilier attaché à perpétuelle demeure à l'immeuble ;
 
-2° Sans la déclaration ou l'accord prévu à l'article L. 621-27 relatif aux travaux sur les immeubles ou les parties
-d'immeuble inscrits au titre des monuments historiques et au détachement d'un effet mobilier attaché à perpétuelle demeure à
-l'immeuble ; 
+2° Sans l'autorisation prévue à l'article L. 621-32 relatif aux travaux sur les immeubles situés en abords ;
 
-3° Sans l'autorisation prévue à l'article L. 621-32 relatif aux travaux sur les immeubles situés en abords ; 
-
-4° Sans l'autorisation prévue aux articles L. 632-1 et L. 632-2 relatifs aux travaux sur les immeubles situés en site
-patrimonial remarquable. 
+3° Sans l'autorisation prévue aux articles L. 632-1 et L. 632-2 relatifs aux travaux sur les immeubles situés en site
+patrimonial remarquable.
 
 II.-Les articles L. 480-1, L. 480-2, L. 480-3 et L. 480-5 à L. 480-9 du code de l'urbanisme sont applicables aux infractions
-prévues au I du présent article, sous la seule réserve des conditions suivantes : 
+prévues au I du présent article, sous la seule réserve des conditions suivantes :
 
 1° Les infractions peuvent être constatées par les agents publics commissionnés à cet effet par le ministre chargé de la
-culture et assermentés ; 
+culture et assermentés ;
 
 2° Pour l'application de l'article L. 480-2 du code de l'urbanisme, le représentant de l'Etat dans la région ou le ministre
 chargé de la culture peut saisir l'autorité judiciaire d'une demande d'interruption des travaux et, dès qu'un procès-verbal
 relevant l'une des infractions prévues au I du présent article a été dressé, ordonner, par arrêté motivé, l'interruption des
-travaux si l'autorité judiciaire ne s'est pas encore prononcée ; 
+travaux si l'autorité judiciaire ne s'est pas encore prononcée ;
 
 3° Pour l'application de l'article L. 480-5 du code de l'urbanisme, le tribunal statue soit sur la mise en conformité des
 lieux ou des ouvrages avec les prescriptions formulées par le ministre chargé de la culture, soit sur la démolition des
 ouvrages ou la réaffectation du sol en vue du rétablissement des lieux dans leur état antérieur. Le tribunal peut soit fixer
-une astreinte, soit ordonner l'exécution d'office aux frais de l'auteur de l'infraction ; 
+une astreinte, soit ordonner l'exécution d'office aux frais de l'auteur de l'infraction ;
 
 4° Le droit de visite et de communication prévu à l'article L. 461-1 du code de l'urbanisme est ouvert aux agents publics
 commissionnés à cet effet par le ministre chargé de la culture et assermentés. L'article L. 480-12 du même code est
@@ -12355,77 +12359,94 @@ applicable.
 
 **Nota:**
 
-
+Conformément aux dispositions de l'article 23 de l'ordonnance n° 2017-651 du 27 avril 2017, ces dispositions entrent en
+vigueur à une date fixée par décret et au plus tard le 1er janvier 2018. Les demandes déposées et les procédures engagées
+avant cette date demeurent régies par les dispositions antérieures.
 
 **Liens relatifs à cet article**
 
 	**Modifié par**:
 
-	  - Loi n°2016-925 du 7 juillet 2016 - art. 77
+	  - Ordonnance n°2017-651 du 27 avril 2017 - art. 7
+
+	**Liens**:
+
+	  - PILOTE_SUIVEUR: Code de l'urbanisme - art. L313-1
+	  - PILOTE_SUIVEUR: Code de l'urbanisme - art. L313-11
+	  - PILOTE_SUIVEUR: Code de l'urbanisme - art. L313-12
+	  - PILOTE_SUIVEUR: Code de l'urbanisme - art. L313-14
+	  - PILOTE_SUIVEUR: Code de l'urbanisme - art. L313-15
+	  - PILOTE_SUIVEUR: Code de l'urbanisme - art. L313-2
+	  - PILOTE_SUIVEUR: Code de l'urbanisme - art. L313-2-1
+	  - PILOTE_SUIVEUR: Code de l'urbanisme - art. L313-3
 
 	**Cite**:
 
-	  - Code de l'urbanisme - art. L461-1 (V)
-	  - Code de l'urbanisme - art. L480-1 (V)
-	  - Code de l'urbanisme - art. L480-12 (V)
-	  - Code de l'urbanisme - art. L480-4 (V)
-	  - Code de l'urbanisme - art. L480-5 (V)
-	  - Code du patrimoine - art. L621-27 (V)
-	  - Code du patrimoine - art. L621-32 (V)
-	  - Code du patrimoine - art. L621-9 (V)
-	  - Code du patrimoine - art. L632-1 (V)
+	  - Code de l'urbanisme - art. L461-1
+	  - Code de l'urbanisme - art. L480-1
+	  - Code de l'urbanisme - art. L480-12
+	  - Code de l'urbanisme - art. L480-4
+	  - Code de l'urbanisme - art. L480-5
+	  - Code du patrimoine - art. L621-27
+	  - Code du patrimoine - art. L621-32
+	  - Code du patrimoine - art. L621-9
+	  - Code du patrimoine - art. L632-1
 
 	**Cité par**:
 
 	  - Code de l'environnement - art. L331-18 (V)
-	  - Code du patrimoine - art. L612-1 (V)
 	  - Code du patrimoine - art. L622-1 (VD)
 	  - Code du patrimoine - art. L720-1 (VD)
+	  - Code du patrimoine. - art. L612-1 (VD)
 
 
 ###### Article L641-2
 
-I.-Est puni de six mois d'emprisonnement et de 7 500 € d'amende le fait d'enfreindre les dispositions : 
+I. – Est puni de six mois d'emprisonnement et de 7 500 € d'amende le fait d'enfreindre les dispositions : 
 
-1° De l'article L. 622-1-1 relatif à la division ou à l'aliénation par lot ou pièce d'un ensemble historique mobilier
-classé ; 
-
-2° De l'article L. 622-1-2 relatif au déplacement d'un objet mobilier classé ou de tout ou partie d'un ensemble historique
+1° De l'article L. 622-17 relatif au déplacement d'un objet mobilier classé ou de tout ou partie d'un ensemble historique
 mobilier classé grevé d'une servitude de maintien dans les lieux dans un immeuble classé ; 
 
-3° De l'article L. 622-7 relatif à la modification, à la réparation ou à la restauration d'un objet mobilier classé au titre
-des monuments historiques ou d'un ou plusieurs éléments d'un ensemble historique mobilier classé au titre des monuments
-historiques ; 
+2° De l'article L. 622-22 relatif à la division ou à l'aliénation par lot ou pièce d'un ensemble historique mobilier
+classé ; 
 
-4° De l'article L. 622-22 relatif à la modification, à la réparation ou à la restauration d'un objet mobilier inscrit au
-titre des monuments historiques. 
+3° De l'article L. 622-12 relatif à la destruction, la modification ou la restauration d'un objet mobilier classé ou inscrit
+au titre des monuments historiques, ou appartenant à un ensemble historique mobilier classé. 
 
-II.-Dès qu'un procès-verbal relevant que des travaux ont été engagés en infraction aux articles L. 622-7 et L. 622-22 a été
-dressé, le ministre chargé de la culture ou son délégué peut, si l'autorité judiciaire ne s'est pas encore prononcée,
-prescrire leur interruption et la remise en état de l'objet mobilier aux frais de l'auteur de l'infraction, par une décision
-motivée. 
+II. – Dès qu'un procès-verbal relevant que des travaux ont été engagés en infraction à l'article L. 622-12 a été dressé, le
+ministre chargé de la culture ou son délégué peut, si l'autorité judiciaire ne s'est pas encore prononcée, prescrire leur
+interruption et la remise en état de l'objet mobilier aux frais de l'auteur de l'infraction, par une décision motivée. 
 
 L'interruption des travaux et la remise en état de l'objet mobilier aux frais de l'auteur de l'infraction peuvent être
 ordonnées soit sur réquisition du ministère public agissant à la requête du ministre, soit même d'office par la juridiction
 compétente, laquelle peut fixer une astreinte ou ordonner l'exécution d'office par l'administration aux frais des
 délinquants. 
 
-III.-La poursuite de l'infraction prévue au 3° du I du présent article s'exerce sans préjudice de l'action en dommages et
+III. – La poursuite de l'infraction prévue au 3° du I du présent article s'exerce sans préjudice de l'action en dommages et
 intérêts pouvant être introduite contre ceux qui ont ordonné les travaux exécutés ou les mesures prises en violation de
-l'article L. 622-7.
+l'article L. 622-12.
+
+**Nota:**
+
+Conformément aux dispositions de l'article 23 de l'ordonnance n° 2017-651 du 27 avril 2017, ces dispositions entrent en
+vigueur à une date fixée par décret et au plus tard le 1er janvier 2018. Les demandes déposées et les procédures engagées
+avant cette date demeurent régies par les dispositions antérieures.
 
 **Liens relatifs à cet article**
 
 	**Modifié par**:
 
-	  - Loi n°2016-925 du 7 juillet 2016 - art. 77
+	  - Ordonnance n°2017-651 du 27 avril 2017 - art. 8
+
+	**Liens**:
+
+	  - PILOTE_SUIVEUR: Code de l'urbanisme - art. L480-1
 
 	**Cite**:
 
-	  - Code du patrimoine - art. L622-1-1 (V)
-	  - Code du patrimoine - art. L622-1-2 (V)
-	  - Code du patrimoine - art. L622-22 (V)
-	  - Code du patrimoine - art. L622-7 (V)
+	  - Code du patrimoine - art. L622-12 (VT)
+	  - Code du patrimoine - art. L622-17 (VT)
+	  - Code du patrimoine - art. L622-22 (VT)
 
 	**Cité par**:
 
@@ -12470,15 +12491,21 @@ manquement grave à une obligation professionnelle, de le laisser détruire, aba
 Est passible d'une amende administrative dont le montant ne peut excéder 6 000 € pour une personne physique et 30 000 € pour
 une personne morale, le fait d'enfreindre les dispositions : 
 
-1° Des articles L. 621-22 et L. 621-29-6 relatifs à l'aliénation d'un immeuble classé ou inscrit au titre des monuments
+1° Des articles L. 621-20 et L. 621-26 relatifs à l'aliénation d'un immeuble classé ou inscrit au titre des monuments
 historiques ; 
 
-2° De l'article L. 622-8 relatif à la présentation des objets mobiliers classés au titre des monuments historiques ; 
-
-3° Des articles L. 622-16 et L. 622-23 relatifs à l'aliénation d'un objet mobilier classé ou inscrit au titre des monuments
+2° De l'article L. 622-20 relatif à la présentation des objets mobiliers classés ou inscrits au titre des monuments
 historiques ; 
 
-4° De l'article L. 622-28 relatif au déplacement d'un objet mobilier classé ou inscrit au titre des monuments historiques.
+3° De l'article L. 622-23 relatif à l'aliénation d'un objet mobilier classé ou inscrit au titre des monuments historiques ; 
+
+4° De l'article L. 622-18 relatif au déplacement d'un objet mobilier classé ou inscrit au titre des monuments historiques.
+
+**Nota:**
+
+Conformément aux dispositions de l'article 23 de l'ordonnance n° 2017-651 du 27 avril 2017, ces dispositions entrent en
+vigueur à une date fixée par décret et au plus tard le 1er janvier 2018. Les demandes déposées et les procédures engagées
+avant cette date demeurent régies par les dispositions antérieures.
 
 **Liens relatifs à cet article**
 
@@ -12511,18 +12538,18 @@ historiques ;
 	  - Code de la construction et de l'habitation. - art. R511-2 (M)
 	  - Code de la santé publique - art. R1331-4 (M)
 	  - Code du patrimoine - art. D642-4 (Ab)
-	  - Code du patrimoine - art. L642-3 (Ab)
 	  - Code du patrimoine - art. L642-4 (Ab)
 	  - Code du patrimoine - art. L642-5 (Ab)
 	  - Code du patrimoine - art. L642-6 (Ab)
 	  - Code du patrimoine - art. R642-1 (V)
 	  - Code du patrimoine. - art. L642-2 (M)
+	  - Code du patrimoine. - art. L642-3 (VD)
 	  - Code général des impôts, CGI. - art. 199 tervicies (V)
 	  - Code général des impôts, CGI. - art. 31 (VT)
 
 	**Modifié par**:
 
-	  - Loi n°2016-925 du 7 juillet 2016 - art. 77
+	  - Ordonnance n°2017-651 du 27 avril 2017 - art. 9
 
 	**Liens**:
 
@@ -12530,20 +12557,25 @@ historiques ;
 
 	**Cite**:
 
-	  - Code du patrimoine - art. L621-22 (V)
-	  - Code du patrimoine - art. L621-29-6 (V)
-	  - Code du patrimoine - art. L622-16 (V)
-	  - Code du patrimoine - art. L622-23 (V)
-	  - Code du patrimoine - art. L622-28 (V)
-	  - Code du patrimoine - art. L622-8 (V)
+	  - Code du patrimoine - art. L621-20 (VT)
+	  - Code du patrimoine - art. L621-26 (VT)
+	  - Code du patrimoine - art. L622-18 (VT)
+	  - Code du patrimoine - art. L622-20 (VT)
+	  - Code du patrimoine - art. L622-23
 
 
 ###### Article L642-2
 
 Le fait, pour toute personne, d'aliéner ou d'acquérir un objet mobilier classé au titre des monuments historiques, en
-violation de l'article L. 622-14, est passible d'une amende administrative dont le montant ne peut excéder 6 000 € pour une
+violation de l'article L. 622-22, est passible d'une amende administrative dont le montant ne peut excéder 6 000 € pour une
 personne physique et 30 000 € pour une personne morale, sans préjudice des actions en dommages et intérêts prévues à
-l'article L. 622-17.
+l'article L. 622-24.
+
+**Nota:**
+
+Conformément aux dispositions de l'article 23 de l'ordonnance n° 2017-651 du 27 avril 2017, ces dispositions entrent en
+vigueur à une date fixée par décret et au plus tard le 1er janvier 2018. Les demandes déposées et les procédures engagées
+avant cette date demeurent régies par les dispositions antérieures.
 
 **Liens relatifs à cet article**
 
@@ -12566,7 +12598,7 @@ l'article L. 622-17.
 
 	**Modifié par**:
 
-	  - Loi n°2016-925 du 7 juillet 2016 - art. 77
+	  - Ordonnance n°2017-651 du 27 avril 2017 - art. 10
 
 	**Liens**:
 
@@ -12574,8 +12606,8 @@ l'article L. 622-17.
 
 	**Cite**:
 
-	  - Code du patrimoine - art. L622-14 (V)
-	  - Code du patrimoine - art. L622-17 (V)
+	  - Code du patrimoine - art. L622-22 (VT)
+	  - Code du patrimoine - art. L622-24 (VT)
 
 
 ### TITRE V : QUALITÉ ARCHITECTURALE 
@@ -12666,23 +12698,25 @@ sont remplacés par les mots : “ fonds territorial ”.
 ###### Article L720-1
 
 I.-Les articles L. 122-1 à L. 122-10, L. 543-1, L. 621-30 à L. 621-32, L. 623-1, L. 633-1 et L. 641-1 ne sont pas applicables
-à Saint-Pierre-et-Miquelon. 
+à Saint-Pierre-et-Miquelon.
 
 II.-A Saint-Pierre-et-Miquelon, est punie d'une amende comprise entre 1 200 € et un montant qui ne peut excéder soit, dans le
 cas de la construction d'une surface de plancher, 6 000 € par mètre carré de surface construite, démolie ou rendue
-inutilisable, soit, dans les autres cas, 300 000 €, la réalisation de travaux : 
+inutilisable, soit, dans les autres cas, 300 000 €, la réalisation de travaux :
 
-1° Sans l'autorisation prévue à l'article L. 621-9 relatif aux travaux sur immeuble classé au titre des monuments historiques
-et au détachement d'un effet mobilier attaché à perpétuelle demeure à l'immeuble ; 
+1° Sans l'autorisation prévue à l'article L. 621-9 relatif aux travaux sur immeuble classé ou inscrit au titre des monuments
+historiques et au détachement d'un effet mobilier attaché à perpétuelle demeure à l'immeuble ;
 
-2° Sans la déclaration ou l'accord prévu à l'article L. 621-27 relatif aux travaux sur l'immeuble ou partie d'immeuble
-inscrit au titre des monuments historiques et au détachement d'un effet mobilier attaché à perpétuelle demeure à
-l'immeuble ; 
-
-3° Sans l'autorisation prévue à l'article L. 632-1 relatif aux travaux sur les immeubles situés dans un site patrimonial
-remarquable. 
+2° Sans l'autorisation prévue à l'article L. 632-1 relatif aux travaux sur les immeubles situés dans un site patrimonial
+remarquable.
 
 En cas de récidive, outre l'amende prévue au premier alinéa du présent II, un emprisonnement de six mois peut être prononcé.
+
+**Nota:**
+
+Conformément aux dispositions de l'article 23 de l'ordonnance n° 2017-651 du 27 avril 2017, ces dispositions entrent en
+vigueur à une date fixée par décret et au plus tard le 1er janvier 2018. Les demandes déposées et les procédures engagées
+avant cette date demeurent régies par les dispositions antérieures.
 
 **Liens relatifs à cet article**
 
@@ -12692,19 +12726,19 @@ En cas de récidive, outre l'amende prévue au premier alinéa du présent II, u
 
 	**Modifié par**:
 
-	  - Loi n°2016-925 du 7 juillet 2016 - art. 92
+	  - Ordonnance n°2017-651 du 27 avril 2017 - art. 14
 
 	**Cite**:
 
-	  - Code du patrimoine - art. L122-1 (V)
-	  - Code du patrimoine - art. L543-1 (V)
-	  - Code du patrimoine - art. L621-27 (V)
-	  - Code du patrimoine - art. L621-30 (V)
-	  - Code du patrimoine - art. L621-9 (V)
-	  - Code du patrimoine - art. L623-1 (V)
-	  - Code du patrimoine - art. L632-1 (V)
-	  - Code du patrimoine - art. L633-1 (V)
-	  - Code du patrimoine - art. L641-1 (V)
+	  - Code du patrimoine - art. L122-1
+	  - Code du patrimoine - art. L543-1
+	  - Code du patrimoine - art. L621-27
+	  - Code du patrimoine - art. L621-30
+	  - Code du patrimoine - art. L621-9
+	  - Code du patrimoine - art. L623-1
+	  - Code du patrimoine - art. L632-1
+	  - Code du patrimoine - art. L633-1
+	  - Code du patrimoine - art. L641-1
 
 
 ###### Article L720-2
@@ -17230,30 +17264,30 @@ public, à titre gratuit ou onéreux.
 
 ###### Article R132-2
 
-Les documents imprimés suivants ne sont pas soumis à l'obligation de dépôt : 
+Les documents imprimés suivants ne sont pas soumis à l'obligation de dépôt :
 
-1° Les travaux d'impression dits de ville, de commerce ou administratifs ; 
+1° Les travaux d'impression dits de ville, de commerce ou administratifs ;
 
-2° Les documents électoraux mentionnés aux articles R. 26, R. 29 et R. 30 du code électoral ; 
+2° Les documents électoraux mentionnés aux articles R. 26, R. 29 et R. 30 du code électoral ;
 
-3° Les documents mentionnés à l'article R. 132-1 et importés à moins de cent exemplaires ; 
+3° Les documents mentionnés à l'article R. 132-1 et importés à moins de cent exemplaires ;
 
-4° Les partitions musicales et les chorégraphies importées à moins de trente exemplaires ; 
+4° Les partitions musicales et les chorégraphies importées à moins de trente exemplaires ;
 
 5° Les documents imprimés, graphiques et photographiques dont le dépôt est prévu en accompagnement des documents déposés en
-application des sections 1, 2 et 3 du présent chapitre ; 
+application des sections 1, 2 et 3 du présent chapitre ;
 
-6° Les brevets, dessins ou modèles industriels ; 
+6° Les brevets, dessins ou modèles industriels ;
 
-7° Les recueils de photocopies et de reproduction d'articles de presse ou d'autres textes ; 
+7° Les recueils de photocopies et de reproduction d'articles de presse ou d'autres textes ;
 
-8° Les réimpressions à l'identique après le dépôt initial.
+8° Les réimpressions à l'identique après le dépôt initial ;
+
+9° Les recueils des actes administratifs des services déconcentrés de l'Etat, des délégations territoriales de ses
+établissements publics nationaux, de ses établissements publics autres que nationaux, des collectivités territoriales et de
+leurs groupements.
 
 **Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°93-1429 du 31 décembre 1993 - art. 7 (Ab), alinéas 2 à 10.
 
 	**Codifié par**:
 
@@ -17261,7 +17295,7 @@ application des sections 1, 2 et 3 du présent chapitre ;
 
 	**Modifié par**:
 
-	  - Décret n°2011-1904 du 19 décembre 2011 - art. 3
+	  - Décret n°2017-933 du 10 mai 2017 - art. 1
 
 	**Cite**:
 
@@ -41663,7 +41697,7 @@ Les articles D. 113-2 à D. 113-30 sont applicables de plein droit en Nouvelle-C
 ###### Article R740-1
 
 Les dispositions identifiées par un R applicables en Nouvelle-Calédonie en vertu du présent titre sont celles en vigueur dans
-leur rédaction résultant du décret n° 2016-1497 du 4 novembre 2016.
+leur rédaction résultant du décret n° 2017-933 du 10 mai 2017.
 
 **Liens relatifs à cet article**
 
@@ -41677,7 +41711,7 @@ leur rédaction résultant du décret n° 2016-1497 du 4 novembre 2016.
 
 	**Modifié par**:
 
-	  - Décret n°2016-1497 du 4 novembre 2016 - art. 7 (V)
+	  - Décret n°2017-933 du 10 mai 2017 - art. 1
 
 
 ###### Article R740-3
@@ -42350,7 +42384,7 @@ public d'archives pour le compte de l'Etat.
 ###### Article R760-1
 
 Les dispositions identifiées par un R applicables dans les îles Wallis et Futuna en vertu du présent titre sont celles en
-vigueur dans leur rédaction résultant du décret n° 2017-719 du 2 mai 2017.
+vigueur dans leur rédaction résultant du décret n° 2017-933 du 10 mai 2017.
 
 **Liens relatifs à cet article**
 
@@ -42364,7 +42398,7 @@ vigueur dans leur rédaction résultant du décret n° 2017-719 du 2 mai 2017.
 
 	**Modifié par**:
 
-	  - Décret n°2017-719 du 2 mai 2017 - art. 6 (V)
+	  - Décret n°2017-933 du 10 mai 2017 - art. 1
 
 
 ###### Article R760-3
@@ -42660,7 +42694,7 @@ Les articles D. 113-1 à D. 113-30 sont applicables dans les Terres australes et
 ###### Article R770-1
 
 Les dispositions identifiées par un R applicables dans les Terres australes et antarctiques françaises en vertu du présent
-titre sont celles en vigueur dans leur rédaction résultant du décret n° 2017-719 du 2 mai 2017.
+titre sont celles en vigueur dans leur rédaction résultant du décret n° 2017-933 du 10 mai 2017.
 
 **Liens relatifs à cet article**
 
@@ -42674,7 +42708,7 @@ titre sont celles en vigueur dans leur rédaction résultant du décret n° 2017
 
 	**Modifié par**:
 
-	  - Décret n°2017-719 du 2 mai 2017 - art. 6 (V)
+	  - Décret n°2017-933 du 10 mai 2017 - art. 1
 
 
 ###### Article R770-3
